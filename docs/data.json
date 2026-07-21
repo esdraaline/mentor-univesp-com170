@@ -1,12 +1,12 @@
 {
-  "status": "session_expired",
-  "checked_at": "2026-07-21T12:26:09.388480+00:00",
+  "status": "ok",
+  "checked_at": "2026-07-21T15:32:40.689377+00:00",
   "courses": [
     {
       "code": "COM170",
       "name": "Inteligência Artificial na Prática Acadêmica e Profissional",
       "id": 18922,
-      "progress_pct": 59,
+      "progress_pct": 63,
       "sections": [
         {
           "title": "Semana 1",
@@ -208,16 +208,16 @@
           "items": [
             {
               "label": "Q1 - Introdução",
-              "status": "Pendente",
+              "status": "Concluído",
               "type": "Página"
             },
             {
-              "label": "Q1 - Fórum geral 3 mensagens não lidas",
+              "label": "Q1 - Fórum geral 9 mensagens não lidas",
               "status": "Pendente",
               "type": null
             },
             {
-              "label": "Q1 - Fórum de dúvidas 3 mensagens não lidas",
+              "label": "Q1 - Fórum de dúvidas 11 mensagens não lidas",
               "status": "Pendente",
               "type": null
             }
@@ -240,7 +240,7 @@
             },
             {
               "label": "M1 - Quiz de Calibração: seu ponto de partida",
-              "status": "Pendente",
+              "status": "Concluído",
               "type": "Página"
             },
             {
@@ -351,7 +351,7 @@
               "type": "Questionário"
             },
             {
-              "label": "S1 - Fórum temático 1 mensagem não lida",
+              "label": "S1 - Fórum temático 17 mensagens não lidas",
               "status": "Marcar como feito",
               "type": null
             },
@@ -382,223 +382,32 @@
         {
           "title": "Semana 4",
           "theme": "Coesão e coerência",
-          "locked": null,
-          "items": [
-            {
-              "label": "S4 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S4 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S4 - Material-base",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S4 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S4 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S4 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S4 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S4 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 10 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 5",
           "theme": "Informatividade e clareza",
-          "locked": null,
-          "items": [
-            {
-              "label": "S5 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Material-base",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S5 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S5 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S5 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 17 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 6",
           "theme": "Discurso e adequação",
-          "locked": null,
-          "items": [
-            {
-              "label": "S6 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Material-base",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Texto-base: Ler e compreender: os sentidos do texto (Leia o capítulo 3, páginas 57 a 74) | Ingedore Villaça Koch e Vanda Maria Elias",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S6 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S6 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S6 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S6 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 24 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 7",
           "theme": "Táticas de revisão e reescrita",
-          "locked": null,
-          "items": [
-            {
-              "label": "S7 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Material-base",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S7 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S7 - Pesquisa",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S7 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S7 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
-        },
-        {
-          "title": "Revisão",
-          "theme": "Revisão da disciplina",
-          "locked": null,
+          "locked": "disponível a partir de 31 de agosto de 2026",
           "items": []
         },
         {
           "title": "Revisão",
-          "theme": null,
-          "locked": null,
-          "items": [
-            {
-              "label": "Avaliação Institucional",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "Orientações para realização da prova e exame",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "theme": "Revisão da disciplina",
+          "locked": "disponível a partir de 31 de agosto de 2026",
+          "items": []
         }
       ]
     },
@@ -661,7 +470,7 @@
               "type": "Questionário"
             },
             {
-              "label": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres? 8 mensagens não lidas",
+              "label": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres? 68 mensagens não lidas",
               "status": "Marcar como feito",
               "type": null
             },
@@ -692,268 +501,31 @@
         {
           "title": "Semana 4",
           "theme": "Indivíduo e Sociedade",
-          "locked": null,
-          "items": [
-            {
-              "label": "S4 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S4 - Texto-base - Do Estado moderno ao contemporâneo (Leia o capítulo 1, “A construção do Estado moderno”, p. 32-91) | Augusto Junior Clemente e Maíra Cabral Juliano",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S4 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S4 - Vídeo-base - O que é Estado Democrático de Direito? | Advocacia-Geral da União (AGU)",
-              "status": "Marcar como feito",
-              "type": "URL"
-            },
-            {
-              "label": "S4 - Texto-base - Cidadania e direitos humanos | Lívia Gaigher Bósio Campello e Vladmir Oliveira da Silveira",
-              "status": "Marcar como feito",
-              "type": "URL"
-            },
-            {
-              "label": "S4 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S4 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S4 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S4 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 10 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 5",
           "theme": "Ética Aplicada",
-          "locked": null,
-          "items": [
-            {
-              "label": "S5 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Texto-base - O significado do trabalho em tempos de reestruturação produtiva | Carla Vaz dos Santos Ribeiro e Denise Bessa Léda",
-              "status": "Marcar como feito",
-              "type": "URL"
-            },
-            {
-              "label": "S5 - Texto-base - Ética profissional (Leia os capítulos 10, “Profissão e efeitos de sua conduta” e 11, “Ética e profissão”, p. 127-144) | Antônio Lopes de Sá",
-              "status": "Marcar como feito",
-              "type": "URL"
-            },
-            {
-              "label": "S5 - Texto-base - Ética aplicada: estudos (Leia o capítulo 2, “Ética e sociedade”, p. 29-40) | Jayme Paviani",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S5 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S5 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S5 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 17 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 6",
           "theme": "Ética e Direitos Humanos",
-          "locked": null,
-          "items": [
-            {
-              "label": "S6 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Texto-base - Direitos humanos (Leia o capítulo 1, “Dignidade da pessoa humana”, p. 149-156) | Fernanda Franklin Seixas Arakaki e Guérula Mello Viero",
-              "status": "Marcar como feito",
-              "type": "URL"
-            },
-            {
-              "label": "S6 - Texto-base - Educação em direitos humanos (Leia a unidade 1, “Direitos humanos: universalismo e especificidade”, p. 1-49) | Tathiana Chicarino",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S6 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil? 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S6 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S6 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 24 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 7",
           "theme": "Ética, Educação e Sociedade",
-          "locked": null,
-          "items": [
-            {
-              "label": "S7 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Texto-base - Metodologia científica (Leia o capítulo 15, “Ética na pesquisa”, p. 213-221) | Gisele Lozada e Karina da Silva Nunes",
-              "status": "Marcar como feito",
-              "type": "URL"
-            },
-            {
-              "label": "S7 - Texto-base - Ética e cidadania: caminhos da filosofia (Leia a unidade 11, “Ética e cidadania na sociedade tecnológica”, p. 103-110) | Sílvio Gallo",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S7 - Videoaulas",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Aprofundando o tema",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas? 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S7 - Pesquisa",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S7 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S7 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 31 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Revisão e Orientações",
           "theme": null,
-          "locked": null,
-          "items": []
-        },
-        {
-          "title": "Revisão",
-          "theme": null,
-          "locked": null,
-          "items": [
-            {
-              "label": "S8 - Material-base: Revisão - Uma síntese da disciplina Ética, Cidadania e Sociedade | Prof. Eli Vagner Francisco Rodrigues",
-              "status": "Marcar como feito",
-              "type": "URL"
-            },
-            {
-              "label": "S8 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "Avaliação Institucional",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "Orientações para realização da prova e exame",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S8 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
-        },
-        {
-          "title": "Arquivos da Disciplina",
-          "theme": null,
-          "locked": null,
+          "locked": "disponível a partir de 31 de agosto de 2026",
           "items": []
         }
       ]
@@ -997,7 +569,7 @@
               "type": "Questionário"
             },
             {
-              "label": "S1 - Fórum temático 1 mensagem não lida",
+              "label": "S1 - Fórum temático 25 mensagens não lidas",
               "status": "Marcar como feito",
               "type": null
             },
@@ -1016,7 +588,7 @@
         {
           "title": "Semana 2",
           "theme": "Pensamento computacional",
-          "locked": "disponível a partir de 21 de julho de 2026",
+          "locked": "disponível a partir de 27 de julho de 2026",
           "items": []
         },
         {
@@ -1034,146 +606,25 @@
         {
           "title": "Semana 5",
           "theme": "Aprendizagem criativa (Parte 1)",
-          "locked": null,
-          "items": [
-            {
-              "label": "S5 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Avaliação",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S5 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S5 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S5 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S5 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 17 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 6",
           "theme": "Aprendizagem criativa (Parte 2)",
-          "locked": null,
-          "items": [
-            {
-              "label": "S6 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Avaliação",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S6 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S6 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S6 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S6 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 24 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Semana 7",
           "theme": "Conteúdo digital e inteligência artificial",
-          "locked": null,
-          "items": [
-            {
-              "label": "S7 - Início",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Avaliação",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "S7 - Atividade Avaliativa",
-              "status": "Marcar como feito",
-              "type": "Questionário"
-            },
-            {
-              "label": "S7 - Fórum temático 1 mensagem não lida",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S7 - Pesquisa",
-              "status": "Marcar como feito",
-              "type": null
-            },
-            {
-              "label": "S7 - Live com facilitador",
-              "status": "Marcar como feito",
-              "type": "Ferramenta externa"
-            },
-            {
-              "label": "S7 - Em síntese",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
+          "locked": "disponível a partir de 31 de agosto de 2026",
+          "items": []
         },
         {
           "title": "Revisão e Orientações",
           "theme": "Revisão da disciplina",
-          "locked": null,
-          "items": []
-        },
-        {
-          "title": "Revisão",
-          "theme": null,
-          "locked": null,
-          "items": [
-            {
-              "label": "Avaliação Institucional",
-              "status": "Marcar como feito",
-              "type": "Página"
-            },
-            {
-              "label": "Orientações para realização da prova e exame",
-              "status": "Marcar como feito",
-              "type": "Página"
-            }
-          ]
-        },
-        {
-          "title": "Arquivos da Disciplina",
-          "theme": null,
-          "locked": null,
+          "locked": "disponível a partir de 31 de agosto de 2026",
           "items": []
         }
       ]
