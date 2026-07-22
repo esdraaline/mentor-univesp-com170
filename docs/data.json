@@ -1,6 +1,6 @@
 {
-  "status": "session_expired",
-  "checked_at": "2026-07-22T12:43:33.087818+00:00",
+  "status": "ok",
+  "checked_at": "2026-07-22T15:42:16.977803+00:00",
   "courses": [
     {
       "code": "COM170",
@@ -212,12 +212,12 @@
               "type": "Página"
             },
             {
-              "label": "Q1 - Fórum geral 9 mensagens não lidas",
+              "label": "Q1 - Fórum geral 13 mensagens não lidas",
               "status": "Pendente",
               "type": null
             },
             {
-              "label": "Q1 - Fórum de dúvidas 11 mensagens não lidas",
+              "label": "Q1 - Fórum de dúvidas 14 mensagens não lidas",
               "status": "Pendente",
               "type": null
             }
@@ -351,7 +351,7 @@
               "type": "Questionário"
             },
             {
-              "label": "S1 - Fórum temático 17 mensagens não lidas",
+              "label": "S1 - Fórum temático 57 mensagens não lidas",
               "status": "Marcar como feito",
               "type": null
             },
@@ -470,7 +470,7 @@
               "type": "Questionário"
             },
             {
-              "label": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres? 68 mensagens não lidas",
+              "label": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres? 193 mensagens não lidas",
               "status": "Marcar como feito",
               "type": null
             },
@@ -569,7 +569,7 @@
               "type": "Questionário"
             },
             {
-              "label": "S1 - Fórum temático 25 mensagens não lidas",
+              "label": "S1 - Fórum temático 90 mensagens não lidas",
               "status": "Marcar como feito",
               "type": null
             },
@@ -625,6 +625,12 @@
           "title": "Revisão e Orientações",
           "theme": "Revisão da disciplina",
           "locked": "disponível a partir de 31 de agosto de 2026",
+          "items": []
+        },
+        {
+          "title": "Arquivos da Disciplina",
+          "theme": null,
+          "locked": null,
           "items": []
         }
       ]
