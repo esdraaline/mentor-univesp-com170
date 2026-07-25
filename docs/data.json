@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-25T18:57:58.622623+00:00",
+  "checked_at": "2026-07-25T19:01:19.195308+00:00",
   "courses": [
     {
       "code": "COM100",
@@ -253,7 +253,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -795,7 +795,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -952,6 +952,19 @@
       },
       "avisos": [
         {
+          "autor": "JOSE IVANIR ANDERSON JUNIOR",
+          "data": "2026-07-25T16:01:46-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Obrigado por compartilhar Daiane, mas até tentei novamente e continua dando a mensagem em anexo.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=490452#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [],
+          "novo": true
+        },
+        {
           "autor": "CLAUDIA MARIANO MENEGUELA",
           "data": "2026-07-25T15:28:13-03:00",
           "titulo": "Re: S1 - Fórum temático",
@@ -1070,19 +1083,6 @@
           "novo": true
         },
         {
-          "autor": "KAREN SUZAN VICENTINI LABIGALINI",
-          "data": "2026-07-24T08:56:49-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Olá, caros colegas e facilitadores.\nA Live com facilitador, já tivemos nessa matéria?",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=480806#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "novo": true
-        },
-        {
           "autor": "Paulo Otavio da Silva Joaquim",
           "data": "2026-07-21T10:06:26-03:00",
           "titulo": "Pesos das Atividades",
@@ -1146,7 +1146,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2735,32 +2735,32 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso"
     },
     {
