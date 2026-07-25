@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-25T23:46:19.606505+00:00",
-  "snapshot_at": "2026-07-25T23:46:19.606505+00:00",
-  "attempted_at": "2026-07-25T23:46:19.606505+00:00",
-  "publication_id": "2026-07-25T23:46:19.606505+00:00",
+  "checked_at": "2026-07-25T23:58:35.583486+00:00",
+  "snapshot_at": "2026-07-25T23:58:35.583486+00:00",
+  "attempted_at": "2026-07-25T23:58:35.583486+00:00",
+  "publication_id": "2026-07-25T23:58:35.583486+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 37,
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-07-25T23:46:19.607837+00:00",
-      "last_live_at": "2026-07-25T23:46:19.607837+00:00",
+      "checked_at": "2026-07-25T23:58:35.584716+00:00",
+      "last_live_at": "2026-07-25T23:58:35.584716+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-07-25T23:46:19.607837+00:00",
-      "last_live_at": "2026-07-25T23:46:19.607837+00:00",
+      "checked_at": "2026-07-25T23:58:35.584716+00:00",
+      "last_live_at": "2026-07-25T23:58:35.584716+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -40,8 +40,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-07-25T23:46:19.607837+00:00",
-      "last_live_at": "2026-07-25T23:46:19.607837+00:00",
+      "checked_at": "2026-07-25T23:58:35.584716+00:00",
+      "last_live_at": "2026-07-25T23:58:35.584716+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -53,8 +53,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-07-25T23:46:19.607837+00:00",
-      "last_live_at": "2026-07-25T23:46:19.607837+00:00",
+      "checked_at": "2026-07-25T23:58:35.584716+00:00",
+      "last_live_at": "2026-07-25T23:58:35.584716+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -69,8 +69,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-07-25T23:46:19.607837+00:00",
-      "last_live_at": "2026-07-25T23:46:19.607837+00:00",
+      "checked_at": "2026-07-25T23:58:35.584716+00:00",
+      "last_live_at": "2026-07-25T23:58:35.584716+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 17,
       "from_cache": false,
@@ -80,8 +80,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-07-25T23:46:19.607837+00:00",
-      "last_live_at": "2026-07-25T23:46:19.607837+00:00",
+      "checked_at": "2026-07-25T23:58:35.584716+00:00",
+      "last_live_at": "2026-07-25T23:58:35.584716+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -497,7 +497,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1158,7 +1158,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1597,7 +1597,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1733,7 +1733,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Marcar como feito",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3959,126 +3959,6 @@
       "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "colega"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - O que é (e o que não é) IA",
-      "kind": "concluido",
-      "cmid": "173828"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Videoaula 1: O que a IA realmente é?",
-      "kind": "concluido",
-      "cmid": "173829"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Quiz de Calibração: seu ponto de partida",
-      "kind": "concluido",
-      "cmid": "173830"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Material-base",
-      "kind": "concluido",
-      "cmid": "173831"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Quiz: Identifique o paradigma em 5 situações do cotidiano",
-      "kind": "concluido",
-      "cmid": "173832"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Como a IA aprende",
-      "kind": "concluido",
-      "cmid": "173834"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Videoaula: Como a IA aprende?",
-      "kind": "concluido",
-      "cmid": "173835"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Videoaula: As Três Fases da IA: por que cada abordagem não bastou",
-      "kind": "concluido",
-      "cmid": "173836"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Material-base",
-      "kind": "concluido",
-      "cmid": "173837"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Quiz 1: Tipos de aprendizado de máquina",
-      "kind": "concluido",
-      "cmid": "173838"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Quiz 2: Tipos de aprendizado de máquina",
-      "kind": "concluido",
-      "cmid": "173839"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - O custo invisível da IA",
-      "kind": "concluido",
-      "cmid": "173841"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - Videoaula: O custo invisível da IA",
-      "kind": "concluido",
-      "cmid": "173842"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - Material-base",
-      "kind": "concluido",
-      "cmid": "173843"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - Quiz: O Custo Invisível da IA",
-      "kind": "concluido",
-      "cmid": "173844"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Quando paramos de questionar",
-      "kind": "concluido",
-      "cmid": "173846"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Material-base",
-      "kind": "concluido",
-      "cmid": "173847"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Videoaula: Naturalização e vieses algorítmicos",
-      "kind": "concluido",
-      "cmid": "173848"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Quiz: Vieses e naturalização",
-      "kind": "concluido",
-      "cmid": "173849"
-    },
-    {
-      "curso": "COM170",
-      "label": "M5 - Atividade: \"Ele está te ouvindo?\"",
-      "kind": "concluido",
-      "cmid": "173851"
     },
     {
       "curso": "COM170",
