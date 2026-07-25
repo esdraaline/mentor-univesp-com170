@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-25T19:30:42.336917+00:00",
+  "checked_at": "2026-07-25T19:33:59.705756+00:00",
   "courses": [
     {
       "code": "COM100",
@@ -253,7 +253,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -480,6 +480,19 @@
       },
       "avisos": [
         {
+          "autor": "GUILHERME SIMOES CREDIDIO",
+          "data": "2026-07-25T16:33:21-03:00",
+          "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+          "texto": "Muito embora o critério etário não seja o único para determinar racionalidade e autonomia, também não pode ser totalmente descartado. Vejamos que indíviduos de três anos nem sempre apresentam-se como exemplos de racionalidade e autonomia.\nAcerca da liberdade humana, podemos concluir que é um constructo que apresenta seus limites. Não é possível desconsiderar as influências dos grupos sociais e do ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=490671#mformforum"
+          ],
+          "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
+          "prazos": [],
+          "novo": true
+        },
+        {
           "autor": "NATHALIA CAROLINE CUNHA E SILVA",
           "data": "2026-07-25T16:26:58-03:00",
           "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
@@ -525,19 +538,6 @@
           "texto": "Na minha opinião, liberdade é poder fazer as próprias escolhas. Não há uma idade certa para isso. Há pessoas que por necessidade criam autonomia no começo da adolescência, mas é tudo tão complexo que qualquer evento traumático na vida dessas famílias podem justificar o uso da liberdade com qualidade de vida e com respeito ao próximo ou não. Um adolescente que vive sob tutela dos pais deve satisfaç",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=490122#mformforum"
-          ],
-          "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "JULIANA CORRADINI ALVES",
-          "data": "2026-07-25T14:40:34-03:00",
-          "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-          "texto": "Não há uma idade certa em que as pessoas se tornam racionais autônomos, pois isso é uma construção ao longo da vida. Em relação à liberdade penso que não há uma liberdade pura, em que se posso fazer o que quer, já que vivemos em sociedade, porém existe a liberdade das escolha. Por fim, em relação à origem das normas, elas surgiram espontaneamente da necessidade de convivência e sobrevivência em gr",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=489890#mformforum"
           ],
           "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
@@ -795,7 +795,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
