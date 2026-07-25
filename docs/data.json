@@ -1,17 +1,44 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-25T22:33:19.637309+00:00",
+  "checked_at": "2026-07-25T23:12:23.897234+00:00",
+  "snapshot_at": "2026-07-25T23:12:23.897234+00:00",
+  "attempted_at": "2026-07-25T23:12:23.897234+00:00",
+  "publication_id": "2026-07-25T23:12:23.897234+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 36,
-    "itens": 62,
+    "itens": 70,
     "avisos": 60,
-    "eventos_calendario": 3,
+    "eventos_calendario": 4,
     "notificacoes": 6,
     "cronograma": 3,
-    "itens_com_prazo": 12
+    "itens_com_prazo": 13
   },
   "problemas": [],
+  "fontes_status": {
+    "calendario": {
+      "status": "live",
+      "via": "api",
+      "eventos": 4,
+      "last_live_at": "2026-07-25T23:12:23.897247+00:00"
+    },
+    "cronograma": {
+      "status": "live",
+      "esperados": 3,
+      "live": 3,
+      "falhas": 0,
+      "last_live_at": "2026-07-25T23:12:23.897247+00:00"
+    },
+    "foruns": {
+      "foruns": 13,
+      "listas_live": 13,
+      "falhas": 0,
+      "pulados_orcamento": 0,
+      "cache_usado_em_falha": 0,
+      "status": "live",
+      "last_live_at": "2026-07-25T23:12:23.897247+00:00"
+    }
+  },
   "courses": [
     {
       "code": "COM100",
@@ -70,6 +97,45 @@
         ]
       },
       "avisos": [
+        {
+          "autor": "CAUA SOUSA LACERDA",
+          "data": "2026-07-25T19:53:40-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Durante os meus estudos comecei a observar minha semana para esse desafio e percebi como estou sempre utilizando habilidades como reconhecimento de padrões, decomposição, abstração e até algoritmos...\n\nNo meu trabalho (Auxiliar administrativo de RH), durante o processo de admissão de um colaborador, preciso dividir a atividade em várias etapas, como conferir documentos, cadastrar informações nos s",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=492070#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "novo": true
+        },
+        {
+          "autor": "DANILO DE OLIVEIRA LISBOA",
+          "data": "2026-07-25T19:42:40-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Fala, pessoal!\nEssa semana percebi como o pensamento computacional aparece em situações que nem parecem \"tecnologia\" à primeira vista.\nSou professor de Português, e quando corrijo uma pilha de redações, sem perceber, aplico a mesma lógica de um algoritmo: separo o problema em partes menores — coesão, argumentação, ortografia, conclusão (decomposição); uso o mesmo critério para avaliar todas as red",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=491990#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "novo": true
+        },
+        {
+          "autor": "ANA PAULA ROCHA OLIVEIRA",
+          "data": "2026-07-25T19:39:52-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "O pensamento computacional está presente em diversas situações do cotidiano, como na organização das tarefas de casa, no uso de aplicativos de mapas e nas compras pela internet. Nessas atividades, precisamos definir prioridades, seguir etapas, comparar informações e escolher as melhores soluções. A tecnologia facilita essas tarefas e ajuda na tomada de decisões, mas também exige atenção e responsa",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=491970#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "novo": true
+        },
         {
           "autor": "ELOISA GONZAGA DO NASCIMENTO",
           "data": "2026-07-25T19:22:54-03:00",
@@ -170,45 +236,6 @@
           "texto": "Positivas: Ganho de tempo, redução de estresse, economia de combustível, maior segurança (pois evito áreas com trânsito perigoso) e autonomia para pessoas que não conhecem bem a cidade.\n\nDesafios: Dependência da tecnologia (se o sinal falha, fico perdido); privacidade (meus dados de localização são registrados); e o fato de que a \"melhor rota\" nem sempre considera fatores humanos (como preferência",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=490852#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "VALDIR VENTURA RODRIGUES",
-          "data": "2026-07-25T16:51:22-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Entendo que nos dias de hoje, até indiretamente utilizamos o pensamento computacional diariamente, sendo no uso de aplicativos no dia dia como de bancos e GPS sendo até mesmo para fazer uma viagem de férias com a família. Como exemplo nesta última, o exemplo já começa no planejamento, onde pensamos sequencialmente no que precisamos levar, compra de passagens ou abastecer o carro, onde ir primeiro,",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=490811#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "RODRIGO CAMPOS BANDEIRA",
-          "data": "2026-07-25T16:15:29-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Excelente material da aula, atualmente a tecnologia substituiu quase que 100% o uso do papel e caneta em meu trabalho, ganhando uma performance muito boa no dia a dia.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=490560#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "EDUARDO VIEIRA BENJAMIM",
-          "data": "2026-07-25T16:14:38-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Pensando no passado, meus pais contavam que precisavam ir até uma biblioteca para estudar. Hoje, basta abrir o celular ou o computador para acessar qualquer informação ou tirar dúvidas com modelos de linguagem. No entanto, para que essa \"mágica\" aconteça na nossa frente, existe uma estrutura muito bem pensada.\n\nConsigo notar o pensamento computacional em algumas situações da minha rotina:\n\nOlhar p",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=490553#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
@@ -396,7 +423,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "6",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -552,6 +579,19 @@
       },
       "avisos": [
         {
+          "autor": "CAUAN DE OLIVEIRA MIRANDA",
+          "data": "2026-07-25T19:48:02-03:00",
+          "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+          "texto": "Acredito que a liberdade é um direito de todos, mas ela deve vir acompanhada de responsabilidade. No caso de João Vitor, é importante que ele tenha autonomia para usar a tecnologia, porém sem deixar que isso prejudique seus estudos e outras responsabilidades. O diálogo entre pais e filhos é essencial para estabelecer limites e um uso equilibrado das tecnologias, garantindo que elas sejam uma ferra",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=492033#mformforum"
+          ],
+          "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
+          "prazos": [],
+          "novo": true
+        },
+        {
           "autor": "RODRIGO MIRAMONTES PRATES",
           "data": "2026-07-25T19:18:54-03:00",
           "titulo": "Re: Fórum de dúvidas gerais",
@@ -688,19 +728,6 @@
           "texto": "Ter a liberdade de usar o celular e jogar precisa vir acompanhado de responsabilidade. Ser autônomo não tem a ver com a idade que você tem, mas sim com a capacidade de pensar antes de agir e entender as consequências. Você é realmente autônomo quando consegue equilibrar o que quer fazer com o que precisa fazer.\nA gente é livre para fazer escolhas, mas essa liberdade tem limites. Ela precisa respei",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=490970#mformforum"
-          ],
-          "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "Pedro Augusto Nonato da Costa",
-          "data": "2026-07-25T17:06:29-03:00",
-          "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-          "texto": "A história de João Vitor reflete uma realidade muito comum na nossa geração. A tecnologia nos oferece infinitas possibilidades de entretenimento e conexão, mas também nos coloca diante de um grande exercício ético sobre liberdade, autonomia e responsabilidade.\n\nMuitas vezes, confundimos liberdade com \"fazer tudo o que queremos a qualquer momento\". No entanto, a verdadeira liberdade anda de mãos da",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=490940#mformforum"
           ],
           "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
@@ -1033,7 +1060,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1190,6 +1217,45 @@
       },
       "avisos": [
         {
+          "autor": "DANIELY SILVA DUARTE",
+          "data": "2026-07-25T20:06:41-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "O processo de escrita tornou-se algo muito importante no meu percurso acadêmico e mesmo na minha trajetória de vida. Sempre gostei de escrever, desde a época da dita \"Redação\", até aos dias atuais que gosto de expressar meus sentimentos e minha fé por meio de poemas.\nApesar disso, sinto necessidade de me aprimorar por meio da linguagem simples, a fim de me fazer entender\" também a todas as pessoas",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=492147#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
+          "prazos": [],
+          "novo": true
+        },
+        {
+          "autor": "ROGERIO MITSUNOBU KIMURA",
+          "data": "2026-07-25T19:59:56-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Escrever para mim, atualmente, se restringe a escrever textos técnicos por conta do meu trabalho. Preciso escrever textos concisos e diretos, para que sejam facilmente compreendidos.\nEntão escrever sobre outros temas e em outros formatos acaba se tornando divertido, desafiador e até difícil.\nEspero conseguir praticar bastante e escrever textos cada vez melhor.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=492110#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
+          "prazos": [],
+          "novo": true
+        },
+        {
+          "autor": "DANILO DE SANTANA ALCANTARA",
+          "data": "2026-07-25T19:45:47-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "A escrita passou a fazer parte da minha rotina por causa dos estudos, e isso mudou a forma como enxergo esse processo. Hoje, não vejo escrever apenas como colocar ideias no papel, mas como uma atividade que exige organização, reflexão e planejamento.\n\nCom o tempo, percebi que cada pessoa desenvolve uma maneira própria de pensar e estruturar informações. Por isso, procurei entender como meu raciocí",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=492015#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
+          "prazos": [],
+          "novo": true
+        },
+        {
           "autor": "LUIS FELIPE DE OLIVEIRA ROSA",
           "data": "2026-07-25T19:22:56-03:00",
           "titulo": "Re: S1 - Fórum temático",
@@ -1319,45 +1385,6 @@
           "texto": "Particularmente, sempre gostei de escrever e a escrita veio de uma paixão maior, que é a leitura! Para o desafio proposto, identifiquei dificuldades como a de organização das ideias para estruturar na escrita e até mesmo na forma correta de escrevê-las, visto que, hoje em dia, estamos mais próximos de uma escrita falada (conversa) do que da produção de texto, pois, nossa comunicação via redes soci",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=490062#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "BRUNO LARA RIBEIRO",
-          "data": "2026-07-25T14:52:32-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Durante a escrita livre, percebi que o mais difícil não foi escrever as palavras, mas organizar as ideias de forma clara e coerente. Quando tenho um tema técnico, geralmente consigo estruturar melhor o texto, porém, quando o assunto envolve opiniões e reflexões pessoais, preciso pensar mais antes de começar.\n\nAcredito que a dificuldade foi um pouco de dois fatores: do processo de escrita e do tema",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=489958#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "JESSICA SOUZA DA SILVA",
-          "data": "2026-07-25T14:44:45-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "O processo de escrita livre me fez perceber como organizar as ideias antes de passar para o papel faz toda a diferença.\nA minha maior motivação para escrever é conseguir transmitir minhas ideias com clareza. Percebi que a maior dificuldade não é o tema em si, mas sim vencer o receio inicial e destravar o pensamento.\nQuando deixamos o texto fluir livremente na primeira tentativa, sem a preocupação ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=489917#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "novo": true
-        },
-        {
-          "autor": "LUIS ANDRE SOARES BISPO",
-          "data": "2026-07-25T14:42:02-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Olha que interessante quando eu comecei esta matéria aqui na UNIVESP, eu vi que Paulo Freire foi citado, eu já esperava isso, normal, mas vendo um vídeo dele aqui, lendo sobre ele com os materiais aqui dispostos, vimos somente uma particula do que ele é e pensa, eu tive uma transformação no meu pensamento, qual seja, tanto ele como aqueles educadores que se opõe a Freire, são unanimes em dizer que",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=489900#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
@@ -1577,7 +1604,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1843,6 +1870,7 @@
                 ],
                 "txt": "O Módulo 4 é diferente"
               },
+              "confianca": "alta",
               "frase": "O mesmo vale para o 3 e o 4 O Módulo 4 é diferente A atividade final precisa ser entregue até o primeiro domingo da quinzena, dia 26/07 às 23h59"
             },
             {
@@ -1859,6 +1887,7 @@
                 ],
                 "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
               },
+              "confianca": "alta",
               "frase": "Módulo 5: atividade individual, com prazo a confirmar Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares: Abertura das submissões: segunda-feira, 27 jul. 2026, 00:00"
             },
             {
@@ -1875,6 +1904,7 @@
                 ],
                 "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
               },
+              "confianca": "alta",
               "frase": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares: Abertura das submissões: segunda-feira, 27 jul. 2026, 00:00 Fechamento das submissões: sábado, 01 ago. 2026, 23:59"
             },
             {
@@ -1891,6 +1921,7 @@
                 ],
                 "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
               },
+              "confianca": "alta",
               "frase": "Abertura das submissões: segunda-feira, 27 jul. 2026, 00:00 Fechamento das submissões: sábado, 01 ago. 2026, 23:59 Abertura das avaliações por pares: domingo, 02 ago. 2026, 00:00"
             },
             {
@@ -1907,6 +1938,7 @@
                 ],
                 "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
               },
+              "confianca": "alta",
               "frase": "Fechamento das submissões: sábado, 01 ago. 2026, 23:59 Abertura das avaliações por pares: domingo, 02 ago. 2026, 00:00 Fechamento das avaliações por pares: terça-feira, 04 ago. 2026, 23:59"
             }
           ],
@@ -1957,6 +1989,7 @@
               "tipo": "inicio",
               "hora_certa": false,
               "escopo": null,
+              "confianca": "baixa",
               "frase": "Prezados, peço que vejam minha resposta ao Otávio, alguns posts acima Aproveito também para reforçar o convite para que participem da live de abertura da disciplina amanhã (quinta-feira, 23 de julho), conforme mensage..."
             }
           ],
@@ -2016,6 +2049,7 @@
                 ],
                 "txt": "Para garantir que todas as pessoas tenham o melhor aproveitamento possível nesta trajetória, convido vocês para a nossa "
               },
+              "confianca": "alta",
               "frase": "Para garantir que todas as pessoas tenham o melhor aproveitamento possível nesta trajetória, convido vocês para a nossa Live de Abertura da Quinzena 1 Neste encontro ao vivo, vamos apresentar a estrutura da disciplina..."
             }
           ],
@@ -2196,7 +2230,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2208,7 +2242,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2347,6 +2381,122 @@
               "label": "M2 - Quiz 1: Tipos de aprendizado de máquina",
               "type": "scorm",
               "url": "https://ava.univesp.br/mod/scorm/view.php?id=173838",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "173839",
+              "label": "M2 - Quiz 2: Tipos de aprendizado de máquina",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173839",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
+          "fase": "regular"
+        },
+        {
+          "id": "section-7",
+          "title": "Módulo 3",
+          "parent": "section-1",
+          "locked": null,
+          "theme": null,
+          "items": [
+            {
+              "cmid": "173841",
+              "label": "M3 - O custo invisível da IA",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=173841",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "173842",
+              "label": "M3 - Videoaula: O custo invisível da IA",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=173842",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "173843",
+              "label": "M3 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=173843",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "173844",
+              "label": "M3 - Quiz: O Custo Invisível da IA",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173844",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
+          "fase": "regular"
+        },
+        {
+          "id": "section-6",
+          "title": "Módulo 4",
+          "parent": "section-1",
+          "locked": null,
+          "theme": null,
+          "items": [
+            {
+              "cmid": "173846",
+              "label": "M4 - Quando paramos de questionar",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=173846",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "173847",
+              "label": "M4 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=173847",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "173848",
+              "label": "M4 - Videoaula: Naturalização e vieses algorítmicos",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=173848",
               "status": "Pendente",
               "nao_lidas": null,
               "conta_nota": true,
@@ -2356,15 +2506,15 @@
               "aberto": true
             },
             {
-              "cmid": "173839",
-              "label": "M2 - Quiz 2: Tipos de aprendizado de máquina",
+              "cmid": "173849",
+              "label": "M4 - Quiz: Vieses e naturalização",
               "type": "scorm",
-              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173839",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173849",
               "status": "Pendente",
               "nao_lidas": null,
               "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
+              "prazo": "2026-07-26T23:59:00-03:00",
+              "prazo_fonte": "calendário do AVA",
               "carencia": null,
               "aberto": true
             }
@@ -2372,28 +2522,10 @@
           "fase": "regular"
         },
         {
-          "id": "section-7",
-          "title": "Módulo 3",
-          "parent": "section-1",
-          "locked": "Disponível se: A atividade M2 - Quiz 1: Tipos de aprendizado de máquina esteja marcada como concluída",
-          "theme": null,
-          "items": [],
-          "fase": "regular"
-        },
-        {
-          "id": "section-6",
-          "title": "Módulo 4",
-          "parent": "section-1",
-          "locked": "Disponível se: A atividade M3 - O custo invisível da IA esteja marcada como concluída",
-          "theme": null,
-          "items": [],
-          "fase": "regular"
-        },
-        {
           "id": "section-5",
           "title": "Módulo 5",
           "parent": "section-1",
-          "locked": "Disponível se: A atividade M4 - Quando paramos de questionar esteja marcada como concluída",
+          "locked": "Disponível se: A atividade M4 - Videoaula: Naturalização e vieses algorítmicos esteja marcada",
           "theme": null,
           "items": [],
           "fase": "regular"
@@ -2402,7 +2534,7 @@
           "id": "section-4",
           "title": "Módulo 6",
           "parent": "section-1",
-          "locked": "Disponível se: A atividade M4 - Quando paramos de questionar esteja marcada como concluída",
+          "locked": "Disponível se: A atividade M4 - Videoaula: Naturalização e vieses algorítmicos esteja marcada",
           "theme": null,
           "items": [],
           "fase": "regular"
@@ -2461,27 +2593,6 @@
   "acoes": [
     {
       "curso": "COM170",
-      "secao": "Módulo 2",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
-      "o_que": "M2 - Quiz 1: Tipos de aprendizado de máquina",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=173838",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "amanha",
-      "prioridade_ate": "2026-07-26T23:59:00-03:00",
-      "destrava": "Módulo 4",
-      "destrava_em": "2026-07-26T23:59:00-03:00"
-    },
-    {
-      "curso": "COM170",
       "secao": "Módulo 4",
       "fase": "regular",
       "verbo": "Entregue",
@@ -2497,7 +2608,25 @@
       "carencia": null,
       "hora_certa": true,
       "urgencia": "amanha",
-      "bloqueio": "Disponível se: A atividade M3 - O custo invisível da IA esteja marcada como concluída"
+      "bloqueio": null
+    },
+    {
+      "curso": "COM170",
+      "secao": "Módulo 4",
+      "fase": "regular",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "M4 - Quiz: Vieses e naturalização",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=173849",
+      "conta_nota": true,
+      "prazo": "2026-07-26T23:59:00-03:00",
+      "prazo_txt": "vence amanhã, 26/07 às 23:59",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -2663,6 +2792,27 @@
     },
     {
       "curso": "COM170",
+      "secao": "Módulo 4",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "videoaula",
+      "o_que": "M4 - Videoaula: Naturalização e vieses algorítmicos",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=173848",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana",
+      "prioridade_ate": "2026-08-01T23:59:00-03:00",
+      "destrava": "Módulo 6",
+      "destrava_em": "2026-08-01T23:59:00-03:00"
+    },
+    {
+      "curso": "COM170",
       "secao": "Módulo 6",
       "fase": "regular",
       "verbo": "Entregue",
@@ -2678,7 +2828,7 @@
       "carencia": null,
       "hora_certa": true,
       "urgencia": "semana",
-      "bloqueio": "Disponível se: A atividade M4 - Quando paramos de questionar esteja marcada como concluída"
+      "bloqueio": "Disponível se: A atividade M4 - Videoaula: Naturalização e vieses algorítmicos esteja marcada"
     },
     {
       "curso": "COM100",
@@ -2751,7 +2901,7 @@
       "carencia": null,
       "hora_certa": true,
       "urgencia": "depois",
-      "bloqueio": "Disponível se: A atividade M4 - Quando paramos de questionar esteja marcada como concluída"
+      "bloqueio": "Disponível se: A atividade M4 - Videoaula: Naturalização e vieses algorítmicos esteja marcada"
     },
     {
       "curso": "COM170",
@@ -2762,24 +2912,6 @@
       "o_que": "Live com facilitador",
       "tipo": "lti",
       "url": "https://ava.univesp.br/mod/lti/view.php?id=146217",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Módulo 2",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
-      "o_que": "M2 - Quiz 2: Tipos de aprendizado de máquina",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=173839",
       "conta_nota": true,
       "prazo": null,
       "prazo_txt": "",
@@ -3192,22 +3324,22 @@
     },
     {
       "curso": "COM100",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "COM100",
       "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
       "kind": "aviso"
     },
     {
@@ -3257,7 +3389,22 @@
     },
     {
       "curso": "SOC100",
+      "label": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+      "kind": "aviso"
+    },
+    {
+      "curso": "SOC100",
       "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso"
+    },
+    {
+      "curso": "SOC100",
+      "label": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+      "kind": "aviso"
+    },
+    {
+      "curso": "SOC100",
+      "label": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
       "kind": "aviso"
     },
     {
@@ -3292,16 +3439,6 @@
     },
     {
       "curso": "SOC100",
-      "label": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-      "kind": "aviso"
-    },
-    {
-      "curso": "SOC100",
-      "label": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-      "kind": "aviso"
-    },
-    {
-      "curso": "SOC100",
       "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso"
     },
@@ -3312,11 +3449,6 @@
     },
     {
       "curso": "SOC100",
-      "label": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-      "kind": "aviso"
-    },
-    {
-      "curso": "SOC100",
       "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso"
     },
@@ -3337,11 +3469,6 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: S1 - Fórum temático",
       "kind": "aviso"
     },
@@ -3372,6 +3499,11 @@
     },
     {
       "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
       "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso"
     },
@@ -3387,7 +3519,7 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
+      "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso"
     },
     {
@@ -3407,8 +3539,63 @@
     },
     {
       "curso": "COM170",
-      "label": "M2 - Material-base",
-      "kind": "concluido"
+      "label": "M2 - Quiz 1: Tipos de aprendizado de máquina",
+      "kind": "concluido",
+      "cmid": "173838"
+    },
+    {
+      "curso": "COM170",
+      "label": "M2 - Quiz 2: Tipos de aprendizado de máquina",
+      "kind": "concluido",
+      "cmid": "173839"
+    },
+    {
+      "curso": "COM170",
+      "label": "M3 - O custo invisível da IA",
+      "kind": "novo",
+      "cmid": "173841"
+    },
+    {
+      "curso": "COM170",
+      "label": "M3 - Videoaula: O custo invisível da IA",
+      "kind": "novo",
+      "cmid": "173842"
+    },
+    {
+      "curso": "COM170",
+      "label": "M3 - Material-base",
+      "kind": "novo",
+      "cmid": "173843"
+    },
+    {
+      "curso": "COM170",
+      "label": "M3 - Quiz: O Custo Invisível da IA",
+      "kind": "novo",
+      "cmid": "173844"
+    },
+    {
+      "curso": "COM170",
+      "label": "M4 - Quando paramos de questionar",
+      "kind": "novo",
+      "cmid": "173846"
+    },
+    {
+      "curso": "COM170",
+      "label": "M4 - Material-base",
+      "kind": "novo",
+      "cmid": "173847"
+    },
+    {
+      "curso": "COM170",
+      "label": "M4 - Videoaula: Naturalização e vieses algorítmicos",
+      "kind": "novo",
+      "cmid": "173848"
+    },
+    {
+      "curso": "COM170",
+      "label": "M4 - Quiz: Vieses e naturalização",
+      "kind": "novo",
+      "cmid": "173849"
     },
     {
       "curso": "COM170",
