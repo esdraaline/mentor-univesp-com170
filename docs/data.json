@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-25T22:21:24.467536+00:00",
+  "checked_at": "2026-07-25T22:33:19.637309+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 36,
@@ -8,7 +8,8 @@
     "avisos": 60,
     "eventos_calendario": 3,
     "notificacoes": 6,
-    "cronograma": 4
+    "cronograma": 3,
+    "itens_com_prazo": 12
   },
   "problemas": [],
   "courses": [
@@ -69,6 +70,19 @@
         ]
       },
       "avisos": [
+        {
+          "autor": "ELOISA GONZAGA DO NASCIMENTO",
+          "data": "2026-07-25T19:22:54-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Muito interessante a sua reflexão, percebo que com esse inicio de curso muitos de nós, como eu, têm tomado mais consciência das tecnologias presentes no nosso dia a dia, que até então haviam se tornado imperceptíveis.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=491864#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "novo": true
+        },
         {
           "autor": "GIANLUKA OLIVEIRA BALESTEROS DE LIMA",
           "data": "2026-07-25T19:10:47-03:00",
@@ -202,19 +216,6 @@
           "novo": true
         },
         {
-          "autor": "JEFFERSON DOS SANTOS GUIMARAES",
-          "data": "2026-07-25T16:06:44-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "O momento em que abrimos uma plataforma de streaming e somos recebidos por uma lista de filmes, séries ou músicas recomendadas na seção \"Porque você assistiu/ouviu...\". A tecnologia coleta ativamente dados sobre o que clicamos, quanto tempo assistimos a um conteúdo, onde pausamos e até o que abandonamos pela metade.\nEste é um exemplo clássico de reconhecimento de padrões e decomposição. O sistema ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=490487#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "novo": true
-        },
-        {
           "autor": "ROBERTO LEUNG",
           "data": "2026-07-25T16:02:40-03:00",
           "titulo": "Re: Fórum de dúvidas gerais",
@@ -324,7 +325,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -395,7 +396,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -909,7 +910,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1032,7 +1033,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Marcar como feito",
-              "nao_lidas": "4",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1188,6 +1189,19 @@
         ]
       },
       "avisos": [
+        {
+          "autor": "LUIS FELIPE DE OLIVEIRA ROSA",
+          "data": "2026-07-25T19:22:56-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Durante a escrita livre, percebi que o mais difícil foi começar e organizar as ideias. Depois que comecei a escrever, o texto foi surgindo de maneira mais natural. Acho que a dificuldade aconteceu um pouco pelo ato de escrever e também pelo tema, já que nem sempre é fácil colocar no papel tudo aquilo que pensamos.\n\nNa minha profissão, a escrita tem uma grande importância, pois faz parte da elabora",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=491865#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
+          "prazos": [],
+          "novo": true
+        },
         {
           "autor": "MARIA REGINA NICOLAU DE ALMEIDA E SILVA",
           "data": "2026-07-25T17:33:31-03:00",
@@ -1351,19 +1365,6 @@
           "novo": true
         },
         {
-          "autor": "NILRANIA MENDONCA FORTES",
-          "data": "2026-07-25T14:35:37-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Olá Colegas,\n\nParticipar do exercício de escrita livre proposto no Desafio foi uma experiência reveladora. Deixar as ideias fluírem sem a vigilância constante do \"editor interno\" exige um desapego inicial, mas abre espaço para uma conexão mais direta com o pensamento.\nPara mim, a motivação para escrever nasce da necessidade de organizar o pensamento e registrar visões de mundo. Eu tenho mania de e",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=489842#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "novo": true
-        },
-        {
           "autor": "MONIQUE MARTINS ARISA",
           "data": "2026-07-25T12:50:17-03:00",
           "titulo": "Re: Fórum de dúvidas gerais",
@@ -1440,7 +1441,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1576,7 +1577,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1683,53 +1684,7 @@
       "links": {
         "plano_ensino": "https://assets.univesp.br/planos-de-ensino/disciplinas/COM170.html"
       },
-      "cronograma": {
-        "fonte": "https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html",
-        "semanas": [
-          {
-            "n": 1,
-            "inicio": "2026-07-20",
-            "vencimento": "2026-07-29T23:59:00-03:00",
-            "carencia": "2026-08-02T23:59:00-03:00"
-          },
-          {
-            "n": 2,
-            "inicio": "2026-07-27",
-            "vencimento": "2026-08-05T23:59:00-03:00",
-            "carencia": "2026-08-09T23:59:00-03:00"
-          },
-          {
-            "n": 3,
-            "inicio": "2026-08-03",
-            "vencimento": "2026-08-12T23:59:00-03:00",
-            "carencia": "2026-08-16T23:59:00-03:00"
-          },
-          {
-            "n": 4,
-            "inicio": "2026-08-10",
-            "vencimento": "2026-08-19T23:59:00-03:00",
-            "carencia": "2026-08-23T23:59:00-03:00"
-          },
-          {
-            "n": 5,
-            "inicio": "2026-08-17",
-            "vencimento": "2026-08-26T23:59:00-03:00",
-            "carencia": "2026-08-30T23:59:00-03:00"
-          },
-          {
-            "n": 6,
-            "inicio": "2026-08-24",
-            "vencimento": "2026-09-02T23:59:00-03:00",
-            "carencia": "2026-09-06T23:59:00-03:00"
-          },
-          {
-            "n": 7,
-            "inicio": "2026-08-31",
-            "vencimento": "2026-09-09T23:59:00-03:00",
-            "carencia": "2026-09-11T23:59:00-03:00"
-          }
-        ]
-      },
+      "cronograma": null,
       "avisos": [
         {
           "autor": "ROSIMEIRE XAVIER SOARES",
@@ -2380,13 +2335,12 @@
               "label": "M2 - Material-base",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=173837",
-              "status": "Pendente",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": null,
               "prazo_fonte": null,
-              "carencia": null,
-              "aberto": true
+              "carencia": null
             },
             {
               "cmid": "173838",
@@ -2421,7 +2375,7 @@
           "id": "section-7",
           "title": "Módulo 3",
           "parent": "section-1",
-          "locked": "Disponível se: A atividade M2 - Material-base esteja marcada como concluída",
+          "locked": "Disponível se: A atividade M2 - Quiz 1: Tipos de aprendizado de máquina esteja marcada como concluída",
           "theme": null,
           "items": [],
           "fase": "regular"
@@ -2509,11 +2463,11 @@
       "curso": "COM170",
       "secao": "Módulo 2",
       "fase": "regular",
-      "verbo": "Leia",
-      "coisa": "material-base",
-      "o_que": "M2 - Material-base",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=173837",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "M2 - Quiz 1: Tipos de aprendizado de máquina",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=173838",
       "conta_nota": true,
       "prazo": null,
       "prazo_txt": "",
@@ -2808,24 +2762,6 @@
       "o_que": "Live com facilitador",
       "tipo": "lti",
       "url": "https://ava.univesp.br/mod/lti/view.php?id=146217",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Módulo 2",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
-      "o_que": "M2 - Quiz 1: Tipos de aprendizado de máquina",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=173838",
       "conta_nota": true,
       "prazo": null,
       "prazo_txt": "",
@@ -3251,12 +3187,12 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: Fórum de dúvidas gerais",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso"
     },
     {
       "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
+      "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso"
     },
     {
@@ -3396,36 +3332,6 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: S1 - Fórum temático",
       "kind": "aviso"
     },
@@ -3451,6 +3357,36 @@
     },
     {
       "curso": "LET110",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso"
+    },
+    {
+      "curso": "LET110",
       "label": "Re: S1 - Fórum temático",
       "kind": "aviso"
     },
@@ -3468,41 +3404,11 @@
       "curso": "LET110",
       "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Quiz: Identifique o paradigma em 5 situações do cotidiano",
-      "kind": "concluido"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Como a IA aprende",
-      "kind": "novo"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Videoaula: Como a IA aprende?",
-      "kind": "novo"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Videoaula: As Três Fases da IA: por que cada abordagem não bastou",
-      "kind": "novo"
     },
     {
       "curso": "COM170",
       "label": "M2 - Material-base",
-      "kind": "novo"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Quiz 1: Tipos de aprendizado de máquina",
-      "kind": "novo"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Quiz 2: Tipos de aprendizado de máquina",
-      "kind": "novo"
+      "kind": "concluido"
     },
     {
       "curso": "COM170",
