@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-28T00:04:12.792368+00:00",
-  "snapshot_at": "2026-07-28T00:04:12.792368+00:00",
-  "attempted_at": "2026-07-28T00:04:12.792368+00:00",
-  "publication_id": "2026-07-28T00:04:12.792368+00:00",
+  "checked_at": "2026-07-28T12:58:25.548448+00:00",
+  "snapshot_at": "2026-07-28T12:58:25.548448+00:00",
+  "attempted_at": "2026-07-28T12:58:25.548448+00:00",
+  "publication_id": "2026-07-28T12:58:25.548448+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 37,
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-07-28T00:04:12.793796+00:00",
-      "last_live_at": "2026-07-28T00:04:12.793796+00:00",
+      "checked_at": "2026-07-28T12:58:25.549950+00:00",
+      "last_live_at": "2026-07-28T12:58:25.549950+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-07-28T00:04:12.793796+00:00",
-      "last_live_at": "2026-07-28T00:04:12.793796+00:00",
+      "checked_at": "2026-07-28T12:58:25.549950+00:00",
+      "last_live_at": "2026-07-28T12:58:25.549950+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 10,
       "from_cache": false,
@@ -40,8 +40,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-07-28T00:04:12.793796+00:00",
-      "last_live_at": "2026-07-28T00:04:12.793796+00:00",
+      "checked_at": "2026-07-28T12:58:25.549950+00:00",
+      "last_live_at": "2026-07-28T12:58:25.549950+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -53,8 +53,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-07-28T00:04:12.793796+00:00",
-      "last_live_at": "2026-07-28T00:04:12.793796+00:00",
+      "checked_at": "2026-07-28T12:58:25.549950+00:00",
+      "last_live_at": "2026-07-28T12:58:25.549950+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -69,8 +69,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-07-28T00:04:12.793796+00:00",
-      "last_live_at": "2026-07-28T00:04:12.793796+00:00",
+      "checked_at": "2026-07-28T12:58:25.549950+00:00",
+      "last_live_at": "2026-07-28T12:58:25.549950+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 26,
       "from_cache": false,
@@ -80,8 +80,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-07-28T00:04:12.793796+00:00",
-      "last_live_at": "2026-07-28T00:04:12.793796+00:00",
+      "checked_at": "2026-07-28T12:58:25.549950+00:00",
+      "last_live_at": "2026-07-28T12:58:25.549950+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -161,43 +161,59 @@
           "novo": false
         },
         {
-          "id": "509425",
-          "autor": "VITOR HENRIQUE DOS SANTOS PALU",
-          "data": "2026-07-27T21:03:40-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Um dos pontos que mais chamou minha atenção foi a importância de inserir o ensino da computação nas escolas públicas desde os primeiros anos da educação. Hoje, a tecnologia faz parte da rotina de praticamente todas as pessoas, mas muitos estudantes ainda não têm a oportunidade de aprender como ela funciona. Ensinar pensamento computacional desde cedo pode ajudar os alunos a desenvolverem raciocíni",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=509425#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "509015",
-          "autor": "JANAINA RODRIGUES CORDEIRO",
-          "data": "2026-07-27T20:42:18-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "O pensamento computacional faz parte da nossa rotina, até quando nem percebemos que estamos usando. Por exemplo o uso de GPS, os anúncios que vemos nas redes sociais depois de termos pesquisado um produto em um outro aplicativo...\nNo meu dia a dia, costumo usar muito o pensamento computacional para cruzar e comparar informações, principalmente atrelado ao poder de compras. Sempre pesquiso em diver",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=509015#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "508927",
-          "autor": "VICTOR RODRIGO SALATINI MAURICIO",
-          "data": "2026-07-27T20:38:56-03:00",
+          "id": "511886",
+          "autor": "DANIELY SILVA DUARTE",
+          "data": "2026-07-28T00:12:03-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Boa noite a todos, escolhi uma atividade nerd/geek do meu dia a dia, sei que é um tema diferente, mas gostaria de compartilhar com vocês, escolhi como atividade montar um deck (podemos definir essa palavra como baralho também) de um jogo de cartas chamado Magic: The Gathering, pois é uma tarefa que exige planejamento, estratégia e tomada de decisões, acredito que os quatro pilares do pensamento co",
+          "texto": "Olá pessoal,\n\nEu quero muito participar de uma processo seletivo para o doutorado em Ciências da Comunicação na ECA/USP para aluno regular, cujo prazo de envio do projeto é entre 23 e 24/09. Sendo hoje 28/07, tenho 57 dias para a tarefa. Dessa forma, posso pensar nas seguintes estratégias, considerando o pensamento computacional em cada um dos seus pilares:\n\nAbstração: Na construção do projeto de ",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508927#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=511886#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [
+            {
+              "rotulo": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciê...",
+              "quando": "2026-09-24T23:59:00-03:00",
+              "trecho": "24/09",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciências da Comunicação na ECA/USP para aluno regular, cujo prazo de envio do projeto é entre 23 e 24/09"
+            },
+            {
+              "rotulo": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciê...",
+              "quando": "2026-07-28T23:59:00-03:00",
+              "trecho": "28/07",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciências da Comunicação na ECA/USP para aluno regular, cujo prazo de envio do projeto é entre 23 e 24/09 Sendo hoje 28/07, tenho 57 d..."
+            },
+            {
+              "rotulo": "É preciso definir com clareza o fenômeno investigado, o problema, a pergunta central, o...",
+              "quando": "2026-09-23T23:59:00-03:00",
+              "trecho": "23/09/2026",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "É preciso definir com clareza o fenômeno investigado, o problema, a pergunta central, o objeto e os objetivos, evitando incorporar temas ou referências que não contribuam diretamente para a questão principal Decomposi..."
+            }
+          ],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "513128",
+          "autor": "FELIPE TORRES VIEIRA",
+          "data": "2026-07-28T09:55:06-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Pensamento Computacional no Treino do Almoço\n\nUma atividade do meu dia a dia em que aplico o pensamento computacional é a organização da minha rotina de atividades físicas durante o horário de almoço (entre 12h e 14h). Como preciso otimizar esse intervalo de duas horas para treinar, me alimentar e fazer a higiene pessoal, utilizei os quatro pilares para garantir que tudo ocorra sem imprevistos.\n\nA",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=513128#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -206,28 +222,13 @@
           "novo": true
         },
         {
-          "id": "508596",
-          "autor": "ELEN MELISSA GERALDO",
-          "data": "2026-07-27T20:23:21-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Com o início do BIA passei a compreender que atrás de cada ação sempre \"esbarro\" com uma IA... ao consultar a previsão do tempo pela madrugada para definir o \"efeito cebola\" das vestimentas que optarei, ao consultar o FEED de notícias para verificar o que aconteceu de importante no decorrer do dia anterior, ao ouvir o PODCAST com o resumo do que a estação de rádio trará de notícias desenvolvidas n",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508596#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "508212",
-          "autor": "JOAQUIM FLORIANO DE SOUZA",
-          "data": "2026-07-27T20:01:22-03:00",
+          "id": "513020",
+          "autor": "VALERIA SOARES MARTINS RIBEIRO",
+          "data": "2026-07-28T09:42:52-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Um exemplo do dia a dia é fazer compras no supermercado. Utilizo a abstração ao focar apenas nos itens da lista, evitando compras desnecessárias. Faço a decomposição dividindo a compra por setores, como hortifruti, limpeza e alimentos. O reconhecimento de padrões acontece quando sigo o mesmo caminho pelos corredores para ganhar tempo. Por fim, aplico algoritmos ao seguir uma sequência de passos: c",
+          "texto": "Escolhi como exemplo a atividade de organizar uma reunião da catequese, pois exige planejamento e organização.\n\nAbstração: Para focar no essencial, considero apenas as informações mais importantes, como data, horário, local, participantes e materiais necessários, deixando de lado detalhes que não interferem na organização.\n\nDecomposição: Divido a tarefa em etapas menores: definir a data, comunicar",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508212#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=513020#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -236,13 +237,13 @@
           "novo": true
         },
         {
-          "id": "508185",
-          "autor": "CAUAN DE OLIVEIRA MIRANDA",
-          "data": "2026-07-27T19:59:17-03:00",
+          "id": "512880",
+          "autor": "JOSE RENATO SALIA",
+          "data": "2026-07-28T09:19:56-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "**Atividade escolhida: Organizar a rotina de estudos**\n\n**Abstração:** Eu focaria apenas nas matérias, no tempo disponível e nas tarefas mais importantes, deixando de lado detalhes que não influenciam diretamente o estudo, como a decoração do ambiente ou outras distrações.\n\n**Decomposição:** Dividiria a atividade em etapas menores: organizar os materiais, definir um cronograma, estudar cada matéri",
+          "texto": "Tenho realizado diariamente um trabalho de planejamento, para a criação de uma empresa,e aplicando os 4 pilares, consigo estruturar tudo com mais clareza.\n1.  Decomposição\n(Dividir o problema em partes menores e gerenciáveis)\nEm vez de tentar \"criar a empresa de uma vez só\", divido o megaprojeto em áreas menores:\n• Parte Financeira: Custos de abertura, investimento inicial, capital de giro e preci",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508185#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512880#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -251,13 +252,29 @@
           "novo": true
         },
         {
-          "id": "508160",
-          "autor": "Jéssica Pereira dos Santos Prado",
-          "data": "2026-07-27T19:57:45-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Olá, pessoal!\n\nPara o desafio desta semana, escolhi uma atividade do meu dia a dia que, à primeira vista, parece apenas uma habilidade prática, mas que exige bastante atenção e lógica: estacionar o carro de ré na minha garagem, que é bem justa e tem um trecho complicado. Para realizar essa manobra todos os dias de forma segura e sem arranhar o veículo, percebi que utilizo instintivamente os quatro",
+          "id": "512797",
+          "autor": "RODNEI ANDRE HIPPOLYTO",
+          "data": "2026-07-28T09:07:37-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Oi, Milena.\n\nNão é fácil a correria do dia a dia. Só com uma boa estratégia de aproveitamento do tempo mesmo.",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508160#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512797#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=513130#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "512643",
+          "autor": "MARIA BEATRIZ RODRIGUES PINHEIRO",
+          "data": "2026-07-28T08:39:19-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Rotina de estudos\n\n1. Abstração\nNo meu horário definido para os estudos, não utilizo o celular para manter o foco 100% no conteúdo e evitar distrações. Filtro o excesso de informações me atentando estritamente aos prazos e avisos importantes.\n\n2. Decomposição\nDivido o volume de estudos ao longo da semana estudando apenas uma matéria por dia. No último dia antes do prazo, faço a revisão geral de to",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=512643#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -266,13 +283,13 @@
           "novo": true
         },
         {
-          "id": "508139",
-          "autor": "RAFAEL FLAVIO DA SILVEIRA",
-          "data": "2026-07-27T19:56:35-03:00",
+          "id": "512487",
+          "autor": "WAGNER GARCIA PEREIRA",
+          "data": "2026-07-28T08:06:05-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Escolhi aplicar os pilares do pensamento computacional na minha autogestão de trabalho que acontece de forma remota. Sou especialista em growth marketing e faço interface entre marketing e comunicação.\n\nAbstração: Levantamento de especicações e dos recursos necessários para desenvolvimento das tarefas durante o dia e alinhamento na daily do produto.\n\nDecomposição: Arrasto as atividades do backlog ",
+          "texto": "Como sou professor do ensino médio, pensei em utilizar o pensamento computacional para fazer o planejamento de um conteúdo. Pensei em aplicar nas Leis de Newton:\n\nPlanejamento de uma aula sobre as Leis de Newton utilizando o Pensamento Computacional\n\nAbstração\n\nPara focar nos aspectos mais importantes da atividade, eliminaria inicialmente detalhes matemáticos mais complexos e situações muito espec",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508139#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512487#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -281,13 +298,13 @@
           "novo": true
         },
         {
-          "id": "508056",
-          "autor": "JOAQUIM FLORIANO DE SOUZA",
-          "data": "2026-07-27T19:51:02-03:00",
+          "id": "512459",
+          "autor": "MARIA BEATRIZ RODRIGUES PINHEIRO",
+          "data": "2026-07-28T07:55:12-03:00",
           "titulo": "Re: S1 - Fórum temático",
-          "texto": "O pensamento computacional está presente em diversas atividades do dia a dia, como o uso de GPS, aplicativos bancários e plataformas educacionais. Essas tecnologias utilizam a organização de dados, a análise de informações e a resolução de problemas para tornar as tarefas mais rápidas e eficientes. No meu trabalho como professor, a tecnologia também auxilia no planejamento e aplicação das aulas e ",
+          "texto": "Bom dia!\nO conteúdo desta semana foi excelente. Foi uma surpresa descobrir que a programação já foi uma área predominantemente feminina. Acho muito relevante essa iniciativa de incentivar o ingresso de mais mulheres no mercado de tecnologia, promovendo a diversidade no setor. Estou aproveitando bastante o curso até aqui.",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508056#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512459#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
@@ -296,13 +313,13 @@
           "novo": true
         },
         {
-          "id": "507862",
-          "autor": "ELAINE REGINA OLIVEIRA LOMBARDI",
-          "data": "2026-07-27T19:39:37-03:00",
+          "id": "512411",
+          "autor": "ROSENES LUZIA DE SOUZA",
+          "data": "2026-07-28T07:39:25-03:00",
           "titulo": "Re: S1 - Fórum temático",
-          "texto": "O uso da tecnologia e o pensamento computacional se faz diariamente.\nAo utilizar o GPS , fazer uma transação bancaria, ao realizar uma compra, pesquisar sobre determinado tema e também em app de livros didáticos , onde através da IA posso formular uma avaliação baseado no conteúdo do livro.",
+          "texto": "Muitas vezes eu penso que o pensamento computacional está além da minha compreensão. Ao ler o título da disciplina confesso que senti um pouco de receio. Depois de assistir ao vídeo de abertura e ler algumas considerações dos colegas nesse fórum, vejo que o pensamento computacional permeia minhas atividades do dia a dia. Eu uso as redes sociais, o aplicativo da minha empresa para trabalhar e regis",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=507862#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512411#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
@@ -311,28 +328,13 @@
           "novo": true
         },
         {
-          "id": "507844",
-          "autor": "RAFAEL FLAVIO DA SILVEIRA",
-          "data": "2026-07-27T19:38:48-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Meu dia tem utilização tecnológica do início ao fim. Partindo do inclusive do cafezinho pela manhã, seguido pelo início da rotina de trabalho no computador e, mais ainda, com a utilização de softwares e modelos generativos que otimizam a rotina e proporcionam que eu produza muito mais durante o dia, coisa que há algum tempo atrás, levaria horas e até dias para finalizar tarefas que hoje acabo em m",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=507844#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "507807",
-          "autor": "MARCELA CARPES",
-          "data": "2026-07-27T19:36:05-03:00",
+          "id": "512261",
+          "autor": "ROGERIO FOLLA MARCHIOLLI",
+          "data": "2026-07-28T06:10:01-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Legal a organização!",
+          "texto": "Aplicação dos quatros pilares do Pensamento Computacional na minha rotina de estudos.\n\n1 - ABSTRAÇÃO: Elimino celular, redes sociais e notícias que não estão correlacionadas aos estudos. foco no que é importante: prazos, conteúdo e aprendizagem.\n2 - DECOMPOSIÇÃO: Divido a rotina em pequenos estágios, separando conteúdo, criando pastas no computador e organizando o material.\n3 - RECONHECIMENTO DE P",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=507807#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512261#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -341,13 +343,28 @@
           "novo": true
         },
         {
-          "id": "507777",
-          "autor": "CLODOALDO DOS SANTOS SILVERIO JUNIOR",
-          "data": "2026-07-27T19:34:31-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Para o desafio desta semana, decidi levar a reflexão do pensamento computacional para o meu ambiente de trabalho, especificamente para a criação de uma apresentação executiva (um pitch ou relatório de resultados) para a liderança.\n\nPercebi que montar um bom material para executivos não é apenas sobre jogar dados em slides, mas exige um alto nível de estratégia e pensamento sequencial. O processo f",
+          "id": "512194",
+          "autor": "VITOR ALVES BARBOSA",
+          "data": "2026-07-28T04:25:52-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Olá, professora e colegas!\nO pensamento computacional é uma habilidade importante não apenas para a programação, mas também para a organização e a resolução de problemas do cotidiano. Na minha rotina de estudos, posso aplicar a abstração ao focar nos conteúdos mais importantes; a decomposição ao dividir as atividades em etapas menores; o reconhecimento de padrões ao identificar estratégias de estu",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=507777#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512194#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "512184",
+          "autor": "CARLOS RONALDO CORREA",
+          "data": "2026-07-28T03:49:24-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "No meu dia a dia o pensamento computacional se dá no trabalho e no cotidiano pessoal de diversas formas, como ao buscar rotas para as entregas da transportadoras que trabalho, analisar e definir ordem dos processos a serem realizados para descargas e carregamentos, gerenciar o tempo e as tarefas executadas em casa para otimizar, facilitar, diminuir os tempo de atividades, prioridades, entre outros",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=512184#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
@@ -356,13 +373,28 @@
           "novo": true
         },
         {
-          "id": "507163",
-          "autor": "GUILHERME REZENDE",
-          "data": "2026-07-27T18:49:41-03:00",
+          "id": "511944",
+          "autor": "SUSANA BERTOZI TAVARES DE ANDRADE SILVA",
+          "data": "2026-07-28T00:27:03-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Durante o estudo desta semana, percebi que o pensamento computacional está muito mais presente no nosso dia a dia do que eu imaginava. Um exemplo que faz parte da minha rotina é a organização dos meus estudos, já que preciso conciliar trabalho, academia e faculdade.\n\nAbstração: Primeiro eu foco no que realmente é importante. Analiso quais matérias preciso estudar, quais atividades têm prazo mais c",
+          "texto": "Uma situação do meu cotidiano em que aplico os quatro pilares do pensamento computacional é na organização de uma rotina de estudos.\n\nAbstração: elimino informações menos importantes e foco nas tarefas principais, como conteúdos, prazos e objetivos de aprendizagem.\n\nDecomposição: divido a rotina em etapas menores, como separar os materiais, organizar horários, estudar os conteúdos e revisar o que ",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=507163#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=511944#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "511940",
+          "autor": "GABRIELA DE OLIVEIRA MUNHOZ",
+          "data": "2026-07-28T00:25:27-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Atividade escolhida: Levar minha filha ao balé\n\n1. Abstração\n\nPara focar no que é mais importante, considero apenas os aspectos essenciais da atividade: o horário da aula, a roupa e os acessórios do balé, a garrafinha de água e o transporte até a escola. Não me preocupo com detalhes que não interferem no objetivo, como o trânsito em outras regiões da cidade ou atividades que não fazem parte da rot",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=511940#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -421,7 +453,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": "2",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -492,7 +524,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Marcar como feito",
-              "nao_lidas": "16",
+              "nao_lidas": "26",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -575,7 +607,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Marcar como feito",
-              "nao_lidas": "33",
+              "nao_lidas": "35",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1067,28 +1099,28 @@
           "novo": true
         },
         {
-          "id": "509363",
-          "autor": "NADIA HELY CRUZ GARCIA",
-          "data": "2026-07-27T21:00:25-03:00",
-          "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-          "texto": "Ao meu ver, o mais ético seria ele ir contra a sua própria crença, para que o bem maior prevaleça, em cargo políticos jamais se pode colocar a sua fé em primeiro lugar, até por estarmos em um país onde o estado é laico, e não se pode colocar religião na frente do bem geral da população.\nPorém, se para ele ir contra os seu princípios fosse demais para ele, deveria abdicar do cargo e deixar alguém q",
+          "id": "513072",
+          "autor": "YURI RODRIGUES LOMBARDI",
+          "data": "2026-07-28T09:48:54-03:00",
+          "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+          "texto": "Acho que não tem uma idade máxima para as pessoas se tornarem seres racionais e autônomos, então no caso do João, eu diria que ele, mesmo tendo 15 anos, já tem uma racionalidade e autonomia desenvolvida embora ele tenha falhado na em manter uma organização adequada, o que levou seus pais a interferirem.\n\nCom relação a liberdade, para mim a liberdade humana existe mas não para fazer tudo o que dese",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=509363#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=513072#mformforum"
           ],
-          "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+          "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
         },
         {
-          "id": "508762",
-          "autor": "ANDERSON RAMOS GUIMARAES",
-          "data": "2026-07-27T20:32:10-03:00",
+          "id": "512895",
+          "autor": "SANDRA REGINA GOMES DE OLIVEIRA",
+          "data": "2026-07-28T09:21:19-03:00",
           "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-          "texto": "De um lado, a gente tem autonomia: nosso cérebro pensa, avalia as coisas e toma decisões. A gente escolhe nosso caminho e, claro, assume as consequências. Isso é a nossa liberdade de escolha.\n\nPor outro lado, ninguém vive sozinho numa ilha. A nossa liberdade tem limites:\n\nAs leis e a moral: Nossos direitos vão até onde começam os dos outros. Se todo mundo fizesse o que quisesse sem regra, virava b",
+          "texto": "O modo como você explicou que autonomia se aprende na prática e no convívio social fez total sentido. A parte que você diferencia a vontade imediata da verdadeira liberdade ética foi o ponto alto pra mim. Trazer a filosofia pra nossa rotina e pro modo como lidamos com a tecnologia (no caso do João Vitor) mostra que amadurecer é justamente saber ter autocontrole e respeitar os limites de quem tá ao",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508762#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512895#mformforum"
           ],
           "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
@@ -1147,7 +1179,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": "10",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1268,7 +1300,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Marcar como feito",
-              "nao_lidas": "13",
+              "nao_lidas": "24",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1280,7 +1312,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Marcar como feito",
-              "nao_lidas": "22",
+              "nao_lidas": "19",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1415,7 +1447,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Marcar como feito",
-              "nao_lidas": "47",
+              "nao_lidas": "46",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1427,7 +1459,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Marcar como feito",
-              "nao_lidas": "14",
+              "nao_lidas": "23",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1603,14 +1635,13 @@
           "novo": false
         },
         {
-          "id": "509453",
-          "autor": "PAULO ROBERTO PEREIRA SANTIAGO",
-          "data": "2026-07-27T21:04:37-03:00",
+          "id": "513107",
+          "autor": "CARLOS EDUARDO NUNES DA SILVA",
+          "data": "2026-07-28T09:52:31-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "O melhor desta semana foi o vídeo\nOut of Sight\n\nhttps://youtu.be/XxY-5-d9Uqo?si=e_MNzOUnlB7mDBCZ",
+          "texto": "Os símbolos em coreano ficam claros quando relacionados com as letras de nosso alfabeto em português, pois o “b”, “a”, por exemplo, em banana e bada são percebidos facilmente em hangul (alfabeto coreano), em que as sílabas são formadas por consoantes e vogais.\nA linguagem existe para expressar conceitos do mundo em nossa volta, seja em coreano ou em português, é um tipo de convenção; um grupo em u",
           "links": [
-            "https://youtu.be/XxY-5-d9Uqo?si=e_MNzOUnlB7mDBCZ",
-            "https://ava.univesp.br/mod/forum/post.php?reply=509453#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=513107#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -1619,13 +1650,43 @@
           "novo": true
         },
         {
-          "id": "509422",
-          "autor": "SIMONE SANTIAGO BARBOSA",
-          "data": "2026-07-27T21:03:33-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "A escrita livre aparentemente é mais fácil e flui com mais clareza que quando um tema com critérios é proposto e avaliado, como no caso de alguma redação ou atividade avaliativa.\nNos últimos anos tenho percebido que minha escrita se tornou objetiva e com palavras simples, creio que devido ao trabalho que realizei antes em que nos processos administrativos os despachos e assuntos necessitavam de ag",
+          "id": "512436",
+          "autor": "ADILEIA DAS DORES FERREIRA",
+          "data": "2026-07-28T07:47:30-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Bom dia, Rosenes\n\nVocê tem acesso a matéria Ética, Cidadania e Sociedade? Lá no tópico Dúvidas Gerais dessa matéria o facilitador esclareceu sobre várias dúvidas, inclusive essa.",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=509422#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512436#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "512334",
+          "autor": "ROSENES LUZIA DE SOUZA",
+          "data": "2026-07-28T06:57:11-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "O curta-metragem Out of Sight pode ser analisado sob diferentes perspectivas teóricas e pedagógicas. 1. Análise Semiótica e Linguagem Não Verbal: Construção de Sentido sem Palavras: O filme não utiliza diálogos falados. A narrativa se sustenta inteiramente na linguagem corporal, na sonoridade e nos recursos visuais da animação. Sinestesia e Metáfora Visual: A animação traduz estímulos táteis, audi",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=512334#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "512319",
+          "autor": "ALESSANDRO BOMFIM DE OLIVEIRA",
+          "data": "2026-07-28T06:49:00-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Escrever é, antes de tudo, um ato de revelação e de lapidação. A motivação para escrever nasce da urgência de dar corpo ao intangível de capturar aquilo que pulsa, seja o eco de uma memória, o peso de uma angústia ou a leveza de um sonho. Para mim, a escrita funciona como um espelho e uma ponte: espelho porque organiza o caos interno; ponte porque busca tocar o outro. Escrever é o esforço conscien",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=512319#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
@@ -1634,13 +1695,13 @@
           "novo": true
         },
         {
-          "id": "508819",
-          "autor": "LUIS GUSTAVO APARECIDO TUCKUMANTEL",
-          "data": "2026-07-27T20:34:44-03:00",
+          "id": "512198",
+          "autor": "VITOR ALVES BARBOSA",
+          "data": "2026-07-28T04:33:25-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Boa noite, colegas de curso.\n\nAprender um novo idioma é sempre muito interessante, ainda mais quando não tem similaridade nenhuma com o português ou uma origem comum ao latim. No meu caso, eu me senti mais confortável quando a professora apresentou explicações mais longas, porque para mim eu tenho que entender o motivo pelo qual aquela determinada expressão acontece, isto é, o porquê daquela forma",
+          "texto": "Olá, professora e colegas!\nAo analisar o vídeo da seção Desafio, percebi que a forma como as informações são organizadas influencia diretamente a compreensão do conteúdo. As explicações mais claras utilizaram textos mais curtos, objetivos e bem divididos, facilitando a identificação das ideias principais. Já os conteúdos mais complexos exigiram uma organização maior, com explicações detalhadas e e",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508819#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=512198#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -1649,13 +1710,13 @@
           "novo": true
         },
         {
-          "id": "508783",
-          "autor": "FERNANDO LUIZ DE SOUZA JUNIOR",
-          "data": "2026-07-27T20:33:02-03:00",
+          "id": "511966",
+          "autor": "CARLOS HENRIQUE EIGENHEER",
+          "data": "2026-07-28T00:35:12-03:00",
           "titulo": "Re: S1 - Fórum temático",
-          "texto": "Acredito que o ato de escrita em si traga mais dificuldade, em geral. Mesmo que as ideias estejam presentes (e com certeza estarão em profusão, dado que você está escrevendo sobre um assunto que lhe é familiar e motivador), a conexão delas em um texto, com precisão semântica e atenção à construção da sequência de pensamentos, não é dada à priori; necessito de várias reescritas, por vezes, para faz",
+          "texto": "Não sou um grande escritor, mas sempre que redijo algo, seja uma frase, um texto pequeno ou grande, tento escrever com atenção. Muitas vezes perco tempo corrigindo e mudando algo. Quando tenho dúvidas sobre a grafia de alguma palavra, sempre recorro ao “Professor Google”, que é um jeito rápido e eficaz hoje em dia, assim como aos sinônimos para não haver tantas repetições. Acho que, quando escreve",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508783#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=511966#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
@@ -1664,28 +1725,13 @@
           "novo": true
         },
         {
-          "id": "508583",
-          "autor": "ROBSON FERRAZ DA SILVA",
-          "data": "2026-07-27T20:22:41-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "De inicio, no vídeo com a explicação do Hangol, ficou até que fácil devido a certa similaridade com a escrita, apesar das letras e pronuncia bem diferentes, porém percebi também que conforme fui lendo os textos, tive que pesquisar alguns termos citados e colocar em contexto pra enterder.\nEm relação a gradação, creio que tem a ver com o conhecimento adquirido, quando não sabemos de alguma coisa e p",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508583#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "508557",
-          "autor": "REGIANE APARECIDA DE ALMEIDA MORAES",
-          "data": "2026-07-27T20:21:25-03:00",
+          "id": "511958",
+          "autor": "SIBER EDUARDO CINTRA",
+          "data": "2026-07-28T00:32:28-03:00",
           "titulo": "Re: S1 - Fórum temático",
-          "texto": "Penso exatamente assim,gosto de anotar o que me chama atenção, anotar pra mim é a melhor forma que encontro de memorizar assuntos de meu interesse e entender o que encontro dificuldade.A escrita me conecta diretamente ao conhecimento.",
+          "texto": "Escrever continua sendo muito difícil para mim, porque entendo a escrita como uma ferramenta de expressão dos sentimentos, seja em textos de opinião, narrativas, romances ou poesias. Quando escrevemos, colocamos no texto algo que pulsa e permanece vivo. Às vezes, a escrita expressa a dor; em outras, fala do amor. Ela pode contar histórias do passado e até do futuro, permitindo que a imaginação cri",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508557#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=511958#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
@@ -1694,13 +1740,13 @@
           "novo": true
         },
         {
-          "id": "508012",
-          "autor": "CAUAN DE OLIVEIRA MIRANDA",
-          "data": "2026-07-27T19:48:15-03:00",
+          "id": "511658",
+          "autor": "LUCAS EDUARDO SIMON CHAGAS",
+          "data": "2026-07-27T23:31:24-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Ao fazer as anotações, percebi que os conteúdos mais fáceis de compreender puderam ser registrados com frases curtas e objetivas, destacando apenas as ideias principais. Já os conteúdos mais complexos exigiram explicações mais detalhadas, exemplos e uma organização em tópicos para facilitar a compreensão e a revisão.\n\nTambém notei que o comando do desafio apresentava uma gradação nas palavras, pas",
+          "texto": "Gostei muito do vídeo sobre o coreano e o HANGUL até aprendi algumas palavras mas é uma língua muito difícil porém muito rica",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=508012#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=511658#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -1709,13 +1755,28 @@
           "novo": true
         },
         {
-          "id": "507092",
-          "autor": "JAQUELINE FERNANDES EMILIANO CRUZ",
-          "data": "2026-07-27T18:43:27-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Não tive dificuldade em escolher um tema nem em desenvolvê-lo, pois já estava pensando sobre o assunto há bastante tempo. No entanto, precisei me atentar às questões de pontuação e concordância. Ao escrever sobre o tema, pude identificar alguns pontos que ainda preciso melhorar.",
+          "id": "511271",
+          "autor": "MARCEL RODRIGUES LOPES",
+          "data": "2026-07-27T22:50:56-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Um ponto que ficou bem claro para mim foi o seguinte: as vogais e consoantes podem ser representadas por símbolos. E a partir de uma particular representação de uma palavra, você consegue entender o significado parcial ou até total de outras.\nUm ponto que não ficou tão claro: A estética dos quadrinhos \"JAMO\" (teria relação com o tamanho do símbolo?). Fiquei curioso para mais detalhes.",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=507092#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=511271#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "510893",
+          "autor": "JAIME BATISTA POLIDORO",
+          "data": "2026-07-27T22:23:44-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Sempre parti do princípio que para escrever, primeiramente precisamos gostar de ler; então ler, se informar é uma das minhas premissas para uma boa escrita.\nNão precisa ser algo complexo ou apenas um tema; para uma boa escrita, devemos estar atentos a todos os cenários e diversidades que nos envolvem.\nHoje com a rapidez tecnlogica, estamos habituados a ouvir as notícias, rolar os feeds com informa",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=510893#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
@@ -1724,58 +1785,28 @@
           "novo": true
         },
         {
-          "id": "506787",
-          "autor": "FELIPE TORRES VIEIRA",
-          "data": "2026-07-27T18:15:54-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "No desafio proposto nota-se que a estratégia utilizada pela professora inicialmente segue um raciocínio lógico de comparação dos \"desenhos\" das letras em coreano com o formato das letras no alfabeto latino (ou romano). Na sequência ela exemplifica também a divisão por meio de sílabas e fonemas. Por fim apresenta talvez a maior novidade do alfabeto Hangul que seria a formação das palavras por bloco",
+          "id": "510757",
+          "autor": "ELIANE ALVES DE OLIVEIRA ANDRADE",
+          "data": "2026-07-27T22:16:03-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "BOA NOITE\nUM POUCO ATRASADA COM A MATÉRIA MAIS INICIANDO AGORA.",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=506787#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=510757#mformforum"
           ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
         },
         {
-          "id": "506591",
-          "autor": "VANDERLEI DA SILVA FRANCO",
-          "data": "2026-07-27T17:56:53-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Desafio: Como organizamos por escrito o que aprendemos?\n\nAssisti ao vídeo e um dos apontamentos que fiz foi em relação ao alfabeto. O nosso é românico, com derivação do latim, fato que eu já sabia. Já o coreano é coreânico (com origem em debate — pesquisei na web) e possui escrita própria. Talvez a anotação mais importante tenha sido sobre como a IA trata as palavras ou sequências e cria pontes en",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=506591#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "505814",
-          "autor": "KELVIN MATHEUS FERNANDES",
-          "data": "2026-07-27T16:42:00-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "A professora de Coreano tornou o aprendizado muito mais fácil ao fazer comparações ao português. Explicou sobre as semelhanças tais como: consoante + vogal = silaba e que o Hangul é formado a partir daí. Fez parecer ser fácil e nos convence a querer assistir mais.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=505814#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "505595",
-          "autor": "HAROLDO RODRIGUES OLIVEIRA",
-          "data": "2026-07-27T16:20:00-03:00",
+          "id": "509957",
+          "autor": "EDICARLOS APARECIDO LEITE",
+          "data": "2026-07-27T21:30:16-03:00",
           "titulo": "Re: S1 - Fórum temático",
-          "texto": "Eu creio que o processo de escrita livre vai muito além de colocar idéias no papel. É necessário organizar pensamentos, escolhar palavras adequadas, estruturar o texto para que seja claro e coerente. Um exercício de prática, atenção e reflexão.\nEscrever para mim é expressar idéias. De fato é complicado escolher um tema, o que torna desafiador organizar ideias e se aprofundar no assunto sem perder ",
+          "texto": "Durante a atividade de escrita livre, percebi que escrever é um processo que exige organização das ideias, reflexão e criatividade.\nMinha motivação para escrever veio da oportunidade de expressar opiniões e compartilhar experiências pessoais sobre um tema relevante.\nQuanto ao grau de dificuldade, acredito que ele esteve relacionado tanto ao ato de escrever quanto ao tema escolhido. Em alguns momen",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=505595#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=509957#mformforum"
           ],
           "forum": "S1 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
@@ -1784,16 +1815,17 @@
           "novo": true
         },
         {
-          "id": "505563",
-          "autor": "PAMELA BRUNA MOREIRA VECHIATO",
-          "data": "2026-07-27T16:16:51-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Aprender um novo idioma é sempre um desafio, principalmente quando ele é muito diferente da nossa língua. Durante a aula de coreano, percebi que os conteúdos que tinham alguma semelhança com o português foram mais fáceis de compreender e anotar. Já as partes relacionadas à escrita e à pronúncia, por serem muito diferentes do que estou acostumada, exigiram mais atenção e algumas revisões para que e",
+          "id": "509813",
+          "autor": "ANRELI CELESTINO",
+          "data": "2026-07-27T21:22:04-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "A escrita já faz parte da minha rotina, principalmente por atuar na área da educação, onde frequentemente elaboro planejamentos, avaliações, materiais didáticos e textos acadêmicos. Por isso, a atividade foi uma oportunidade para refletir sobre esse processo e perceber que escrever vai além de registrar ideias: exige organização, clareza, revisão e atenção ao leitor.\nVejo a escrita como um process",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=505563#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=509813#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=510110#mformforum"
           ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -1849,7 +1881,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": "4",
+              "nao_lidas": "8",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1985,7 +2017,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Marcar como feito",
-              "nao_lidas": "9",
+              "nao_lidas": "19",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2120,7 +2152,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Marcar como feito",
-              "nao_lidas": "12",
+              "nao_lidas": "24",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2336,7 +2368,7 @@
             }
           ],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "476026",
@@ -2563,7 +2595,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "470340",
@@ -3144,7 +3176,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": true,
               "prazo": null,
               "prazo_fonte": null,
@@ -3332,12 +3364,12 @@
       "url": "https://ava.univesp.br/mod/page/view.php?id=165168",
       "conta_nota": true,
       "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence 29/07 às 23:59",
+      "prazo_txt": "vence amanhã, 29/07 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-02T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -3350,12 +3382,12 @@
       "url": "https://ava.univesp.br/mod/url/view.php?id=165169",
       "conta_nota": true,
       "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence 29/07 às 23:59",
+      "prazo_txt": "vence amanhã, 29/07 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-02T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -3368,12 +3400,12 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165170",
       "conta_nota": true,
       "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence 29/07 às 23:59",
+      "prazo_txt": "vence amanhã, 29/07 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-02T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -3386,12 +3418,12 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165171",
       "conta_nota": true,
       "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence 29/07 às 23:59",
+      "prazo_txt": "vence amanhã, 29/07 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-02T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -3404,12 +3436,12 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165172",
       "conta_nota": true,
       "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence 29/07 às 23:59",
+      "prazo_txt": "vence amanhã, 29/07 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-02T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "SOC100",
@@ -3422,12 +3454,12 @@
       "url": "https://ava.univesp.br/mod/url/view.php?id=168794",
       "conta_nota": true,
       "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence 29/07 às 23:59",
+      "prazo_txt": "vence amanhã, 29/07 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-02T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "SOC100",
@@ -3440,12 +3472,12 @@
       "url": "https://ava.univesp.br/mod/url/view.php?id=168795",
       "conta_nota": true,
       "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence 29/07 às 23:59",
+      "prazo_txt": "vence amanhã, 29/07 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-02T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM170",
@@ -3552,13 +3584,13 @@
       "url": null,
       "conta_nota": true,
       "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence 04/08",
+      "prazo_txt": "vence 04/08 às 23:59",
       "prazo_fonte": "aviso de Lucas Demeda Dos Santos",
       "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=124738",
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "depois",
+      "urgencia": "semana",
       "bloqueio": null
     },
     {
@@ -3572,12 +3604,12 @@
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=173854",
       "conta_nota": true,
       "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence 04/08",
+      "prazo_txt": "vence 04/08 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "depois"
+      "urgencia": "semana"
     },
     {
       "curso": "COM170",
@@ -3590,13 +3622,13 @@
       "url": null,
       "conta_nota": true,
       "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence 04/08",
+      "prazo_txt": "vence 04/08 às 23:59",
       "prazo_fonte": "aviso de Lucas Demeda Dos Santos",
       "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=124738",
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "depois",
+      "urgencia": "semana",
       "bloqueio": null
     },
     {
@@ -3610,12 +3642,12 @@
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=173857",
       "conta_nota": true,
       "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence 04/08",
+      "prazo_txt": "vence 04/08 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "depois"
+      "urgencia": "semana"
     },
     {
       "curso": "LET110",
@@ -4469,15 +4501,15 @@
   ],
   "confirmar": [
     {
-      "curso": "SOC100",
-      "quando": "2026-07-27T23:59:00-03:00",
+      "curso": "COM100",
+      "quando": "2026-07-28T23:59:00-03:00",
       "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "inicio",
-      "rotulo": "Está em Apresentação da disciplina",
-      "frase": "Não As semanas abrem por data, não por conclusão Está em Apresentação da disciplina: 20/07, 27/07, 03/08, 10/08, 17/08, 24/08 e 31/08",
-      "autor": "CARLOS ROBERTO MARTINS ORTIZ JUNIOR",
+      "tipo_lido": "fim",
+      "rotulo": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciê...",
+      "frase": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciências da Comunicação na ECA/USP para aluno regular, cujo prazo de envio do projeto é entre 23 e 24/09 Sendo hoje 28/07, tenho 57 d...",
+      "autor": "DANIELY SILVA DUARTE",
       "autoridade": "colega",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=168788"
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=160792"
     },
     {
       "curso": "SOC100",
@@ -4544,35 +4576,33 @@
       "autor": "CARLOS ROBERTO MARTINS ORTIZ JUNIOR",
       "autoridade": "colega",
       "url": "https://ava.univesp.br/mod/forum/view.php?id=168788"
+    },
+    {
+      "curso": "COM100",
+      "quando": "2026-09-23T23:59:00-03:00",
+      "quando_txt": "vence 23/09",
+      "tipo_lido": "fim",
+      "rotulo": "É preciso definir com clareza o fenômeno investigado, o problema, a pergunta central, o...",
+      "frase": "É preciso definir com clareza o fenômeno investigado, o problema, a pergunta central, o objeto e os objetivos, evitando incorporar temas ou referências que não contribuam diretamente para a questão principal Decomposi...",
+      "autor": "DANIELY SILVA DUARTE",
+      "autoridade": "colega",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=160792"
+    },
+    {
+      "curso": "COM100",
+      "quando": "2026-09-24T23:59:00-03:00",
+      "quando_txt": "vence 24/09",
+      "tipo_lido": "fim",
+      "rotulo": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciê...",
+      "frase": "Olá pessoal, Eu quero muito participar de uma processo seletivo para o doutorado em Ciências da Comunicação na ECA/USP para aluno regular, cujo prazo de envio do projeto é entre 23 e 24/09",
+      "autor": "DANIELY SILVA DUARTE",
+      "autoridade": "colega",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=160792"
     }
   ],
   "novidades": [
     {
       "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
       "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
@@ -4603,6 +4633,18 @@
     },
     {
       "curso": "COM100",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
       "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
@@ -4610,6 +4652,12 @@
     {
       "curso": "COM100",
       "label": "Re: S1 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -4632,28 +4680,10 @@
       "autoridade": "colega"
     },
     {
-      "curso": "SOC100",
-      "label": "Referências da disciplina",
-      "kind": "concluido",
-      "cmid": "168789"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S1 - Início",
-      "kind": "concluido",
-      "cmid": "168791"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S1 - Texto-base - Ética e cidadania (Leia a unidade 2, \"Introdução à ética e moral\", p. 27-65) | Kenya Jeniffer Marcon",
-      "kind": "concluido",
-      "cmid": "168792"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S1 - Videoaulas",
-      "kind": "concluido",
-      "cmid": "168793"
+      "curso": "COM100",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
     },
     {
       "curso": "SOC100",
@@ -4723,7 +4753,7 @@
     },
     {
       "curso": "SOC100",
-      "label": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+      "label": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -4747,7 +4777,7 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
+      "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -4777,19 +4807,7 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -4813,15 +4831,21 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
-      "curso": "COM170",
-      "label": "ORGANIZAÇÃO DA DISCIPLINA E ATIVIDADES DA QUINZENA 1",
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
-      "autoridade": "institucional"
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
     },
     {
       "curso": "COM170",
@@ -4838,12 +4862,6 @@
     {
       "curso": "COM170",
       "label": "Re: Q1 - Fórum de dúvidas",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM170",
-      "label": "Re: Q1 - Fórum geral",
       "kind": "aviso",
       "autoridade": "institucional"
     }
