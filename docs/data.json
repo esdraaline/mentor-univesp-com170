@@ -1,15 +1,15 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-28T16:07:00.849823+00:00",
-  "snapshot_at": "2026-07-28T16:07:00.849823+00:00",
-  "attempted_at": "2026-07-28T16:07:00.849823+00:00",
-  "publication_id": "2026-07-28T16:07:00.849823+00:00",
+  "checked_at": "2026-07-28T18:16:00.739104+00:00",
+  "snapshot_at": "2026-07-28T18:16:00.739104+00:00",
+  "attempted_at": "2026-07-28T18:16:00.739104+00:00",
+  "publication_id": "2026-07-28T18:16:00.739104+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 37,
     "itens": 103,
     "avisos": 60,
-    "eventos_calendario": 8,
+    "eventos_calendario": 7,
     "notificacoes": 6,
     "cronograma": 3,
     "itens_com_prazo": 25
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-07-28T16:07:00.851300+00:00",
-      "last_live_at": "2026-07-28T16:07:00.851300+00:00",
+      "checked_at": "2026-07-28T18:16:00.740666+00:00",
+      "last_live_at": "2026-07-28T18:16:00.740666+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,20 +28,20 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-07-28T16:07:00.851300+00:00",
-      "last_live_at": "2026-07-28T16:07:00.851300+00:00",
+      "checked_at": "2026-07-28T18:16:00.740666+00:00",
+      "last_live_at": "2026-07-28T18:16:00.740666+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 8,
+      "quantidade_atual": 7,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api",
-      "eventos": 8
+      "eventos": 7
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-07-28T16:07:00.851300+00:00",
-      "last_live_at": "2026-07-28T16:07:00.851300+00:00",
+      "checked_at": "2026-07-28T18:16:00.740666+00:00",
+      "last_live_at": "2026-07-28T18:16:00.740666+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -53,8 +53,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-07-28T16:07:00.851300+00:00",
-      "last_live_at": "2026-07-28T16:07:00.851300+00:00",
+      "checked_at": "2026-07-28T18:16:00.740666+00:00",
+      "last_live_at": "2026-07-28T18:16:00.740666+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -64,15 +64,15 @@
       "listas_live": 19,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 35,
-      "posts_institucionais_guardados": 35
+      "posts_institucionais_vistos": 40,
+      "posts_institucionais_guardados": 40
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-07-28T16:07:00.851300+00:00",
-      "last_live_at": "2026-07-28T16:07:00.851300+00:00",
+      "checked_at": "2026-07-28T18:16:00.740666+00:00",
+      "last_live_at": "2026-07-28T18:16:00.740666+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 18,
+      "quantidade_atual": 12,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
@@ -80,8 +80,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-07-28T16:07:00.851300+00:00",
-      "last_live_at": "2026-07-28T16:07:00.851300+00:00",
+      "checked_at": "2026-07-28T18:16:00.740666+00:00",
+      "last_live_at": "2026-07-28T18:16:00.740666+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -155,7 +155,8 @@
           "texto": "Olá, pessoal!\n\nSou a supervisora desta disciplina e gostaria de dar as boas-vindas a todos. O facilitador da turma será o responsável por acompanhá-los ao longo do bimestre, prestando suporte nos fóruns de discussão e durante as lives.\n\nGostaria também de informar que os vídeos e os textos da Semana 1 que apresentaram problemas já estão em processo de atualização e correção. Em breve, todo o conte",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=513562#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=514209#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=514209#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=515004#mformforum"
           ],
           "forum": "Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
@@ -236,6 +237,143 @@
           "novo": true
         },
         {
+          "id": "515517",
+          "autor": "ROSENES LUZIA DE SOUZA",
+          "data": "2026-07-28T14:34:10-03:00",
+          "titulo": "S2 - Fórum temático",
+          "texto": "Utilizo os quatro pilares do pensamento computacional para gerenciar minha rotina de forma eficiente:\nDecomposição: Divido o meu dia em blocos menores e focados: o doméstico, o pedagógico (aulas/correções) e o acadêmico (estudos).\nReconhecimento de Padrões: Percebo quais horários rendo mais. Estudo de manhã e planejo aulas à tarde, aproveitando melhor minha energia.\nAbstração: Elimino excessos. Em",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515517#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "515369",
+          "autor": "FLAVIA CORREA SARDINHA",
+          "data": "2026-07-28T14:19:57-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Olá, colegas. Tudo bem?\nCompartilho com vocês a minha contribuição para a discussão desta semana. Como professora de matemática, decidi aplicar os quatro pilares do pensamento computacional a um desafio do meu próprio cotidiano: o planejamento e a condução de uma aula de resolução de problemas na sala de aula.\nVeja como essa estrutura me ajuda a gerenciar a turma, preparar o conteúdo e otimizar o ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515369#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "515118",
+          "autor": "APARECIDO DONIZETE ALVES CIPRIANO",
+          "data": "2026-07-28T13:53:28-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Álvaro, para combater essa limitação, seria importante que antes de tudo escrever o que pensa, colocar seu texto no papel, argumentar com suas próprias palavras e antes de por na IA fazer sua própria revisão e depois comparar. Assim você estará melhorando sua escrita e mantendo seu estilo.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515118#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "515062",
+          "autor": "APARECIDO DONIZETE ALVES CIPRIANO",
+          "data": "2026-07-28T13:47:46-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Outra situação do uso de IA e quem percebemos é a NETFLIX - Quando cada membro da família entra na Netflix (o pai, a mãe, a criança), a IA reconhece quem está ali. Ela analisa o histórico de visualizações, o horário em que a pessoa assiste e até mesmo em qual cena a pessoa costuma pausar ou abandonar um filme.\nAté a Capa do Filme Muda Para Cada Pessoa - O mesmo filme pode aparecer com fotos de cap",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515062#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "515016",
+          "autor": "APARECIDO DONIZETE ALVES CIPRIANO",
+          "data": "2026-07-28T13:42:42-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Sobre passar dados completos, gostaria de partilhar um fato ocorrido comigo, Tive que fazer uma viagem a SP - Secretaria estadual de Educação - Praça da República- e apenas coloquei esses dados, consegui chegar, mas antes o GPS me fez passar pela cracolândia e, para piorar, não vi onde estava e estacionei pra atender celular... resultado: fui assaltado e lá foi embora meu notebook com 15 dias uso.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515016#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "514930",
+          "autor": "APARECIDO DONIZETE ALVES CIPRIANO",
+          "data": "2026-07-28T13:32:55-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Vanessa, as IAs estão aí para nos servir e acreditoo que elas possuem é o conhecimento construído até o momento pelo ser humano, é importante que nós tenhamos a consciência de continuar as pesquisas e buscar sempre algo novo, usar IAs somente para consultas e não criar nada novo aí sim é estagnar.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=514930#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=514961#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=515016#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "514803",
+          "autor": "ROGERIO ROTELI DA MOTTA",
+          "data": "2026-07-28T13:18:48-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Atividade- Enviar equipamentos para calibração\n1- Abstração – Itens que tem uma maioria q ainda não venceu o prazo de calibração, deixarei para um segundo momento.\n2- Decomposição – Separei os itens em: Paquímetros, Multímetros e micrometros\n3- Reconhecimento de padrões- Normalmente todos os itens encerram a data de validade da calibração na mesma data, vou separa-los em duas datas diferentes para",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=514803#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "514739",
+          "autor": "GUSTAVO CHIBENI DANGELO",
+          "data": "2026-07-28T13:11:51-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Como sou jornalista de agro, uma atividade do meu dia a dia que posso relacionar com o pensamento computacional é o trabalho de produção de notícias sobre o agronegócio.\nNa abstração, eu seleciono as informações mais importantes de uma pauta, como dados de mercado, informações dos produtores e impactos para o setor, deixando de lado detalhes que não são essenciais para a matéria.\nNa decomposição, ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=514739#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "514725",
+          "autor": "VICTOR HUGO DO NASCIMENTO ROCHA",
+          "data": "2026-07-28T13:09:58-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Atividade cotidiana: Análise de Ativos em Renda Variável para Longo Prazo.\n\nAbstração: Quais detalhes você eliminaria ou simplificaria para focar nos aspectos mais importantes da atividade?\nSimplificaria: Atividade do mercado financeiro, Boletim Focus, Eleições, Políticas, Guerras;\nEliminaria: Esportes, Cinema, Entretenimento em geral.\n\nDecomposição: Como você dividiria essa atividade ou problema ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=514725#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "514549",
           "autor": "LUCAS JULIANO CAPATTO DA SILVA",
           "data": "2026-07-28T12:46:23-03:00",
@@ -264,141 +402,6 @@
           "prazos": [],
           "autoridade": "colega",
           "novo": true
-        },
-        {
-          "id": "514310",
-          "autor": "ARTHUR PAES PIEROSI",
-          "data": "2026-07-28T12:19:44-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Acredito que uma utilidade cotidiana que o pensamento computacional me ajuda é a ponderação e organização do tempo.\nElencando as demandas gerais cujos horários em muitas semanas são conflituosos e eu devo estabelecer uma ordem de prioridade: demandas de trabalho fora do horário, escrita da dissertação do mestrado, graduação IA Univesp.\n\nAbstração - para poder organizar e determinar a ordem de prio",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=514310#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "514111",
-          "autor": "MONALISA PEREIRA DE AQUINO SILVA",
-          "data": "2026-07-28T11:53:22-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Simm, duas semanas de prazo para as avaliações!",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=514111#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513436",
-          "autor": "BRUNA ARAUJO DA SILVA FRANCO",
-          "data": "2026-07-28T10:36:34-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Escolhi a atividade de organizar minha rotina de estudos. Na abstração, eu focaria apenas nas matérias que preciso estudar e no tempo disponível, deixando de lado detalhes que não são importantes naquele momento. Na decomposição, dividiria a tarefa em etapas, como separar as matérias, definir os horários, estudar e revisar o conteúdo. No reconhecimento de padrões, observaria quais horários do dia ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513436#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513288",
-          "autor": "EDICARLOS APARECIDO LEITE",
-          "data": "2026-07-28T10:20:13-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Abstração: Eu simplificaria detalhes que não afetam diretamente o resultado do trabalho, focando apenas nas tarefas prioritárias, prazos e recursos necessários para executá-las.\n\nDecomposição: Dividiria a atividade em partes menores:\nIdentificar as tarefas do dia.\nDefinir prioridades.\nOrganizar horários.\nExecutar as atividades.\nAcompanhar o progresso.\nRevisar os resultados.\n\nReconhecimento de padr",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513288#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513276",
-          "autor": "VALERIA CLAUDETE BORTULUZI",
-          "data": "2026-07-28T10:17:47-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Ao refletir sobre o pensamento computacional no meu dia a dia, percebi que a tecnologia está presente em praticamente tudo o que fazemos, como pagar contas pelo celular, conversar por aplicativos e buscar informações na internet. No entanto, confesso que ainda tenho dificuldades para lidar com algumas tecnologias, mesmo elas fazendo parte da rotina.\n\nAcredito que isso acontece porque vivi uma gran",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513276#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513241",
-          "autor": "THAISE XAVIER ALVES",
-          "data": "2026-07-28T10:12:03-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Bom dia.\nDurante a semana, percebi como a tecnologia está inserida na minha rotina. No meu trabalho, ela está presente desde o momento de fazer a chamada até a elaboração de atividades que devem ser inseridas no sistema . Na minha vida pessoal não é diferente. Às vezes, sinto-me praticamente \"vigiada\". Basta uma simples busca por um produto para eu ser bombardeada por anúncios e promoções em quase",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513241#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513233",
-          "autor": "LEOMAR DA SILVA",
-          "data": "2026-07-28T10:10:33-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Para este desafio, escolhi a atividade de organizar minha rotina de estudos.\n\nAbstração: Eu deixaria de lado detalhes que não influenciam diretamente no estudo, como o ambiente ou pequenas interrupções, e focaria no que realmente importa: as matérias, o tempo disponível e as tarefas que precisam ser concluídas.\n\nDecomposição: Dividiria a rotina em etapas menores, como organizar o material, definir",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513233#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513128",
-          "autor": "FELIPE TORRES VIEIRA",
-          "data": "2026-07-28T09:55:06-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Pensamento Computacional no Treino do Almoço\n\nUma atividade do meu dia a dia em que aplico o pensamento computacional é a organização da minha rotina de atividades físicas durante o horário de almoço (entre 12h e 14h). Como preciso otimizar esse intervalo de duas horas para treinar, me alimentar e fazer a higiene pessoal, utilizei os quatro pilares para garantir que tudo ocorra sem imprevistos.\n\nA",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513128#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513020",
-          "autor": "VALERIA SOARES MARTINS RIBEIRO",
-          "data": "2026-07-28T09:42:52-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Escolhi como exemplo a atividade de organizar uma reunião da catequese, pois exige planejamento e organização.\n\nAbstração: Para focar no essencial, considero apenas as informações mais importantes, como data, horário, local, participantes e materiais necessários, deixando de lado detalhes que não interferem na organização.\n\nDecomposição: Divido a tarefa em etapas menores: definir a data, comunicar",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513020#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
         }
       ],
       "sections": [
@@ -415,7 +418,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160777",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -451,7 +454,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -522,7 +525,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Marcar como feito",
-              "nao_lidas": "7",
+              "nao_lidas": "16",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1097,28 +1100,28 @@
           "novo": true
         },
         {
-          "id": "514663",
-          "autor": "EMERSON RICARDO GALLO",
-          "data": "2026-07-28T13:01:56-03:00",
-          "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-          "texto": "Eu acredito que ele deveria \"Decidir contrariamente à sua fé e, consequentemente, à sua formação e crenças morais;\", porque a campanha contra a AIDS é uma campanha coletiva e em momento algum ele deve interferir na vida de outras pessoa baseada na sua crença religiosa.\nEntra aquela velha questão onde sua liberdade termina até o momento que você interfere na vida de outro.",
+          "id": "515544",
+          "autor": "ADRIANA ARRUDA ARANHA",
+          "data": "2026-07-28T14:36:42-03:00",
+          "titulo": "Re: S1 - Fórum de dúvidas gerais",
+          "texto": "Entender os conceitos fundamentais da ética e buscar compreender as ações humanas, seus conflitos e como o homem se constitui na sociedade.\nIsso nos leva ao entendimento de cidadania dentro de um contexto histórico.\nCompreender a ética enquanto conhecimento filosófico e enquanto ao uso popular, onde a ética se mostra como princípio de condutas num grupo de pessoas.",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=514663#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=515544#mformforum"
           ],
-          "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+          "forum": "S1 - Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
         },
         {
-          "id": "514588",
-          "autor": "ELIO COSTA RAMALHO",
-          "data": "2026-07-28T12:51:48-03:00",
+          "id": "515471",
+          "autor": "DIEGO CLEMENTE BEVILAQUA",
+          "data": "2026-07-28T14:29:58-03:00",
           "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-          "texto": "Na esfera pública, sabemos que as decisões devem ser tomadas com foco no bem comum e no interesse público. Sendo assim, por mais que a minha ética e a minha moral digam o contrário do que está sendo proposto, o que deve prevalecer é o interesse público.\n​É exatamente por isso que existe o debate público: um espaço onde posso colocar em pauta aquilo que considero contraditório ou inadequado, debate",
+          "texto": "A decisão mais acertada do ponto de vista ético seria a primeira opção que seria decidir contrariamente a sua fé já que o ministro é um agente do povo e somente a ele deve responder. Quando se assume uma função publica se deve ter em mente que ele não age com base em seus principios morais pessoais, mas que age em favor da maioria. Se ele não consegue atender aos anceios do povo sobre sua construç",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=514588#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=515471#mformforum"
           ],
           "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
@@ -1177,7 +1180,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "2",
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1295,7 +1298,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "10",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1307,7 +1310,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "6",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1345,7 +1348,7 @@
           "title": "Semana 2",
           "parent": null,
           "locked": null,
-          "theme": "Ética e Moral",
+          "theme": "Tema: Ética e Moral",
           "items": [
             {
               "cmid": "168801",
@@ -1436,8 +1439,8 @@
               "label": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-              "status": "Marcar como feito",
-              "nao_lidas": null,
+              "status": "Concluído",
+              "nao_lidas": "15",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1448,8 +1451,8 @@
               "label": "S2 - Fórum de dúvidas gerais",
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
-              "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "status": "Concluído",
+              "nao_lidas": "10",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1460,7 +1463,7 @@
               "label": "S2 - Live com facilitador",
               "type": "lti",
               "url": "https://ava.univesp.br/mod/lti/view.php?id=168809",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
@@ -1597,6 +1600,37 @@
       },
       "avisos": [
         {
+          "id": "515065",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-07-28T13:47:58-03:00",
+          "titulo": "Informações gerais",
+          "texto": "Olá, pessoal. Deixei minha apresentação no fórum geral e coloco aqui algumas informações importantes sobre nossa disciplina também.\nComo acessar o cronograma da disciplina\nPara consultar as datas-limite das Atividades Avaliativas, acesse o cronograma disponível na página inicial da disciplina, conforme destacado na imagem. Atente-se aos prazos e realize as atividades dentro do período previsto, po",
+          "links": [
+            "https://univesp.br/cursos/"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126438",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "515000",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-07-28T13:41:41-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Olá, pessoal!\nEspero que estejam bem e animados/as para este semestre.\n\nGostaria de iniciar nosso contato me apresentando: meu nome é Bruno Barra, sou mestrando em Literatura pela USP e será um prazer estar com vocês nessa etapa tão importante da formação acadêmica. Para quem quiser conhecer um pouco mais da minha trajetória, deixo aqui o link do meu currículo Lattes: http://lattes.cnpq.br/8422619",
+          "links": [
+            "http://lattes.cnpq.br/8422619565625661",
+            "https://ava.univesp.br/mod/forum/post.php?reply=515000#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "502272",
           "autor": "Pedro Henrique dos Santos Malafaia",
           "data": "2026-07-27T10:24:48-03:00",
@@ -1623,6 +1657,82 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
+        },
+        {
+          "id": "515531",
+          "autor": "LENNIN ABRAO",
+          "data": "2026-07-28T14:35:27-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Boa tarde pessoal!\n\nComeçando de trás para frente, não notei a gradação no comando do desafio. Tive até que pesquisar para ver o que era, depois disso ainda assim tive dificuldade para entender. Acredito que por gradação vocês estejam se referindo ao fato delas estarem indicando o que fazer como num passo a passo? Se for isso, acredito que isso facilita na transmissão da mensagem e de quais as eta",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515531#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "515493",
+          "autor": "ARTHUR PAES PIEROSI",
+          "data": "2026-07-28T14:31:52-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Eu percebi que entendo melhor com anotações curtas que me permitem ater mais a atenção no que está sendo explicado e me obriga a decidir qual termo é mais importante para uma retomada futura nos conteúdos explorados.\nSempre que eu tento escrever tudo que foi dito em um determinado argumento exatamente da forma como foi dito eu acabo me perdendo o fio da meada quando volto minha atenção para a expl",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515493#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "515189",
+          "autor": "JOAO EUGENIO CONEGLIAN NOGUEIRA",
+          "data": "2026-07-28T14:00:57-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Oi, pessoal! Tudo bem?\nSegue a minha contribuição para o fórum:\nNotei que a extensão do meu texto mudou bastante conforme o meu nível de compreensão do conteúdo apresentando na aula:\nO que foi fácil de assimilar (A lógica dos blocos no Hangul): Consegui resumir de forma curta e objetiva. Quando um conceito fica claro, a síntese acontece de maneira muito mais rápida e natural.\nO que ficou confuso (",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515189#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "515040",
+          "autor": "WILLIAN CORACARI",
+          "data": "2026-07-28T13:46:01-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Olá, pessoal. Compartilhando minha reflexão sobre o desafio, notei uma diferença clara na organização das minhas anotações de acordo com a dificuldade do tema. Para os conteúdos facilmente absorvidos, utilizei textos bem mais curtos, baseados em palavras-chave e esquemas rápidos, pois o entendimento imediato dispensou grandes explicações. Por outro lado, para as informações mais complexas e menos ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515040#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=515206#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "514795",
+          "autor": "JOSEMAR DE PAULA",
+          "data": "2026-07-28T13:17:18-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Boa tarde grupo. bora aprender, conteudo excelente.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=514795#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
         },
         {
           "id": "514516",
@@ -1713,112 +1823,6 @@
           "prazos": [],
           "autoridade": "colega",
           "novo": true
-        },
-        {
-          "id": "513476",
-          "autor": "APARECIDO DONIZETE ALVES CIPRIANO",
-          "data": "2026-07-28T10:41:04-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Vi que as lives serão no período noturno, sou professor nesse período e gostaria de saber se elas ficarão disponível para quem não possa acompanhar ao vvo?",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513476#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=514516#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513331",
-          "autor": "MANOEL BAZANI SIMOES JUNIOR",
-          "data": "2026-07-28T10:26:25-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Achei o vídeo sobre a língua coreana bastante interessante, principalmente por mostrar diferenças na escrita e na pronúncia em relação ao português. Foi curioso conhecer o alfabeto coreano (Hangul) e perceber como a organização da língua reflete aspectos da cultura do país.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513331#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513202",
-          "autor": "PAULO ANTONIO ROSSINO CAMPOS",
-          "data": "2026-07-28T10:05:20-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Para mim, escrever tem sido algo relativamente natural. Como trabalho na área da educação, a elaboração de aulas, atividades, documentos burocráticos e outros materiais faz parte da minha rotina. Minha principal motivação para escrever é conseguir organizar as ideias e transmitir conhecimentos de maneira clara aos meus alunos.\n\nNo entanto, percebo que o grau de dificuldade da escrita é relativo. T",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513202#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "513107",
-          "autor": "CARLOS EDUARDO NUNES DA SILVA",
-          "data": "2026-07-28T09:52:31-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Os símbolos em coreano ficam claros quando relacionados com as letras de nosso alfabeto em português, pois o “b”, “a”, por exemplo, em banana e bada são percebidos facilmente em hangul (alfabeto coreano), em que as sílabas são formadas por consoantes e vogais.\nA linguagem existe para expressar conceitos do mundo em nossa volta, seja em coreano ou em português, é um tipo de convenção; um grupo em u",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=513107#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "512436",
-          "autor": "ADILEIA DAS DORES FERREIRA",
-          "data": "2026-07-28T07:47:30-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Bom dia, Rosenes\n\nVocê tem acesso a matéria Ética, Cidadania e Sociedade? Lá no tópico Dúvidas Gerais dessa matéria o facilitador esclareceu sobre várias dúvidas, inclusive essa.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=512436#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "512334",
-          "autor": "ROSENES LUZIA DE SOUZA",
-          "data": "2026-07-28T06:57:11-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "O curta-metragem Out of Sight pode ser analisado sob diferentes perspectivas teóricas e pedagógicas. 1. Análise Semiótica e Linguagem Não Verbal: Construção de Sentido sem Palavras: O filme não utiliza diálogos falados. A narrativa se sustenta inteiramente na linguagem corporal, na sonoridade e nos recursos visuais da animação. Sinestesia e Metáfora Visual: A animação traduz estímulos táteis, audi",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=512334#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "512319",
-          "autor": "ALESSANDRO BOMFIM DE OLIVEIRA",
-          "data": "2026-07-28T06:49:00-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Escrever é, antes de tudo, um ato de revelação e de lapidação. A motivação para escrever nasce da urgência de dar corpo ao intangível de capturar aquilo que pulsa, seja o eco de uma memória, o peso de uma angústia ou a leveza de um sonho. Para mim, a escrita funciona como um espelho e uma ponte: espelho porque organiza o caos interno; ponte porque busca tocar o outro. Escrever é o esforço conscien",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=512319#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
         }
       ],
       "sections": [
@@ -1827,7 +1831,7 @@
           "title": "Geral",
           "parent": null,
           "locked": null,
-          "theme": "CICLO BÁSICO\n\nLeitura e Produção de Textos\n\nPlano de Ensino\nschedule\n\nCarga horária\n\n80 horas [10 horas/semana]\n\nschool\n\nDatas & Apoio\n\nCronograma | Facilitadores\n\nleaderboard\n\nNota da disciplina\n\nMF ",
+          "theme": "CICLO BÁSICO\nLeitura e Produção de Textos\n\nPlano de Ensino\n\n\n\nschedule\n\nCarga horária\n80 horas [10 horas/semana]\n\n\nschool\n\nDatas & Apoio\nCronograma | Facilitadores\n\n\nleaderboard\n\nNota da disciplina\nMF",
           "items": [
             {
               "cmid": "165162",
@@ -1871,7 +1875,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1882,7 +1886,7 @@
               "label": "Referências da disciplina",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=165166",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
@@ -1897,14 +1901,14 @@
           "title": "Semana 1",
           "parent": null,
           "locked": null,
-          "theme": "As funções sociais da leitura e da escrita",
+          "theme": "Tema: As funções sociais da leitura e da escrita",
           "items": [
             {
               "cmid": "165167",
               "label": "S1 - Início",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=165167",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
@@ -1916,72 +1920,67 @@
               "label": "S1 - Videoaulas",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=165168",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-02T23:59:00-03:00",
-              "aberto": true
+              "carencia": "2026-08-02T23:59:00-03:00"
             },
             {
               "cmid": "165169",
               "label": "S1 - Texto-base 1: Tinta sobre papel: técnicas de escrita e de representações de ilusões | Valdir Heitor Barzotto, Débora Trevizo, Rafael Barreto do Prado e Rita Maria Decarli Bottega",
               "type": "url",
               "url": "https://ava.univesp.br/mod/url/view.php?id=165169",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-02T23:59:00-03:00",
-              "aberto": true
+              "carencia": "2026-08-02T23:59:00-03:00"
             },
             {
               "cmid": "165170",
               "label": "S1 - Texto-base 2: A escola que (não) ensina a escrever (Leia as páginas 15 a 24) | Silvia M. Gasparian Colello",
               "type": "lti",
               "url": "https://ava.univesp.br/mod/lti/view.php?id=165170",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-02T23:59:00-03:00",
-              "aberto": true
+              "carencia": "2026-08-02T23:59:00-03:00"
             },
             {
               "cmid": "165171",
               "label": "S1 - Texto-base 3: Dicionário Paulo Freire (Leia o verbete Escrever/escrita) | Jaime José Zitkoski, Danilo R. Streck e Euclides Redin",
               "type": "lti",
               "url": "https://ava.univesp.br/mod/lti/view.php?id=165171",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-02T23:59:00-03:00",
-              "aberto": true
+              "carencia": "2026-08-02T23:59:00-03:00"
             },
             {
               "cmid": "165172",
               "label": "S1 - Texto-base 4: Dicionário Paulo Freire (Leia o verbete Ler/leitura) | Jaime José Zitkoski, Danilo R. Streck e Euclides Redin",
               "type": "lti",
               "url": "https://ava.univesp.br/mod/lti/view.php?id=165172",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-02T23:59:00-03:00",
-              "aberto": true
+              "carencia": "2026-08-02T23:59:00-03:00"
             },
             {
               "cmid": "165173",
               "label": "S1 - Aprofundando o tema",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=165173",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
@@ -1993,21 +1992,20 @@
               "label": "S1 - Atividade Avaliativa",
               "type": "quiz",
               "url": "https://ava.univesp.br/mod/quiz/view.php?id=165174",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
-              "prazo": "2026-08-02T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
-              "aberto": true
+              "prazo": "2026-07-29T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-02T23:59:00-03:00"
             },
             {
               "cmid": "165175",
               "label": "S1 - Fórum temático",
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-              "status": "Marcar como feito",
-              "nao_lidas": "14",
+              "status": "Concluído",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2018,7 +2016,7 @@
               "label": "S1 - Live com facilitador",
               "type": "lti",
               "url": "https://ava.univesp.br/mod/lti/view.php?id=165176",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
@@ -2030,7 +2028,7 @@
               "label": "S1 - Em síntese",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=165177",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
@@ -2045,7 +2043,7 @@
           "title": "Semana 2",
           "parent": null,
           "locked": null,
-          "theme": "As concepções de linguagem",
+          "theme": "Tema: As concepções de linguagem",
           "items": [
             {
               "cmid": "165178",
@@ -2142,7 +2140,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Marcar como feito",
-              "nao_lidas": "17",
+              "nao_lidas": "11",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2180,7 +2178,7 @@
           "title": "Semana 3",
           "parent": null,
           "locked": "Disponível a partir de 03 de agosto de 2026",
-          "theme": "As relações entre a leitura e a escrita",
+          "theme": "Tema: As relações entre a leitura e a escrita",
           "items": [],
           "fase": "regular"
         },
@@ -2189,7 +2187,7 @@
           "title": "Semana 4",
           "parent": null,
           "locked": "Disponível a partir de 10 de agosto de 2026",
-          "theme": "Coesão e coerência",
+          "theme": "Tema: Coesão e coerência",
           "items": [],
           "fase": "regular"
         },
@@ -2198,7 +2196,7 @@
           "title": "Semana 5",
           "parent": null,
           "locked": "Disponível a partir de 17 de agosto de 2026",
-          "theme": "Informatividade e clareza",
+          "theme": "Tema: Informatividade e clareza",
           "items": [],
           "fase": "regular"
         },
@@ -2207,7 +2205,7 @@
           "title": "Semana 6",
           "parent": null,
           "locked": "Disponível a partir de 24 de agosto de 2026",
-          "theme": "Discurso e adequação",
+          "theme": "Tema: Discurso e adequação",
           "items": [],
           "fase": "regular"
         },
@@ -2216,7 +2214,7 @@
           "title": "Semana 7",
           "parent": null,
           "locked": "Disponível a partir de 31 de agosto de 2026",
-          "theme": "Táticas de revisão e reescrita",
+          "theme": "Tema: Táticas de revisão e reescrita",
           "items": [],
           "fase": "regular"
         },
@@ -2225,7 +2223,7 @@
           "title": "Revisão",
           "parent": null,
           "locked": "Disponível a partir de 31 de agosto de 2026",
-          "theme": "Revisão da disciplina",
+          "theme": "Tema: Revisão da disciplina",
           "items": [],
           "fase": "regular"
         }
@@ -2527,6 +2525,52 @@
           "novo": false
         },
         {
+          "id": "515146",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-07-28T13:56:29-03:00",
+          "titulo": "Re: Q1 - Fórum geral",
+          "texto": "Prezados alunos, como estão?\n\nInformo que nesta quinta-feira (30/07), às 19h, teremos nossa a primeira live da turma com os facilitadores. Pretendo repassar as principais orientações para a quinzena e tirar eventuais dúvidas sobre a disciplina.\n\nSegue link de acesso: https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external\n\nConto com a presença de",
+          "links": [
+            "https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external",
+            "https://ava.univesp.br/mod/forum/post.php?reply=515146#mformforum"
+          ],
+          "forum": "Q1 - Fórum geral",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "515134",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-07-28T13:55:03-03:00",
+          "titulo": "Re: Q1 - Fórum geral",
+          "texto": "Olá! Já vou postar uma mensagem aqui sobre isso. A live com o facilitador será na quinta, 19h.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=515134#mformforum"
+          ],
+          "forum": "Q1 - Fórum geral",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "515124",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-07-28T13:54:06-03:00",
+          "titulo": "Live com o facilitador - Quinzena 1",
+          "texto": "Prezados,\n\nEstá marcada para a quinta-feira (30/07), às 19h, a primeira live da turma com os facilitadores. Pretendo repassar as principais orientações para a quinzena e tirar eventuais dúvidas sobre a disciplina.\n\nSegue link de acesso: https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external\n\nConto com a presença de todos!\n\nObs: a live também fic",
+          "links": [
+            "https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126445",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "502800",
           "autor": "Lucas Demeda Dos Santos",
           "data": "2026-07-27T11:22:15-03:00",
@@ -2649,52 +2693,6 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
-        },
-        {
-          "id": "442246",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-07-16T15:33:10-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Prezados, lamento pelo transtorno de todos.\n\nAcredito que houve um atraso do sistema na mudança de fase de envio para fase de avaliação dos trabalhos, mas agora aparentemente está tudo certo. Peçam para o aluno que enviou o trabalho do grupo acessar novamente a aba \"S4 - Laboratório\" e descer até o fim da página. Deve constar lá o trabalho para avaliar.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=442246#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=146218",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "437688",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-07-15T19:32:25-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Complementando com algum atraso: eventualmente. a Univesp pode comunicar a ocorrência de cursos externos que são interessantes para os alunos. Quanto à prestação de cursos próprios, você pode obter informações via SAE: https://atendimento.univesp.br/sae/portal.html",
-          "links": [
-            "https://atendimento.univesp.br/sae/portal.html",
-            "https://ava.univesp.br/mod/forum/post.php?reply=437688#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=146218",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "421945",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-07-10T19:36:47-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Vou confirmar essa informação, mas acredito que você precise buscar em instituições externas, como ocorre com os estágios.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=421945#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=146218",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
         }
       ],
       "sections": [
@@ -2772,7 +2770,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=148170",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2806,7 +2804,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3233,16 +3231,6 @@
       "cmid": "160785"
     },
     {
-      "nome": "Término de S1 - Atividade Avaliativa",
-      "quando": "2026-08-02T23:59:00-03:00",
-      "curso_id": "18893",
-      "curso": "LET110-BIA-2026S2B1-T001",
-      "atividade": "S1 - Atividade Avaliativa",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165174",
-      "acao": "Tentar responder o questionário agora",
-      "cmid": "165174"
-    },
-    {
       "nome": "M6 - Revisão entre pares (Portfólio Individual) - prazo limite para avaliação",
       "quando": "2026-08-04T23:59:00-03:00",
       "curso_id": "18922",
@@ -3324,96 +3312,6 @@
   "mensagens": [],
   "acoes": [
     {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "videoaula",
-      "o_que": "S1 - Videoaulas",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=165168",
-      "conta_nota": true,
-      "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 29/07 às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-02T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "amanha"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Leia",
-      "coisa": "material-base",
-      "o_que": "S1 - Texto-base 1: Tinta sobre papel: técnicas de escrita e de representações de ilusões | Valdir Heitor Barzotto, Débora Trevizo, Rafael Barreto do Prado e Rita Maria Decarli Bottega",
-      "tipo": "url",
-      "url": "https://ava.univesp.br/mod/url/view.php?id=165169",
-      "conta_nota": true,
-      "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 29/07 às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-02T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "amanha"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Acesse",
-      "coisa": "ferramenta",
-      "o_que": "S1 - Texto-base 2: A escola que (não) ensina a escrever (Leia as páginas 15 a 24) | Silvia M. Gasparian Colello",
-      "tipo": "lti",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165170",
-      "conta_nota": true,
-      "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 29/07 às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-02T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "amanha"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Acesse",
-      "coisa": "ferramenta",
-      "o_que": "S1 - Texto-base 3: Dicionário Paulo Freire (Leia o verbete Escrever/escrita) | Jaime José Zitkoski, Danilo R. Streck e Euclides Redin",
-      "tipo": "lti",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165171",
-      "conta_nota": true,
-      "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 29/07 às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-02T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "amanha"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Acesse",
-      "coisa": "ferramenta",
-      "o_que": "S1 - Texto-base 4: Dicionário Paulo Freire (Leia o verbete Ler/leitura) | Jaime José Zitkoski, Danilo R. Streck e Euclides Redin",
-      "tipo": "lti",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165172",
-      "conta_nota": true,
-      "prazo": "2026-07-29T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 29/07 às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-02T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "amanha"
-    },
-    {
       "curso": "COM170",
       "secao": "Módulo 6",
       "fase": "regular",
@@ -3462,24 +3360,6 @@
       "o_que": "S1 - Atividade Avaliativa",
       "tipo": "quiz",
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=160785",
-      "conta_nota": true,
-      "prazo": "2026-08-02T23:59:00-03:00",
-      "prazo_txt": "vence 02/08 às 23:59",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "semana"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Responda",
-      "coisa": "questionário",
-      "o_que": "S1 - Atividade Avaliativa",
-      "tipo": "quiz",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165174",
       "conta_nota": true,
       "prazo": "2026-08-02T23:59:00-03:00",
       "prazo_txt": "vence 02/08 às 23:59",
@@ -3930,114 +3810,6 @@
     },
     {
       "curso": "LET110",
-      "secao": "Geral",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "Referências da disciplina",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=165166",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "S1 - Início",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=165167",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "S1 - Aprofundando o tema",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=165173",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Participe",
-      "coisa": "do fórum",
-      "o_que": "S1 - Fórum temático",
-      "tipo": "forum",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "live",
-      "o_que": "S1 - Live com facilitador",
-      "tipo": "lti",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165176",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 1",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "S1 - Em síntese",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=165177",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "LET110",
       "secao": "Semana 2",
       "fase": "regular",
       "verbo": "Abra e conclua",
@@ -4117,60 +3889,6 @@
       "o_que": "S2 - Em síntese",
       "tipo": "page",
       "url": "https://ava.univesp.br/mod/page/view.php?id=165187",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "SOC100",
-      "secao": "Semana 2",
-      "fase": "regular",
-      "verbo": "Participe",
-      "coisa": "do fórum",
-      "o_que": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-      "tipo": "forum",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "SOC100",
-      "secao": "Semana 2",
-      "fase": "regular",
-      "verbo": "Participe",
-      "coisa": "do fórum",
-      "o_que": "S2 - Fórum de dúvidas gerais",
-      "tipo": "forum",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "SOC100",
-      "secao": "Semana 2",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "live",
-      "o_que": "S2 - Live com facilitador",
-      "tipo": "lti",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=168809",
       "conta_nota": false,
       "prazo": null,
       "prazo_txt": "",
@@ -4321,7 +4039,7 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
+      "label": "S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -4333,25 +4051,13 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
       "curso": "COM100",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -4386,94 +4092,34 @@
       "autoridade": "colega"
     },
     {
-      "curso": "SOC100",
-      "label": "S1 - Texto-base - Ética (Leia o capítulo 2, \"Introdução à ética\", p. 23-36) | Alessandro Lombardi Crisostomo, Gisele Varani, Priscila dos Santos Pereira e Sheila Beatriz Ost",
-      "kind": "concluido",
-      "cmid": "168794"
+      "curso": "COM100",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
     },
     {
       "curso": "SOC100",
-      "label": "S1 - Vídeo-base - Qual o significado de ética? | CONAEDU",
+      "label": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
       "kind": "concluido",
-      "cmid": "168795"
+      "cmid": "168808"
     },
     {
       "curso": "SOC100",
-      "label": "S1 - Aprofundando o tema",
+      "label": "S2 - Fórum de dúvidas gerais",
       "kind": "concluido",
-      "cmid": "168796"
+      "cmid": "182605"
     },
     {
       "curso": "SOC100",
-      "label": "S1 - Atividade Avaliativa",
+      "label": "S2 - Live com facilitador",
       "kind": "concluido",
-      "cmid": "168797"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-      "kind": "concluido",
-      "cmid": "168798"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S1 - Fórum de dúvidas gerais",
-      "kind": "concluido",
-      "cmid": "182604"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S1 - Live com facilitador",
-      "kind": "concluido",
-      "cmid": "168799"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S1 - Em síntese",
-      "kind": "concluido",
-      "cmid": "168800"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S2 - Início",
-      "kind": "concluido",
-      "cmid": "168801"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S2 - Texto-base - Ética: origens e distinção da  moral | Antônio Macena Figueiredo",
-      "kind": "concluido",
-      "cmid": "168802"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S2 - Videoaulas",
-      "kind": "concluido",
-      "cmid": "168803"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S2 - Texto-base - O entendimento cultural da moral| Ana Maria Orofino Teles",
-      "kind": "concluido",
-      "cmid": "168804"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S2 - Vídeo-base - O que é cultura? | FábricaRH",
-      "kind": "concluido",
-      "cmid": "168805"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S2 - Aprofundando o tema",
-      "kind": "concluido",
-      "cmid": "168806"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S2 - Atividade Avaliativa",
-      "kind": "concluido",
-      "cmid": "168807"
+      "cmid": "168809"
     },
     {
       "curso": "SOC100",
@@ -4543,7 +4189,7 @@
     },
     {
       "curso": "SOC100",
-      "label": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+      "label": "Re: S1 - Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -4555,9 +4201,123 @@
     },
     {
       "curso": "LET110",
+      "label": "Referências da disciplina",
+      "kind": "concluido",
+      "cmid": "165166"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Início",
+      "kind": "concluido",
+      "cmid": "165167"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Videoaulas",
+      "kind": "concluido",
+      "cmid": "165168"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Texto-base 1: Tinta sobre papel: técnicas de escrita e de representações de ilusões | Valdir Heitor Barzotto, Débora Trevizo, Rafael Barreto do Prado e Rita Maria Decarli Bottega",
+      "kind": "concluido",
+      "cmid": "165169"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Texto-base 2: A escola que (não) ensina a escrever (Leia as páginas 15 a 24) | Silvia M. Gasparian Colello",
+      "kind": "concluido",
+      "cmid": "165170"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Texto-base 3: Dicionário Paulo Freire (Leia o verbete Escrever/escrita) | Jaime José Zitkoski, Danilo R. Streck e Euclides Redin",
+      "kind": "concluido",
+      "cmid": "165171"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Texto-base 4: Dicionário Paulo Freire (Leia o verbete Ler/leitura) | Jaime José Zitkoski, Danilo R. Streck e Euclides Redin",
+      "kind": "concluido",
+      "cmid": "165172"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Aprofundando o tema",
+      "kind": "concluido",
+      "cmid": "165173"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Atividade Avaliativa",
+      "kind": "concluido",
+      "cmid": "165174"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Fórum temático",
+      "kind": "concluido",
+      "cmid": "165175"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Live com facilitador",
+      "kind": "concluido",
+      "cmid": "165176"
+    },
+    {
+      "curso": "LET110",
+      "label": "S1 - Em síntese",
+      "kind": "concluido",
+      "cmid": "165177"
+    },
+    {
+      "curso": "LET110",
+      "label": "Informações gerais",
+      "kind": "aviso",
+      "autoridade": "institucional"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso",
+      "autoridade": "institucional"
+    },
+    {
+      "curso": "LET110",
       "label": "Instruções Gerais",
       "kind": "aviso",
       "autoridade": "institucional"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso",
+      "autoridade": "colega"
     },
     {
       "curso": "LET110",
@@ -4596,46 +4356,22 @@
       "autoridade": "colega"
     },
     {
-      "curso": "LET110",
-      "label": "Re: Fórum de dúvidas gerais",
+      "curso": "COM170",
+      "label": "Re: Q1 - Fórum geral",
       "kind": "aviso",
-      "autoridade": "colega"
+      "autoridade": "institucional"
     },
     {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
+      "curso": "COM170",
+      "label": "Re: Q1 - Fórum geral",
       "kind": "aviso",
-      "autoridade": "colega"
+      "autoridade": "institucional"
     },
     {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
+      "curso": "COM170",
+      "label": "Live com o facilitador - Quinzena 1",
       "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
+      "autoridade": "institucional"
     },
     {
       "curso": "COM170",
