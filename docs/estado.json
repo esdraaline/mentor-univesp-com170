@@ -23,7 +23,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160780": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:40:49-03:00",
+    "ultimo": "2026-07-29T14:03:31-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -44,6 +44,87 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "524653",
+        "autor": "EDUARDO DE GODOY PUTTON",
+        "data": "2026-07-29T13:31:15-03:00",
+        "titulo": "Re: Fórum de dúvidas gerais",
+        "texto": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Semana 1 é hoje, 29/07/2026, às 23:59. Porém, o cronograma também apresenta como data limite/carência o dia 02/08/2026, às 23:59. Pergunta: Para os alunos que não conseguirem enviar as a",
+        "links": [
+          "https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html",
+          "https://ava.univesp.br/mod/forum/post.php?reply=524653#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+        "prazos": [
+          {
+            "rotulo": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Gera...",
+            "quando": "2026-07-29T23:59:00-03:00",
+            "trecho": "29/07/2026, às 23:59",
+            "tipo": "fim",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          },
+          {
+            "rotulo": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Gera...",
+            "quando": "2026-08-02T23:59:00-03:00",
+            "trecho": "02/08/2026, às 23:59",
+            "tipo": "fim",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          },
+          {
+            "rotulo": "Pergunta",
+            "quando": "2026-07-29T23:59:00-03:00",
+            "trecho": "29/07",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          },
+          {
+            "rotulo": "Pergunta",
+            "quando": "2026-08-02T23:59:00-03:00",
+            "trecho": "02/08",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          }
+        ],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -170,31 +251,61 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "502797",
-        "autor": "GABRIEL AUGUSTO DOLCI DE GOBI",
-        "data": "2026-07-27T11:21:57-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Bom dia, Jasiel! Tudo bem? Comigo aconteceu o mesmo. Se você clicar na opção para assistir sem a intérprete de libras da para assistir normalmente.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=502797#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:45:41-03:00",
+    "ultimo": "2026-07-29T14:17:17-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "524804",
+        "autor": "ANA CLAUDIA DE OLIVEIRA QUEIROZ VIANNA",
+        "data": "2026-07-29T13:54:50-03:00",
+        "titulo": "Re: S1 - Fórum temático",
+        "texto": "No meu dia a dia, um exemplo em que a tecnologia se manifesta de forma constante é no gerenciamento das despesas e orçamento familiar, por meio do uso de planilhas integradas e aplicativos de controle financeiro. Em vez de anotações soltas ou controle manual, utilizo o aplicativo bancário conectado a um software de gestão que categoriza automaticamente os gastos diários (como alimentação, transpor",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524804#mformforum"
+        ],
+        "forum": "S1 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "524656",
+        "autor": "TIAGO LUCIANO RIBEIRO",
+        "data": "2026-07-29T13:31:55-03:00",
+        "titulo": "Re: S1 - Fórum temático",
+        "texto": "A matéria da semana foi muito esclarecedora. Um ponto principal, para mim, foi entender de que forma se discutia tão amplamente a computação, em sua raiz, a mais de 70 anos, quando nem existiam os computadores da forma como os conhecemos. Era algo que sempre me causava certa estranheza.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524656#mformforum"
+        ],
+        "forum": "S1 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "524529",
+        "autor": "WALDO SANDEI JUNIOR",
+        "data": "2026-07-29T13:12:13-03:00",
+        "titulo": "Re: S1 - Fórum temático",
+        "texto": "O Pensamento computacional está intrinseco na nossa realidade, tudo que fazemos, até mesmo sem pensar, em cada ação estamos utilizando inteligencia artificial, seja no aplicativo do banco, emails, gps, enfim, a tecnologia está presente em tudo que fazemos e já fazemos parte dela, a forma com a qual nos comunicamos com ela para obter os resultados são prova disso",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524529#mformforum"
+        ],
+        "forum": "S1 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "523493",
         "autor": "FLAVIA GARCIA DA CUNHA",
@@ -300,51 +411,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "522002",
-        "autor": "ANA CAROLINE DA COSTA NOVAIS",
-        "data": "2026-07-28T23:42:50-03:00",
-        "titulo": "Re: S1 - Fórum temático",
-        "texto": "Eriza, que interessante seu comentário\nDe fato o pensamento computacional nada mais é que organizar ideias e determinar como e quando algo deve acontecer.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=522002#mformforum"
-        ],
-        "forum": "S1 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "521894",
-        "autor": "JOAO FRANCISCO URICH LOURENCO",
-        "data": "2026-07-28T23:26:37-03:00",
-        "titulo": "Re: S1 - Fórum temático",
-        "texto": "Com os conteúdos apresentados na semana, consegui realmente visualizar e entender a importância da Computação no Ensino Básico. Isso me remeteu à uma memória de quando tive minha primeira aula de programação na faculdade, e o quanto me diverti na matéria. Acredito que se eu tivesse tido contato com computação de forma mais profunda durante o Ensino Fundamental e Médio, minha conexão com a escola t",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=521894#mformforum"
-        ],
-        "forum": "S1 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "521517",
-        "autor": "REINALDO DE CASSIO SILVA MORAIS",
-        "data": "2026-07-28T22:41:09-03:00",
-        "titulo": "Re: S1 - Fórum temático",
-        "texto": "Ao longo dos meus mais de 20 anos atuando em gestão de contas estratégicas e outsourcing de TI no segmento bancário, vejo o pensamento computacional se manifestar diariamente nos processos de prevenção a fraudes em transações bancárias. Um exemplo concreto é a forma como as instituições financeiras reduzem o problema de \"detectar uma transação fraudulenta\" em problemas menores: análise de padrões ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=521517#mformforum"
-        ],
-        "forum": "S1 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -407,7 +473,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:26:20-03:00",
+    "ultimo": "2026-07-29T13:30:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 19,
     "posts_institucionais_guardados": 10,
@@ -570,11 +636,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168798": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:43:07-03:00",
+    "ultimo": "2026-07-29T15:00:12-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "525123",
+        "autor": "JOAO VITOR MONTES PINHEIRO",
+        "data": "2026-07-29T14:48:15-03:00",
+        "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+        "texto": "Olá, pessoal! O caso do João Vitor reflete bem um dilema contemporâneo presente em muitas famílias, colocando em evidência como a facilidade de acesso às telas desafia nossa capacidade de gestão do tempo e tomada de decisões.\n\nAnalisando a situação sob a ótica da ética, percebemos que a transição da heteronomia — quando dependemos de regras impostas pelos outros — para a autonomia não acontece mag",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=525123#mformforum"
+        ],
+        "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "524272",
         "autor": "MATHEUS CORREA PINTO",
@@ -709,21 +790,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "515378",
-        "autor": "ANA CAROLINA DE MELO ZOTT LEONEL",
-        "data": "2026-07-28T14:21:06-03:00",
-        "titulo": "Re: S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-        "texto": "A história de João Vitor me fez refletir sobre como a tecnologia está presente no nosso dia a dia e como é importante encontrar um equilíbrio entre liberdade, autonomia e responsabilidade. Na minha opinião, uma pessoa não se torna racional e autônoma apenas ao atingir determinada idade. Esse é um processo que acontece conforme aprendemos a pensar sobre nossas escolhas, entender suas consequências ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=515378#mformforum"
-        ],
-        "forum": "S1 - Fórum Temático - Autonomia e liberdade: até que ponto as pessoas são livres?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -753,7 +819,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:12:53-03:00",
+    "ultimo": "2026-07-29T14:36:40-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -773,6 +839,87 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "524661",
+        "autor": "EDUARDO DE GODOY PUTTON",
+        "data": "2026-07-29T13:32:18-03:00",
+        "titulo": "Re: Fórum de dúvidas gerais",
+        "texto": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Semana 1 é hoje, 29/07/2026, às 23:59. Porém, o cronograma também apresenta como data limite/carência o dia 02/08/2026, às 23:59. Pergunta: Para os alunos que não conseguirem enviar as a",
+        "links": [
+          "https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html",
+          "https://ava.univesp.br/mod/forum/post.php?reply=524661#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+        "prazos": [
+          {
+            "rotulo": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Gera...",
+            "quando": "2026-07-29T23:59:00-03:00",
+            "trecho": "29/07/2026, às 23:59",
+            "tipo": "fim",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          },
+          {
+            "rotulo": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Gera...",
+            "quando": "2026-08-02T23:59:00-03:00",
+            "trecho": "02/08/2026, às 23:59",
+            "tipo": "fim",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          },
+          {
+            "rotulo": "Pergunta",
+            "quando": "2026-07-29T23:59:00-03:00",
+            "trecho": "29/07",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          },
+          {
+            "rotulo": "Pergunta",
+            "quando": "2026-08-02T23:59:00-03:00",
+            "trecho": "02/08",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                1
+              ],
+              "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
+            },
+            "confianca": "baixa",
+            "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
+          }
+        ],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -895,28 +1042,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "496991",
-        "autor": "JANICE AUGUSTO BAPTISTA DE FIGUEIREDO",
-        "data": "2026-07-26T17:31:14-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Olá! Qual o sentido de haver um fórum de dúvidas se as dúvidas não são respondidas? Em outras disciplinas elas estão sendo respondidas. Aqui, até agora, não vi respostas.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=496991#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=500340#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165175": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:27:04-03:00",
+    "ultimo": "2026-07-29T14:42:22-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -1476,7 +1607,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=173825": {
     "schema_version": 2,
-    "ultimo": "2026-07-28T13:56:29-03:00",
+    "ultimo": "2026-07-29T13:25:33-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 4,
     "posts_institucionais_guardados": 4,
@@ -2227,7 +2358,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:30:03-03:00",
+    "ultimo": "2026-07-29T15:02:37-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -2279,13 +2410,13 @@
         "novo": true
       },
       {
-        "id": "524087",
-        "autor": "RICARDO MANDU DA SILVA",
-        "data": "2026-07-29T11:58:23-03:00",
+        "id": "525262",
+        "autor": "PAMELA BRUNA MOREIRA VECHIATO",
+        "data": "2026-07-29T15:02:37-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "Escolhi como exemplo a organização de uma viagem.\n\nNa abstração, considero apenas as informações essenciais, como destino, orçamento, datas e transporte, deixando de lado detalhes que podem ser definidos depois.\n\nNa decomposição, divido a atividade em etapas, como pesquisar o destino, reservar hospedagem, comprar passagens e montar o roteiro.\n\nNo reconhecimento de padrões, utilizo experiências de ",
+        "texto": "Escolhi a atividade de organizar minha rotina de estudos.\n\nAbstração: Eu me concentraria apenas no que é mais importante, como as matérias que preciso estudar, o tempo que tenho disponível e as datas das provas.\n\nDecomposição: Eu dividiria a tarefa em partes menores: fazer uma lista das matérias, separar os conteúdos que preciso estudar, organizar os horários e deixar um tempo para revisão.\n\nRecon",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=524087#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=525262#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2294,13 +2425,13 @@
         "novo": true
       },
       {
-        "id": "524077",
-        "autor": "LUAN FERREIRA DA SILVA CAMPOS",
-        "data": "2026-07-29T11:57:18-03:00",
+        "id": "525231",
+        "autor": "VITORIA CAMPOS CONCIANI",
+        "data": "2026-07-29T14:58:19-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "Posso usar como exemplo a forma como eu organizo meus estudos: Começo a semana reconhecendo o volume de material para estudo de cada matéria e dou continuidade de acordo com o que é mais conveniente a rotina da semana (Algoritmo/Decomposição); Aí antes de dar início ao estudo do material da devida matéria em questão eu olho os tópicos de discussão do fórum da semana, para justamente dar ênfase nas",
+        "texto": "Uma atividade cotidiana em que aplico os quatro pilares do pensamento computacional é a organização da minha rotina semanal, conciliando as atividades profissionais da advocacia com os estudos da graduação.\n\nAbstração: Para organizar a rotina, desconsidero inicialmente detalhes menos relevantes, como a ordem exata das tarefas que não possuem prazo ou pequenas interrupções que podem surgir durante ",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=524077#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=525231#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2309,13 +2440,13 @@
         "novo": true
       },
       {
-        "id": "523975",
-        "autor": "CICERO SUARI DE MACEDO FILHO",
-        "data": "2026-07-29T11:44:50-03:00",
+        "id": "525178",
+        "autor": "MICHEL DE CAMPOS VETTORATO",
+        "data": "2026-07-29T14:54:46-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "\"Organização e Planejamento do Início da Jornada de Trabalho\", pois ela faz parte da rotina de praticamente todo profissional e demonstra com clareza a aplicação prática dos 4 pilares do Pensamento Computacional.\n1. Abstração\nPergunta: Quais detalhes você eliminaria ou simplificaria para focar nos aspectos mais importantes da atividade?\n\nAplicação na Rotina: Ao chegar ao trabalho, é fácil se distr",
+        "texto": "Escolhi como exemplo a minha rotina de estudos na UNIVESP.\n\nAbstração:\nEu foco no que realmente preciso fazer na semana: assistir às aulas, ler o material, fazer as atividades e participar do fórum. Tento não perder tempo com coisas que podem me distrair.\n\nDecomposição:\nDivido meus estudos em etapas:\n\nVer o cronograma da semana; Assistir às videoaulas; Ler o conteúdo; Fazer as atividades; Particip",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=523975#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=525178#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2324,13 +2455,13 @@
         "novo": true
       },
       {
-        "id": "523886",
-        "autor": "AUGUSTO MOREIRA MAGALHAES",
-        "data": "2026-07-29T11:33:06-03:00",
+        "id": "525160",
+        "autor": "Raquel Fernanda Piato Tasca",
+        "data": "2026-07-29T14:51:56-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "Um exemplo simples pode ser o fato de usar o carro pra se locomover até o trabalho.\nEm relação a abstração, fatores triviais como colocar música, checar a parte mecânica, entre outros, são irrelevantes pro ato de dirigir em si.\nA operação pode ser dividida entre: Entrar no carro; Ligar o carro, Retirar o carro da garagem; Executar o trajeto até o trabalho; Estacionar o carro; Fechar e trancar o ca",
+        "texto": "Pensei em utilizar minha semana para aplicar o pensamento computacional.\nSegue:\n\nAtividade diária / Problema cotidiano: Organizar a rotina de estudos e conciliar com o trabalho de 8h diárias\n\n• Abstração: Focar nas entregas prioritárias com prazo próximo e nos conteúdos essenciais das disciplinas, ignorando distrações (redes sociais).\n• Decomposição: Dividir a semana em etapas menores, como mapear",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=523886#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=525160#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2339,14 +2470,13 @@
         "novo": true
       },
       {
-        "id": "523413",
-        "autor": "PEDRO HENRIQUE MOTTA DOS SANTOS BERO",
-        "data": "2026-07-29T10:27:15-03:00",
+        "id": "524850",
+        "autor": "JOAO VITOR MONTES PINHEIRO",
+        "data": "2026-07-29T14:06:14-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "Uma atividade do meu dia a dia que eu uso o pensamento computacional é por incrível que pareça o ato de cozinhar ovos para o café da manhã\n\nonde eu separo o que eu preciso\novos;\nagua;\npanela;\n\ncoloco todos no na panela;\ncoloco eles no fogão com a chama acesa;\nespero até o cozimento se concluir;\ndescasco;\ne como",
+        "texto": "Olá, pessoal! Para o desafio desta semana, escolhi uma atividade simples, mas que exige bastante organização no meu dia a dia: preparar a marmita da semana. Veja como aplico os quatro pilares do pensamento computacional nessa tarefa:\n\nCom a decomposição, eu divido essa grande tarefa em etapas menores e mais fáceis de gerenciar: planejar o cardápio, fazer a lista e compras no mercado, higienizar os",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=523413#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=524008#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=524850#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2355,13 +2485,13 @@
         "novo": true
       },
       {
-        "id": "523341",
-        "autor": "SILVIA ALEIXO VIEIRA DE SOUZA",
-        "data": "2026-07-29T10:14:59-03:00",
+        "id": "524844",
+        "autor": "DAVID DE JESUS BUENO DE CAMARGO",
+        "data": "2026-07-29T14:04:56-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "Mais legal é que dá pra montar novos planejamentos a partir das estratégias de PC aqui mencionadas, são de utilidade diária e motivam mudanças de comportamento um problema dividido  padroniza facilitando a resolução.",
+        "texto": "Para a atividade desta semana escolhi aplicar o pensamento computacional na organização de uma viagem.\n1- Abstração: Deixaria de lado as atividades \"secundarias\" como escolha de roupas que irei levar, como onde irei me alimentar e etc...\n2- Decomposição: Dividiria em partes menores para que o planejamento tenha poucas falhas, definindo inicialmente o orçamento e a data da viagem, a partir deste po",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=523341#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=524844#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2370,13 +2500,13 @@
         "novo": true
       },
       {
-        "id": "522912",
-        "autor": "SILVIA ALEIXO VIEIRA DE SOUZA",
-        "data": "2026-07-29T09:01:48-03:00",
+        "id": "524544",
+        "autor": "MARIA CAROLINA SANTOS BISIO",
+        "data": "2026-07-29T13:14:36-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "A atividade escolhida foi alimentar meus pets diariamente.\n\nDecomposição: Divido a tarefa em etapas menores: comprar a ração, armazená-la corretamente, separar os pratos, organizar o local da alimentação, colocar a ração, abastecer os potes de água e manter a rotina de alimentação quatro vezes ao dia.\n\nReconhecimento de padrões: Percebo que essa atividade se repete todos os dias nos mesmos horário",
+        "texto": "Escolhi a atividade organizar meu tempo de estudo.\n\n- Abstração: Foco nas matérias mais importantes e deixo de lado distrações, como redes sociais e tarefas que podem esperar.\n\n- Decomposição: Divido o estudo em etapas: escolher a matéria, revisar o conteúdo, fazer exercícios e revisar os erros.\n\n- Reconhecimento de padrões: Percebo quais horários tenho mais rendimento e quais conteúdos exigem mai",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=522912#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=524544#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2385,13 +2515,13 @@
         "novo": true
       },
       {
-        "id": "522789",
-        "autor": "MATHEUS TERLESKI SILVA",
-        "data": "2026-07-29T08:33:21-03:00",
+        "id": "524489",
+        "autor": "GABRIEL FORTUNATO COUTINHO GUIMARAES",
+        "data": "2026-07-29T13:05:57-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "Meu problema atualmente é dar conta das demandas da rotina, como trabalhar, estudar, treinar e me alimentar, nesse contexto eu consigo elucidar de acordo com o pensamento computacional da seguinte maneira:\nAbstração: Cada atividade em uma palavra, um titulo. De manha - bike, marmitinhas e trabalho, a tarde - trabalhar, curso no horario livre e treinar, a noite - treinar e dormir.\nDecomposição: Eu ",
+        "texto": "Escolhi lavar a louça para aplicar o desafio da semana.\n\nAbstração: Focar apenas no essencial para a limpeza, desconsiderando detalhes irrelevantes como o design dos pratos ou a ordem caótica em que foram empilhados na pia. A atenção vai estritamente para o nível de sujeira e o tipo de material de cada peça.\n\nDecomposição: A tarefa de limpar a pia é dividida em subprocessos menores e mais simples:",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=522789#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=524489#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2400,13 +2530,13 @@
         "novo": true
       },
       {
-        "id": "522688",
-        "autor": "THIAGO HENRIQUE AMARO QUATROQUI",
-        "data": "2026-07-29T08:09:18-03:00",
+        "id": "524446",
+        "autor": "FELIPE RODRIGUES PEREIRA",
+        "data": "2026-07-29T12:56:06-03:00",
         "titulo": "Re: S2 - Fórum temático",
-        "texto": "Uma atividade da minha rotina em que aplico o pensamento computacional é a organização dos meus estudos. Como estudante de Inteligência Artificial, preciso equilibrar o tempo entre leituras, videoaulas, exercícios e avaliações, e os quatro pilares me ajudam bastante nisso.\n\nAbstração: Para não me perder em detalhes que não fazem diferença, eu deixo de lado coisas como a ordem exata em que vou assi",
+        "texto": "Minha contribuição para o fórum: Aplicação do Pensamento Computacional no Estudo\n​Para este desafio, escolhi a atividade cotidiana de estudar para uma prova ou disciplina. Veja como aplico os quatro pilares do pensamento computacional nesse processo:\n​1. Decomposição\n​Divido o objetivo macro (\"estudar a matéria toda\") em partes menores e mais fáceis de gerenciar:\n​Ler a teoria e fazer anotações.\n​",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=522688#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=524446#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -2418,11 +2548,41 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182604": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:44:06-03:00",
+    "ultimo": "2026-07-29T15:08:29-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "524707",
+        "autor": "ANA CLAUDIA DE OLIVEIRA QUEIROZ VIANNA",
+        "data": "2026-07-29T13:39:22-03:00",
+        "titulo": "Re: S1 - Fórum de dúvidas gerais",
+        "texto": "a disciplina é bem interessante. retomar e esclarecer os direitos e deveres de cada um de nós cidadãos, perante a sociedade é de extrema importância dada base a situação das pessoas atualmente. Extremamente apressadas, extremamente comentaristas e julgadoras e detentoras da verdade absoluta, e sendo a ética super bem vinda no ano de 2026. obg professores pelo excelente materrial didático.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524707#mformforum"
+        ],
+        "forum": "S1 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "524559",
+        "autor": "BRUNA LORO FERRAZ",
+        "data": "2026-07-29T13:17:25-03:00",
+        "titulo": "Re: S1 - Fórum de dúvidas gerais",
+        "texto": "Olá, boa tarde!\n\nTambém estou com essa mesma dúvida. Quando será a live e como funcionará?",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524559#mformforum"
+        ],
+        "forum": "S1 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "522812",
         "autor": "DAVI AZEVEDO FERNANDES",
@@ -2431,7 +2591,8 @@
         "texto": "Bom dia!\n\nComo funciona a Live com o Facilitador ?",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=522812#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=523362#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=523362#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=524559#mformforum"
         ],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
@@ -2543,46 +2704,76 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "516248",
-        "autor": "IVAN PAVIN CILENTO",
-        "data": "2026-07-28T15:58:40-03:00",
-        "titulo": "Re: S1 - Fórum de dúvidas gerais",
-        "texto": "Olá!\n\nGostaria de parabenizar os coordenadores e docentes, além de todos os que participaram. O material e a abordagem estão muito bons e de fácil entendimento.\n\nTenho apenas uma dúvida: o texto-base desta semana não está sendo exibido para mim. \"Desculpe! Esta atividade está oculta no momento\". Isso é esperado ou há algum problema no AVA?",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=516248#mformforum"
-        ],
-        "forum": "S1 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "515544",
-        "autor": "ADRIANA ARRUDA ARANHA",
-        "data": "2026-07-28T14:36:42-03:00",
-        "titulo": "Re: S1 - Fórum de dúvidas gerais",
-        "texto": "Entender os conceitos fundamentais da ética e buscar compreender as ações humanas, seus conflitos e como o homem se constitui na sociedade.\nIsso nos leva ao entendimento de cidadania dentro de um contexto histórico.\nCompreender a ética enquanto conhecimento filosófico e enquanto ao uso popular, onde a ética se mostra como princípio de condutas num grupo de pessoas.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=515544#mformforum"
-        ],
-        "forum": "S1 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:50:24-03:00",
+    "ultimo": "2026-07-29T15:02:10-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "525173",
+        "autor": "JOAO MARCOS MARTINS DE SOUZA",
+        "data": "2026-07-29T14:53:59-03:00",
+        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "texto": "Em um Estado laico, a decisão mais acertada seria promover a campanha de prevenção, ainda que ela contrariasse as convicções religiosas do ministro. Ao ocupar um cargo público, o agente deve priorizar o bem comum, a ética pública e a proteção da população, baseando suas decisões em evidências científicas, dados e critérios racionais. A liberdade religiosa deve ser respeitada na esfera privada, mas",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=525173#mformforum"
+        ],
+        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "524893",
+        "autor": "VINICIUS ARAUJO DE ANDRADE",
+        "data": "2026-07-29T14:15:42-03:00",
+        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "texto": "Concordo. Quando se está à frente de um grupo, representando seus interesses, o que deve ser levado em consideração é o interesse coletivo, assim como seu bem estar. Mesmo que vá contra suas crenças.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524893#mformforum"
+        ],
+        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "524868",
+        "autor": "WANDERSON DOS SANTOS COSTA",
+        "data": "2026-07-29T14:08:36-03:00",
+        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "texto": "Esse é um exemplo que ilustra bem a questão. No caso, o que mais seria prudente , deixando de lado a questão da formação religiosa do ministro, levando em conta os critérios técnicos que o cargo exige, era promover a campanha visando o bem da população em geral, isto é , decidir contrariamente à sua fé , consequentemente , à sua formação e crenças morais.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524868#mformforum"
+        ],
+        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "524796",
+        "autor": "ANTONIO CARLOS LEPIQUE DOS SANTOS",
+        "data": "2026-07-29T13:53:59-03:00",
+        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "texto": "Do ponto de vista ético, com certeza, deveria agir em benefício público em detrimento de seu julgamento privado. Mas conviver com culpa seja talvez uma das piores condições a que um ser humano pode se colocar. Hipoteticamente, poderia até levá-lo a decisões equivocas e ainda mais antiéticas no futuro, porque a culpa corrói o ser humano silenciosamente. E alguém preso a uma dor (seja ela física ou ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=524796#mformforum"
+        ],
+        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "524120",
         "autor": "WAGNER ROBERTO GARO JUNIOR",
@@ -2672,72 +2863,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "521850",
-        "autor": "ADIMILSON CANDIDO DA SILVA",
-        "data": "2026-07-28T23:20:03-03:00",
-        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "texto": "Ele, na condição de indutor de políticas públicas, deve ater-se ao interesse público e deixar de lado suas crenças particulares. Sob o ponto de vista ético, as decisões públicas não deveria sofrer influências de suas crenças particulares.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=521850#mformforum"
-        ],
-        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "521486",
-        "autor": "VICTOR RODRIGO SALATINI MAURICIO",
-        "data": "2026-07-28T22:37:39-03:00",
-        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "texto": "Boa noite a todos, na minha opinião a decisão mais acertada do ponto de vista ético seria a primeira opção, em que o ministro coloca o interesse público acima de suas convicções pessoais, como representante do Estado, sua principal responsabilidade é proteger a saúde e a vida da população, a campanha de incentivo ao uso de preservativos tinha como objetivo reduzir a transmissão da AIDS, sendo uma ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=521486#mformforum"
-        ],
-        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "520594",
-        "autor": "PAULO SERGIO PINHEIRO ROSA",
-        "data": "2026-07-28T21:40:49-03:00",
-        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "texto": "Panorama das posições dos colegas.\nDefensores do Dever Público (Opção 1): Colegas como ROBERTO DE OLIVEIRA LOPES, ADILSON PEGGAU, CLAUDIO APARECIDO, HUGO VIGATTI, DAVID DE JESUS e PAULO ROBERTO argumentam que o agente público serve à coletividade e a um Estado laico. Para eles, a saúde pública e a ciência devem prevalecer, exigindo que o ministro sacrifique suas convicções morais em nome do bem co",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=520594#mformforum"
-        ],
-        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "520042",
-        "autor": "LUANA FRANCA COSTA",
-        "data": "2026-07-28T21:10:53-03:00",
-        "titulo": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "texto": "Com base no que foi apresentado, o governante precisa separar a ética moral dele, da ética pública. \n\nSendo assim, ele precisa promover o que atende aos interesses da população. Mesmo que isso entre em conflito com sua convicção religiosa.\n\nA moral orienta a vida pessoal, a ética publica orienta as ações/decisões tomadas em benefício da coletividade.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=520042#mformforum"
-        ],
-        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182605": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:38:49-03:00",
+    "ultimo": "2026-07-29T14:33:08-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -2928,11 +3059,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165185": {
     "schema_version": 2,
-    "ultimo": "2026-07-29T12:15:47-03:00",
+    "ultimo": "2026-07-29T14:56:43-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "525202",
+        "autor": "MARCOS FERNANDO GIOTTO",
+        "data": "2026-07-29T14:56:43-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Achei interessante a didática da aula, conseguiu prender a atenção e creio que ajuda na fixação quando se usa exemplos escritos ou figuras. Notei também que a pronúncia/tonicidade da sílaba é importante como outros idiomas orientais. Foi relativamente familiar, pois, tem o conceito de consoantes, vogais e sílabas.\nO que me chamou a atenção e que seria um desafio no aprendizado é a questão de as sí",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=525202#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "523650",
         "autor": "MARIA HELENA ROCHA BARBOSA",
@@ -3061,21 +3207,6 @@
         "texto": "O conteúdo de mais fácil absorção foi a assimilação do alfabeto e a forma em que funcionam a organização das silabas em quadrantes, para o conteúdo compreendido facilmente as explicações são curtas e objetivas. Para conteúdos mais complexos ao meu entendimento as anotações são mais extensas e com maior números de palavras chaves, para posterior revisão.\nPara que você comente algo pressupõe que haj",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=519743#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "519277",
-        "autor": "JOSEMAR DE PAULA",
-        "data": "2026-07-28T20:30:15-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Na aula de coreano, o que absorvi mais rápido foi a lógica das sílabas (consoante + vogal), parecida com o português, então minhas anotações ficaram curtas, só palavras-chave. Já a organização espacial das letras no bloco quadrado (vogal do lado ou embaixo da consoante) me confundiu mais, precisei escrever tópicos e exemplos pra entender.\n\nSobre a gradação comentar/descrever/listar, acho que ela a",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=519277#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
