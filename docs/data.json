@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-07-30T23:15:59.548870+00:00",
-  "snapshot_at": "2026-07-30T23:15:59.548870+00:00",
-  "attempted_at": "2026-07-30T23:15:59.548870+00:00",
-  "publication_id": "2026-07-30T23:15:59.548870+00:00",
+  "checked_at": "2026-07-31T00:04:16.360385+00:00",
+  "snapshot_at": "2026-07-31T00:04:16.360385+00:00",
+  "attempted_at": "2026-07-31T00:04:16.360385+00:00",
+  "publication_id": "2026-07-31T00:04:16.360385+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 37,
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-07-30T23:15:59.549941+00:00",
-      "last_live_at": "2026-07-30T23:15:59.549941+00:00",
+      "checked_at": "2026-07-31T00:04:16.361602+00:00",
+      "last_live_at": "2026-07-31T00:04:16.361602+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-07-30T23:15:59.549941+00:00",
-      "last_live_at": "2026-07-30T23:15:59.549941+00:00",
+      "checked_at": "2026-07-31T00:04:16.361602+00:00",
+      "last_live_at": "2026-07-31T00:04:16.361602+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -40,8 +40,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-07-30T23:15:59.549941+00:00",
-      "last_live_at": "2026-07-30T23:15:59.549941+00:00",
+      "checked_at": "2026-07-31T00:04:16.361602+00:00",
+      "last_live_at": "2026-07-31T00:04:16.361602+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -53,8 +53,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-07-30T23:15:59.549941+00:00",
-      "last_live_at": "2026-07-30T23:15:59.549941+00:00",
+      "checked_at": "2026-07-31T00:04:16.361602+00:00",
+      "last_live_at": "2026-07-31T00:04:16.361602+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -69,10 +69,10 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-07-30T23:15:59.549941+00:00",
-      "last_live_at": "2026-07-30T23:15:59.549941+00:00",
+      "checked_at": "2026-07-31T00:04:16.361602+00:00",
+      "last_live_at": "2026-07-31T00:04:16.361602+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 7,
+      "quantidade_atual": 5,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
@@ -80,8 +80,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-07-30T23:15:59.549941+00:00",
-      "last_live_at": "2026-07-30T23:15:59.549941+00:00",
+      "checked_at": "2026-07-31T00:04:16.361602+00:00",
+      "last_live_at": "2026-07-31T00:04:16.361602+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -359,6 +359,111 @@
           "novo": true
         },
         {
+          "id": "537825",
+          "autor": "ADAM YOSHIDA SHINSATO",
+          "data": "2026-07-30T20:58:51-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Abstração: Quando estudo para uma prova, deixo de lado detalhes que sei que não vão cair, como exemplos muito específicos, curiosidades, coisas fora do foco da matéria. Fico só com os conceitos principais e as fórmulas/definições que realmente importam.\n\nDecomposição: Em vez de tentar estudar tudo de uma vez, divido em partes: primeiro vejo o que vai cair na prova, depois separo por assunto, estud",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537825#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "537552",
+          "autor": "CLAUDINEI SOUZA JUNQUEIRA",
+          "data": "2026-07-30T20:40:59-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Escolhi a atividade de fazer compras de mercado da semana/mês para aplicar os quatro pilares do pensamento computacional.\n\nAqui está a minha análise:\n\n1. Abstração\nQuais detalhes você eliminaria ou simplificaria para focar nos aspectos mais importantes da atividade?\n\nEliminaria a atenção a marcas secundárias, embalagens chamativas e promoções de itens fora da necessidade imediata.\n\nFocaria apenas ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537552#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "537503",
+          "autor": "JANEIDE AGUIDA DA SILVA",
+          "data": "2026-07-30T20:36:17-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Pensei na arrumação da Mochila Escolar dos meus filhos.\n\nDecomposição: Dividir a tarefa em 4 etapas — checar horários, separar materiais, preparar itens de alimentação/higiene e guardar tudo na mochila.\n\nReconhecimento de Padrões: Identificar regras repetitivas da semana (ex: estojo e garrafa vão todos os dias; uniforme do Judô e iniciação esportiva só vai nas terças e quintas).\n\nAbstração: Focar ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537503#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "537478",
+          "autor": "PAULO ROBERTO PEREIRA",
+          "data": "2026-07-30T20:34:52-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Atividade: Preparar uma macarronada\n\nAbstração: Focar nos ingredientes principais: massa, molho de tomate e temperos\n\nDecomposição: Separação dos ingredientes e utensílios de uso\n\nReconhecimento de padrões: Uso do fogão para o preparo do aquecimento da água e depois para o preparo do molho.\n\nAlgoritmo:\nLigar a panela com a água até ela ferver.\nMergulhar o macarrão nela até ficar no ponto ideal.\nRe",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537478#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "537442",
+          "autor": "FABIO NAKASHIMA",
+          "data": "2026-07-30T20:32:37-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Boa noite a todos!\nEstou tentando acessar Texto de apoio: Computação na educação básica: fundamentos e experiências (Leia o capítulo 1) | André Raabe, Avelino F. Zorzo e Paulo Blikstein da semana 1 S1-início, porém aparece que preciso acessar pela minha biblioteca\n\nTento acessar a minha biblioteca, mas aparece o seguinte aviso\nO usuário 26227478@aluno.univesp.br não tem acesso à Minha Biblioteca D",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537442#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "537365",
+          "autor": "CLAUDINEI SOUZA JUNQUEIRA",
+          "data": "2026-07-30T20:26:30-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Olá a todos!\n\nComo meu processo de aprendizagem é mais dinâmico e visual — não costumo fazer anotações em papel, mas sim refletir sobre os conceitos mentalmente no dia a dia —, analisei o Pensamento Computacional a partir de situações práticas que observo na minha rotina e na vida da minha família.\n\nCompartilho abaixo minhas análises:\n\nExemplo 1: Organização da Rotina Doméstica e Compras de Mercad",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537365#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "537336",
+          "autor": "PAULO ANDRE LOPES SOUSA",
+          "data": "2026-07-30T20:24:31-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Galera, um exemplo bem prático de como a gente usa o pensamento computacional sem perceber é no dia a dia com o Waze ou o Google Maps.\n\nPara traçar a rota, o app faz exatamente o que a gente estuda: divide o caminho em trechos menores (decomposição), identifica onde costuma ter trânsito baseado em horários anteriores (reconhecimento de padrões), ignora um monte de detalhes da rua que não importam ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537336#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "537147",
           "autor": "BIANCA GONCALVES DA CUNHA",
           "data": "2026-07-30T20:11:26-03:00",
@@ -369,115 +474,6 @@
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "536940",
-          "autor": "JOSEMAR DE PAULA",
-          "data": "2026-07-30T19:52:49-03:00",
-          "titulo": "Re: S2 - Fórum de dúvidas gerais",
-          "texto": "Boa noite, pessoal!\n\nAcompanhei os materiais da Semana 2 sobre pensamento computacional e gostei bastante do conteúdo, especialmente a parte sobre os quatro pilares aplicados no dia a dia. O fórum temático ficou muito interessante com as contribuições de todos.\n\nSobre a live, também fiquei na dúvida se já tinha acontecido, mas pelo que vi nos comentários, parece que as lives vão começar a partir d",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?edit=536940",
-            "https://ava.univesp.br/mod/forum/post.php?delete=536940",
-            "https://ava.univesp.br/mod/forum/post.php?reply=536940#mformforum"
-          ],
-          "forum": "S2 - Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "536931",
-          "autor": "JOSEMAR DE PAULA",
-          "data": "2026-07-30T19:51:38-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Olá, pessoal!\n\nEscolhi como atividade cotidiana lavar a louça, que é algo que faço todos os dias. Vou aplicar os quatro pilares do pensamento computacional:\n\nAbstração: Para focar no essencial, ignoro detalhes que não influenciam na lavagem em si, como a origem de cada prato, o tipo de comida que foi servida ou pequenas manchas que saem com o sabão normal. Concentro minha atenção no que importa: a",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?edit=536931",
-            "https://ava.univesp.br/mod/forum/post.php?delete=536931",
-            "https://ava.univesp.br/mod/forum/post.php?reply=536931#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "536804",
-          "autor": "THIAGO BATISTA",
-          "data": "2026-07-30T19:37:27-03:00",
-          "titulo": "Re: S1 - Fórum de dúvidas gerais",
-          "texto": "Quando será a live com o facilitador?",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=536804#mformforum"
-          ],
-          "forum": "S1 - Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "536789",
-          "autor": "THIAGO BATISTA",
-          "data": "2026-07-30T19:35:39-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Hoje em dia não tem como prosperar sem usar a tecnologia, essa é a melhor evidência do motivo de realizar o Normativo sobre Computação na Educação Básica.\n\nSou da época do fluxograma, onde uma atividade era dividida em passos até chegar no resultado esperado, sendo similar a uma produção em linha, quem sabe revemos isso ao longo do curso!",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=536789#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "536778",
-          "autor": "JULIO CESAR DE SOUZA",
-          "data": "2026-07-30T19:34:48-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Para a proposta desta reflexão, com aplicação do pensamento computacional, escolhi a tarefa diária de gestão de equipe no meu ambiente laboral.\n\nAbstração: Com a proposta de tornar o dia mais produtivo, o foco é categorizar os e-mails por ordem de categorização, como urgente, importante e relevante. Assim consigo dar agilidade na primeira hora do dia.\n\nDecomposição: Com as mensagens categorizadas,",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=536778#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "536610",
-          "autor": "KARINE TORIBIO",
-          "data": "2026-07-30T19:20:36-03:00",
-          "titulo": "Re: S1 - Fórum de dúvidas gerais",
-          "texto": "Material da semana muito bom.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=536610#mformforum"
-          ],
-          "forum": "S1 - Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "536573",
-          "autor": "LUCAS LUIS LOURENCO",
-          "data": "2026-07-30T19:17:11-03:00",
-          "titulo": "Re: S2 - Fórum de dúvidas gerais",
-          "texto": "caso seja possivel disponibiliza a live",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=536573#mformforum"
-          ],
-          "forum": "S2 - Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -603,7 +599,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -615,7 +611,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -697,7 +693,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "9",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -709,7 +705,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1135,7 +1131,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "3",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1253,7 +1249,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
-              "nao_lidas": "6",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1265,7 +1261,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1322,13 +1318,12 @@
               "label": "S2 - Texto-base - Ética: origens e distinção da  moral | Antônio Macena Figueiredo",
               "type": "url",
               "url": "https://ava.univesp.br/mod/url/view.php?id=208033",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": "2026-08-05T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-09T23:59:00-03:00",
-              "aberto": true
+              "carencia": "2026-08-09T23:59:00-03:00"
             },
             {
               "cmid": "168803",
@@ -1347,13 +1342,12 @@
               "label": "S2 - Texto-base - O entendimento cultural da moral| Ana Maria Orofino Teles",
               "type": "url",
               "url": "https://ava.univesp.br/mod/url/view.php?id=208034",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": "2026-08-05T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-09T23:59:00-03:00",
-              "aberto": true
+              "carencia": "2026-08-09T23:59:00-03:00"
             },
             {
               "cmid": "168805",
@@ -1397,7 +1391,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "16",
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1409,7 +1403,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1698,6 +1692,21 @@
           "novo": true
         },
         {
+          "id": "537524",
+          "autor": "JOAQUIM FLORIANO DE SOUZA",
+          "data": "2026-07-30T20:38:07-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "A gradação conduz a mente a uma jornada fluida: Reconhecer, Compreender o Fenômeno, Aplicar na Prática, Teorizar sobre o Processo. Essa organização reduz a carga cognitiva, evita o bloqueio por excesso de abstração no início e garante que o conteúdo mais denso seja absorvido de forma natural e integrada. O texto fica leve e de fácil compressão.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=537524#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "536581",
           "autor": "RYAN DA SILVA FELIZARDO",
           "data": "2026-07-30T19:17:44-03:00",
@@ -1825,21 +1834,6 @@
           "texto": "Nas explicações sobre o que entendi melhor, usei textos mais curtos para comentar. Nos mais difíceis, precisei de maior detalhamento. Os comandos do desafio (as palavras Comente Descreva Liste) denotam a gradação da necessidade de maior organização para expressar conceitos que demandam maior reflexão para a sua absorção. E vice versa.",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=533827#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "533543",
-          "autor": "WAGNER ROBERTO GARO JUNIOR",
-          "data": "2026-07-30T12:43:33-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Parabéns Felipe pela sua organização. Também tive essa mesma visão... Inicialmente foi um susto rsrsrs... muito diferente... aos poucos houve o reconhecimento do código em relação ao som ... como seria o nosso alfabeto ... consoantes e vogais .... silabas... a pronúncia ainda fiquei em dúvida... ponto de maior dificuldade é grafia vinculada a um quadrado... achei subjetivo ...\nPalavras chaves – pr",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=533543#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -3376,42 +3370,6 @@
       "urgencia": "semana"
     },
     {
-      "curso": "SOC100",
-      "secao": "Semana 2",
-      "fase": "regular",
-      "verbo": "Leia",
-      "coisa": "material-base",
-      "o_que": "S2 - Texto-base - Ética: origens e distinção da  moral | Antônio Macena Figueiredo",
-      "tipo": "url",
-      "url": "https://ava.univesp.br/mod/url/view.php?id=208033",
-      "conta_nota": true,
-      "prazo": "2026-08-05T23:59:00-03:00",
-      "prazo_txt": "vence 05/08 às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-09T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "semana"
-    },
-    {
-      "curso": "SOC100",
-      "secao": "Semana 2",
-      "fase": "regular",
-      "verbo": "Leia",
-      "coisa": "material-base",
-      "o_que": "S2 - Texto-base - O entendimento cultural da moral| Ana Maria Orofino Teles",
-      "tipo": "url",
-      "url": "https://ava.univesp.br/mod/url/view.php?id=208034",
-      "conta_nota": true,
-      "prazo": "2026-08-05T23:59:00-03:00",
-      "prazo_txt": "vence 05/08 às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-09T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "semana"
-    },
-    {
       "curso": "COM170",
       "secao": "COM170 - IA na Prática Acadêmica e Profissional",
       "fase": "regular",
@@ -3550,54 +3508,6 @@
   "novidades": [
     {
       "curso": "COM100",
-      "label": "S1 - Fórum de dúvidas gerais",
-      "kind": "concluido",
-      "cmid": "207955"
-    },
-    {
-      "curso": "COM100",
-      "label": "S2 - Início",
-      "kind": "concluido",
-      "cmid": "160789"
-    },
-    {
-      "curso": "COM100",
-      "label": "S2 - Avaliação",
-      "kind": "concluido",
-      "cmid": "160790"
-    },
-    {
-      "curso": "COM100",
-      "label": "S2 - Atividade Avaliativa",
-      "kind": "concluido",
-      "cmid": "160791"
-    },
-    {
-      "curso": "COM100",
-      "label": "S2 - Fórum temático",
-      "kind": "concluido",
-      "cmid": "160792"
-    },
-    {
-      "curso": "COM100",
-      "label": "S2 - Fórum de dúvidas gerais",
-      "kind": "concluido",
-      "cmid": "207956"
-    },
-    {
-      "curso": "COM100",
-      "label": "S2 - Live com facilitador",
-      "kind": "concluido",
-      "cmid": "160793"
-    },
-    {
-      "curso": "COM100",
-      "label": "S2 - Em síntese",
-      "kind": "concluido",
-      "cmid": "160794"
-    },
-    {
-      "curso": "COM100",
       "label": "Bem-vindos à disciplina COM100 - Pensamento Computacional!",
       "kind": "aviso",
       "autoridade": "institucional"
@@ -3640,7 +3550,7 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S2 - Fórum de dúvidas gerais",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -3652,7 +3562,19 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S1 - Fórum de dúvidas gerais",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -3669,16 +3591,16 @@
       "autoridade": "colega"
     },
     {
-      "curso": "COM100",
-      "label": "Re: S1 - Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "colega"
+      "curso": "SOC100",
+      "label": "S2 - Texto-base - Ética: origens e distinção da  moral | Antônio Macena Figueiredo",
+      "kind": "concluido",
+      "cmid": "208033"
     },
     {
-      "curso": "COM100",
-      "label": "Re: S2 - Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "colega"
+      "curso": "SOC100",
+      "label": "S2 - Texto-base - O entendimento cultural da moral| Ana Maria Orofino Teles",
+      "kind": "concluido",
+      "cmid": "208034"
     },
     {
       "curso": "SOC100",
@@ -3778,36 +3700,6 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
@@ -3820,13 +3712,43 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
       "curso": "LET110",
       "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
