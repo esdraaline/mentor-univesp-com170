@@ -1,6 +1,6 @@
 {
   "https://ava.univesp.br/mod/forum/discuss.php?d=123397": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-22T00:19+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -22,7 +22,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160780": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T15:29:15-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
@@ -267,8 +267,8 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
-    "schema_version": 2,
-    "ultimo": "2026-07-31T17:25:34-03:00",
+    "schema_version": 3,
+    "ultimo": "2026-07-31T17:30:29-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -427,7 +427,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=123388": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-22T00:11+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -449,7 +449,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=122945": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-25T16:44+0000",
     "truncado": false,
     "posts_institucionais_vistos": 2,
@@ -466,7 +466,7 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=122945",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "453521",
@@ -484,7 +484,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T16:24:44-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 34,
@@ -659,7 +659,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168798": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:07:20-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -818,7 +818,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=123032": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-21T13:06+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -842,7 +842,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:28:47-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
@@ -1071,7 +1071,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165175": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:20:24-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -1230,7 +1230,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=146218": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-24T16:07:27-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 7,
@@ -1438,7 +1438,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=99953": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-06-22T19:31+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -1453,14 +1453,25 @@
         "links": [],
         "forum": "Avisos",
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=99953",
-        "prazos": [],
+        "prazos": [
+          {
+            "rotulo": "Fiquem tranquilos quanto ao acesso à plataforma",
+            "quando": "2026-06-23T23:59:00-03:00",
+            "trecho": "23/06",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": null,
+            "confianca": "baixa",
+            "frase": "Olá, pessoal! Passando para lembrar que a atividade obrigatória de hoje é assistir à nossa Live de Boas-Vindas Fiquem tranquilos quanto ao acesso à plataforma: o Gemini será liberado amanhã, terça-feira (23/06)"
+          }
+        ],
         "autoridade": "institucional",
         "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=112790": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-08T22:55+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -1482,7 +1493,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=123537": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-22T01:28+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -1504,7 +1515,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=124738": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-24T23:08+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -1611,7 +1622,7 @@
             "rotulo": "LIVE INICIAL",
             "quando": "2026-07-23T23:59:00-03:00",
             "trecho": "23/07",
-            "tipo": "fim",
+            "tipo": "compromisso",
             "hora_certa": false,
             "escopo": {
               "familia": "modulo",
@@ -1621,22 +1632,54 @@
               ],
               "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
             },
-            "confianca": "baixa",
-            "frase": "Fechamento das avaliações por pares: terça-feira, 04 ago. 2026, 23:59 Atenção: apenas a pessoa que fez a entrega do trabalho do grupo receberá um trabalho para avaliar no AVA, mas essa avaliação deve ser feita em conj..."
+            "confianca": "alta",
+            "frase": "Fechamento das avaliações por pares: terça-feira, 04 ago. 2026, 23:59 Atenção: apenas a pessoa que fez a entrega do trabalho do grupo receberá um trabalho para avaliar no AVA, mas essa avaliação deve ser feita em conj...",
+            "titulo_evento": null
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=173825": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T11:15:34-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
     "posts": [
+      {
+        "id": "515146",
+        "autor": "Lucas Demeda Dos Santos",
+        "data": "2026-07-28T13:56:29-03:00",
+        "titulo": "Re: Q1 - Fórum geral",
+        "texto": "Prezados alunos, como estão?\n\nInformo que nesta quinta-feira (30/07), às 19h, teremos nossa a primeira live da turma com os facilitadores. Pretendo repassar as principais orientações para a quinzena e tirar eventuais dúvidas sobre a disciplina.\n\nSegue link de acesso: https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external\n\nConto com a presença de",
+        "links": [
+          "https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external",
+          "https://ava.univesp.br/mod/forum/post.php?reply=515146#mformforum",
+          "https://rec.elos.vc/playback/presentation/2.3/a1d503ed86cddd7465bc664da6cbeeff09316ac4-1785448840020",
+          "https://ava.univesp.br/pluginfile.php/359931/mod_forum/attachment/540618/Live_Orientacao_Q1_completa_compressed.pdf?forcedownload=1",
+          "https://ava.univesp.br/mod/forum/post.php?reply=540618#mformforum"
+        ],
+        "forum": "Q1 - Fórum geral",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
+        "prazos": [
+          {
+            "rotulo": "Prezados alunos, como estão? Informo que nesta quinta-feira (30/07), às 19h, teremos no...",
+            "quando": "2026-07-30T19:00:00-03:00",
+            "trecho": "30/07), às 19h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": null,
+            "confianca": "alta",
+            "frase": "Prezados alunos, como estão? Informo que nesta quinta-feira (30/07), às 19h, teremos nossa a primeira live da turma com os facilitadores",
+            "titulo_evento": "Prezados alunos, como estão?"
+          }
+        ],
+        "autoridade": "institucional",
+        "novo": true
+      },
       {
         "id": "476026",
         "autor": "Lucas Demeda Dos Santos",
@@ -1651,6 +1694,17 @@
         "forum": "Q1 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
         "prazos": [
+          {
+            "rotulo": "Agradecemos a todos que participaram do processo e parabenizamos os alunos eleitos, que...",
+            "quando": "2026-07-23T23:59:00-03:00",
+            "trecho": "23/07",
+            "tipo": "compromisso",
+            "hora_certa": false,
+            "escopo": null,
+            "confianca": "alta",
+            "frase": "Agradecemos a todos que participaram do processo e parabenizamos os alunos eleitos, que assumem a missão de contribuir para a comunicação e o fortalecimento da turma 📡 Sobre as Lives 1️⃣ Hoje (23/07), teremos live com...",
+            "titulo_evento": "📡 Sobre as Lives"
+          },
           {
             "rotulo": "O mesmo vale para o 3 e o 4 O Módulo 4 é diferente A atividade final precisa ser entreg...",
             "quando": "2026-07-26T23:59:00-03:00",
@@ -1746,25 +1800,6 @@
         "titulo": "Re: Q1 - Fórum geral",
         "texto": "[MENSAGEM DO FACILITADOR📝]\n\nPrezados,\n\nSegue o link da gravação da live realizada ontem: https://rec.elos.vc/playback/presentation/2.3/a1d503ed86cddd7465bc664da6cbeeff09316ac4-1785448840020\n\nEnvio em anexo também os slides utilizados na apresentação. \n\nForam repassadas as principais informações e tiradas dúvidas sobre o funcionamento da disciplina e sobre as atividades da primeira quinzena. \n\nAten",
         "links": [
-          "https://rec.elos.vc/playback/presentation/2.3/a1d503ed86cddd7465bc664da6cbeeff09316ac4-1785448840020",
-          "https://ava.univesp.br/pluginfile.php/359931/mod_forum/attachment/540618/Live_Orientacao_Q1_completa_compressed.pdf?forcedownload=1",
-          "https://ava.univesp.br/mod/forum/post.php?reply=540618#mformforum"
-        ],
-        "forum": "Q1 - Fórum geral",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
-        "prazos": [],
-        "autoridade": "institucional",
-        "novo": true
-      },
-      {
-        "id": "515146",
-        "autor": "Lucas Demeda Dos Santos",
-        "data": "2026-07-28T13:56:29-03:00",
-        "titulo": "Re: Q1 - Fórum geral",
-        "texto": "Prezados alunos, como estão?\n\nInformo que nesta quinta-feira (30/07), às 19h, teremos nossa a primeira live da turma com os facilitadores. Pretendo repassar as principais orientações para a quinzena e tirar eventuais dúvidas sobre a disciplina.\n\nSegue link de acesso: https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external\n\nConto com a presença de",
-        "links": [
-          "https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external",
-          "https://ava.univesp.br/mod/forum/post.php?reply=515146#mformforum",
           "https://rec.elos.vc/playback/presentation/2.3/a1d503ed86cddd7465bc664da6cbeeff09316ac4-1785448840020",
           "https://ava.univesp.br/pluginfile.php/359931/mod_forum/attachment/540618/Live_Orientacao_Q1_completa_compressed.pdf?forcedownload=1",
           "https://ava.univesp.br/mod/forum/post.php?reply=540618#mformforum"
@@ -1904,7 +1939,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=173826": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T11:17:35-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 7,
@@ -2391,7 +2426,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:11:52-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -2583,7 +2618,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182604": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:16:51-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 9,
@@ -2746,8 +2781,8 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
-    "schema_version": 2,
-    "ultimo": "2026-07-31T17:26:27-03:00",
+    "schema_version": 3,
+    "ultimo": "2026-07-31T17:31:17-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -2906,7 +2941,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182605": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:21:47-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 12,
@@ -3074,7 +3109,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=125495": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-27T13:24+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -3091,12 +3126,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=125495",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165185": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:18:19-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -3255,7 +3290,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126298": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-28T13:46+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -3277,7 +3312,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126438": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-28T16:47+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -3301,12 +3336,41 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126445": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T12:40+0000",
     "truncado": false,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
     "posts": [
+      {
+        "id": "515124",
+        "autor": "Lucas Demeda Dos Santos",
+        "data": "2026-07-28T13:54:06-03:00",
+        "titulo": "Live com o facilitador - Quinzena 1",
+        "texto": "Prezados,\n\nEstá marcada para a quinta-feira (30/07), às 19h, a primeira live da turma com os facilitadores. Pretendo repassar as principais orientações para a quinzena e tirar eventuais dúvidas sobre a disciplina.\n\nSegue link de acesso: https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external\n\nConto com a presença de todos!\n\nObs: a live também fic",
+        "links": [
+          "https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external",
+          "https://rec.elos.vc/playback/presentation/2.3/a1d503ed86cddd7465bc664da6cbeeff09316ac4-1785448840020",
+          "https://ava.univesp.br/pluginfile.php/330876/mod_forum/attachment/540615/Live_Orientacao_Q1_completa_compressed.pdf?forcedownload=1"
+        ],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126445",
+        "prazos": [
+          {
+            "rotulo": "Prezados, Está marcada para a quinta-feira (30/07), às 19h, a primeira live da turma co...",
+            "quando": "2026-07-30T19:00:00-03:00",
+            "trecho": "30/07), às 19h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": null,
+            "confianca": "alta",
+            "frase": "Prezados, Está marcada para a quinta-feira (30/07), às 19h, a primeira live da turma com os facilitadores",
+            "titulo_evento": null
+          }
+        ],
+        "autoridade": "institucional",
+        "novo": true
+      },
       {
         "id": "540615",
         "autor": "Lucas Demeda Dos Santos",
@@ -3322,28 +3386,11 @@
         "prazos": [],
         "autoridade": "institucional",
         "novo": true
-      },
-      {
-        "id": "515124",
-        "autor": "Lucas Demeda Dos Santos",
-        "data": "2026-07-28T13:54:06-03:00",
-        "titulo": "Live com o facilitador - Quinzena 1",
-        "texto": "Prezados,\n\nEstá marcada para a quinta-feira (30/07), às 19h, a primeira live da turma com os facilitadores. Pretendo repassar as principais orientações para a quinzena e tirar eventuais dúvidas sobre a disciplina.\n\nSegue link de acesso: https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external\n\nConto com a presença de todos!\n\nObs: a live também fic",
-        "links": [
-          "https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/K5nptNhcMiyd/external",
-          "https://rec.elos.vc/playback/presentation/2.3/a1d503ed86cddd7465bc664da6cbeeff09316ac4-1785448840020",
-          "https://ava.univesp.br/pluginfile.php/330876/mod_forum/attachment/540615/Live_Orientacao_Q1_completa_compressed.pdf?forcedownload=1"
-        ],
-        "forum": "Avisos",
-        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126445",
-        "prazos": [],
-        "autoridade": "institucional",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126704": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-28T23:21+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -3405,7 +3452,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207955": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:07:30-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -3564,7 +3611,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207956": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T17:28:14-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -3726,7 +3773,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=128509": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T12:47+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -3748,14 +3795,133 @@
         ],
         "forum": "Avisos",
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=128509",
-        "prazos": [],
+        "prazos": [
+          {
+            "rotulo": "[MENSAGEM DO FACILITADOR📝] Prezados, Envio o cronograma de lives com a supervisão da di...",
+            "quando": "2026-08-03T23:59:00-03:00",
+            "trecho": "3/8",
+            "tipo": "inicio",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+            },
+            "confianca": "alta",
+            "frase": "[MENSAGEM DO FACILITADOR📝] Prezados, Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+          },
+          {
+            "rotulo": "🎙️ Agenda das Lives Gabrieli e Uebert 📅 04/08/2026 – 14h",
+            "quando": "2026-08-04T14:00:00-03:00",
+            "trecho": "04/08/2026 – 14h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+            },
+            "confianca": "alta",
+            "frase": "🎙️ Agenda das Lives Gabrieli e Uebert 📅 04/08/2026 – 14h",
+            "titulo_evento": "Gabrieli e Uebert"
+          },
+          {
+            "rotulo": "🔗 https://lti.elos.vc/rooms/21f2c7d9a1c7c8dd489a8124e62c925e4562d1c9/scheduled_meetings...",
+            "quando": "2026-08-05T11:00:00-03:00",
+            "trecho": "05/08/2026 – 11h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+            },
+            "confianca": "alta",
+            "frase": "🔗 https://lti.elos.vc/rooms/21f2c7d9a1c7c8dd489a8124e62c925e4562d1c9/scheduled_meetings/scJo2BXd6KGb/%E2%80%A6 Cauê e Andréia 📅 05/08/2026 – 11h",
+            "titulo_evento": "Cauê e Andréia"
+          },
+          {
+            "rotulo": "🔗 https://lti.elos.vc/rooms/1794243512a51b4190cf3d07676c69e3d2fd3c2b/scheduled_meetings...",
+            "quando": "2026-08-05T16:00:00-03:00",
+            "trecho": "05/08/2026 – 16h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+            },
+            "confianca": "alta",
+            "frase": "🔗 https://lti.elos.vc/rooms/1794243512a51b4190cf3d07676c69e3d2fd3c2b/scheduled_meetings/VTM1QCNWqPFl/%E2%80%A6 Vittoria e Nicolle 📅 05/08/2026 – 16h",
+            "titulo_evento": "Vittoria e Nicolle"
+          },
+          {
+            "rotulo": "🔗 https://lti.elos.vc/rooms/533c29b514f8da7e8638f0acd2b88c0afe3029a5/scheduled_meetings...",
+            "quando": "2026-08-05T18:00:00-03:00",
+            "trecho": "05/08/2026 – 18h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+            },
+            "confianca": "alta",
+            "frase": "🔗 https://lti.elos.vc/rooms/533c29b514f8da7e8638f0acd2b88c0afe3029a5/scheduled_meetings/jthgJG1que6S/%E2%80%A6 Lyon 📅 05/08/2026 – 18h",
+            "titulo_evento": "Lyon"
+          },
+          {
+            "rotulo": "🔗 https://lti.elos.vc/rooms/658354a5fc6b6b5a69b0266469f77a6aea14e1d6/scheduled_meetings...",
+            "quando": "2026-08-06T10:00:00-03:00",
+            "trecho": "06/08/2026 – 10h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+            },
+            "confianca": "alta",
+            "frase": "🔗 https://lti.elos.vc/rooms/658354a5fc6b6b5a69b0266469f77a6aea14e1d6/scheduled_meetings/2I3wgm23Ky07/%E2%80%A6 Lívia e Cássia 📅 06/08/2026 – 10h",
+            "titulo_evento": "Lívia e Cássia"
+          },
+          {
+            "rotulo": "🔗 https://lti.elos.vc/rooms/32af89e5fbf3473a26942b89aab59b006049e422/scheduled_meetings...",
+            "quando": "2026-08-06T17:00:00-03:00",
+            "trecho": "06/08/2026 – 17h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Envio o cronograma de lives com a supervisão da disciplina referentes à Quinzena 2, que inicia na próxima semana (3/8)"
+            },
+            "confianca": "alta",
+            "frase": "🔗 https://lti.elos.vc/rooms/32af89e5fbf3473a26942b89aab59b006049e422/scheduled_meetings/UYQk0Gt23xGo/%E2%80%A6 Carlos e Siguara 📅 06/08/2026 – 17h",
+            "titulo_evento": "Carlos e Siguara"
+          }
+        ],
         "autoridade": "institucional",
         "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=128681": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-31T16:32+0000",
     "truncado": false,
     "posts_institucionais_vistos": 0,
@@ -3779,7 +3945,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=146224": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-14T19:11:10-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
@@ -3939,7 +4105,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=150525": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-17T17:53:24-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
@@ -4121,7 +4287,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=153344": {
-    "schema_version": 2,
+    "schema_version": 3,
     "ultimo": "2026-07-17T17:55:38-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 3,
