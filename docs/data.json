@@ -1,25 +1,25 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-03T21:04:51.415461+00:00",
-  "snapshot_at": "2026-08-03T21:04:51.415461+00:00",
-  "attempted_at": "2026-08-03T21:04:51.415461+00:00",
-  "publication_id": "2026-08-03T21:04:51.415461+00:00",
+  "checked_at": "2026-08-04T00:11:14.624754+00:00",
+  "snapshot_at": "2026-08-04T00:11:14.624754+00:00",
+  "attempted_at": "2026-08-04T00:11:14.624754+00:00",
+  "publication_id": "2026-08-04T00:11:14.624754+00:00",
   "fontes": {
     "disciplinas": 4,
-    "secoes": 48,
-    "itens": 174,
+    "secoes": 41,
+    "itens": 150,
     "avisos": 60,
     "eventos_calendario": 7,
     "notificacoes": 9,
     "cronograma": 3,
-    "itens_com_prazo": 33
+    "itens_com_prazo": 31
   },
   "problemas": [],
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-03T21:04:51.417567+00:00",
-      "last_live_at": "2026-08-03T21:04:51.417567+00:00",
+      "checked_at": "2026-08-04T00:11:14.626771+00:00",
+      "last_live_at": "2026-08-04T00:11:14.626771+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-03T21:04:51.417567+00:00",
-      "last_live_at": "2026-08-03T21:04:51.417567+00:00",
+      "checked_at": "2026-08-04T00:11:14.626771+00:00",
+      "last_live_at": "2026-08-04T00:11:14.626771+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -40,8 +40,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-03T21:04:51.417567+00:00",
-      "last_live_at": "2026-08-03T21:04:51.417567+00:00",
+      "checked_at": "2026-08-04T00:11:14.626771+00:00",
+      "last_live_at": "2026-08-04T00:11:14.626771+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -53,15 +53,15 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-03T21:04:51.417567+00:00",
-      "last_live_at": "2026-08-03T21:04:51.417567+00:00",
+      "checked_at": "2026-08-04T00:11:14.626771+00:00",
+      "last_live_at": "2026-08-04T00:11:14.626771+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
-      "foruns": 33,
-      "listas_live": 33,
+      "foruns": 32,
+      "listas_live": 32,
       "falhas": 0,
       "pulados_orcamento": 0,
       "posts_institucionais_vistos": 110,
@@ -69,10 +69,10 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-03T21:04:51.417567+00:00",
-      "last_live_at": "2026-08-03T21:04:51.417567+00:00",
+      "checked_at": "2026-08-04T00:11:14.626771+00:00",
+      "last_live_at": "2026-08-04T00:11:14.626771+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 15,
+      "quantidade_atual": 11,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
@@ -80,8 +80,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-03T21:04:51.417567+00:00",
-      "last_live_at": "2026-08-03T21:04:51.417567+00:00",
+      "checked_at": "2026-08-04T00:11:14.626771+00:00",
+      "last_live_at": "2026-08-04T00:11:14.626771+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -388,13 +388,13 @@
           "novo": false
         },
         {
-          "id": "567720",
-          "autor": "VALTER SILVA",
-          "data": "2026-08-03T17:33:28-03:00",
+          "id": "569920",
+          "autor": "CLAUDIA CARVALHO SILVA",
+          "data": "2026-08-03T20:46:04-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Organização do cronograma semanal de estudos.\n1. Abstração\n• O que ignorar/simplificar: O modelo do computador ou marca do caderno utilizado, a cor da caneta, o horário exato em que a luz do sol entra na janela ou pequenos detalhes irrelevantes de fundo.\n• Foco principal: Apenas no volume de matérias a estudar, no tempo total disponível no dia e na data limite de entrega de cada atividade.\n2. Deco",
+          "texto": "Atividade escolhida: Organizar uma rotina saudável e equilibrada para perda de peso e melhora no condicionamento físico\n\n1. Abstração:\nIgnorar resultados rápidos e focar no objetivo principal de perda de peso, melhorar o condicionamento físico, frequência e consistência.\n\n2. Decomposição\nDistribuir o objetivo principal em metas menores semanais de perda de peso e constância as atividades.\n\n3. Reco",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=567720#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=569920#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -403,28 +403,28 @@
           "novo": true
         },
         {
-          "id": "567701",
-          "autor": "MARCIA NOVAIS FIGUEIREDO",
-          "data": "2026-08-03T17:29:00-03:00",
-          "titulo": "Re: S3 - Fórum de dúvidas gerais",
-          "texto": "Estou adorando essa matéria!!!",
+          "id": "569847",
+          "autor": "ROSENES LUZIA DE SOUZA",
+          "data": "2026-08-03T20:41:58-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "A transição do passivo para o estratégico ocorre quando paramos de reformatar os mesmos problemas todos os dias e passamos a criar sistemas para resolvê-los. O Pensamento Computacional é, antes de tudo, uma habilidade de gestão pessoal.",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=567701#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=569847#mformforum"
           ],
-          "forum": "S3 - Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
         },
         {
-          "id": "567320",
-          "autor": "VITOR APARECIDO CREMONEZ",
-          "data": "2026-08-03T16:45:34-03:00",
+          "id": "569703",
+          "autor": "MARCIA EVANGELISTA DA SILVA",
+          "data": "2026-08-03T20:34:26-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Pensei na minha preparação de toda manhã para ir à academia: 1-Ajustar despertador na noite anterior.\n2-Executar higiene matinal e troca de roupa, 3-SE gás fechado, ABRIR; SENÃO, seguir. 4-SE chaleira no fogão, ENCHER; SENÃO, buscar no armário e ENCHER. 5-LIGAR fogo e, ENQUANTO ferve, CONFERIR celular, fone e chave.6-PREPARAR café, pegar elevador e entrar no carro.7-SE controle sumido, PROCURAR; S",
+          "texto": "Fazer compras no supermercado!\n\nAbstração: Para focar no que é importante, eu eliminaria informações desnecessárias, como produtos em promoção que não preciso ou itens que não fazem parte da minha rotina. Assim, a atenção fica voltada apenas aos produtos essenciais e ao orçamento disponível.\n\nDecomposição: A atividade pode ser dividida em etapas menores;\nVerificar o que está faltando em casa.\nFaze",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=567320#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=569703#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -433,13 +433,29 @@
           "novo": true
         },
         {
-          "id": "567123",
-          "autor": "MATEUS MARQUES SILVA",
-          "data": "2026-08-03T16:22:11-03:00",
-          "titulo": "MOCHILA DE EMERGÊNCIA",
-          "texto": "Situações de emergência, como enchentes, incêndios, tempestades severas, deslizamentos, interrupções prolongadas de energia ou outras crises inesperadas, podem colocar pessoas em risco. Em muitos desses cenários, os primeiros minutos ou horas são decisivos, e nem sempre o socorro chega imediatamente. Por isso, estar minimamente preparado pode fazer diferença para garantir a própria segurança até a",
+          "id": "569697",
+          "autor": "MARIA ADELIA FALEIRO SANTANA SILVA",
+          "data": "2026-08-03T20:33:58-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Criei um projeto de um mago que realiza um feitiço. O principal desafio foi ajustar os tempos de espera e sincronizar os movimentos, foi preciso ajustar até chegar ao resultado desejado. No final, a atividade foi uma experiência muito interessante, pois permitiu aplicar na prática os conceitos iniciais de programação.\n\nhttps://scratch.mit.edu/projects/1366336267/",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=567123#mformforum"
+            "https://scratch.mit.edu/projects/1366336267/",
+            "https://ava.univesp.br/mod/forum/post.php?reply=569697#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "569554",
+          "autor": "FERNANDO AUGUSTO BARBOSA",
+          "data": "2026-08-03T20:27:17-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "No meu trabalho dividindo a aula por etapas ( decomposição).\nFoco no elementos principais, segurança dos alunos, espaço adequado e intensidade, ignorando cor dos aparelhos, ou conversas que não atrapalham a aula (Abstração).\nColoco os alunos em circuitos e a mudança deles é sentido horário (Reconhecimento de padrões).\nSequência de instruções, reunir os alunos, explicar, dividir a turma, iniciar o ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=569554#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -448,28 +464,13 @@
           "novo": true
         },
         {
-          "id": "565602",
-          "autor": "JAQUELINE CRISTINA RODRIGUES",
-          "data": "2026-08-03T13:27:26-03:00",
+          "id": "569516",
+          "autor": "VITOR HENRIQUE DOS SANTOS PALU",
+          "data": "2026-08-03T20:24:46-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Eu faço pesquisas genealógicas, então pensei em como eu aplico os 4 pilares no pensamento computacional ao pesquisar para montar uma família.\n\nAtividade: Montar uma família em determinado período da história.\n\nAbstração Quais detalhes você eliminaria ou simplificaria para focar nos aspectos mais importantes da atividade? Eu procuro focar nos dados que já tenho para montar uma estratégia de pesquis",
+          "texto": "Para explicar os quatro pilares do pensamento computacional, escolhi como exemplo a organização da minha rotina de estudos na UNIVESP. Como o curso é a distância, preciso administrar bem o meu tempo para acompanhar as aulas, realizar as atividades e estudar para as provas sem acumular conteúdos.\n\nNa abstração, procuro focar apenas no que é mais importante para aquela semana, deixando de lado infor",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=565602#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "565551",
-          "autor": "CIBELE JAEN DE SOUZA CATRO",
-          "data": "2026-08-03T13:19:59-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Para a maioria das pessoas, ter dois empregos em tempo integral e faculdade já pareceria um desafio impossível. Na minha realidade, somo a isso dois filhos, três cachorros, o cuidado e apoio à minha sogra (especialmente após a perda recente do meu sogro), atenção ao meu namorado, suporte aos meus amigos e todas as tarefas diárias de uma casa.\n\nPara não me sobrecarregar e conseguir dar conta de tud",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=565551#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=569516#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -528,7 +529,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -598,7 +599,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -610,7 +611,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -692,7 +693,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "12",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -704,7 +705,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -787,7 +788,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "5",
+              "nao_lidas": "8",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1224,7 +1225,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1342,7 +1343,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1354,7 +1355,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1484,7 +1485,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "6",
+              "nao_lidas": "16",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1496,7 +1497,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1618,7 +1619,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "8",
+              "nao_lidas": "19",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1630,7 +1631,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1966,6 +1967,81 @@
           "novo": false
         },
         {
+          "id": "570211",
+          "autor": "WAGNER LUCENA RODRIGUES",
+          "data": "2026-08-03T21:02:56-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Em complemento, cumprindo o desafio desta semana, optei por escolher um vídeo no YouTube do Flávio Augusto da Silva, empresário, escritor e conferencista brasileiro, conhecido por fundar a rede de escolas de idiomas Wise Up, ser ex-proprietário do Orlando City Soccer Club e criar a plataforma de conteúdo empreendedor Geração de Valor. Desde 2024, atua como Embaixador de Comunicação Estratégica da ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=570211#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "570102",
+          "autor": "TIAGO CERQUEIRA VENCESLAU",
+          "data": "2026-08-03T20:56:07-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Saber ler e escrever criticamente é um direito essencial: permite entender a realidade, analisar fatos e agir com consciência.\nNão se resume a decifrar letras, mas a interpretar, ver diferentes visões e decidir com autonomia.\nA escola tem papel central nessa formação, preparando cada um para conhecer seus direitos e deveres.\nAssim, o cidadão participa de debates e exerce sua cidadania com responsa",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=570102#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "569192",
+          "autor": "BRUNO RAFAEL TIRELLI DE CAMPOS",
+          "data": "2026-08-03T19:58:35-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Boa noite. No desafio da semana, foi solicitado que escolhêssemos um discurso no YouTube, fizéssemos a transcrição e destacássemos as estratégias linguísticas utilizadas. Já neste fórum, deveríamos refletir sobre o direito fundamental à leitura e à escrita críticas, com base em nossas convicções e nos textos estudados. Seguem minhas reflexões.\n\nEscolhi um trecho de um discurso do Guilherme Benchim",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=569192#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "568202",
+          "autor": "WENDEL MARCOS DOS SANTOS",
+          "data": "2026-08-03T18:28:38-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "À primeira vista, o sistema do Hangul (o alfabeto coreano) e essa ideia de montar as palavras em \"blocos de sílabas\" assustam mesmo por ser uma lógica visual totalmente diferente do nosso alfabeto latino. Mas é curioso notar como a estrutura deles é surpreendentemente lógica e organizada — dizem até que foi um alfabeto desenhado para ser fácil de aprender!\n\nA questão dos sons e da pronúncia realme",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=568202#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "568152",
+          "autor": "WENDEL MARCOS DOS SANTOS",
+          "data": "2026-08-03T18:23:53-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Durante muito tempo, eu associava a escrita à necessidade de explicar conceitos ou transmitir conhecimento de forma direta. Nos últimos meses, porém, tenho experimentado um formato diferente, que costumo chamar de \"crônicas técnicas\". Em vez de começar por uma teoria, procuro partir de uma situação cotidiana — uma máquina antiga, um equipamento de automação, um livro clássico ou até uma padaria — ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=568152#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "567690",
           "autor": "PATRICIA MATURANO LONGAREZI",
           "data": "2026-08-03T17:27:08-03:00",
@@ -1976,81 +2052,6 @@
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "567200",
-          "autor": "MARCELA CARPES",
-          "data": "2026-08-03T16:30:25-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "É uma estratégia, investir na formação de leitores e escritores críticos...\nTalvez existam muitas outras estratégias, como também garantir políticas públicas inclusivas, práticas pedagógicas contextualizadas e uma formação crítica que reconheça a linguagem como direito humano e ferramenta de cidadania.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=567200#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "567062",
-          "autor": "RENATO MOREIRA DA SILVA",
-          "data": "2026-08-03T16:14:57-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "bom dia a todos. achei a matéria empolgante",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=567062#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "566793",
-          "autor": "RODRIGO VALENTIN DA COSTA",
-          "data": "2026-08-03T15:45:58-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "A análise do discurso de Felipe Barreiro evidencia como a construção linguística e retórica é fundamental para a legitimação e o exercício do poder corporativo e da liderança. O palestrante utiliza estratégias discursivas marcadas por marcas de primeira pessoa (\"eu entrei\", \"meu conteúdo\", \"minha métrica de sucesso\") e metáforas espaciais e conceituais (como o \"pêndulo\" e os \"pês\" da liderança dia",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=566793#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "564760",
-          "autor": "MARCOS PAULO RODRIGUES ANTONIOL",
-          "data": "2026-08-03T11:23:54-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "O cérebro é algo incrível, para entender bem um frase, se pegarmos cada palavra e escrevermos o significado que vemos no dicionário em um papel, de forma que todas as principais palavras do significado também sejam escritas, podemos parar por uns 15 minutos e fazer outra coisa completadmente diferente. Ao retornarmos àquela frase, temos um resumo já feito em nosso subconciente, parece até as ferra",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=564760#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "564749",
-          "autor": "WILLIAN CORACARI",
-          "data": "2026-08-03T11:22:17-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Aqui está a adaptação da atividade, utilizando um dos discursos mais emblemáticos do ex-presidente Michel Temer: o seu primeiro pronunciamento após assumir interinamente a Presidência da República, em 12 de maio de 2016.\n\nEste discurso é um excelente material de análise para a sua disciplina, pois ilustra perfeitamente como a formalidade e a escolha meticulosa de palavras são usadas para legitimar",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=564749#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -2236,7 +2237,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2366,7 +2367,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": "9",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2475,7 +2476,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "8",
+              "nao_lidas": "11",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3292,7 +3293,7 @@
           "title": "COM170 - IA na Prática Acadêmica e Profissional",
           "parent": null,
           "locked": null,
-          "theme": "BACHARELADO DE INTELIGÊNCIA ARTIFICIAL\n\nIA na Prática Acadêmica e Profissional\n\nPlano de Ensino\nschedule\n\nDuração da disciplina\n\n7 Quinzenas [Projeto Semestral]\n\ninterests\n\nRecursos\n\nLinks úteis",
+          "theme": "Bacharelado de Inteligência Artificial\nIA na Prática Acadêmica e Profissional\n\nPlano de Ensino\n\n\n\nschedule\n\nDuração da disciplina\n7 Quinzenas [Projeto Semestral]\n\n\ninterests\n\nRecursos\n Links úteis",
           "items": [
             {
               "cmid": "173822",
@@ -3441,372 +3442,6 @@
           "fase": "regular"
         },
         {
-          "id": "section-18",
-          "title": "Módulo 1",
-          "parent": "section-1",
-          "locked": null,
-          "theme": null,
-          "items": [
-            {
-              "cmid": "173828",
-              "label": "M1 - O que é (e o que não é) IA",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173828",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173829",
-              "label": "M1 - Videoaula 1: O que a IA realmente é?",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173829",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173830",
-              "label": "M1 - Quiz de Calibração: seu ponto de partida",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173830",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173831",
-              "label": "M1 - Material-base",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173831",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173832",
-              "label": "M1 - Quiz: Identifique o paradigma em 5 situações do cotidiano",
-              "type": "scorm",
-              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173832",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            }
-          ],
-          "fase": "regular"
-        },
-        {
-          "id": "section-17",
-          "title": "Módulo 2",
-          "parent": "section-1",
-          "locked": null,
-          "theme": null,
-          "items": [
-            {
-              "cmid": "173834",
-              "label": "M2 - Como a IA aprende",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173834",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173835",
-              "label": "M2 - Videoaula: Como a IA aprende?",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173835",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173836",
-              "label": "M2 - Videoaula: As Três Fases da IA: por que cada abordagem não bastou",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173836",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173837",
-              "label": "M2 - Material-base",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173837",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173838",
-              "label": "M2 - Quiz 1: Tipos de aprendizado de máquina",
-              "type": "scorm",
-              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173838",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173839",
-              "label": "M2 - Quiz 2: Tipos de aprendizado de máquina",
-              "type": "scorm",
-              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173839",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            }
-          ],
-          "fase": "regular"
-        },
-        {
-          "id": "section-16",
-          "title": "Módulo 3",
-          "parent": "section-1",
-          "locked": null,
-          "theme": null,
-          "items": [
-            {
-              "cmid": "173841",
-              "label": "M3 - O custo invisível da IA",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173841",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173842",
-              "label": "M3 - Videoaula: O custo invisível da IA",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173842",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173843",
-              "label": "M3 - Material-base",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173843",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173844",
-              "label": "M3 - Quiz: O Custo Invisível da IA",
-              "type": "scorm",
-              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173844",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            }
-          ],
-          "fase": "regular"
-        },
-        {
-          "id": "section-15",
-          "title": "Módulo 4",
-          "parent": "section-1",
-          "locked": null,
-          "theme": null,
-          "items": [
-            {
-              "cmid": "173846",
-              "label": "M4 - Quando paramos de questionar",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173846",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173847",
-              "label": "M4 - Material-base",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173847",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173848",
-              "label": "M4 - Videoaula: Naturalização e vieses algorítmicos",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173848",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            },
-            {
-              "cmid": "173849",
-              "label": "M4 - Quiz: Vieses e naturalização",
-              "type": "scorm",
-              "url": "https://ava.univesp.br/mod/scorm/view.php?id=173849",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            }
-          ],
-          "fase": "regular"
-        },
-        {
-          "id": "section-14",
-          "title": "Módulo 5",
-          "parent": "section-1",
-          "locked": null,
-          "theme": null,
-          "items": [
-            {
-              "cmid": "173851",
-              "label": "M5 - Atividade: \"Ele está te ouvindo?\"",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173851",
-              "status": "Concluído",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null
-            }
-          ],
-          "fase": "regular"
-        },
-        {
-          "id": "section-13",
-          "title": "Módulo 6",
-          "parent": "section-1",
-          "locked": null,
-          "theme": null,
-          "items": [
-            {
-              "cmid": "173853",
-              "label": "M6 - Tutorial da ferramenta Laboratório",
-              "type": "page",
-              "url": "https://ava.univesp.br/mod/page/view.php?id=173853",
-              "status": null,
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null,
-              "aberto": true
-            },
-            {
-              "cmid": "173854",
-              "label": "M6 - Revisão entre pares (Portfólio Individual)",
-              "type": "workshop",
-              "url": "https://ava.univesp.br/mod/workshop/view.php?id=173854",
-              "status": null,
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": "2026-08-04T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
-              "aberto": false,
-              "motivo_fechado": "o AVA diz que não está aberta",
-              "enviado": true
-            }
-          ],
-          "fase": "regular"
-        },
-        {
-          "id": "section-12",
-          "title": "Módulo 7",
-          "parent": "section-1",
-          "locked": null,
-          "theme": null,
-          "items": [
-            {
-              "cmid": "173856",
-              "label": "M7 - Grupo: Ponto de encontro",
-              "type": "forum",
-              "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
-              "status": null,
-              "nao_lidas": "1",
-              "conta_nota": true,
-              "prazo": null,
-              "prazo_fonte": null,
-              "carencia": null,
-              "aberto": true
-            },
-            {
-              "cmid": "173857",
-              "label": "M7 - Revisão entre pares (Portfólio em grupo)",
-              "type": "workshop",
-              "url": "https://ava.univesp.br/mod/workshop/view.php?id=173857",
-              "status": "Pendente",
-              "nao_lidas": null,
-              "conta_nota": true,
-              "prazo": "2026-08-04T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
-              "aberto": false,
-              "motivo_fechado": "o AVA diz que não está aberta",
-              "enviado": true
-            }
-          ],
-          "fase": "regular"
-        },
-        {
           "id": "section-2",
           "title": "Quinzena 2",
           "parent": null,
@@ -3855,7 +3490,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -4582,46 +4217,6 @@
     },
     {
       "curso": "COM170",
-      "secao": "Módulo 6",
-      "fase": "regular",
-      "verbo": "Avalie",
-      "coisa": "o trabalho do outro grupo",
-      "o_que": "Módulo 6 · Fechamento das avaliações por pares",
-      "tipo": "obrigacao",
-      "url": null,
-      "conta_nota": true,
-      "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 04/08 às 23:59",
-      "prazo_fonte": "aviso de Lucas Demeda Dos Santos",
-      "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=124738",
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "amanha",
-      "bloqueio": null
-    },
-    {
-      "curso": "COM170",
-      "secao": "Módulo 7",
-      "fase": "regular",
-      "verbo": "Avalie",
-      "coisa": "o trabalho do outro grupo",
-      "o_que": "Módulo 7 · Fechamento das avaliações por pares",
-      "tipo": "obrigacao",
-      "url": null,
-      "conta_nota": true,
-      "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 04/08 às 23:59",
-      "prazo_fonte": "aviso de Lucas Demeda Dos Santos",
-      "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=124738",
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "amanha",
-      "bloqueio": null
-    },
-    {
-      "curso": "COM170",
       "secao": "Re: Cronograma de Lives com a Supervisão - Quinzena 2",
       "fase": "regular",
       "verbo": "Assista",
@@ -4858,42 +4453,6 @@
       "carencia": null,
       "hora_certa": true,
       "urgencia": "depois"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Módulo 6",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "M6 - Tutorial da ferramenta Laboratório",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=173853",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Módulo 7",
-      "fase": "regular",
-      "verbo": "Participe",
-      "coisa": "do fórum",
-      "o_que": "M7 - Grupo: Ponto de encontro",
-      "tipo": "forum",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
     },
     {
       "curso": "COM170",
@@ -5353,7 +4912,7 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S3 - Fórum de dúvidas gerais",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -5365,7 +4924,7 @@
     },
     {
       "curso": "COM100",
-      "label": "MOCHILA DE EMERGÊNCIA",
+      "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -5497,13 +5056,25 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
       "curso": "LET110",
       "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -5515,19 +5086,7 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
