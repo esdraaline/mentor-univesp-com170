@@ -1,9 +1,9 @@
 {
-  "status": "ok",
+  "status": "coleta_incompleta",
   "checked_at": "2026-08-04T21:46:14.517383+00:00",
   "snapshot_at": "2026-08-04T21:46:14.517383+00:00",
-  "attempted_at": "2026-08-04T21:46:14.517383+00:00",
-  "publication_id": "2026-08-04T21:46:14.517383+00:00",
+  "attempted_at": "2026-08-04T22:29:08.153928+00:00",
+  "publication_id": "2026-08-04T22:29:08.153928+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 48,
@@ -14,7 +14,9 @@
     "cronograma": 3,
     "itens_com_prazo": 34
   },
-  "problemas": [],
+  "problemas": [
+    "fonte boletim não foi conferida por inteiro (degradado, 1 falha(s))"
+  ],
   "fontes_status": {
     "disciplinas": {
       "status": "live",
@@ -6070,5 +6072,108 @@
       "kind": "aviso",
       "autoridade": "institucional"
     }
-  ]
+  ],
+  "fontes_tentativa": {
+    "disciplinas": 4,
+    "secoes": 48,
+    "itens": 174,
+    "avisos": 60,
+    "eventos_calendario": 42,
+    "notificacoes": 9,
+    "cronograma": 3,
+    "itens_com_prazo": 34
+  },
+  "fontes_status_tentativa": {
+    "disciplinas": {
+      "status": "live",
+      "checked_at": "2026-08-04T22:29:08.155228+00:00",
+      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 4,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": []
+    },
+    "calendario": {
+      "status": "live",
+      "checked_at": "2026-08-04T22:29:08.155228+00:00",
+      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 42,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "via": "api+dom",
+      "eventos": 42,
+      "api": 7,
+      "dom": 55
+    },
+    "cronograma": {
+      "status": "live",
+      "checked_at": "2026-08-04T22:29:08.155228+00:00",
+      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 3,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "falhas": 0,
+      "esperados": 3,
+      "live": 3
+    },
+    "foruns": {
+      "status": "live",
+      "checked_at": "2026-08-04T22:29:08.155228+00:00",
+      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 60,
+      "from_cache": false,
+      "truncado": true,
+      "problemas": [],
+      "foruns": 33,
+      "listas_live": 33,
+      "falhas": 0,
+      "pulados_orcamento": 0,
+      "posts_institucionais_vistos": 126,
+      "posts_institucionais_guardados": 91
+    },
+    "itens": {
+      "status": "live",
+      "checked_at": "2026-08-04T22:29:08.155228+00:00",
+      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 15,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "indefinidos": 0,
+      "entregas_nao_confirmadas": 1
+    },
+    "boletim": {
+      "status": "degradado",
+      "checked_at": "2026-08-04T22:29:08.155228+00:00",
+      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 6,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [
+        "boletim de 18880 veio sem linhas de atividade",
+        "boletim de 18922 não renderizou a tabela"
+      ],
+      "falhas": 1,
+      "esperados": 4,
+      "live": 3
+    },
+    "notificacoes": {
+      "status": "live",
+      "checked_at": "2026-08-04T22:29:08.155228+00:00",
+      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 2,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": []
+    }
+  }
 }
