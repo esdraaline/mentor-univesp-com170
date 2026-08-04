@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-04T16:14:08.706054+00:00",
-  "snapshot_at": "2026-08-04T16:14:08.706054+00:00",
-  "attempted_at": "2026-08-04T16:14:08.706054+00:00",
-  "publication_id": "2026-08-04T16:14:08.706054+00:00",
+  "checked_at": "2026-08-04T18:29:10.396406+00:00",
+  "snapshot_at": "2026-08-04T18:29:10.396406+00:00",
+  "attempted_at": "2026-08-04T18:29:10.396406+00:00",
+  "publication_id": "2026-08-04T18:29:10.396406+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 41,
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-04T16:14:08.706898+00:00",
-      "last_live_at": "2026-08-04T16:14:08.706898+00:00",
+      "checked_at": "2026-08-04T18:29:10.398236+00:00",
+      "last_live_at": "2026-08-04T18:29:10.398236+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-04T16:14:08.706898+00:00",
-      "last_live_at": "2026-08-04T16:14:08.706898+00:00",
+      "checked_at": "2026-08-04T18:29:10.398236+00:00",
+      "last_live_at": "2026-08-04T18:29:10.398236+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -40,8 +40,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-04T16:14:08.706898+00:00",
-      "last_live_at": "2026-08-04T16:14:08.706898+00:00",
+      "checked_at": "2026-08-04T18:29:10.398236+00:00",
+      "last_live_at": "2026-08-04T18:29:10.398236+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -53,8 +53,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-04T16:14:08.706898+00:00",
-      "last_live_at": "2026-08-04T16:14:08.706898+00:00",
+      "checked_at": "2026-08-04T18:29:10.398236+00:00",
+      "last_live_at": "2026-08-04T18:29:10.398236+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -64,13 +64,13 @@
       "listas_live": 32,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 121,
+      "posts_institucionais_vistos": 123,
       "posts_institucionais_guardados": 88
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-04T16:14:08.706898+00:00",
-      "last_live_at": "2026-08-04T16:14:08.706898+00:00",
+      "checked_at": "2026-08-04T18:29:10.398236+00:00",
+      "last_live_at": "2026-08-04T18:29:10.398236+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 11,
       "from_cache": false,
@@ -80,8 +80,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-04T16:14:08.706898+00:00",
-      "last_live_at": "2026-08-04T16:14:08.706898+00:00",
+      "checked_at": "2026-08-04T18:29:10.398236+00:00",
+      "last_live_at": "2026-08-04T18:29:10.398236+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -420,6 +420,52 @@
           "novo": false
         },
         {
+          "id": "575486",
+          "autor": "CESAR AUGUSTO GUERREIRO MARTINS",
+          "data": "2026-08-04T15:28:29-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Meu proejto ficou um pouco simples.\n\nhttps://scratch.mit.edu/projects/1366558359\n\nNa minha criação o gato bate penaltis, voce pode escolher para onde a bola vai com a seta do seu mouse, basta deixa seta no local onde a bola deve ir.",
+          "links": [
+            "https://scratch.mit.edu/projects/1366558359",
+            "https://ava.univesp.br/mod/forum/post.php?reply=575486#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "575440",
+          "autor": "DIEGO CLEMENTE BEVILAQUA",
+          "data": "2026-08-04T15:23:54-03:00",
+          "titulo": "Re: S2 - Fórum de dúvidas gerais",
+          "texto": "Live muito interessante",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=575440#mformforum"
+          ],
+          "forum": "S2 - Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "575034",
+          "autor": "HAROLDO RODRIGUES OLIVEIRA",
+          "data": "2026-08-04T14:39:33-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Utilizo o pensamento computacional no meu dia a dia, principalmente nos estudos e no desenvolvimento pessoal.\nOrganizar uma rotina de estudos, dividir as tarefas em etapas, priorizar conteúdos e principalmente procurar soluções para dificuldades, assim como na resolução de problemas.\nEstas práticas mostram como a tecnologia e o pensamento computacional ajudam a desenvolver organização, raciocínio ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=575034#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "573642",
           "autor": "TIAGO LUCIANO RIBEIRO",
           "data": "2026-08-04T11:19:11-03:00",
@@ -430,51 +476,6 @@
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "573016",
-          "autor": "LEONARDO HENRIQUE DE ANDRADE",
-          "data": "2026-08-04T09:56:35-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Uma atividade do meu dia a dia em que aplico o pensamento computacional é o controle dos gastos e das despesas mensais da minha família. Para manter as finanças organizadas, utilizo os quatro pilares do pensamento computacional, que ajudam a planejar melhor o orçamento e tomar decisões mais conscientes.\n\nAbstração: Foco apenas nas informações mais importantes, como receitas, despesas, categorias d",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=573016#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "572683",
-          "autor": "LOISIO ROSSI GONCALVES MARTINS",
-          "data": "2026-08-04T08:59:40-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "A atividade escolhida foi organizar a rotina semanal de estudos do curso utilizando os pilares do pensamento computacional. Na abstração, o foco está apenas nas informações essenciais, como disciplinas, prazos e tempo necessário para cada tarefa, deixando de lado detalhes sem importância. Na decomposição, a rotina é dividida em etapas menores: assistir às videoaulas, ler os materiais, resolver exe",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=572683#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "572248",
-          "autor": "LUIS MARQUES DA SILVA",
-          "data": "2026-08-04T06:54:57-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Aqui está o texto simplificado em 4 parágrafos, pronto para o fórum:\n\nNo meu dia a dia, a tecnologia se manifesta de forma marcante no uso de aplicativos de navegação por GPS, como o Waze ou Google Maps. Ao inserir um destino, o aplicativo processa dados de localização via satélite em tempo real, analisa o fluxo de veículos e calcula a rota mais rápida, recalculando o trajeto automaticamente se ho",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=572248#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -494,7 +495,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160777",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -530,7 +531,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -600,7 +601,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -694,7 +695,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -706,7 +707,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -789,7 +790,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "7",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -801,7 +802,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1234,7 +1235,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1352,7 +1353,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1364,7 +1365,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1494,7 +1495,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "10",
+              "nao_lidas": "8",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1506,7 +1507,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": "8",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1628,7 +1629,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "15",
+              "nao_lidas": "16",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1640,7 +1641,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "4",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1976,6 +1977,67 @@
           "novo": false
         },
         {
+          "id": "575289",
+          "autor": "ANDREIA PIRES DA SILVA PARO",
+          "data": "2026-08-04T15:08:48-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Olá a todos!\n\nPara esta atividade, selecionei dois recursos audiovisuais que utilizo em formações de professores: a palestra da empresária Luiza Helena Trajano (disponível no canal Track-co: https://www.youtube.com/watch?v=S24u0mOIn38) e o premiado curta-metragem de animação \"Vida Maria\" (dirigido por Márcio Ramos).\nNa palestra, ao observar os primeiros 10 minutos, destaca-se o uso estratégico de ",
+          "links": [
+            "https://www.youtube.com/watch?v=S24u0mOIn38",
+            "https://ava.univesp.br/mod/forum/post.php?reply=575289#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "575066",
+          "autor": "JOEL DE OLIVEIRA GAMBOA",
+          "data": "2026-08-04T14:42:41-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Vdd ... ela fez parecer fácil. Quase que me convençe a estudar coreano .. rs",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=575066#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "575040",
+          "autor": "RODRIGO DA COSTA ALEXANDRE",
+          "data": "2026-08-04T14:40:11-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Hoje, saber juntar letras e reconhecer palavras já não basta. Quando a gente lê uma notícia, uma lei, um contrato ou até uma resposta de IA, precisa perceber quem está falando, quais interesses estão em jogo, que evidências sustentam aquela afirmação e o que ficou de fora.\n\nPor isso, aprender a ler e escrever criticamente é um direito fundamental. Onici Claro Flôres, ao discutir a relação entre le",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=575040#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "574881",
+          "autor": "BRUNO CEZAR PASQUINI",
+          "data": "2026-08-04T14:21:33-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "A leitura e a escrita críticas são direitos fundamentais porque permitem ao cidadão compreender e participar ativamente da sociedade. Ao analisar discursos de líderes, percebemos que o uso da língua não é neutro: tempos verbais, vocabulário e estratégias de persuasão revelam como o poder se exerce por meio das palavras. Ler e escrever de forma crítica significa identificar essas intenções e não ap",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=574881#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "574228",
           "autor": "MARCOS ROBERTO HIDEAKI ARAKAKI",
           "data": "2026-08-04T12:56:24-03:00",
@@ -2001,69 +2063,6 @@
           ],
           "forum": "S3 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "571663",
-          "autor": "MARCEL RODRIGUES LOPES",
-          "data": "2026-08-03T23:03:02-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Para o desafio desta semana irei considerar um vídeo do YouTube cujo título é \"CEO do IFood fala sobre a polemica do trabalho presencial\". Segue minha reflexão:\n“Para convencer que sua empresa funciona melhor comparada a outras gigantes globais como a Amazon, por exemplo, ele se utiliza de uma linguagem bem direta, baseada em inferências sobre os problemas que estas outras empresas acabam por ter ",
-          "links": [
-            "https://www.youtube.com/watch?v=Soa3wcYgfAM",
-            "https://ava.univesp.br/mod/forum/post.php?reply=571663#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "571557",
-          "autor": "VITOR ALVES BARBOSA",
-          "data": "2026-08-03T22:48:07-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Boa Noite!!\nA aprendizagem da leitura e da escrita críticas é um direito fundamental porque permite que os cidadãos compreendam o mundo em que vivem, tenham acesso ao conhecimento e participem de forma consciente da vida social, política e econômica. Ler e escrever não significa apenas decodificar palavras, mas desenvolver a capacidade de interpretar informações, analisar argumentos e tomar decisõ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=571557#mformforum",
-            "https://www.youtube.com/watch?v=Soa3wcYgfAM",
-            "https://ava.univesp.br/mod/forum/post.php?reply=571663#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "571419",
-          "autor": "HERBERT FRANCISCO PEREIRA",
-          "data": "2026-08-03T22:33:43-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Olá, pessoal! Tudo bem?\n\nPara mim, o direito de aprender a ler e a escrever criticamente vai muito além da simples decodificação de sílabas e frases; é a ferramenta primária para o exercício pleno da nossa cidadania.\n\nComo vimos no material introdutório da Semana 1, a leitura e a escrita possuem uma forte função social, sendo responsáveis pela acumulação de conhecimento e pela formação do nosso ar",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=571419#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "570677",
-          "autor": "ELOA MARRY DOS SANTOS SOUZA",
-          "data": "2026-08-03T21:32:46-03:00",
-          "titulo": "S2 - Fórum temático",
-          "texto": "Eu não tive dificuldade quanto ao desafio proposto. Eu consumo muito conteúdo asiático através de doramas e k-dramas, tenho familiaridade com a língua deles. Mas, fiquei feliz demais em descobrir o Hangul e o Diamô, vai até me ajudar a compreender melhor ao assistir!",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=570677#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -2249,7 +2248,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2379,7 +2378,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2488,7 +2487,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "16",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3282,6 +3281,36 @@
           "novo": false
         },
         {
+          "id": "574646",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-08-04T14:03:48-03:00",
+          "titulo": "Re: Q1 - Fórum de dúvidas",
+          "texto": "Boa tarde, Fernando, pode detalhar melhor o seu problema?",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=574646#mformforum"
+          ],
+          "forum": "Q1 - Fórum de dúvidas",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "574618",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-08-04T14:01:52-03:00",
+          "titulo": "Re: Q1 - Fórum de dúvidas",
+          "texto": "Olá, Pablo, não entendi a sua pergunta, pode explicar melhor?",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=574618#mformforum"
+          ],
+          "forum": "Q1 - Fórum de dúvidas",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "564264",
           "autor": "Lucas Demeda Dos Santos",
           "data": "2026-08-03T10:22:05-03:00",
@@ -3290,36 +3319,6 @@
           "links": [
             "https://atendimento.univesp.br/sae/portal.html",
             "https://ava.univesp.br/mod/forum/post.php?reply=564264#mformforum"
-          ],
-          "forum": "Q1 - Fórum de dúvidas",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": true
-        },
-        {
-          "id": "564256",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-08-03T10:21:23-03:00",
-          "titulo": "Re: Q1 - Fórum de dúvidas",
-          "texto": "Oi, Valéria, estou no aguardo dessa informação e em breve lhe confirmarei.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=564256#mformforum"
-          ],
-          "forum": "Q1 - Fórum de dúvidas",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": true
-        },
-        {
-          "id": "564251",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-08-03T10:20:45-03:00",
-          "titulo": "Re: Q1 - Fórum de dúvidas",
-          "texto": "Olá, Josemar! Acredito que houve uma confusão no sistema do AVA. Os cenários de A até E se referem à atividade da Quinzena 2. Peço que aguardem novas orientações e continuem usando o fórum do mesmo grupo anterior para continuar a atividade da Quinzena 1.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=564251#mformforum"
           ],
           "forum": "Q1 - Fórum de dúvidas",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
@@ -3403,7 +3402,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=148170",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3461,7 +3460,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3473,7 +3472,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3531,7 +3530,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -4999,25 +4998,25 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
       "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S2 - Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
       "curso": "COM100",
       "label": "Re: S1 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -5095,6 +5094,12 @@
     },
     {
       "curso": "LET110",
+      "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
       "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
@@ -5113,19 +5118,13 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
       "curso": "LET110",
       "label": "Re: S3 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
