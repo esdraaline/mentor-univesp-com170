@@ -1,9 +1,9 @@
 {
-  "status": "coleta_incompleta",
-  "checked_at": "2026-08-04T21:46:14.517383+00:00",
-  "snapshot_at": "2026-08-04T21:46:14.517383+00:00",
-  "attempted_at": "2026-08-04T22:29:08.153928+00:00",
-  "publication_id": "2026-08-04T22:29:08.153928+00:00",
+  "status": "ok",
+  "checked_at": "2026-08-04T22:39:34.297077+00:00",
+  "snapshot_at": "2026-08-04T22:39:34.297077+00:00",
+  "attempted_at": "2026-08-04T22:39:34.297077+00:00",
+  "publication_id": "2026-08-04T22:39:34.297077+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 48,
@@ -14,14 +14,12 @@
     "cronograma": 3,
     "itens_com_prazo": 34
   },
-  "problemas": [
-    "fonte boletim não foi conferida por inteiro (degradado, 1 falha(s))"
-  ],
+  "problemas": [],
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-04T21:46:14.518784+00:00",
-      "last_live_at": "2026-08-04T21:46:14.518784+00:00",
+      "checked_at": "2026-08-04T22:39:34.298741+00:00",
+      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -30,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-04T21:46:14.518784+00:00",
-      "last_live_at": "2026-08-04T21:46:14.518784+00:00",
+      "checked_at": "2026-08-04T22:39:34.298741+00:00",
+      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 42,
       "from_cache": false,
@@ -44,8 +42,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-04T21:46:14.518784+00:00",
-      "last_live_at": "2026-08-04T21:46:14.518784+00:00",
+      "checked_at": "2026-08-04T22:39:34.298741+00:00",
+      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -57,8 +55,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-04T21:46:14.518784+00:00",
-      "last_live_at": "2026-08-04T21:46:14.518784+00:00",
+      "checked_at": "2026-08-04T22:39:34.298741+00:00",
+      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -68,24 +66,41 @@
       "listas_live": 33,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 125,
-      "posts_institucionais_guardados": 90
+      "posts_institucionais_vistos": 126,
+      "posts_institucionais_guardados": 91
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-04T21:46:14.518784+00:00",
-      "last_live_at": "2026-08-04T21:46:14.518784+00:00",
+      "checked_at": "2026-08-04T22:39:34.298741+00:00",
+      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 15,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
-      "indefinidos": 0
+      "indefinidos": 0,
+      "entregas_nao_confirmadas": 1
+    },
+    "boletim": {
+      "status": "degradado",
+      "checked_at": "2026-08-04T22:39:34.298741+00:00",
+      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 6,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [
+        "boletim de 18880 veio sem linhas de atividade",
+        "boletim de 18922 não renderizou a tabela"
+      ],
+      "falhas": 1,
+      "esperados": 4,
+      "live": 3
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-04T21:46:14.518784+00:00",
-      "last_live_at": "2026-08-04T21:46:14.518784+00:00",
+      "checked_at": "2026-08-04T22:39:34.298741+00:00",
+      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -599,6 +614,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 10.0,
+              "nota_txt": "10,00",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
               "carencia": "2026-08-02T23:59:00-03:00"
@@ -694,9 +713,14 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": "2026-08-09T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
-              "carencia": null
+              "carencia": null,
+              "entrega_confirmada": false
             },
             {
               "cmid": "160792",
@@ -789,6 +813,10 @@
               "status": "Marcar como feito",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": "2026-08-16T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
@@ -966,7 +994,7 @@
             "https://ava.univesp.br/pluginfile.php/369546/mod_forum/attachment/573577/tutorial_biblioteca_sei%201%20%281%29.pdf?forcedownload=1",
             "https://ava.univesp.br/mod/forum/post.php?reply=573577#mformforum",
             "https://ava.univesp.br/mod/forum/post.php?reply=576498#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=576645#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=577392#mformforum"
           ],
           "forum": "S2 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
@@ -1365,7 +1393,8 @@
               "conta_nota": true,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-02T23:59:00-03:00"
+              "carencia": "2026-08-02T23:59:00-03:00",
+              "entrega_confirmada": true
             },
             {
               "cmid": "168798",
@@ -1508,7 +1537,8 @@
               "conta_nota": true,
               "prazo": "2026-08-09T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
-              "carencia": null
+              "carencia": null,
+              "entrega_confirmada": true
             },
             {
               "cmid": "168808",
@@ -1516,7 +1546,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2004,6 +2034,52 @@
           "novo": false
         },
         {
+          "id": "577496",
+          "autor": "OTAVIO AUGUSTO DA SILVA MILITAO",
+          "data": "2026-08-04T19:38:07-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "O debate sobre o direito fundamental à aprendizagem da leitura e da escrita críticas é central para a formação de cidadãos autônomos e para o fortalecimento de uma democracia plena. Com base nos fundamentos teóricos e conceituais do campo educacional, as razões que sustentam esse direito organizam-se em quatro pilares fundamentais:\n1. A Linguagem como Prática Social e Interação\nO direito à leitura",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=577496#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "577249",
+          "autor": "DAYANE MITZY LAURA MAMANI",
+          "data": "2026-08-04T19:14:59-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Siiiimmm, deu até vontade de aprender kkkk",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=577249#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "577005",
+          "autor": "JOAO MARCOS MARTINS DE SOUZA",
+          "data": "2026-08-04T18:50:35-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Conforme orientação apresentada na introdução da semana 3, desafio, segue análise de um discurso de uma autoridade escolhida no Youtube. O vídeo é sobre a posse de Maysa Furlan, quando assumiu o cargo de vice-reitora da Universidade Estadual Paulista (Unesp), uma posição elevada de comando em uma instituição pública de ensino superior. O discurso foi proferido em sua cerimônia de posse, realizada ",
+          "links": [
+            "https://www.youtube.com/watch?v=Ne9AzaK3_hw",
+            "https://ava.univesp.br/mod/forum/post.php?reply=577005#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "576103",
           "autor": "ROBSON FERRAZ DA SILVA",
           "data": "2026-08-04T16:48:16-03:00",
@@ -2044,52 +2120,6 @@
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575289",
-          "autor": "ANDREIA PIRES DA SILVA PARO",
-          "data": "2026-08-04T15:08:48-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Olá a todos!\n\nPara esta atividade, selecionei dois recursos audiovisuais que utilizo em formações de professores: a palestra da empresária Luiza Helena Trajano (disponível no canal Track-co: https://www.youtube.com/watch?v=S24u0mOIn38) e o premiado curta-metragem de animação \"Vida Maria\" (dirigido por Márcio Ramos).\nNa palestra, ao observar os primeiros 10 minutos, destaca-se o uso estratégico de ",
-          "links": [
-            "https://www.youtube.com/watch?v=S24u0mOIn38",
-            "https://ava.univesp.br/mod/forum/post.php?reply=575289#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575066",
-          "autor": "JOEL DE OLIVEIRA GAMBOA",
-          "data": "2026-08-04T14:42:41-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Vdd ... ela fez parecer fácil. Quase que me convençe a estudar coreano .. rs",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=575066#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575040",
-          "autor": "RODRIGO DA COSTA ALEXANDRE",
-          "data": "2026-08-04T14:40:11-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Hoje, saber juntar letras e reconhecer palavras já não basta. Quando a gente lê uma notícia, uma lei, um contrato ou até uma resposta de IA, precisa perceber quem está falando, quais interesses estão em jogo, que evidências sustentam aquela afirmação e o que ficou de fora.\n\nPor isso, aprender a ler e escrever criticamente é um direito fundamental. Onici Claro Flôres, ao discutir a relação entre le",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=575040#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -2268,6 +2298,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 10.0,
+              "nota_txt": "10,00",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": "2026-07-29T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
               "carencia": "2026-08-02T23:59:00-03:00"
@@ -2399,6 +2433,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 7.5,
+              "nota_txt": "7,50",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": "2026-08-09T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null
@@ -2409,7 +2447,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2508,6 +2546,10 @@
               "status": "Marcar como feito",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": "2026-08-16T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
@@ -2519,7 +2561,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3318,6 +3360,21 @@
           "novo": false
         },
         {
+          "id": "577027",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-08-04T18:51:55-03:00",
+          "titulo": "Re: Q2 - Fórum geral",
+          "texto": "Olá, Victor Hugo, tudo bem? Você pode tentar usar outro software ou navegador. Eu gosto do Edge, que permite criar caixas de texto e escrever nos pdfs. Se não conseguir usar os templates, também não há problema em criar outro documento para realizar as atividades de depois entregá-lo como pdf.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=577027#mformforum"
+          ],
+          "forum": "Q2 - Fórum geral",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "574646",
           "autor": "Lucas Demeda Dos Santos",
           "data": "2026-08-04T14:03:48-03:00",
@@ -3340,22 +3397,6 @@
           "texto": "Olá, Pablo, não entendi a sua pergunta, pode explicar melhor?",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=574618#mformforum"
-          ],
-          "forum": "Q1 - Fórum de dúvidas",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": true
-        },
-        {
-          "id": "564264",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-08-03T10:22:05-03:00",
-          "titulo": "Re: Q1 - Fórum de dúvidas",
-          "texto": "Bom dia, Diogo, para essas questões técnicas você precisa entrar em contato pelo SAE: https://atendimento.univesp.br/sae/portal.html",
-          "links": [
-            "https://atendimento.univesp.br/sae/portal.html",
-            "https://ava.univesp.br/mod/forum/post.php?reply=564264#mformforum"
           ],
           "forum": "Q1 - Fórum de dúvidas",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
@@ -4322,7 +4363,8 @@
               "conta_nota": true,
               "prazo": null,
               "prazo_fonte": null,
-              "carencia": null
+              "carencia": null,
+              "entrega_confirmada": null
             },
             {
               "cmid": "150525",
@@ -4429,7 +4471,8 @@
               "conta_nota": true,
               "prazo": null,
               "prazo_fonte": null,
-              "carencia": null
+              "carencia": null,
+              "entrega_confirmada": null
             },
             {
               "cmid": "153344",
@@ -5220,6 +5263,25 @@
           "o_que": "Carlos e Siguara"
         }
       ]
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 2",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S2 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=160791",
+      "conta_nota": true,
+      "entrega_nao_confirmada": true,
+      "prazo": "2026-08-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/08 às 23:59",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana"
     },
     {
       "curso": "COM100",
@@ -6014,7 +6076,7 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -6032,7 +6094,7 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -6056,7 +6118,7 @@
     },
     {
       "curso": "COM170",
-      "label": "Re: Q1 - Fórum de dúvidas",
+      "label": "Re: Q2 - Fórum geral",
       "kind": "aviso",
       "autoridade": "institucional"
     },
@@ -6072,108 +6134,5 @@
       "kind": "aviso",
       "autoridade": "institucional"
     }
-  ],
-  "fontes_tentativa": {
-    "disciplinas": 4,
-    "secoes": 48,
-    "itens": 174,
-    "avisos": 60,
-    "eventos_calendario": 42,
-    "notificacoes": 9,
-    "cronograma": 3,
-    "itens_com_prazo": 34
-  },
-  "fontes_status_tentativa": {
-    "disciplinas": {
-      "status": "live",
-      "checked_at": "2026-08-04T22:29:08.155228+00:00",
-      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 4,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": []
-    },
-    "calendario": {
-      "status": "live",
-      "checked_at": "2026-08-04T22:29:08.155228+00:00",
-      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 42,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": [],
-      "via": "api+dom",
-      "eventos": 42,
-      "api": 7,
-      "dom": 55
-    },
-    "cronograma": {
-      "status": "live",
-      "checked_at": "2026-08-04T22:29:08.155228+00:00",
-      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 3,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": [],
-      "falhas": 0,
-      "esperados": 3,
-      "live": 3
-    },
-    "foruns": {
-      "status": "live",
-      "checked_at": "2026-08-04T22:29:08.155228+00:00",
-      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 60,
-      "from_cache": false,
-      "truncado": true,
-      "problemas": [],
-      "foruns": 33,
-      "listas_live": 33,
-      "falhas": 0,
-      "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 126,
-      "posts_institucionais_guardados": 91
-    },
-    "itens": {
-      "status": "live",
-      "checked_at": "2026-08-04T22:29:08.155228+00:00",
-      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 15,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": [],
-      "indefinidos": 0,
-      "entregas_nao_confirmadas": 1
-    },
-    "boletim": {
-      "status": "degradado",
-      "checked_at": "2026-08-04T22:29:08.155228+00:00",
-      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 6,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": [
-        "boletim de 18880 veio sem linhas de atividade",
-        "boletim de 18922 não renderizou a tabela"
-      ],
-      "falhas": 1,
-      "esperados": 4,
-      "live": 3
-    },
-    "notificacoes": {
-      "status": "live",
-      "checked_at": "2026-08-04T22:29:08.155228+00:00",
-      "last_live_at": "2026-08-04T22:29:08.155228+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 2,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": []
-    }
-  }
+  ]
 }
