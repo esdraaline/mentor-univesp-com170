@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-04T21:04:01.134041+00:00",
-  "snapshot_at": "2026-08-04T21:04:01.134041+00:00",
-  "attempted_at": "2026-08-04T21:04:01.134041+00:00",
-  "publication_id": "2026-08-04T21:04:01.134041+00:00",
+  "checked_at": "2026-08-04T21:22:49.480768+00:00",
+  "snapshot_at": "2026-08-04T21:22:49.480768+00:00",
+  "attempted_at": "2026-08-04T21:22:49.480768+00:00",
+  "publication_id": "2026-08-04T21:22:49.480768+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 48,
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-04T21:04:01.135354+00:00",
-      "last_live_at": "2026-08-04T21:04:01.135354+00:00",
+      "checked_at": "2026-08-04T21:22:49.482441+00:00",
+      "last_live_at": "2026-08-04T21:22:49.482441+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-04T21:04:01.135354+00:00",
-      "last_live_at": "2026-08-04T21:04:01.135354+00:00",
+      "checked_at": "2026-08-04T21:22:49.482441+00:00",
+      "last_live_at": "2026-08-04T21:22:49.482441+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 42,
       "from_cache": false,
@@ -42,8 +42,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-04T21:04:01.135354+00:00",
-      "last_live_at": "2026-08-04T21:04:01.135354+00:00",
+      "checked_at": "2026-08-04T21:22:49.482441+00:00",
+      "last_live_at": "2026-08-04T21:22:49.482441+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -55,8 +55,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-04T21:04:01.135354+00:00",
-      "last_live_at": "2026-08-04T21:04:01.135354+00:00",
+      "checked_at": "2026-08-04T21:22:49.482441+00:00",
+      "last_live_at": "2026-08-04T21:22:49.482441+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -71,8 +71,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-04T21:04:01.135354+00:00",
-      "last_live_at": "2026-08-04T21:04:01.135354+00:00",
+      "checked_at": "2026-08-04T21:22:49.482441+00:00",
+      "last_live_at": "2026-08-04T21:22:49.482441+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 15,
       "from_cache": false,
@@ -82,8 +82,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-04T21:04:01.135354+00:00",
-      "last_live_at": "2026-08-04T21:04:01.135354+00:00",
+      "checked_at": "2026-08-04T21:22:49.482441+00:00",
+      "last_live_at": "2026-08-04T21:22:49.482441+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -536,7 +536,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -702,7 +702,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -798,7 +798,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "5",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -810,7 +810,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1514,7 +1514,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1526,7 +1526,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1649,7 +1649,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "11",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1661,7 +1661,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2276,7 +2276,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2407,7 +2407,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2517,7 +2517,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "9",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3418,38 +3418,6 @@
               },
               "confianca": "baixa",
               "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agosto para concluir o Módulo 4 e 15 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que segue além do fim ..."
-            },
-            {
-              "rotulo": "10 a 15 · janela de entrega dos trabalhos 16 a 18 · leitura entre colegas, já na Quinze...",
-              "quando": "2026-08-09T23:59:00-03:00",
-              "trecho": "9 de agosto",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": {
-                "familia": "quinzena",
-                "numeros": [
-                  3
-                ],
-                "txt": "16 a 18 · leitura entre colegas, já na Quinzena 3"
-              },
-              "confianca": "baixa",
-              "frase": "10 a 15 · janela de entrega dos trabalhos 16 a 18 · leitura entre colegas, já na Quinzena 3 9 de agosto"
-            },
-            {
-              "rotulo": "O trabalho do grupo Depois da conversa entre vocês, o grupo preenche o template do grup...",
-              "quando": "2026-08-15T23:59:00-03:00",
-              "trecho": "15 de agosto",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": {
-                "familia": "modulo",
-                "numeros": [
-                  7
-                ],
-                "txt": "Depois da conversa entre vocês, o grupo preenche o template do grupo e o representante o envia no Laboratório de Revisão"
-              },
-              "confianca": "baixa",
-              "frase": "O trabalho do grupo Depois da conversa entre vocês, o grupo preenche o template do grupo e o representante o envia no Laboratório de Revisão do Módulo 7 Os dois podem ser enviados a qualquer momento entre 10 e 15 de a..."
             }
           ]
         }
@@ -3937,9 +3905,8 @@
               "prazo": "2026-08-04T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
-              "aberto": false,
-              "motivo_fechado": "o AVA diz que não está aberta",
               "enviado": true,
+              "aberto": true,
               "avaliacao_pendente": false,
               "avaliacoes_pendentes": 0
             }
@@ -3960,7 +3927,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": true,
               "prazo": null,
               "prazo_fonte": null,
@@ -3978,9 +3945,8 @@
               "prazo": "2026-08-04T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
-              "aberto": false,
-              "motivo_fechado": "o AVA diz que não está aberta",
               "enviado": true,
+              "aberto": true,
               "avaliacao_pendente": true,
               "avaliacoes_pendentes": 1
             }
@@ -5190,43 +5156,22 @@
   "acoes": [
     {
       "curso": "COM170",
-      "secao": "Quinzena 1",
-      "fase": "regular",
-      "verbo": "Avalie",
-      "coisa": "o trabalho do outro grupo",
-      "o_que": "Quinzena 1 · avaliação por pares",
-      "tipo": "obrigacao",
-      "url": null,
-      "conta_nota": true,
-      "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence hoje (horário não informado)",
-      "prazo_fonte": "aviso de Lucas Demeda Dos Santos",
-      "fonte_url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": false,
-      "urgencia": "hoje",
-      "bloqueio": null
-    },
-    {
-      "curso": "COM170",
       "secao": "Módulo 7",
       "fase": "regular",
       "verbo": "Avalie",
-      "coisa": "o trabalho do outro grupo",
-      "o_que": "Módulo 7 · Fechamento das avaliações por pares",
-      "tipo": "obrigacao",
-      "url": null,
+      "coisa": "o trabalho do colega",
+      "o_que": "M7 - Revisão entre pares (Portfólio em grupo)",
+      "tipo": "workshop",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=173857",
       "conta_nota": true,
       "prazo": "2026-08-04T23:59:00-03:00",
       "prazo_txt": "vence hoje às 23:59",
-      "prazo_fonte": "aviso de Lucas Demeda Dos Santos",
-      "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=124738",
-      "autoridade": "institucional",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
       "carencia": null,
       "hora_certa": true,
       "urgencia": "hoje",
-      "bloqueio": null
+      "aviso_txt": "Quinzena 1 · avaliação por pares"
     },
     {
       "curso": "COM170",
@@ -5440,42 +5385,6 @@
     },
     {
       "curso": "COM170",
-      "secao": "Módulo 6",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "M6 - Tutorial da ferramenta Laboratório",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=173853",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Módulo 7",
-      "fase": "regular",
-      "verbo": "Participe",
-      "coisa": "do fórum",
-      "o_que": "M7 - Grupo: Ponto de encontro",
-      "tipo": "forum",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
       "secao": "Q2 Módulo 1",
       "fase": "regular",
       "verbo": "Faça",
@@ -5514,15 +5423,27 @@
   "encerrados": [
     {
       "curso": "COM170",
+      "secao": "Módulo 6",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "M6 - Tutorial da ferramenta Laboratório",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=173853",
+      "conta_nota": true,
+      "motivo": "a Quinzena 1 encerrou"
+    },
+    {
+      "curso": "COM170",
       "secao": "Módulo 7",
       "fase": "regular",
-      "verbo": "Avalie",
-      "coisa": "o trabalho do colega",
-      "o_que": "M7 - Revisão entre pares (Portfólio em grupo)",
-      "tipo": "workshop",
-      "url": "https://ava.univesp.br/mod/workshop/view.php?id=173857",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "M7 - Grupo: Ponto de encontro",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
       "conta_nota": true,
-      "motivo": "o AVA diz que não está aberta"
+      "motivo": "a Quinzena 1 encerrou"
     },
     {
       "curso": "COM170",
@@ -5913,33 +5834,11 @@
     },
     {
       "curso": "COM170",
-      "quando": "2026-08-09T23:59:00-03:00",
-      "quando_txt": "vence 09/08 (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "10 a 15 · janela de entrega dos trabalhos 16 a 18 · leitura entre colegas, já na Quinze...",
-      "frase": "10 a 15 · janela de entrega dos trabalhos 16 a 18 · leitura entre colegas, já na Quinzena 3 9 de agosto",
-      "autor": "Q2 - Instruções da Quinzena 2",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=215566"
-    },
-    {
-      "curso": "COM170",
       "quando": "2026-08-15T23:59:00-03:00",
       "quando_txt": "vence 15/08",
       "tipo_lido": "inicio",
       "rotulo": "O calendário e os prazos A Quinzena 2 começa no dia 3 de agosto e termina no dia 16, qu...",
       "frase": "O calendário e os prazos A Quinzena 2 começa no dia 3 de agosto e termina no dia 16, quando a Quinzena 3 se inicia Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agosto para conclui...",
-      "autor": "Q2 - Instruções da Quinzena 2",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=215566"
-    },
-    {
-      "curso": "COM170",
-      "quando": "2026-08-15T23:59:00-03:00",
-      "quando_txt": "vence 15/08",
-      "tipo_lido": "fim",
-      "rotulo": "O trabalho do grupo Depois da conversa entre vocês, o grupo preenche o template do grup...",
-      "frase": "O trabalho do grupo Depois da conversa entre vocês, o grupo preenche o template do grupo e o representante o envia no Laboratório de Revisão do Módulo 7 Os dois podem ser enviados a qualquer momento entre 10 e 15 de a...",
       "autor": "Q2 - Instruções da Quinzena 2",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/page/view.php?id=215566"
@@ -6134,132 +6033,6 @@
       "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - O que é (e o que não é) IA",
-      "kind": "novo",
-      "cmid": "173828"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Videoaula 1: O que a IA realmente é?",
-      "kind": "novo",
-      "cmid": "173829"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Quiz de Calibração: seu ponto de partida",
-      "kind": "novo",
-      "cmid": "173830"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Material-base",
-      "kind": "novo",
-      "cmid": "173831"
-    },
-    {
-      "curso": "COM170",
-      "label": "M1 - Quiz: Identifique o paradigma em 5 situações do cotidiano",
-      "kind": "novo",
-      "cmid": "173832"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Como a IA aprende",
-      "kind": "novo",
-      "cmid": "173834"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Videoaula: Como a IA aprende?",
-      "kind": "novo",
-      "cmid": "173835"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Videoaula: As Três Fases da IA: por que cada abordagem não bastou",
-      "kind": "novo",
-      "cmid": "173836"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Material-base",
-      "kind": "novo",
-      "cmid": "173837"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Quiz 1: Tipos de aprendizado de máquina",
-      "kind": "novo",
-      "cmid": "173838"
-    },
-    {
-      "curso": "COM170",
-      "label": "M2 - Quiz 2: Tipos de aprendizado de máquina",
-      "kind": "novo",
-      "cmid": "173839"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - O custo invisível da IA",
-      "kind": "novo",
-      "cmid": "173841"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - Videoaula: O custo invisível da IA",
-      "kind": "novo",
-      "cmid": "173842"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - Material-base",
-      "kind": "novo",
-      "cmid": "173843"
-    },
-    {
-      "curso": "COM170",
-      "label": "M3 - Quiz: O Custo Invisível da IA",
-      "kind": "novo",
-      "cmid": "173844"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Quando paramos de questionar",
-      "kind": "novo",
-      "cmid": "173846"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Material-base",
-      "kind": "novo",
-      "cmid": "173847"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Videoaula: Naturalização e vieses algorítmicos",
-      "kind": "novo",
-      "cmid": "173848"
-    },
-    {
-      "curso": "COM170",
-      "label": "M4 - Quiz: Vieses e naturalização",
-      "kind": "novo",
-      "cmid": "173849"
-    },
-    {
-      "curso": "COM170",
-      "label": "M5 - Atividade: \"Ele está te ouvindo?\"",
-      "kind": "novo",
-      "cmid": "173851"
-    },
-    {
-      "curso": "COM170",
-      "label": "M7 - Revisão entre pares (Portfólio em grupo)",
-      "kind": "novo",
-      "cmid": "173857"
     },
     {
       "curso": "COM170",
