@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-04T22:39:34.297077+00:00",
-  "snapshot_at": "2026-08-04T22:39:34.297077+00:00",
-  "attempted_at": "2026-08-04T22:39:34.297077+00:00",
-  "publication_id": "2026-08-04T22:39:34.297077+00:00",
+  "checked_at": "2026-08-04T23:29:34.746024+00:00",
+  "snapshot_at": "2026-08-04T23:29:34.746024+00:00",
+  "attempted_at": "2026-08-04T23:29:34.746024+00:00",
+  "publication_id": "2026-08-04T23:29:34.746024+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 48,
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-04T22:39:34.298741+00:00",
-      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "checked_at": "2026-08-04T23:29:34.747730+00:00",
+      "last_live_at": "2026-08-04T23:29:34.747730+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-04T22:39:34.298741+00:00",
-      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "checked_at": "2026-08-04T23:29:34.747730+00:00",
+      "last_live_at": "2026-08-04T23:29:34.747730+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 42,
       "from_cache": false,
@@ -42,8 +42,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-04T22:39:34.298741+00:00",
-      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "checked_at": "2026-08-04T23:29:34.747730+00:00",
+      "last_live_at": "2026-08-04T23:29:34.747730+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -55,8 +55,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-04T22:39:34.298741+00:00",
-      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "checked_at": "2026-08-04T23:29:34.747730+00:00",
+      "last_live_at": "2026-08-04T23:29:34.747730+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -71,8 +71,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-04T22:39:34.298741+00:00",
-      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "checked_at": "2026-08-04T23:29:34.747730+00:00",
+      "last_live_at": "2026-08-04T23:29:34.747730+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 15,
       "from_cache": false,
@@ -82,25 +82,24 @@
       "entregas_nao_confirmadas": 1
     },
     "boletim": {
-      "status": "degradado",
-      "checked_at": "2026-08-04T22:39:34.298741+00:00",
-      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "status": "live",
+      "checked_at": "2026-08-04T23:29:34.747730+00:00",
+      "last_live_at": "2026-08-04T23:29:34.747730+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 6,
+      "quantidade_atual": 18,
       "from_cache": false,
       "truncado": false,
       "problemas": [
-        "boletim de 18880 veio sem linhas de atividade",
-        "boletim de 18922 não renderizou a tabela"
+        "boletim de 18880 veio sem linhas de atividade"
       ],
-      "falhas": 1,
+      "falhas": 0,
       "esperados": 4,
-      "live": 3
+      "live": 4
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-04T22:39:34.298741+00:00",
-      "last_live_at": "2026-08-04T22:39:34.298741+00:00",
+      "checked_at": "2026-08-04T23:29:34.747730+00:00",
+      "last_live_at": "2026-08-04T23:29:34.747730+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -439,6 +438,53 @@
           "novo": false
         },
         {
+          "id": "577804",
+          "autor": "LUCAS EDUARDO SIMON CHAGAS",
+          "data": "2026-08-04T20:00:22-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "https://scratch.mit.edu/projects/1366599806\n\nFiz um Grifo voando nas montanhas usando o comando de andar junto ao de mudar a fantasia para simular movimento igual ao bater de asas usando o comando de esperar com 0.1 segundo para ativar o gatilho de mudança de movimento para deixar a animação mais fluida.",
+          "links": [
+            "https://scratch.mit.edu/projects/1366599806",
+            "https://ava.univesp.br/mod/forum/post.php?reply=577804#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "577790",
+          "autor": "PATRICIA PEREIRA DE OLIVEIRA",
+          "data": "2026-08-04T19:59:26-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "https://scratch.mit.edu/projects/1366594748\n\nCriei um Aquário, ao clicar na bandeira verde o peixe ou tubarão se movem. Se clicar novamente na bandeira verde haverá a troca de atores. Toda vez que o peixe ou tubarão tocam a borda da tela, seu tamanho é reduzido. Para voltar ao tamanho inicial é só clicar novamente na bandeira verde.\n\nFoi assim que ficou a programação em blocos, mas também pode ser",
+          "links": [
+            "https://scratch.mit.edu/projects/1366594748",
+            "https://ava.univesp.br/mod/forum/post.php?reply=577790#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "577722",
+          "autor": "DAVID DA SILVA MACEDO",
+          "data": "2026-08-04T19:54:44-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "Para conciliar os estudos com o trabalho preciso:\nDecompor as minhas atividade as minhas atividade na univesp em pequenos passos alguns realizados antes do horário de trabalho e alguns depois.\nReconhecer quais padrões se repetem nas diferentes disciplinas estudadas e que podem ser seguidas da mesma forma nos diferentes dias da semana como assistir os vídeos pela manha e realizar as atividades a no",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=577722#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "575702",
           "autor": "LUCAS ORMONDE DE ALMEIDA CORREIA",
           "data": "2026-08-04T15:56:45-03:00",
@@ -449,53 +495,6 @@
           ],
           "forum": "Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575665",
-          "autor": "GABRIELA FERNANDA DE OLIVEIRA",
-          "data": "2026-08-04T15:51:37-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Organizando meu tempo de estudo com os quatro pilares do pensamento computacional\n\n1. Abstração\nIdentifique apenas o que é mais importante.\n\nTenho trabalho.\nTenho faculdade.\nPreciso estudar.\nTenho horários livres à noite e nos finais de semana.\n\n2. Decomposição\nDivida o estudo em partes menores.\n\nAssistir às aulas.\nFazer as atividades.\nRevisar a matéria.\nPraticar exercícios.\n\n3. Reconhecimento de ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=575665#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575486",
-          "autor": "CESAR AUGUSTO GUERREIRO MARTINS",
-          "data": "2026-08-04T15:28:29-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Meu proejto ficou um pouco simples.\n\nhttps://scratch.mit.edu/projects/1366558359\n\nNa minha criação o gato bate penaltis, voce pode escolher para onde a bola vai com a seta do seu mouse, basta deixa seta no local onde a bola deve ir.",
-          "links": [
-            "https://scratch.mit.edu/projects/1366558359",
-            "https://ava.univesp.br/mod/forum/post.php?reply=575486#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575440",
-          "autor": "DIEGO CLEMENTE BEVILAQUA",
-          "data": "2026-08-04T15:23:54-03:00",
-          "titulo": "Re: S2 - Fórum de dúvidas gerais",
-          "texto": "Live muito interessante",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=575440#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=576174#mformforum"
-          ],
-          "forum": "S2 - Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -717,9 +716,9 @@
               "nota_txt": "-",
               "tem_nota": false,
               "feedback": null,
-              "prazo": "2026-08-09T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
+              "prazo": "2026-08-05T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-09T23:59:00-03:00",
               "entrega_confirmada": false
             },
             {
@@ -728,7 +727,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -817,9 +816,9 @@
               "nota_txt": "-",
               "tem_nota": false,
               "feedback": null,
-              "prazo": "2026-08-16T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
+              "prazo": "2026-08-12T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-16T23:59:00-03:00",
               "aberto": true
             },
             {
@@ -828,7 +827,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1535,9 +1534,9 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
-              "prazo": "2026-08-09T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
+              "prazo": "2026-08-05T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-09T23:59:00-03:00",
               "entrega_confirmada": true
             },
             {
@@ -1670,9 +1669,9 @@
               "status": "Marcar como feito",
               "nao_lidas": null,
               "conta_nota": true,
-              "prazo": "2026-08-16T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
+              "prazo": "2026-08-12T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-16T23:59:00-03:00",
               "aberto": true
             },
             {
@@ -1681,7 +1680,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1693,7 +1692,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2034,6 +2033,36 @@
           "novo": false
         },
         {
+          "id": "578203",
+          "autor": "ULISSES DE SOUZA SIMOES",
+          "data": "2026-08-04T20:30:59-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "O exercício da escrita livre trouxe reflexões valiosas sobre a forma como organizo minhas ideias e encaro a página em branco.\n\nMotivação e Dinâmica de Escrita\nMinha principal motivação para escrever é a organização do pensamento. A escrita funciona como uma ferramenta de clareza mental, permitindo dar forma e estrutura ao fluxo constante de ideias. Quando me disponho a escrever livremente, o objet",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=578203#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "577683",
+          "autor": "JESSICA SANTOS LEMOS",
+          "data": "2026-08-04T19:52:18-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "O processo de escrita livre é algo que ativa a criatividade e materializa um pensamento e/ou sentimento em códigos. A escrita livre é algo que liberta e retira o peso do perfeito, do culto, e continua sendo bela — pelo menos no meu entendimento.\n\nA dificuldade que tive, notei que estava majoritariamente em me preocupar com a forma/estrutura do que deveria ser escrito e, também, sobre o que iria es",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=577683#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "577496",
           "autor": "OTAVIO AUGUSTO DA SILVA MILITAO",
           "data": "2026-08-04T19:38:07-03:00",
@@ -2090,36 +2119,6 @@
           ],
           "forum": "S3 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575807",
-          "autor": "RONAI OLIVEIRA DA SILVA",
-          "data": "2026-08-04T16:09:56-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Aprender um idioma requer atenção e disciplina, o que as vezes nao duram muito se a metodologia for cansativa, mais tradicional. A metologia da professora no video do Hangul foi bem interessante, percebi que entendi bem e fiz poucas anotações. Achei interessante o fato do visual da palavra estar sem em blocos.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=575807#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "575535",
-          "autor": "EVERTON DO NASCIMENTO SERRA TAKAHASHI",
-          "data": "2026-08-04T15:35:10-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "O desafio de apreender um novo idioma, nos tira da zona de conforto e foi um ótimo aperitivo para adentrar em temas sobre a comunicação verbal e não verbal assim como a evolução do ensino durante as décadas. Os vídeos foram muito interessantes, bem feitos não apenas no conteúdo mas nas paletas e musicas de fundo.\nEu mais prestei atenção do que anotei, ao olhar, os padrões de semelhança da 1º aula ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=575535#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -2312,7 +2311,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2437,9 +2436,9 @@
               "nota_txt": "7,50",
               "tem_nota": true,
               "feedback": null,
-              "prazo": "2026-08-09T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null
+              "prazo": "2026-08-05T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-09T23:59:00-03:00"
             },
             {
               "cmid": "165185",
@@ -2447,7 +2446,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2550,9 +2549,9 @@
               "nota_txt": "-",
               "tem_nota": false,
               "feedback": null,
-              "prazo": "2026-08-16T23:59:00-03:00",
-              "prazo_fonte": "calendário do AVA",
-              "carencia": null,
+              "prazo": "2026-08-12T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-16T23:59:00-03:00",
               "aberto": true
             },
             {
@@ -2561,7 +2560,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "4",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3685,6 +3684,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -3756,6 +3759,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -3768,6 +3775,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -3827,6 +3838,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -3886,6 +3901,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -3945,6 +3964,10 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": "2026-08-04T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
@@ -3985,6 +4008,10 @@
               "status": "Pendente",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": "2026-08-04T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
@@ -4107,6 +4134,10 @@
               "status": "Pendente",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null,
@@ -4120,6 +4151,10 @@
               "status": "Pendente",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null,
@@ -4361,6 +4396,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "",
+              "tem_nota": false,
+              "feedback": "O FAQ está completo, com perguntas, respostas e fontes verificáveis indicadas. As respostas estão bastante sintéticas – talvez até muito sintéticas, ao final – mas os documentos consultados contêm link e seção indicados, o que facilita a consulta de mais informações pelo leitor. A linguagem é clara e direta, o que indica uma preocupação com o público-alvo do trabalho. Nota-se um esforço de construção em grupo. Parabéns pela entrega!",
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null,
@@ -4469,6 +4508,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null,
@@ -4577,6 +4620,10 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5275,13 +5322,13 @@
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=160791",
       "conta_nota": true,
       "entrega_nao_confirmada": true,
-      "prazo": "2026-08-09T23:59:00-03:00",
-      "prazo_txt": "vence 09/08 às 23:59",
-      "prazo_fonte": "calendário do AVA",
+      "prazo": "2026-08-05T23:59:00-03:00",
+      "prazo_txt": "vence amanhã, 05/08 às 23:59",
+      "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
-      "carencia": null,
+      "carencia": "2026-08-09T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM100",
@@ -5302,6 +5349,24 @@
       "hora_certa": true,
       "urgencia": "semana",
       "repete": 2
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 3",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S3 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=160797",
+      "conta_nota": true,
+      "prazo": "2026-08-12T23:59:00-03:00",
+      "prazo_txt": "vence 12/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-16T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
     },
     {
       "curso": "LET110",
@@ -5330,6 +5395,24 @@
       "o_que": "S3 - Material-base",
       "tipo": "page",
       "url": "https://ava.univesp.br/mod/page/view.php?id=165190",
+      "conta_nota": true,
+      "prazo": "2026-08-12T23:59:00-03:00",
+      "prazo_txt": "vence 12/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-16T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 3",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S3 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165192",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
       "prazo_txt": "vence 12/08",
@@ -5394,42 +5477,6 @@
       "urgencia": "depois"
     },
     {
-      "curso": "COM100",
-      "secao": "Semana 3",
-      "fase": "regular",
-      "verbo": "Responda",
-      "coisa": "questionário",
-      "o_que": "S3 - Atividade Avaliativa",
-      "tipo": "quiz",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=160797",
-      "conta_nota": true,
-      "prazo": "2026-08-16T23:59:00-03:00",
-      "prazo_txt": "vence 16/08",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "depois"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 3",
-      "fase": "regular",
-      "verbo": "Responda",
-      "coisa": "questionário",
-      "o_que": "S3 - Atividade Avaliativa",
-      "tipo": "quiz",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165192",
-      "conta_nota": true,
-      "prazo": "2026-08-16T23:59:00-03:00",
-      "prazo_txt": "vence 16/08",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "depois"
-    },
-    {
       "curso": "SOC100",
       "secao": "Semana 3",
       "fase": "regular",
@@ -5439,11 +5486,11 @@
       "tipo": "quiz",
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=168816",
       "conta_nota": true,
-      "prazo": "2026-08-16T23:59:00-03:00",
-      "prazo_txt": "vence 16/08",
-      "prazo_fonte": "calendário do AVA",
+      "prazo": "2026-08-12T23:59:00-03:00",
+      "prazo_txt": "vence 12/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
-      "carencia": null,
+      "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
       "urgencia": "depois"
     },
@@ -5968,13 +6015,7 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -5986,7 +6027,13 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S2 - Fórum de dúvidas gerais",
+      "label": "Re: S2 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -6064,19 +6111,13 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
     {
       "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -6094,7 +6135,13 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
+      "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
