@@ -3025,6 +3025,72 @@
           "url": "https://ava.univesp.br/mod/workshop/view.php?id=173854"
         }
       }
+    },
+    "boletim_medias": {
+      "18870": {
+        "rotulo": "Média AVA",
+        "nota": "0,80"
+      },
+      "18893": {
+        "rotulo": "Média AVA",
+        "nota": "1,70"
+      },
+      "18922": {
+        "rotulo": "Média AVA",
+        "nota": "Erro"
+      }
+    },
+    "participacao": {
+      "18922": {
+        "quinzenas": [
+          {
+            "quinzena": "Q1",
+            "estado": "Final"
+          },
+          {
+            "quinzena": "Q2",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q3",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q4",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q5",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q6",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q7",
+            "estado": "Ainda não iniciada"
+          }
+        ],
+        "criterios": [
+          {
+            "nome": "Cobertura de conteúdos",
+            "situacao": "atendido"
+          },
+          {
+            "nome": "Regularidade de acesso",
+            "situacao": "atendido"
+          }
+        ],
+        "atualizado_em": "04/08/2026 às 18:07",
+        "quinzena_atual": {
+          "rotulo": "Q1 - Resultado final",
+          "progresso": "Progresso muito avançado",
+          "detalhe": "Todos os critérios previstos para esta quinzena foram identificados."
+        },
+        "perfil_temporal": "No prazo",
+        "fonte": "https://ativa.univesp.br/lti/progress"
+      }
     }
   },
   "_autores_institucionais": {
@@ -3110,7 +3176,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T20:52:01-03:00",
+    "ultimo": "2026-08-04T21:11:58-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3160,6 +3226,36 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "578788",
+        "autor": "SUELI FERREIRA FREIRE",
+        "data": "2026-08-04T21:11:58-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "ABSTRAÇÃO\nSilenciei notificações de redes sociais e WhatsApp para focar apenas no site da Vunesp. Remover essas distrações foi essencial.\nDECOMPOSIÇÃO\nDividi meu estudo em uma matéria por dia. Assim não sobrecarrego e consigo aprender melhor.\nPADRÕES\nIdentifiquei que:\nOs materiais estão sempre disponíveis\nAs avaliativas têm datas definidas\nSempre tem trabalhos em grupo\nALGORITMO\nMeu roteiro:\nConhe",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=578788#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "578723",
+        "autor": "NICOLAS DE SOUZA SANTOS",
+        "data": "2026-08-04T21:07:00-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "A atividade que eu escolhi foi a de fazer dieta\n\nabstração: Foco nos alimentos e no que eles podem me fornecer, deixando de lado macros e pesagens, pois a inteção da dieta é ter uma rotina saudável.\n\nDecomposição: Olho na minha tabela, Começo pela manhã com o que ela pede, peso corretamente quando é exigido, depois repito o processo no almoço, café da tarde, jantar e ceia e ao final anoto se algo ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=578723#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "578475",
@@ -3260,36 +3356,6 @@
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=571681#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=571816#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "571483",
-        "autor": "SHEILA REGINA SILVA DE MORAES",
-        "data": "2026-08-03T22:39:15-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Uma atividade do meu dia a dia em que aplico os pilares do pensamento computacional é a organização dos estudos da faculdade. Na abstração, procuro focar apenas nas informações mais importantes, como prazos, conteúdos e atividades que precisam ser entregues, deixando de lado detalhes que não impactam meu planejamento. Na decomposição, divido as tarefas em etapas menores, como assistir às aulas, fa",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=571483#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "571085",
-        "autor": "EDVALDO NOBUO HIGUCHI",
-        "data": "2026-08-03T22:04:18-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Achei muito legal o exemplo que você escolheu. Aplicar o pensamento computacional para organizar a rotina de saúde e perda de peso faz total sentido, porque o segredo desse processo é justamente quebrar grandes metas em passos menores.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=571085#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -3466,7 +3532,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T20:47:18-03:00",
+    "ultimo": "2026-08-04T21:11:40-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3826,11 +3892,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165185": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T20:51:56-03:00",
+    "ultimo": "2026-08-04T20:57:17-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "578591",
+        "autor": "ELEN MELISSA GERALDO",
+        "data": "2026-08-04T20:57:17-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "A aula de coreano foi um desafio bastante inusitado. Até mesmo porque o acesso a um idioma oriental se revelava plausível. Só que não. Apesar da aparente facilidade de identificar vogais e/ou consoantes de imediato, a sequência revelou-se inusitada com formas diferentes de posicionamento das mesmas, na hora da escrita. Claro que a gradação deveria levar a uma absorção mais simplificada... porém nã",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=578591#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "577249",
         "autor": "DAYANE MITZY LAURA MAMANI",
@@ -3959,21 +4040,6 @@
         "texto": "O cérebro é algo incrível, para entender bem um frase, se pegarmos cada palavra e escrevermos o significado que vemos no dicionário em um papel, de forma que todas as principais palavras do significado também sejam escritas, podemos parar por uns 15 minutos e fazer outra coisa completadmente diferente. Ao retornarmos àquela frase, temos um resumo já feito em nosso subconciente, parece até as ferra",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=564760#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "564595",
-        "autor": "GIULIANIE APARECIDA MACHADO FERREIRA",
-        "data": "2026-08-03T11:01:41-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Ao organizar por escrito o que aprendi, percebi que os conteúdos mais facilmente compreendidos foram registrados de forma mais curta e objetiva, pois as ideias já estavam claras. Nesses casos, utilizei palavras-chave, pequenas frases e exemplos para facilitar a consulta posterior.\n\nJá as informações mais complexas exigiram textos mais longos e uma organização mais detalhada. Procurei dividir o con",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=564595#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -4164,11 +4230,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207955": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T00:56:16-03:00",
+    "ultimo": "2026-08-04T21:08:26-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "578745",
+        "autor": "MATHEUS OLIVEIRA PIGATTO AZEVEDO",
+        "data": "2026-08-04T21:08:26-03:00",
+        "titulo": "Re: S1 - Fórum de dúvidas gerais",
+        "texto": "Excelente posicionamento, como estamos muito habituados a com o uso de celular esquecemos as dificuldades dos outros, até mesmo da forma como os aplicativos são desenvolvidos.\nJá tentou fazer o reconhecimento facial em um idoso kkk é uma jornada, ajudo muito meu avô nisso e vejo como os aplicativos excluíram essas pessoas.\nMuitos idosos vão usar somente o básico e as vezes até nisso são explorados",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=578745#mformforum"
+        ],
+        "forum": "S1 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "571926",
         "autor": "LORENA SANTOS CONSTANTE",
@@ -4305,27 +4386,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "559477",
-        "autor": "MARCOS ROBERTO DE BARROS DOS REIS",
-        "data": "2026-08-02T18:40:42-03:00",
-        "titulo": "Re: S1 - Fórum de dúvidas gerais",
-        "texto": "Sem duvidas até o momento.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=559477#mformforum"
-        ],
-        "forum": "S1 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207956": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T18:21:16-03:00",
+    "ultimo": "2026-08-04T20:57:10-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5322,11 +5388,27 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T20:51:52-03:00",
+    "ultimo": "2026-08-04T21:07:29-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "578727",
+        "autor": "ROSIMEIRE XAVIER SOARES",
+        "data": "2026-08-04T21:07:29-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Olá, turma. fiz um projeto chamado, contagem regressiva, no qual, um personagem conta de 5 até 1, transmite a mensagem: Enviar foguete, e o foguete vai diminuindo de tamanho, dando a impressao que ele esta subindo e se afastando. Utilizei comando como, repita, mova, aponte.\nsegue o link: https://scratch.mit.edu/projects/1366610687",
+        "links": [
+          "https://scratch.mit.edu/projects/1366610687",
+          "https://ava.univesp.br/mod/forum/post.php?reply=578727#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "577804",
         "autor": "LUCAS EDUARDO SIMON CHAGAS",
@@ -5395,7 +5477,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T19:06:03-03:00",
+    "ultimo": "2026-08-04T21:11:34-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5434,7 +5516,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T20:48:21-03:00",
+    "ultimo": "2026-08-04T20:57:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5729,11 +5811,56 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T20:53:47-03:00",
+    "ultimo": "2026-08-04T21:10:54-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "578713",
+        "autor": "RODRIGO BELLI",
+        "data": "2026-08-04T21:06:23-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Aprender a ler e escrever de verdade vai muito além de só juntar letras ou juntar sílabas. É o que dá a chave na mão pra gente ter liberdade e correr atrás dos nossos direitos. No meio de tanta informação e conversa fiada que a gente vê por aí, saber ler o mundo com olhar atento é o que impede a gente de ser passado pra trás ou de aceitar tudo de boca fechada. No fim das contas, a alfabetização cr",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=578713#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "578694",
+        "autor": "RAFAEL MARREIRA GARECA",
+        "data": "2026-08-04T21:04:54-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "O direito fundamental à leitura e à escrita críticas é indispensável para a cidadania plena e a emancipação social, pois transforma o cidadão de receptor passivo em agente autônomo, capaz de questionar estruturas de poder, combater a desinformação e participar ativamente da política. Amparado por pensadores como Paulo Freire, esse letramento vai além da decodificação de letras; trata-se de uma fer",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=578694#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "578588",
+        "autor": "JEFFERSON CARVALHO",
+        "data": "2026-08-04T20:56:57-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "​A leitura e a escrita críticas são o alicerce da cidadania, pois transformam o aprendizado mecânico em autonomia intelectual, combatem a exclusão social e permitem que o cidadão participe ativamente de uma sociedade mais justa.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=578588#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "578539",
         "autor": "BRUNO FERNANDES MORAES",
@@ -5834,54 +5961,6 @@
         "texto": "A leitura e a escrita críticas são direitos fundamentais porque permitem ao cidadão compreender e participar ativamente da sociedade. Ao analisar discursos de líderes, percebemos que o uso da língua não é neutro: tempos verbais, vocabulário e estratégias de persuasão revelam como o poder se exerce por meio das palavras. Ler e escrever de forma crítica significa identificar essas intenções e não ap",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=574881#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "572770",
-        "autor": "LUIS GUSTAVO APARECIDO TUCKUMANTEL",
-        "data": "2026-08-04T09:16:14-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "O direito a uma educação responsável e formal é direito fundamental assegurado em nossa Constituição. É um direito que forma cidadãos aptos a exercerem a cidadania plena, e portanto, quando não é respeitado esse direito, é o mesmo que criar uma \"subcategoria\" de cidadãos, pois estes não terão condições de praticar aqueles direitos que eles nem mesmo sabem que possuem.\nO Estado brasileiro estabelec",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=572770#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "571663",
-        "autor": "MARCEL RODRIGUES LOPES",
-        "data": "2026-08-03T23:03:02-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Para o desafio desta semana irei considerar um vídeo do YouTube cujo título é \"CEO do IFood fala sobre a polemica do trabalho presencial\". Segue minha reflexão:\n“Para convencer que sua empresa funciona melhor comparada a outras gigantes globais como a Amazon, por exemplo, ele se utiliza de uma linguagem bem direta, baseada em inferências sobre os problemas que estas outras empresas acabam por ter ",
-        "links": [
-          "https://www.youtube.com/watch?v=Soa3wcYgfAM",
-          "https://ava.univesp.br/mod/forum/post.php?reply=571663#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "571557",
-        "autor": "VITOR ALVES BARBOSA",
-        "data": "2026-08-03T22:48:07-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Boa Noite!!\nA aprendizagem da leitura e da escrita críticas é um direito fundamental porque permite que os cidadãos compreendam o mundo em que vivem, tenham acesso ao conhecimento e participem de forma consciente da vida social, política e econômica. Ler e escrever não significa apenas decodificar palavras, mas desenvolver a capacidade de interpretar informações, analisar argumentos e tomar decisõ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=571557#mformforum",
-          "https://www.youtube.com/watch?v=Soa3wcYgfAM",
-          "https://ava.univesp.br/mod/forum/post.php?reply=571663#mformforum"
         ],
         "forum": "S3 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",

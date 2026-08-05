@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-04T23:52:38.193072+00:00",
-  "snapshot_at": "2026-08-04T23:52:38.193072+00:00",
-  "attempted_at": "2026-08-04T23:52:38.193072+00:00",
-  "publication_id": "2026-08-04T23:52:38.193072+00:00",
+  "checked_at": "2026-08-05T00:11:10.882380+00:00",
+  "snapshot_at": "2026-08-05T00:11:10.882380+00:00",
+  "attempted_at": "2026-08-05T00:11:10.882380+00:00",
+  "publication_id": "2026-08-05T00:11:10.882380+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 48,
@@ -18,8 +18,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-04T23:52:38.195185+00:00",
-      "last_live_at": "2026-08-04T23:52:38.195185+00:00",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -28,8 +28,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-04T23:52:38.195185+00:00",
-      "last_live_at": "2026-08-04T23:52:38.195185+00:00",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 42,
       "from_cache": false,
@@ -42,8 +42,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-04T23:52:38.195185+00:00",
-      "last_live_at": "2026-08-04T23:52:38.195185+00:00",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -55,8 +55,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-04T23:52:38.195185+00:00",
-      "last_live_at": "2026-08-04T23:52:38.195185+00:00",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -71,8 +71,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-04T23:52:38.195185+00:00",
-      "last_live_at": "2026-08-04T23:52:38.195185+00:00",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 15,
       "from_cache": false,
@@ -82,25 +82,37 @@
       "entregas_nao_confirmadas": 1
     },
     "boletim": {
-      "status": "degradado",
-      "checked_at": "2026-08-04T23:52:38.195185+00:00",
-      "last_live_at": "2026-08-04T23:52:38.195185+00:00",
+      "status": "live",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 18,
-      "from_cache": true,
+      "from_cache": false,
       "truncado": false,
       "problemas": [
-        "boletim de 18880 veio sem linhas de atividade",
-        "boletim de 18922 não renderizou a tabela"
+        "boletim de 18880 veio sem linhas de atividade"
       ],
-      "falhas": 1,
+      "falhas": 0,
       "esperados": 4,
-      "live": 3
+      "live": 4
+    },
+    "participacao": {
+      "status": "live",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 7,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "falhas": 0,
+      "esperados": 1,
+      "live": 1
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-04T23:52:38.195185+00:00",
-      "last_live_at": "2026-08-04T23:52:38.195185+00:00",
+      "checked_at": "2026-08-05T00:11:10.884580+00:00",
+      "last_live_at": "2026-08-05T00:11:10.884580+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -439,13 +451,13 @@
           "novo": false
         },
         {
-          "id": "578475",
-          "autor": "ISRAEL FRANCISCO TORTATO",
-          "data": "2026-08-04T20:49:55-03:00",
+          "id": "578788",
+          "autor": "SUELI FERREIRA FREIRE",
+          "data": "2026-08-04T21:11:58-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Observando as contribuições do fórum, notei que muitos trouxeram excelentes exemplos focados na organização da rotina de estudos ou no controle financeiro. Para expandir nossa discussão com uma perspectiva diferente, escolhi aplicar os quatro pilares do pensamento computacional a uma situação real que enfrentei nesta semana: o diagnóstico e a solução de uma falha elétrica na minha SUV em um auto e",
+          "texto": "ABSTRAÇÃO\nSilenciei notificações de redes sociais e WhatsApp para focar apenas no site da Vunesp. Remover essas distrações foi essencial.\nDECOMPOSIÇÃO\nDividi meu estudo em uma matéria por dia. Assim não sobrecarrego e consigo aprender melhor.\nPADRÕES\nIdentifiquei que:\nOs materiais estão sempre disponíveis\nAs avaliativas têm datas definidas\nSempre tem trabalhos em grupo\nALGORITMO\nMeu roteiro:\nConhe",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=578475#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=578788#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -454,29 +466,29 @@
           "novo": true
         },
         {
-          "id": "578201",
-          "autor": "ISRAEL FRANCISCO TORTATO",
-          "data": "2026-08-04T20:30:58-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "Olá, professor(a) e colegas!\n\nAcompanhando as discussões e reflexões trazidas no fórum, é fascinante perceber como o Pensamento Computacional atua no nosso dia a dia, muitas vezes de maneira invisível. Para contribuir com o debate, gostaria de compartilhar uma análise sobre como essa lógica se aplica ao gerenciamento e otimização de rotinas de estudo e trabalho remoto (home office).\n\n1. Exemplos C",
+          "id": "578745",
+          "autor": "MATHEUS OLIVEIRA PIGATTO AZEVEDO",
+          "data": "2026-08-04T21:08:26-03:00",
+          "titulo": "Re: S1 - Fórum de dúvidas gerais",
+          "texto": "Excelente posicionamento, como estamos muito habituados a com o uso de celular esquecemos as dificuldades dos outros, até mesmo da forma como os aplicativos são desenvolvidos.\nJá tentou fazer o reconhecimento facial em um idoso kkk é uma jornada, ajudo muito meu avô nisso e vejo como os aplicativos excluíram essas pessoas.\nMuitos idosos vão usar somente o básico e as vezes até nisso são explorados",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=578201#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=578745#mformforum"
           ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+          "forum": "S1 - Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
         },
         {
-          "id": "577804",
-          "autor": "LUCAS EDUARDO SIMON CHAGAS",
-          "data": "2026-08-04T20:00:22-03:00",
+          "id": "578727",
+          "autor": "ROSIMEIRE XAVIER SOARES",
+          "data": "2026-08-04T21:07:29-03:00",
           "titulo": "Re: S3 - Fórum temático",
-          "texto": "https://scratch.mit.edu/projects/1366599806\n\nFiz um Grifo voando nas montanhas usando o comando de andar junto ao de mudar a fantasia para simular movimento igual ao bater de asas usando o comando de esperar com 0.1 segundo para ativar o gatilho de mudança de movimento para deixar a animação mais fluida.",
+          "texto": "Olá, turma. fiz um projeto chamado, contagem regressiva, no qual, um personagem conta de 5 até 1, transmite a mensagem: Enviar foguete, e o foguete vai diminuindo de tamanho, dando a impressao que ele esta subindo e se afastando. Utilizei comando como, repita, mova, aponte.\nsegue o link: https://scratch.mit.edu/projects/1366610687",
           "links": [
-            "https://scratch.mit.edu/projects/1366599806",
-            "https://ava.univesp.br/mod/forum/post.php?reply=577804#mformforum"
+            "https://scratch.mit.edu/projects/1366610687",
+            "https://ava.univesp.br/mod/forum/post.php?reply=578727#mformforum"
           ],
           "forum": "S3 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
@@ -485,17 +497,16 @@
           "novo": true
         },
         {
-          "id": "577790",
-          "autor": "PATRICIA PEREIRA DE OLIVEIRA",
-          "data": "2026-08-04T19:59:26-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "https://scratch.mit.edu/projects/1366594748\n\nCriei um Aquário, ao clicar na bandeira verde o peixe ou tubarão se movem. Se clicar novamente na bandeira verde haverá a troca de atores. Toda vez que o peixe ou tubarão tocam a borda da tela, seu tamanho é reduzido. Para voltar ao tamanho inicial é só clicar novamente na bandeira verde.\n\nFoi assim que ficou a programação em blocos, mas também pode ser",
+          "id": "578723",
+          "autor": "NICOLAS DE SOUZA SANTOS",
+          "data": "2026-08-04T21:07:00-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "A atividade que eu escolhi foi a de fazer dieta\n\nabstração: Foco nos alimentos e no que eles podem me fornecer, deixando de lado macros e pesagens, pois a inteção da dieta é ter uma rotina saudável.\n\nDecomposição: Olho na minha tabela, Começo pela manhã com o que ela pede, peso corretamente quando é exigido, depois repito o processo no almoço, café da tarde, jantar e ceia e ao final anoto se algo ",
           "links": [
-            "https://scratch.mit.edu/projects/1366594748",
-            "https://ava.univesp.br/mod/forum/post.php?reply=577790#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=578723#mformforum"
           ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -510,6 +521,7 @@
         },
         "itens": 3
       },
+      "participacao": null,
       "sections": [
         {
           "id": "section-0",
@@ -636,7 +648,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -648,7 +660,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -736,7 +748,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -848,7 +860,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Marcar como feito",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1245,6 +1257,7 @@
         "media": null,
         "itens": 0
       },
+      "participacao": null,
       "sections": [
         {
           "id": "section-0",
@@ -1560,7 +1573,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1572,7 +1585,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1695,7 +1708,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2048,6 +2061,66 @@
           "novo": false
         },
         {
+          "id": "578713",
+          "autor": "RODRIGO BELLI",
+          "data": "2026-08-04T21:06:23-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Aprender a ler e escrever de verdade vai muito além de só juntar letras ou juntar sílabas. É o que dá a chave na mão pra gente ter liberdade e correr atrás dos nossos direitos. No meio de tanta informação e conversa fiada que a gente vê por aí, saber ler o mundo com olhar atento é o que impede a gente de ser passado pra trás ou de aceitar tudo de boca fechada. No fim das contas, a alfabetização cr",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=578713#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "578694",
+          "autor": "RAFAEL MARREIRA GARECA",
+          "data": "2026-08-04T21:04:54-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "O direito fundamental à leitura e à escrita críticas é indispensável para a cidadania plena e a emancipação social, pois transforma o cidadão de receptor passivo em agente autônomo, capaz de questionar estruturas de poder, combater a desinformação e participar ativamente da política. Amparado por pensadores como Paulo Freire, esse letramento vai além da decodificação de letras; trata-se de uma fer",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=578694#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "578591",
+          "autor": "ELEN MELISSA GERALDO",
+          "data": "2026-08-04T20:57:17-03:00",
+          "titulo": "Re: S2 - Fórum temático",
+          "texto": "A aula de coreano foi um desafio bastante inusitado. Até mesmo porque o acesso a um idioma oriental se revelava plausível. Só que não. Apesar da aparente facilidade de identificar vogais e/ou consoantes de imediato, a sequência revelou-se inusitada com formas diferentes de posicionamento das mesmas, na hora da escrita. Claro que a gradação deveria levar a uma absorção mais simplificada... porém nã",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=578591#mformforum"
+          ],
+          "forum": "S2 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "578588",
+          "autor": "JEFFERSON CARVALHO",
+          "data": "2026-08-04T20:56:57-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "​A leitura e a escrita críticas são o alicerce da cidadania, pois transformam o aprendizado mecânico em autonomia intelectual, combatem a exclusão social e permitem que o cidadão participe ativamente de uma sociedade mais justa.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=578588#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
           "id": "578539",
           "autor": "BRUNO FERNANDES MORAES",
           "data": "2026-08-04T20:53:47-03:00",
@@ -2076,67 +2149,6 @@
           "prazos": [],
           "autoridade": "colega",
           "novo": true
-        },
-        {
-          "id": "577683",
-          "autor": "JESSICA SANTOS LEMOS",
-          "data": "2026-08-04T19:52:18-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "O processo de escrita livre é algo que ativa a criatividade e materializa um pensamento e/ou sentimento em códigos. A escrita livre é algo que liberta e retira o peso do perfeito, do culto, e continua sendo bela — pelo menos no meu entendimento.\n\nA dificuldade que tive, notei que estava majoritariamente em me preocupar com a forma/estrutura do que deveria ser escrito e, também, sobre o que iria es",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=577683#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "577496",
-          "autor": "OTAVIO AUGUSTO DA SILVA MILITAO",
-          "data": "2026-08-04T19:38:07-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "O debate sobre o direito fundamental à aprendizagem da leitura e da escrita críticas é central para a formação de cidadãos autônomos e para o fortalecimento de uma democracia plena. Com base nos fundamentos teóricos e conceituais do campo educacional, as razões que sustentam esse direito organizam-se em quatro pilares fundamentais:\n1. A Linguagem como Prática Social e Interação\nO direito à leitura",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=577496#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "577249",
-          "autor": "DAYANE MITZY LAURA MAMANI",
-          "data": "2026-08-04T19:14:59-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "Siiiimmm, deu até vontade de aprender kkkk",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=577249#mformforum"
-          ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "577005",
-          "autor": "JOAO MARCOS MARTINS DE SOUZA",
-          "data": "2026-08-04T18:50:35-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Conforme orientação apresentada na introdução da semana 3, desafio, segue análise de um discurso de uma autoridade escolhida no Youtube. O vídeo é sobre a posse de Maysa Furlan, quando assumiu o cargo de vice-reitora da Universidade Estadual Paulista (Unesp), uma posição elevada de comando em uma instituição pública de ensino superior. O discurso foi proferido em sua cerimônia de posse, realizada ",
-          "links": [
-            "https://www.youtube.com/watch?v=Ne9AzaK3_hw",
-            "https://ava.univesp.br/mod/forum/post.php?reply=577005#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
         }
       ],
       "paginas_instrucao": [],
@@ -2148,6 +2160,7 @@
         },
         "itens": 3
       },
+      "participacao": null,
       "sections": [
         {
           "id": "section-0",
@@ -2469,7 +2482,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2583,7 +2596,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3488,9 +3501,62 @@
         }
       ],
       "boletim": {
-        "status": "falhou",
-        "media": null,
+        "status": "live",
+        "media": {
+          "rotulo": "Média AVA",
+          "nota": "Erro"
+        },
         "itens": 12
+      },
+      "participacao": {
+        "quinzenas": [
+          {
+            "quinzena": "Q1",
+            "estado": "Final"
+          },
+          {
+            "quinzena": "Q2",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q3",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q4",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q5",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q6",
+            "estado": "Ainda não iniciada"
+          },
+          {
+            "quinzena": "Q7",
+            "estado": "Ainda não iniciada"
+          }
+        ],
+        "criterios": [
+          {
+            "nome": "Cobertura de conteúdos",
+            "situacao": "atendido"
+          },
+          {
+            "nome": "Regularidade de acesso",
+            "situacao": "atendido"
+          }
+        ],
+        "atualizado_em": "04/08/2026 às 18:07",
+        "quinzena_atual": {
+          "rotulo": "Q1 - Resultado final",
+          "progresso": "Progresso muito avançado",
+          "detalhe": "Todos os critérios previstos para esta quinzena foram identificados."
+        },
+        "perfil_temporal": "No prazo",
+        "fonte": "https://ativa.univesp.br/lti/progress"
       },
       "sections": [
         {
@@ -4045,8 +4111,8 @@
               "carencia": null,
               "enviado": true,
               "aberto": true,
-              "avaliacao_pendente": true,
-              "avaliacoes_pendentes": 1
+              "avaliacao_pendente": false,
+              "avaliacoes_pendentes": 0
             }
           ],
           "fase": "regular"
@@ -5276,22 +5342,23 @@
   "acoes": [
     {
       "curso": "COM170",
-      "secao": "Módulo 7",
+      "secao": "Quinzena 1",
       "fase": "regular",
       "verbo": "Avalie",
-      "coisa": "o trabalho do colega",
-      "o_que": "M7 - Revisão entre pares (Portfólio em grupo)",
-      "tipo": "workshop",
-      "url": "https://ava.univesp.br/mod/workshop/view.php?id=173857",
+      "coisa": "o trabalho do outro grupo",
+      "o_que": "Quinzena 1 · avaliação por pares",
+      "tipo": "obrigacao",
+      "url": null,
       "conta_nota": true,
       "prazo": "2026-08-04T23:59:00-03:00",
-      "prazo_txt": "vence hoje às 23:59",
-      "prazo_fonte": "calendário do AVA",
+      "prazo_txt": "vence hoje (horário não informado)",
+      "prazo_fonte": "aviso de Lucas Demeda Dos Santos",
       "fonte_url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
+      "autoridade": "institucional",
       "carencia": null,
-      "hora_certa": true,
+      "hora_certa": false,
       "urgencia": "hoje",
-      "aviso_txt": "Quinzena 1 · avaliação por pares"
+      "bloqueio": null
     },
     {
       "curso": "COM170",
@@ -6049,7 +6116,7 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S1 - Fórum temático",
+      "label": "Re: S1 - Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -6061,7 +6128,7 @@
     },
     {
       "curso": "COM100",
-      "label": "Re: S3 - Fórum temático",
+      "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
@@ -6145,18 +6212,6 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S1 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: S3 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
@@ -6170,6 +6225,18 @@
     {
       "curso": "LET110",
       "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
