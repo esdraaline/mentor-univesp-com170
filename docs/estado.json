@@ -23,7 +23,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160780": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T12:04:11-03:00",
+    "ultimo": "2026-08-05T13:57:53-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -62,7 +62,8 @@
         "titulo": "Re: Fórum de dúvidas gerais",
         "texto": "Bom dia, turma! Espero que todos estejam bem.\n\nIniciamos a terceira semana da nossa disciplina e, a partir desta semana, realizaremos lives semanais (encontros ao vivo) todas as segundas-feiras, sempre às 20h, no AVA, para que vocês possam conversar conosco e tirar dúvidas sobre os conteúdos com as facilitadoras.\n\nFiquem atentos(as) ao calendário das lives, disponível no ambiente virtual da discip",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582364#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=582364#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=582970#mformforum"
         ],
         "forum": "Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
@@ -859,7 +860,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 3,
-    "ultimo": "2026-08-03T23:54:41-03:00",
+    "ultimo": "2026-08-05T14:12:48-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -2227,6 +2228,18 @@
         "via": "api"
       },
       {
+        "nome": "Encontro Semanal S3: Pensamento Computacional + Apresentação Joyce",
+        "quando": "2026-08-05T20:00:00-03:00",
+        "curso_id": "18870",
+        "curso": null,
+        "atividade": "Encontro Semanal S3: Pensamento Computacional + Apresentação Joyce",
+        "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+        "acao": null,
+        "cmid": "160778",
+        "tipo": "course",
+        "via": "dom"
+      },
+      {
         "nome": "Término de S2 - Atividade Avaliativa",
         "quando": "2026-08-09T23:59:00-03:00",
         "curso_id": "18870",
@@ -2313,18 +2326,6 @@
       {
         "nome": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
         "quando": "2026-08-17T20:00:00-03:00",
-        "curso_id": "18870",
-        "curso": null,
-        "atividade": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-        "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
-        "acao": null,
-        "cmid": "160778",
-        "tipo": "course",
-        "via": "dom"
-      },
-      {
-        "nome": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-        "quando": "2026-08-24T20:00:00-03:00",
         "curso_id": "18870",
         "curso": null,
         "atividade": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
@@ -2839,7 +2840,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T11:18:34-03:00",
+    "ultimo": "2026-08-05T15:02:46-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3195,7 +3196,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T10:33:56-03:00",
+    "ultimo": "2026-08-05T15:03:57-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3556,7 +3557,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165185": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T12:54:04-03:00",
+    "ultimo": "2026-08-05T14:09:59-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5070,11 +5071,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T12:34:13-03:00",
+    "ultimo": "2026-08-05T15:23:57-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "583041",
+        "autor": "JOAO MARCOS MARTINS DE SOUZA",
+        "data": "2026-08-05T14:09:47-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Criei no Scratch uma história em que um gato percorre um labirinto até encontrar sua comida.\nProgramei as setas do teclado para fazê-lo andar para frente, para trás e girar.\nUtilizei uma estrutura de repetição para verificar continuamente as teclas pressionadas pelo usuário.\nO principal desafio foi impedir que o gato atravessasse as paredes do labirinto.\nResolvi o problema usando o comando de cont",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=583041#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "582172",
         "autor": "EDUARDO PENTEADO LACUSTA",
@@ -5220,22 +5236,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "575486",
-        "autor": "CESAR AUGUSTO GUERREIRO MARTINS",
-        "data": "2026-08-04T15:28:29-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Meu proejto ficou um pouco simples.\n\nhttps://scratch.mit.edu/projects/1366558359\n\nNa minha criação o gato bate penaltis, voce pode escolher para onde a bola vai com a seta do seu mouse, basta deixa seta no local onde a bola deve ir.",
-        "links": [
-          "https://scratch.mit.edu/projects/1366558359",
-          "https://ava.univesp.br/mod/forum/post.php?reply=575486#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -5337,7 +5337,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T12:45:23-03:00",
+    "ultimo": "2026-08-05T15:12:45-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5372,6 +5372,96 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "583570",
+        "autor": "MAYARA BRANDAO TEIXEIRA MODELLI",
+        "data": "2026-08-05T15:12:45-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Penso que a idade de 16 anos é adequada para o início do voto, principalmente porque ele é facultativo. Muitos adolescentes já acompanham as notícias, participam de debates na escola e têm interesse pelos assuntos que afetam a sociedade. Dar essa oportunidade é uma forma de incentivar a participação cidadã desde cedo.\n\nTambém acredito que a escola tem um papel essencial nessa formação. Além de ens",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=583570#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "583387",
+        "autor": "BRUNO DE PINHO GARCIA",
+        "data": "2026-08-05T14:50:36-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Acho que muitos adolescentes de 16 anos já têm maturidade para votar, principalmente quando acompanham notícias, participam de debates e entendem os problemas do país.\nComo o voto nessa idade é facultativo, participa quem se sente preparado.\nAlém disso, incluir os jovens nas eleições faz com que temas como educação, primeiro emprego, tecnologia e meio ambiente recebam mais atenção dos candidatos.\n",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=583387#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "583115",
+        "autor": "DALTON ONOFRE REIS DIAS",
+        "data": "2026-08-05T14:15:19-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "A questão da idade, seja ela 16 ou 18 anos, não deve ser o único fator que deve ser levado em consideração na análise da maturidade para exercer ou não, o poder de voto. Até porque, existem muitas pessoas com muito mais idade e que não possuem maturidade suficiente para votar, mesmo que perante a lei, já são responsabilizados pelos seu atos.\n\nA Renata e seus colegas demonstram através desse grêmio",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=583115#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "583028",
+        "autor": "MARCOS FERNANDO GIOTTO",
+        "data": "2026-08-05T14:07:16-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Creio que não existe uma idade específica para se afirmar sobre a maturidade e maioridade eleitoral. Com a definição de 16 anos teremos casos de voto consciente e voto não consciente. Mas isso ocorre também com idades mais avançadas. Na minha opinião, o resultado final é positivo, no mínimo funciona como aprendizado de um processo democrático.\nAté o momento, infelizmente, não tenho argumentos para",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=583028#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "582990",
+        "autor": "GABRIELA FERNANDA PASSARELLI",
+        "data": "2026-08-05T14:01:24-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "O direito ao voto aos 16 anos representa uma importante forma de ampliar a participação democrática dos jovens. Embora nem todos os adolescentes tenham o mesmo nível de maturidade política, essa realidade também ocorre entre os adultos. Por isso, mais do que estabelecer a idade como único critério, é fundamental garantir uma educação de qualidade que desenvolva o pensamento crítico, a capacidade d",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=582990#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "582983",
+        "autor": "MARIA HELENA APARECIDA SCHIAVON",
+        "data": "2026-08-05T14:00:58-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Acredito que a cidadania é fortalecida pela participação ativa e pela defesa dos direitos democráticos.\nO voto aos 16 anos incentiva os jovens a participarem das decisões do país.\nA educação e a informação ajudam na formação de uma consciência política responsável.\nAs escolas contribuem para o pensamento crítico e o debate sobre temas sociais.\nAssim, o voto jovem amplia a representatividade e fort",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=582983#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "582566",
@@ -5417,106 +5507,49 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "582318",
-        "autor": "DIEGO CLEMENTE BEVILAQUA",
-        "data": "2026-08-05T11:58:02-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Bom, acredito que o adolescente de 16 anos tem capacidade intelectual para opniar politicamente sobre o assunto mais importante do seu país e ser protagonista nessa história. Porém considerando o que estudamos nas matérias na questão de cidadania, não acredito que um adolescente de escola publica por exemplo, deva ser excluido do processo de voto, já que como estudamos o principio da cidadania dev",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582318#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "582123",
-        "autor": "FABIANO DE SIMAS RODRIGUES",
-        "data": "2026-08-05T11:31:24-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Acredito que a idade, por si só, não deveria ser o único critério para determinar a maioridade política ou a capacidade de exercer o voto. Embora a definição de uma idade mínima seja uma forma prática de estabelecer esse direito, a maturidade política está relacionada principalmente à capacidade de compreender a sociedade, os direitos e deveres do cidadão e o funcionamento das instituições democrá",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582123#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "581942",
-        "autor": "FABIO INACIO LANDIM DE LIMA",
-        "data": "2026-08-05T11:03:36-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "sim a capacidade da compreensao social e muito importate temos que compreender nossoa direitos\n\nacredito que apartir dos 14 anos a pessoa ja esta apta a votar\n\nsim a escolas formam pessoas concientes mas o problema e que a teoria nao espelha a pratica na pratica todo politicos sao corruptos e ate os que entram para fazer o certo sao obrigados a ser corruptos",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=581942#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "581678",
-        "autor": "RAFAELA ALVES LUPETTI DE LOREDO",
-        "data": "2026-08-05T10:31:45-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Eu acho que a compreensão das relações sociais é importante sim, mas não dá pra ser o único critério pra maioridade eleitoral porque isso é muito subjetivo. O que garante igualdade pra todo mundo é a idade, e eu acredito que 16 anos é uma idade adequada. Com 16 anos a gente já começa a assumir responsabilidades como estudo e trabalho, então começar a votar cedo ajuda a criar o hábito da cidadania.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=581678#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "581639",
-        "autor": "FABIO DE PAULA PIRES",
-        "data": "2026-08-05T10:27:10-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Na minha opinião sobre o caso de Renata, a capacidade de votar de forma consciente não surge magicamente aos 18 anos. Ela é construída na prática, quando o jovem tem espaços dentro e fora da escola para debater e opinar sobre a sociedade. Quando os jovens de 16 anos entram no cenário eleitoral, os políticos são obrigados a dar atenção a temas que afetam diretamente essa idade, como a qualidade do ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=581639#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "581583",
-        "autor": "GABRIELA DE OLIVEIRA MUNHOZ",
-        "data": "2026-08-05T10:20:49-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Na minha opinião, a capacidade para votar não depende apenas da idade, mas também da educação e da formação de cada pessoa. Acredito que muitos adolescentes de 16 anos têm condições de compreender questões políticas e sociais, principalmente quando recebem uma boa educação e são incentivados a desenvolver o pensamento crítico, como aconteceu com a personagem Renata.\n\nPor isso, considero adequada a",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=581583#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182606": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T12:42:40-03:00",
+    "ultimo": "2026-08-05T15:14:46-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "583455",
+        "autor": "FABIO ROCHA RIBEIRO",
+        "data": "2026-08-05T14:59:08-03:00",
+        "titulo": "Re: S3 - Fórum de dúvidas gerais",
+        "texto": "Achei os temas um pouco complexo mas tambem estou aproveitando o conteudo como você Maria, temas que na verdade tambem questiona a maneira de como nos comportamos até no nosso dia a dia.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=583455#mformforum"
+        ],
+        "forum": "S3 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "582897",
+        "autor": "MARIA HELENA APARECIDA SCHIAVON",
+        "data": "2026-08-05T13:40:41-03:00",
+        "titulo": "Re: S3 - Fórum de dúvidas gerais",
+        "texto": "Cada semana os temas abordados em ética, cidadania e Sociedade se tornam mais polêmicos e complexos sobre a reflexão crítica e moral que vai além de direitos e deveres, tecendo relações como parte de um coletivo. Aqui ate o presente momento sem duvidas e aproveitando cada conteúdo explorado.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=582897#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=583005#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=583455#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=583577#mformforum"
+        ],
+        "forum": "S3 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "582547",
         "autor": "ALINE CANDELLEIRO RODRIGUES",
@@ -5636,42 +5669,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "567154",
-        "autor": "MANOEL BAZANI SIMOES JUNIOR",
-        "data": "2026-08-03T16:25:32-03:00",
-        "titulo": "Re: S3 - Fórum de dúvidas gerais",
-        "texto": "Bom conteúdo, porém algumas questões apresentaram divergências, o que acabou gerando interpretações diferentes. Ainda assim, foi um tema interessante e relevante para a reflexão e o debate.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=567154#mformforum"
-        ],
-        "forum": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "565738",
-        "autor": "LUIS FELIPE DE OLIVEIRA ROSA",
-        "data": "2026-08-03T13:48:55-03:00",
-        "titulo": "Re: S3 - Fórum de dúvidas gerais",
-        "texto": "Nesta terceira semana, compreendi que a cidadania não é um conceito fixo, mas uma construção histórica que se transforma conforme a sociedade amplia seus direitos e reconhece novos sujeitos como participantes da vida pública. O direito ao voto é um bom exemplo dessa evolução, pois durante muito tempo excluiu diversos grupos e, posteriormente, foi ampliado para mulheres e jovens a partir dos 16 ano",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=565738#mformforum"
-        ],
-        "forum": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-05T13:01:05-03:00",
+    "ultimo": "2026-08-05T15:24:55-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -6101,6 +6104,30 @@
             "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external 31/08"
           }
         ],
+        "autoridade": "institucional",
+        "novo": true
+      }
+    ]
+  },
+  "https://ava.univesp.br/mod/forum/discuss.php?d=133219": {
+    "schema_version": 3,
+    "ultimo": "2026-08-05T17:49+0000",
+    "truncado": false,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
+    "posts": [
+      {
+        "id": "583382",
+        "autor": "Elva Karina Mayhua Quispe",
+        "data": "2026-08-05T14:49:41-03:00",
+        "titulo": "Confirmação da nossa Live de hoje - Quarta-feira às 20h!",
+        "texto": "Olá, pessoal! Tudo bem?\n\nPassando para confirmar que a nossa Live da Semana 3 será HOJE (quarta-feira), às 20h!\n\nNo encontro de hoje, vamos revisar o conteúdo da semana (Scratch, pilares do PC e lógica de programação) e teremos a apresentação especial da nossa co-facilitadora Joyce Viana, que passa a integrar o nosso time!\n\n📌 Importante: Aproveitaremos o final da Live de hoje para conversar e alin",
+        "links": [
+          "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/d2VHwmfmcrVZ/external"
+        ],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=133219",
+        "prazos": [],
         "autoridade": "institucional",
         "novo": true
       }
