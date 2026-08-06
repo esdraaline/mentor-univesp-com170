@@ -1,16 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-06T00:01:30.433488+00:00",
-  "snapshot_at": "2026-08-06T00:01:30.433488+00:00",
-  "attempted_at": "2026-08-06T00:01:30.433488+00:00",
-  "publication_id": "2026-08-06T00:01:30.433488+00:00",
+  "checked_at": "2026-08-06T12:59:47.548585+00:00",
+  "snapshot_at": "2026-08-06T12:59:47.548585+00:00",
+  "attempted_at": "2026-08-06T12:59:47.548585+00:00",
+  "publication_id": "2026-08-06T12:59:47.548585+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 48,
     "itens": 174,
     "avisos": 60,
-    "eventos_calendario": 11,
-    "eventos_uteis": 11,
+    "eventos_calendario": 12,
+    "eventos_uteis": 12,
     "notificacoes": 9,
     "cronograma": 3,
     "itens_com_prazo": 33
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,22 +29,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 11,
+      "quantidade_atual": 12,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 11,
+      "eventos": 12,
       "api": 5,
       "dom": 10
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -67,13 +67,13 @@
       "listas_live": 33,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 135,
-      "posts_institucionais_guardados": 100
+      "posts_institucionais_vistos": 136,
+      "posts_institucionais_guardados": 101
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 14,
       "from_cache": false,
@@ -84,8 +84,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 18,
       "from_cache": false,
@@ -99,8 +99,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -112,8 +112,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-06T00:01:30.435531+00:00",
-      "last_live_at": "2026-08-06T00:01:30.435531+00:00",
+      "checked_at": "2026-08-06T12:59:47.550760+00:00",
+      "last_live_at": "2026-08-06T12:59:47.550760+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -308,6 +308,21 @@
           "novo": true
         },
         {
+          "id": "587120",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-05T21:25:03-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Turma, tivemos uma alteração nos dias das lives.\nAgora será toda quarta-feira\n\nIniciamos a terceira semana da nossa disciplina e, a partir desta semana, realizaremos lives semanais (encontros ao vivo) todas as quartas-feiras, sempre às 20h, no AVA, para que vocês possam conversar conosco e tirar dúvidas sobre os conteúdos com as facilitadoras.\n\nFiquem atentos(as) ao calendário das lives, disponíve",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=587120#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "583382",
           "autor": "Elva Karina Mayhua Quispe",
           "data": "2026-08-05T14:49:41-03:00",
@@ -330,7 +345,8 @@
           "texto": "Bom dia, turma! Espero que todos estejam bem.\n\nIniciamos a terceira semana da nossa disciplina e, a partir desta semana, realizaremos lives semanais (encontros ao vivo) todas as segundas-feiras, sempre às 20h, no AVA, para que vocês possam conversar conosco e tirar dúvidas sobre os conteúdos com as facilitadoras.\n\nFiquem atentos(as) ao calendário das lives, disponível no ambiente virtual da discip",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=582364#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=582970#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=582970#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=587120#mformforum"
           ],
           "forum": "Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
@@ -472,19 +488,6 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
-        },
-        {
-          "id": "462744",
-          "autor": "Wesley de Souza Lima",
-          "data": "2026-07-21T21:19:46-03:00",
-          "titulo": "CRITÉRIOS DE AVALIAÇÃO",
-          "texto": "CRITÉRIOS DE AVALIAÇÃO \n\nEixos de COMPUTAÇÂO e de NEGÓCIOS E PRODUÇÃO \n\n40% - nota pela participação na fase de estudos (AVA)  \n\n60% - nota pelo desempenho nas provas presenciais (nos Polos) \n\nParticipação na fase de estudos (AVA):  a nota será atribuída com base na participação \n\n dos estudantes ao longo da disciplina; será composta por três avaliações de mesmo peso:  \n\n1. Assistir às videoaulas ",
-          "links": [],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=123397",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
         }
       ],
       "paginas_instrucao": [],
@@ -548,7 +551,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -623,7 +626,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -723,7 +726,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "9",
+              "nao_lidas": "13",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -735,7 +738,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -823,7 +826,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "15",
+              "nao_lidas": "37",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -835,7 +838,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Marcar como feito",
-              "nao_lidas": "6",
+              "nao_lidas": "12",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1286,7 +1289,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1418,7 +1421,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1550,7 +1553,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "10",
+              "nao_lidas": "13",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1562,7 +1565,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "6",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1685,7 +1688,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "19",
+              "nao_lidas": "36",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1697,7 +1700,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "11",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2053,43 +2056,13 @@
           "novo": false
         },
         {
-          "id": "584946",
-          "autor": "ANDREIA BANDEIRA FERREIRA",
-          "data": "2026-08-05T18:15:47-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Com base nos materiais apresentados nota-se que aprender a ler e a escrever criticamente vai muito além da simples decodificação de letras; trata-se de um direito fundamental essencial para a vida democrática. Saber ler e interpretar um texto vai muito além da informação dada, nos traz conhecimento e a oportunidade de reflexão sobre a sociedade num todo.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=584946#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "584848",
-          "autor": "VAGNER DA SILVA BACARIM",
-          "data": "2026-08-05T18:06:21-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Sem alfabetização crítica, uma pessoa pode até decodificar palavras, mas fica impedida de compreender leis, contratos, direitos trabalhistas, informações de saúde ou processos eleitorais de forma autônoma. Isso a torna dependente de intermediários e mais vulnerável a abusos e exploração.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=584848#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "584747",
-          "autor": "VAGNER DA SILVA BACARIM",
-          "data": "2026-08-05T17:57:03-03:00",
+          "id": "589256",
+          "autor": "RENATO MOREIRA DA SILVA",
+          "data": "2026-08-06T09:13:11-03:00",
           "titulo": "Re: S2 - Fórum temático",
-          "texto": "Ao realizar o desafio, percebi que alguns conteúdos foram mais fáceis de absorver porque eram apresentados de forma objetiva e com exemplos claros. Para comentar esses aspectos, utilizei textos mais curtos, pois consegui sintetizar as ideias principais sem dificuldade.\n\nJá as informações mais complexas exigiram maior atenção e reflexão. Nesses casos, minhas anotações foram mais longas e organizada",
+          "texto": "Bom dia Marcos, Você que é o facilitador do nosso grupo?",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=584747#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=589256#mformforum"
           ],
           "forum": "S2 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -2098,31 +2071,62 @@
           "novo": true
         },
         {
-          "id": "584528",
-          "autor": "ANA CLAUDIA DE OLIVEIRA QUEIROZ VIANNA",
-          "data": "2026-08-05T17:27:33-03:00",
-          "titulo": "Re: S2 - Fórum temático",
-          "texto": "1. Organização das Anotações\nConteúdos fáceis: Pedem anotações mais curtas. Como a compreensão é rápida, bastam palavras-chave e esquemas simples para captar a essência.\n\nConteúdos complexos: Exigem textos mais longos e detalhados (com passo a passo ou desenhos) para ajudar a destrinchar o raciocínio e não perder nenhuma informação.\n\n2. A Gradação (Liste, Descreva, Comente)\nEsses comandos refletem",
+          "id": "589168",
+          "autor": "PEDRO AUGUSTO DA SILVA GANEM",
+          "data": "2026-08-06T08:58:26-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "A aprendizagem da leitura e da escrita críticas não deve ser entendida apenas como uma ferramenta de decodificação mecânica de códigos, mas sim como o pilar fundamental para a consolidação da cidadania, da democracia e da emancipação humana. Conforme apontam os debates da nossa disciplina e os princípios constitucionais (como o Artigo 206 da Constituição de 1988), a educação e o domínio da linguag",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=584528#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=589168#mformforum"
           ],
-          "forum": "S2 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
         },
         {
-          "id": "584410",
-          "autor": "CARLOS EDUARDO ANDERSON",
-          "data": "2026-08-05T17:12:34-03:00",
+          "id": "589123",
+          "autor": "JOSE RENATO SALIA",
+          "data": "2026-08-06T08:49:44-03:00",
           "titulo": "Re: S3 - Fórum temático",
-          "texto": "Ler e escrever são conceitos básicos para que uma pessoa possa evoluir socialmente. Isso abre as portas para compreensão e questionamentos das ideias e participar da sociedade de forma ativa consciente.",
+          "texto": "Emtrevista de Carlo Ancelotti (Técnico Brasil), após a eliminação nas fases decisivas da Copa do Mundo FIFA 2026.\n\nPlataforma: YouTube (Canal Oficial da FIFA / Transmissão Esportiva)\n\nTrecho Selecionado: Abertura e resposta às primeiras perguntas (duração estimada: ~5 minutos).\n\nJustificou a eliminação , atribuindo a ele (Ancelotti) toda a culpa, e defendeu os jogadores , que se empenharam ao máxi",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=584410#mformforum"
+            "https://ava.univesp.br/mod/forum/post.php?reply=589123#mformforum"
           ],
           "forum": "S3 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "588931",
+          "autor": "FABIANA AGATA CORTELUSSE DAVANCE",
+          "data": "2026-08-06T07:49:07-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Debater o direito à aprendizagem da leitura e da escrita exige compreendê-las não como exercícios mecânicos de domínio de códigos, mas como ferramentas de humanização e emancipação política.\nComo argumenta Paulo Freire, a \"leitura do mundo precede a leitura da palavra\". Isso significa que aprender a ler e escrever criticamente é aprender a compreender o próprio contexto e a \"dizer a sua palavra\", ",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=588931#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=588979#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "colega",
+          "novo": true
+        },
+        {
+          "id": "588603",
+          "autor": "RICARDO ALEXANDRE DE JESUS",
+          "data": "2026-08-06T00:45:43-03:00",
+          "titulo": "Re: S1 - Fórum temático",
+          "texto": "Achei a experiência da escrita livre libertadora! o melhor aprendizado.\nA minha maior motivação para escrever é organizar o pensamento. Quanto à dificuldade, senti um pouco de cada:\nNo ato de escrever: A tentação constante de parar para corrigir o texto.\nNo tema: A trava emocional ao mexer em assuntos mais complexos.\nEntendi que o papel do escritor no primeiro rascunho é só colocar a matéria-prima",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=588603#mformforum"
+          ],
+          "forum": "S1 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
           "prazos": [],
           "autoridade": "colega",
           "novo": true
@@ -2189,7 +2193,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2324,7 +2328,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2459,7 +2463,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "6",
+              "nao_lidas": "14",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2573,7 +2577,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "11",
+              "nao_lidas": "29",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -4949,6 +4953,18 @@
       "via": "dom"
     },
     {
+      "nome": "3º Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "quando": "2026-08-19T20:00:00-03:00",
+      "curso_id": "18870",
+      "curso": null,
+      "atividade": "3º Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "acao": null,
+      "cmid": "160778",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
       "nome": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
       "quando": "2026-08-24T20:00:00-03:00",
       "curso_id": "18870",
@@ -5020,54 +5036,23 @@
   "mensagens": [],
   "acoes": [
     {
-      "curso": "COM100",
-      "secao": "Semana 2",
-      "fase": "regular",
-      "verbo": "Responda",
-      "coisa": "questionário",
-      "o_que": "S2 - Atividade Avaliativa",
-      "tipo": "quiz",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=160791",
-      "conta_nota": true,
-      "entrega_nao_confirmada": true,
-      "prazo": "2026-08-05T23:59:00-03:00",
-      "prazo_txt": "vence hoje às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-08-09T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
-    {
       "curso": "COM170",
       "secao": "Re: Cronograma de Lives com a Supervisão - Quinzena 2",
       "fase": "regular",
       "verbo": "Assista",
       "coisa": "ao vivo",
-      "o_que": "Lívia e Cássia",
+      "o_que": "Carlos e Siguara",
       "tipo": "compromisso",
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=128509",
       "conta_nota": true,
-      "prazo": "2026-08-06T10:00:00-03:00",
-      "prazo_txt": "acontece amanhã, 06/08 às 10:00",
+      "prazo": "2026-08-06T17:00:00-03:00",
+      "prazo_txt": "acontece hoje às 17:00",
       "prazo_fonte": "aviso de Neide Silvania Campos Sampaio",
       "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=128509",
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "amanha",
-      "opcoes": [
-        {
-          "quando": "2026-08-06T10:00:00-03:00",
-          "prazo_txt": "acontece amanhã, 06/08 às 10:00",
-          "o_que": "Lívia e Cássia"
-        },
-        {
-          "quando": "2026-08-06T17:00:00-03:00",
-          "prazo_txt": "acontece amanhã, 06/08 às 17:00",
-          "o_que": "Carlos e Siguara"
-        }
-      ]
+      "urgencia": "hoje"
     },
     {
       "curso": "COM100",
@@ -5335,6 +5320,25 @@
       "bloqueio": null
     },
     {
+      "curso": "COM100",
+      "secao": "Calendário do AVA",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "3º Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "conta_nota": true,
+      "prazo": "2026-08-19T20:00:00-03:00",
+      "prazo_txt": "acontece 19/08",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
       "curso": "COM170",
       "secao": "Q2 Módulo 1",
       "fase": "regular",
@@ -5354,6 +5358,19 @@
     }
   ],
   "encerrados": [
+    {
+      "curso": "COM100",
+      "secao": "Semana 2",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S2 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=160791",
+      "conta_nota": true,
+      "entrega_nao_confirmada": true,
+      "motivo": "venceu em 05/08"
+    },
     {
       "curso": "COM170",
       "secao": "Módulo 6",
@@ -5875,6 +5892,12 @@
     },
     {
       "curso": "COM100",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso",
+      "autoridade": "institucional"
+    },
+    {
+      "curso": "COM100",
       "label": "Confirmação da nossa Live de hoje - Quarta-feira às 20h!",
       "kind": "aviso",
       "autoridade": "institucional"
@@ -5995,24 +6018,6 @@
     },
     {
       "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
       "label": "Re: S2 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
@@ -6020,6 +6025,24 @@
     {
       "curso": "LET110",
       "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S3 - Fórum temático",
+      "kind": "aviso",
+      "autoridade": "colega"
+    },
+    {
+      "curso": "LET110",
+      "label": "Re: S1 - Fórum temático",
       "kind": "aviso",
       "autoridade": "colega"
     },
