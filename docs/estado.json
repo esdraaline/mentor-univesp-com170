@@ -280,7 +280,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:17:54-03:00",
+    "ultimo": "2026-08-06T22:24:52-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -298,6 +298,21 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": false
+      },
+      {
+        "id": "595125",
+        "autor": "DOUGLAS PAES MONTEIRO",
+        "data": "2026-08-06T21:57:44-03:00",
+        "titulo": "Re: S1 - Fórum temático",
+        "texto": "No meu dia a dia, o pensamento computacional aparece muito mais do que eu imaginava. No trabalho, por exemplo, como atuo com testes de software, preciso dividir um problema em partes menores para entender onde está o erro e qual a melhor forma de resolver. Isso é bem parecido com o que estudamos sobre decomposição e criação de etapas para chegar a uma solução.\n\nEm casa também vejo isso acontecendo",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=595125#mformforum"
+        ],
+        "forum": "S1 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -419,21 +434,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "569847",
-        "autor": "ROSENES LUZIA DE SOUZA",
-        "data": "2026-08-03T20:41:58-03:00",
-        "titulo": "Re: S1 - Fórum temático",
-        "texto": "A transição do passivo para o estratégico ocorre quando paramos de reformatar os mesmos problemas todos os dias e passamos a criar sistemas para resolvê-los. O Pensamento Computacional é, antes de tudo, uma habilidade de gestão pessoal.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=569847#mformforum"
-        ],
-        "forum": "S1 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -496,7 +496,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T20:59:18-03:00",
+    "ultimo": "2026-08-07T10:59:43-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 40,
     "posts_institucionais_guardados": 10,
@@ -856,11 +856,38 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T09:09:33-03:00",
+    "ultimo": "2026-08-07T11:48:03-03:00",
     "truncado": true,
-    "posts_institucionais_vistos": 2,
-    "posts_institucionais_guardados": 2,
+    "posts_institucionais_vistos": 3,
+    "posts_institucionais_guardados": 3,
     "posts": [
+      {
+        "id": "597648",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-07T11:48:03-03:00",
+        "titulo": "Re: Fórum de dúvidas gerais",
+        "texto": "Prezados/as estudantes,\n\nNossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente.\n\nNas demais semanas, nos encontraremos às terças-feiras, às 20h.\n\nAtenciosamente,\n\nBruno.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597648#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+        "prazos": [
+          {
+            "rotulo": "Prezados/as estudantes, Nossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente",
+            "quando": "2026-08-07T13:00:00-03:00",
+            "trecho": "07/08) às 13h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": null,
+            "confianca": "alta",
+            "frase": "Prezados/as estudantes, Nossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente",
+            "titulo_evento": "Prezados/as estudantes"
+          }
+        ],
+        "autoridade": "institucional",
+        "novo": true
+      },
       {
         "id": "566433",
         "autor": "Bruno Barra da Silva",
@@ -874,7 +901,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "515000",
@@ -1066,28 +1093,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": false
-      },
-      {
-        "id": "528354",
-        "autor": "MARCOS EDUARDO DE ALMEIDA BARBOSA",
-        "data": "2026-07-29T20:05:17-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Boa noite. Live do facilitador da semana 2 ainda não disponível?",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=528354#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=531185#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165175": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:51:48-03:00",
+    "ultimo": "2026-08-06T22:17:51-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -1120,7 +1131,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "593103",
@@ -1210,7 +1221,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "567062",
@@ -1225,7 +1236,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "562870",
@@ -2200,6 +2211,18 @@
         "via": "api"
       },
       {
+        "nome": "Live 1",
+        "quando": "2026-08-07T13:00:00-03:00",
+        "curso_id": "18893",
+        "curso": null,
+        "atividade": "Live 1",
+        "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+        "acao": null,
+        "cmid": "165163",
+        "tipo": "course",
+        "via": "dom"
+      },
+      {
         "nome": "Término de S2 - Atividade Avaliativa",
         "quando": "2026-08-09T23:59:00-03:00",
         "curso_id": "18870",
@@ -2248,6 +2271,18 @@
         "via": "dom"
       },
       {
+        "nome": "Live 2",
+        "quando": "2026-08-11T20:00:00-03:00",
+        "curso_id": "18893",
+        "curso": null,
+        "atividade": "Live 2",
+        "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+        "acao": null,
+        "cmid": "165163",
+        "tipo": "course",
+        "via": "dom"
+      },
+      {
         "nome": "Término de S3 - Atividade Avaliativa",
         "quando": "2026-08-16T23:59:00-03:00",
         "curso_id": "18870",
@@ -2286,30 +2321,6 @@
       {
         "nome": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
         "quando": "2026-08-17T20:00:00-03:00",
-        "curso_id": "18870",
-        "curso": null,
-        "atividade": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-        "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
-        "acao": null,
-        "cmid": "160778",
-        "tipo": "course",
-        "via": "dom"
-      },
-      {
-        "nome": "3º Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
-        "quando": "2026-08-19T20:00:00-03:00",
-        "curso_id": "18870",
-        "curso": null,
-        "atividade": "3º Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
-        "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
-        "acao": null,
-        "cmid": "160778",
-        "tipo": "course",
-        "via": "dom"
-      },
-      {
-        "nome": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-        "quando": "2026-08-24T20:00:00-03:00",
         "curso_id": "18870",
         "curso": null,
         "atividade": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
@@ -2743,26 +2754,26 @@
   },
   "_autores_institucionais": {
     "18870": {
-      "Elva Karina Mayhua Quispe": "2026-08-06",
-      "Joyce Mirella Dos Anjos Viana": "2026-08-06",
-      "Loren Salles Souza Pereira": "2026-08-06",
-      "Wesley de Souza Lima": "2026-08-06"
+      "Elva Karina Mayhua Quispe": "2026-08-07",
+      "Joyce Mirella Dos Anjos Viana": "2026-08-07",
+      "Loren Salles Souza Pereira": "2026-08-07",
+      "Wesley de Souza Lima": "2026-08-07"
     },
     "18880": {
-      "Igor Alexandre Silva Cassemiro": "2026-08-06",
-      "Mirza Ferreira": "2026-08-06",
-      "Wesley de Souza Lima": "2026-08-06"
+      "Igor Alexandre Silva Cassemiro": "2026-08-07",
+      "Mirza Ferreira": "2026-08-07",
+      "Wesley de Souza Lima": "2026-08-07"
     },
     "18893": {
-      "Bruno Barra da Silva": "2026-08-06",
-      "Paulo Otavio da Silva Joaquim": "2026-08-06",
-      "Pedro Henrique dos Santos Malafaia": "2026-08-06"
+      "Bruno Barra da Silva": "2026-08-07",
+      "Paulo Otavio da Silva Joaquim": "2026-08-07",
+      "Pedro Henrique dos Santos Malafaia": "2026-08-07"
     },
     "18922": {
-      "Lucas Demeda Dos Santos": "2026-08-06",
-      "Neide Silvania Campos Sampaio": "2026-08-06",
-      "Usuário Integração SEI": "2026-08-06",
-      "no reply": "2026-08-06"
+      "Lucas Demeda Dos Santos": "2026-08-07",
+      "Neide Silvania Campos Sampaio": "2026-08-07",
+      "Usuário Integração SEI": "2026-08-07",
+      "no reply": "2026-08-07"
     }
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=125120": {
@@ -2824,7 +2835,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:40:01-03:00",
+    "ultimo": "2026-08-07T11:52:34-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -2903,6 +2914,66 @@
         "novo": false
       },
       {
+        "id": "597679",
+        "autor": "FABIANO JOSE SOBRINHO",
+        "data": "2026-08-07T11:52:34-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Verdade. estamos executando o pensamento computacional até mesmo sem nomeá-lo. O algoritmo é o que requer um pouco mais de esforço e atenção.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597679#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "596680",
+        "autor": "PEDRO HENRIQUE DE OLIVEIRA MAIA",
+        "data": "2026-08-07T09:05:49-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Vou usar de exemplo a organização de minha rotina de estudos.\n\nAbstração: Dedicar um horário específico e eliminar tudo aquilo que possa me distrair, desde evitar ao máximo usar o celular, já que estarei usando o computador, até fechar a porta para meus animais.\n\nDecomposição: Dividiria as disciplinas por dia. Sendo quatro matérias, na segunda-feira, no horário específico, me dedicaria a uma disci",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=596680#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "596282",
+        "autor": "FABIO ALVES DE CARVALHO SILVA",
+        "data": "2026-08-07T06:28:23-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Pensamento Computacional aplicado nas Minhas Compras de Mês\n\nDecomposição (Dividir para não surtar)\nAntes de sair de casa, eu não tento resolver tudo de uma vez. Eu divido o problema: checo a geladeira, defino quanto posso gastar e decido o melhor dia e horário para ir ao mercado, fora das datas de pagemento.\nReconhecimento de Padrões (Aprender com a rotina)\nJá notei como as coisas funcionam aqui ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=596282#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595714",
+        "autor": "GISELDA SANTANA SILVA",
+        "data": "2026-08-06T23:03:03-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Primeiros minutos do dia:\n\nAbstração\nElimino detalhes irrelevantes como a cor do despertador ou o tipo de pijama.\n\nFoco nos aspectos principais: despertar, higiene, alimentação e preparação para sair ou estudar.\n\nDecomposição\nDivido a atividade em partes menores:\n\nDespertar (alarme, levantar da cama).\n\nHigiene pessoal (escovar dentes, tomar banho).\n\nVestir-se.\n\nCafé da manhã.\n\nOrganizar materiais ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=595714#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "594741",
         "autor": "LUIS GUSTAVO CEZAR PUGA",
         "data": "2026-08-06T21:24:02-03:00",
@@ -2962,73 +3033,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "593424",
-        "autor": "GENILDO SILVA MARCELO",
-        "data": "2026-08-06T19:19:52-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Sou professor de Judô e vou usar como exemplo do pensamento computacional. Uma aula de judô para crianças.\nAbstração: No judô, existe toda uma formalidade para responder ou cumprimentar o sensei (professor), mas se tratando de crianças simplificamos e até abstraímos essa formalidade para dar mais atenção as partes mais importantes dos treinos voltados para eles.\nDecomposição: O entendimento de téc",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=593424#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "593367",
-        "autor": "WALTER GABRIEL CABRERA LEIVAS",
-        "data": "2026-08-06T19:13:13-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Atividade: Estudos\n\nAbstração: eliminaria trechos de leitura duplicados em diferentes documentos, embora reconheça que tenha sua serventia.\nDecomposição: para cada disciplina dividiria em 3 partes: material base, avaliação e compartilhamento do estudo (fórum e trabalhos em grupo).\nReconhecimento de padrões: aproveitaria melhor assuntos que são comuns em diferentes disciplinas.\nAlgoritmos:\nPasso 1 ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=593367#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "592226",
-        "autor": "CRISTHIAN DEIVIDY MARTINS PIMENTEL",
-        "data": "2026-08-06T16:59:49-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "No meu dia a dia, posso usar o pensamento computacional em uma tarefa simples, como preparar um lanche. Esse exemplo demonstra como os quatro pilares podem ser aplicados em situações do cotidiano.\n\nDecomposição: Dividi a tarefa em partes menores: escolher os ingredientes, separar os utensílios, montar o lanche, aquecê-lo na chapa e finalizar adicionando alface, tomate e ketchup.\n\nAbstração: Seleci",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=592226#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=592345#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "591874",
-        "autor": "GUILHERME NAVARRO BERTONCINI",
-        "data": "2026-08-06T16:09:42-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Tarefa escolhida: Alimentar meus cachorros.\n\n1. Abstração\nPara realizar a atividade, considero apenas as informações essenciais: qual cachorro será alimentado, a quantidade de ração de cada um, o horário da alimentação e a necessidade de trocar a água. Detalhes como a cor dos potes ou o local onde eles ficam não influenciam no objetivo da tarefa e podem ser ignorados.\n\n2. Decomposição\nDivido a ati",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=591874#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182604": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T19:43:05-03:00",
+    "ultimo": "2026-08-07T10:41:37-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 10,
     "posts_institucionais_guardados": 10,
@@ -3193,11 +3203,41 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T20:55:58-03:00",
+    "ultimo": "2026-08-07T10:53:18-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "595515",
+        "autor": "ALEXANDRE GRACIANO FILHO",
+        "data": "2026-08-06T22:37:57-03:00",
+        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "texto": "Ele deveria abdicar de seu cargo — o qual nem deveria ter assumido —, visto que o conflito entre seus ideais e as decisões que precisaria tomar era evidente. Se ele acredita que contraceptivos e sexo livre são prejudiciais, como poderia tomar esse tipo de decisão? A relação entre as esferas pública e privada não deve ser marcada por conflitos.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=595515#mformforum"
+        ],
+        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595223",
+        "autor": "RAILDO PEREIRA DOS SANTOS",
+        "data": "2026-08-06T22:07:02-03:00",
+        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "texto": "Olá Roberto ,\n\nConcordo com você. Tudo pelo bem da maioria , nesse caso a população.\n\n\naté breve",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=595223#mformforum"
+        ],
+        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "594423",
         "autor": "RYAN DA SILVA FELIZARDO",
@@ -3318,42 +3358,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "585515",
-        "autor": "HOSANA CRISTINA DE MENEZES LORETO GOMES",
-        "data": "2026-08-05T19:20:05-03:00",
-        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "texto": "A decisão mais ética é priorizar o interesse público, protegendo a população com base em evidências e no bem comum. Se suas convicções pessoais o impedirem de cumprir esse dever, o mais coerente é renunciar ao cargo. Na esfera pública, as decisões devem atender ao interesse coletivo; na esfera privada, cada pessoa é livre para seguir suas crenças, princípios, costumes e valores.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=585515#mformforum"
-        ],
-        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "581502",
-        "autor": "CAIO BRUNO CHECHI",
-        "data": "2026-08-05T10:11:42-03:00",
-        "titulo": "Re: S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "texto": "Do ponto de vista Ético, o ministro precisa tomar decisões pensando no que é melhor para a população, é sobre esse tipo de situação que a ÉTICA precisa ser levada em consideração.\nSobre o fato de ele ser uma pessoa com os costumes já moldado por conta da religião, pode ocorrer o conflito com seu cargo de ministro da saúde, pois a moral e a ética dessa situação podem ocorrer conflitos internos",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=581502#mformforum"
-        ],
-        "forum": "S2 - Fórum temático: Dilema Ético: Saúde Pública vs. Convicções Pessoais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182605": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T19:00:44-03:00",
+    "ultimo": "2026-08-07T10:54:47-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 17,
     "posts_institucionais_guardados": 10,
@@ -3556,11 +3566,86 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165185": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:54:44-03:00",
+    "ultimo": "2026-08-07T09:21:12-03:00",
     "truncado": true,
-    "posts_institucionais_vistos": 0,
-    "posts_institucionais_guardados": 0,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
     "posts": [
+      {
+        "id": "596736",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-07T09:21:12-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Olá, pessoal!\n\nParabéns pelas contribuições neste fórum! Li as mensagens de vocês e gostei de ver como refletiram sobre o vídeo.\n\nContinuem participando dos fóruns e compartilhando suas impressões. Essa troca é muito importante!\n\nAtenciosamente,\n\n**Bruno Barra**\nFacilitador – UNIVESP",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=596736#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+        "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "596234",
+        "autor": "JUSSARA PEREIRA COSTA DE PAIVA",
+        "data": "2026-08-07T05:35:26-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Assistindo a aula fiz anotações mais curtas e resumidas, confesso que estou sentindo dificuldade de entender o objetivo desta matéria.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=596234#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595966",
+        "autor": "CAMILA NOIA AGUNSO",
+        "data": "2026-08-06T23:54:35-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Sobre a aula de coreano, percebi que com muita atenção, tempo e dedicação dá para aprender uma língua difícil e que minha maior dificuldade seria memorizar a simbologia do alfabeto (Hangul), bem diferente da nossa e com muita semelhança entre as \"letras\" do alfabeto coreaano.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=595966#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595803",
+        "autor": "JAIRO PEREIRA SANTOS",
+        "data": "2026-08-06T23:14:15-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "A formação dos fonemas a partir das letras consoantes ou vogais. Letras uma embaixo da outra. Os quandrados estéticos onde as letras são encaixadas, As silabas são formadas em quadrados, organizando melhor a estética de acordo com a linga. e Qual a origem do alfabeto coreano? Esses assuntos me chamaram a atenção.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=595803#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595772",
+        "autor": "SERGIO LUIZ FERREIRA DUARTE",
+        "data": "2026-08-06T23:10:54-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "O que chamou-me a atenção:\n- como didática, ensinando para alunos da língua portuguesa, usou o método de formação de sílabas, o qual nós estamos acostumados;\n- a primeira palavra que foi ensinada tem a mesma pronuncia em português, banana; talvez porque sabe que ensinas a pronuncia será trabalhoso.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=595772#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "595097",
         "autor": "DOUGLAS PAES MONTEIRO",
@@ -3568,7 +3653,8 @@
         "titulo": "Re: S2 - Fórum temático",
         "texto": "Quando fiz as anotações do vídeo, percebi que os assuntos que eu entendi melhor eu anotei de forma mais resumida, só com as ideias principais. Já as partes que achei mais difíceis, precisei escrever mais, separar por tópicos e até reler algumas vezes para conseguir entender.\n\nTambém reparei nas palavras comente, descreva e liste. Na minha visão, elas mostram uma sequência. Primeiro a gente lista o",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=595097#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=595097#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=595685#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -3583,7 +3669,8 @@
         "titulo": "Re: S2 - Fórum temático",
         "texto": "Concordo, a estratégia utilizada foi muito boa, pensei que seria mais difícil, a estrutura dos bloquinhos me surpreendeu, fiquei com vontade dde aprender Coreano.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=594922#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=594922#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=595596#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -3629,81 +3716,6 @@
         "texto": "Ao realizar o desafio, percebi que alguns conteúdos foram mais fáceis de absorver porque eram apresentados de forma objetiva e com exemplos claros. Para comentar esses aspectos, utilizei textos mais curtos, pois consegui sintetizar as ideias principais sem dificuldade.\n\nJá as informações mais complexas exigiram maior atenção e reflexão. Nesses casos, minhas anotações foram mais longas e organizada",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=584747#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "584528",
-        "autor": "ANA CLAUDIA DE OLIVEIRA QUEIROZ VIANNA",
-        "data": "2026-08-05T17:27:33-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "1. Organização das Anotações\nConteúdos fáceis: Pedem anotações mais curtas. Como a compreensão é rápida, bastam palavras-chave e esquemas simples para captar a essência.\n\nConteúdos complexos: Exigem textos mais longos e detalhados (com passo a passo ou desenhos) para ajudar a destrinchar o raciocínio e não perder nenhuma informação.\n\n2. A Gradação (Liste, Descreva, Comente)\nEsses comandos refletem",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=584528#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "584354",
-        "autor": "ROGERIO MITSUNOBU KIMURA",
-        "data": "2026-08-05T17:05:39-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Boa tarde!\nTentei fazer a Atividade Avaliativa e percebi que ela não mostra os meus erros como na Atividade Avaliativa da primeira semana, fica um pouco difícil entender o que errei.\nIsso está acontecendo com todo mundo?",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=584354#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "582324",
-        "autor": "CIBELLE TELLES MADRID",
-        "data": "2026-08-05T11:58:53-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Que feliz surpresa foi encontrar um método de ensino que propiciou um primeiro contato com a língua coreana muito menos complexo do que a minha expectativa inicial!\n\nConhecer algumas letras de um alfabeto com símbolos e sons diferentes foi muito interessante. Traçar a analogia através das palavras e letras do nosso alfabeto foi um atalho inteligente para trazer a atenção dos alunos e permitir a cr",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582324#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "582149",
-        "autor": "RENATO MOREIRA DA SILVA",
-        "data": "2026-08-05T11:35:41-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Com relação a matéria sobre linguística, aprendi bastante principalmente sobre as diversas formas de comunicação que podemos interagir ou expressar sem estar preso à uma única forma.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582149#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "582122",
-        "autor": "RENATO MOREIRA DA SILVA",
-        "data": "2026-08-05T11:31:24-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Confesso que estou tendo um pouco de dificuldades com o curso não com o conteúdo mas com a quantidade de matéria. Não que isso seja um problema, porém muitos anos sem ter contato com estudos didáticos, me deixou um pouco travado.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582122#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
@@ -3894,11 +3906,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207955": {
     "schema_version": 3,
-    "ultimo": "2026-08-04T23:25:03-03:00",
+    "ultimo": "2026-08-07T10:36:57-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "597142",
+        "autor": "FLAVIA CORREA SARDINHA",
+        "data": "2026-08-07T10:36:57-03:00",
+        "titulo": "Re: S1 - Fórum de dúvidas gerais",
+        "texto": "C oncordo com o ensinamento do pensamento computacional nas escolas , e que seja desde a educação básica até o ensino médio, uma vez que até para se fazer uma pesquisa , os alunos utilizam prompts inadequados, onde não possuem um vocabulário diversificado, onde carregam muitas dificuldades em transmitir o que realmente precisam na pesquisa, acredito com a implantação desse conteúdo seria muito vál",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597142#mformforum"
+        ],
+        "forum": "S1 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "578745",
         "autor": "MATHEUS OLIVEIRA PIGATTO AZEVEDO",
@@ -3927,7 +3954,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "570779",
@@ -3945,7 +3972,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "563890",
@@ -3960,7 +3987,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "562791",
@@ -3975,7 +4002,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "562718",
@@ -3990,7 +4017,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "562252",
@@ -4005,7 +4032,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "561298",
@@ -4020,7 +4047,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "560611",
@@ -4035,28 +4062,13 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "559541",
-        "autor": "EDUARDO AUGUSTO MARTINS TEIXEIRA",
-        "data": "2026-08-02T18:47:50-03:00",
-        "titulo": "Re: S1 - Fórum de dúvidas gerais",
-        "texto": "Boa noite a todos, a matéria está muito interessante.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=559541#mformforum"
-        ],
-        "forum": "S1 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207956": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:30:35-03:00",
+    "ultimo": "2026-08-07T06:00:48-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -4240,7 +4252,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       }
     ]
   },
@@ -5083,11 +5095,75 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:45:13-03:00",
+    "ultimo": "2026-08-07T11:53:20-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "597687",
+        "autor": "DANIELA FAL DA SILVA",
+        "data": "2026-08-07T11:53:20-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Olá, pessoal!\nSegue o link do meu projeto no Scratch: https://scratch.mit.edu/projects/1367019336\n\nFiz uma animação simples de um gatinho correndo para chegar a tempo de pegar a bola de baseball, falar \"olá!\" e correr para outro ponto com a bola para dizer \"Até logo!\". Fui testando alguns comandos e vendo se dava certo a minha ideia ou não. Pretendo testar mais comandos do Scratch. Adorei o progra",
+        "links": [
+          "https://scratch.mit.edu/projects/1367019336",
+          "https://ava.univesp.br/mod/forum/post.php?reply=597687#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "597508",
+        "autor": "MARCOS AURELIO FERREIRA MIRANDA",
+        "data": "2026-08-07T11:24:56-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Fiz um jogo de nave espacial no Scratch. O jogador deve desviar dos meteoros e chegar até a linha amarela. Se bater em uma rocha perde o jogo, e se chegar ao final vence. Usei comandos de movimento, eventos e repetições para desenvolver o projeto. 🚀 https://scratch.mit.edu/projects/1367239620",
+        "links": [
+          "https://scratch.mit.edu/projects/1367239620",
+          "https://ava.univesp.br/mod/forum/post.php?reply=597508#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595943",
+        "autor": "JEFERSON FUMACHI MONTICO",
+        "data": "2026-08-06T23:48:53-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Segue o link da brincadeira/teste no Scratch: https://scratch.mit.edu/projects/1367133123\n\nNo começo, parece muito difícil, mas, aplicando os conhecimentos da Semana 2 e identificando passo a passo o que você quer que a animação faça, vai ficando mais simples. Nada ainda é no automático: os códigos vão sendo inseridos um a um e depois testados até que saia algo que faça o mínimo sentido.\nCriei uma",
+        "links": [
+          "https://scratch.mit.edu/projects/1367133123",
+          "https://ava.univesp.br/mod/forum/post.php?reply=595943#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595379",
+        "autor": "ALEX RODRIGO MENDES DE BARROS",
+        "data": "2026-08-06T22:22:43-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1076405796\nÉ um jogo de bater pênalti.",
+        "links": [
+          "https://scratch.mit.edu/projects/1076405796",
+          "https://ava.univesp.br/mod/forum/post.php?reply=595379#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "594894",
         "autor": "MICHEL DE CAMPOS VETTORATO",
@@ -5146,7 +5222,8 @@
           "https://scratch.mit.edu/projects/1367110969",
           "https://ava.univesp.br/mod/forum/post.php?reply=594451#mformforum",
           "https://scratch.mit.edu/projects/1367110175",
-          "https://ava.univesp.br/mod/forum/post.php?reply=594849#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=594849#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=595356#mformforum"
         ],
         "forum": "S3 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
@@ -5186,76 +5263,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "592817",
-        "autor": "JULIANA CORRADINI ALVES",
-        "data": "2026-08-06T18:03:22-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1367080127/\n\nPrimeiro projeto no Scratch. Trata-se de um rato que deve ser movido na direção dos potes de Cheetos. Quando encosta neles, o pote desaparece, como se tivesse sido comido.\nAchei trabalhoso encontrar os comandos que eu queria e fazê-los funcionar. Tive que refazer algumas vezes até conseguir acertar. Recorri a vídeos no Youtube para fazer a programação.",
-        "links": [
-          "https://scratch.mit.edu/projects/1367080127/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=592817#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "592718",
-        "autor": "LEONARDO ABARCA SCHELINI BREGION",
-        "data": "2026-08-06T17:51:26-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1367064832/\n\nMeu primeiro projeto, claro que não ficou bom, mas também foi o primeiro contato que tive com programação na minha vida. Tive algumas dificuldades. Assisti aos vídeos do professor, o tutorial do site, youtube e foi o que consegui fazer.\nO projeto é sobre um gatinho indo até um balão azul em uma praia do Rio de Janeiro. Coloquei os comandos de quando cl",
-        "links": [
-          "https://scratch.mit.edu/projects/1367064832/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=592718#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "592186",
-        "autor": "ANA CLAUDIA DE OLIVEIRA QUEIROZ VIANNA",
-        "data": "2026-08-06T16:54:26-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1367073726\nisso foi o que consegui até agora... me desculpem sou péssima com legos. no processo de criação, eu quis que ele corresse ate morrer. mas ainda não consegui. ele só grita morri.\nDesafios Enfrentados\nDesafio: Ajustar a sincronização dos atores / Fazer o rato girar e parar depois que morre.\nConstrução: Utilizei blocos das categorias Eventos, Controle, Movi",
-        "links": [
-          "https://scratch.mit.edu/projects/1367073726",
-          "https://ava.univesp.br/mod/forum/post.php?reply=592186#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "592179",
-        "autor": "PEDRO HENRIQUE MOTTA DOS SANTOS BERO",
-        "data": "2026-08-06T16:53:12-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1367037839/\n\nesse projeto que eu fiz, foi bem simples mas até que deu um certo trabalho.\n\no projeto consiste em o personagem (eco-eco) andar pelo quarto e pode andar em todas as direções.\neu peguei uma imagem da web e modifiquei nos estilos e posições que eu precisava através do Chatgpt, depois fui adicionando e modificando o código.\n\ncaso me de vontade eu vou adic",
-        "links": [
-          "https://scratch.mit.edu/projects/1367037839/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=592179#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:48:21-03:00",
+    "ultimo": "2026-08-07T09:47:34-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5426,7 +5439,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:55:29-03:00",
+    "ultimo": "2026-08-07T11:49:43-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5463,13 +5476,13 @@
         "novo": false
       },
       {
-        "id": "595105",
-        "autor": "VINICIUS ROBERTO MATTOS BAZILIO",
-        "data": "2026-08-06T21:55:29-03:00",
+        "id": "597624",
+        "autor": "THOMAZ EDGERTON RODRIGUES SACCANI",
+        "data": "2026-08-07T11:43:40-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "1. A capacidade de compreensão das relações sociais deve ser um critério para a maioridade eleitoral?\n- Sim\n2. Qual seria a idade adequada para o início do exercício do voto na sociedade brasileira?\n- Acredito que o fator idade, não deveria ser o único critério para o direito ao voto. É muito supérfluo.\n3. Nossas escolas formam adolescentes conscientes politicamente?\n- Acredito que não, a maior pa",
+        "texto": "1-A maturidade política não surge espontaneamente com uma idade fixa, mas é desenvolvida por meio do debate social, da educação crítica e do próprio exercício democrático. Prover o direito ao voto aos 16 anos é uma forma de estimular o desenvolvimento da autonomia (Sapere Aude), incentivando os jovens a saírem da menoridade e a assumirem responsabilidade coletiva. Quando a escola e os grêmios estu",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=595105#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=597624#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5478,13 +5491,13 @@
         "novo": true
       },
       {
-        "id": "594480",
-        "autor": "DIEGO HENRIQUE DE OLIVEIRA CERQUEIRA",
-        "data": "2026-08-06T21:01:12-03:00",
+        "id": "597429",
+        "autor": "SIMAO BECKER JOAO SANTANA",
+        "data": "2026-08-07T11:09:11-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Na minha opinião, nem todos os adolescentes de 16 anos possuem formação e maturidade política suficientes para exercer o voto de forma consciente. Acredito que muitos ainda estão formando suas opiniões e podem ser facilmente influenciados por familiares, amigos, redes sociais ou até mesmo por informações falsas. Isso não significa que todos sejam despreparados, pois alguns jovens se interessam por",
+        "texto": "A maturidade política é construída na prática cívica e no debate, não apenas pela idade. O voto facultativo aos 16 anos estimula o pensamento crítico desde cedo e força o sistema político a incluir pautas jovens, como educação e primeiro emprego, no debate público.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=594480#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=597429#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5493,13 +5506,13 @@
         "novo": true
       },
       {
-        "id": "594348",
-        "autor": "PAULO CESAR DOS SANTOS JUNIOR",
-        "data": "2026-08-06T20:49:23-03:00",
+        "id": "596790",
+        "autor": "PHELLIPE DI CARLO LOCHA MACHADO",
+        "data": "2026-08-07T09:31:06-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "A história de Renata é um exemplo prático de que a cidadania não é um conceito estático, mas sim um processo histórico e dinâmico que se transforma por meio da ação direta dos sujeitos.\nAo analisar sua trajetória sob a ótica dos materiais da semana, apresento as seguintes reflexões:\n\n1. Compreensão social e critérios para o voto Concordo que a capacidade de compreensão das relações sociais deve se",
+        "texto": "O voto pra essa galera é, na real, uma forma de aprender na prática como a democracia funciona. Em vez de só decorar matéria pra prova, a escola deveria preparar o aluno pra ser um cidadão de verdade. Quanto mais a gente participar e se envolver, menos espaço vai ter pros mesmos de sempre fazerem política do jeito que bem entendem.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=594348#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=596790#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5508,13 +5521,14 @@
         "novo": true
       },
       {
-        "id": "594244",
-        "autor": "DANIELE BERTACO RAMIREZ",
-        "data": "2026-08-06T20:38:29-03:00",
+        "id": "596535",
+        "autor": "THIAGO HENRIQUE AMARO QUATROQUI",
+        "data": "2026-08-07T08:31:30-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Concordo com o colega. O direito ao voto só deveria acontecer junto à maioridade civil, pois é quando a legislação entende que uma pessoa está apta a responder legalmente pelos seus atos e tomar decisões de forma plena.",
+        "texto": "Na minha opinião, adolescentes de 16 anos podem, sim, ter capacidade para votar, mas isso depende muito de cada pessoa. Alguns já acompanham notícias, entendem o que acontece no país e se interessam por política. Outros ainda não têm esse interesse ou conhecimento. Por isso, acho que a idade por si só não define se alguém está preparado para votar.\n\nTambém acredito que as escolas poderiam trabalha",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=594244#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=596535#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=596550#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5523,13 +5537,13 @@
         "novo": true
       },
       {
-        "id": "593855",
-        "autor": "JOAQUIM FLORIANO DE SOUZA",
-        "data": "2026-08-06T20:00:24-03:00",
+        "id": "596308",
+        "autor": "LUIS MARQUES DA SILVA",
+        "data": "2026-08-07T07:07:17-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "A estudante Renata, de 15 anos, mobilizou seu grêmio estudantil ao questionar no Tribunal Superior Eleitoral (TSE) as regras de idade para emissão do título de eleitor. Sua ação culminou em uma mudança histórica: permitir o voto a jovens que completam 16 anos até o dia da eleição. Esse episódio ilustra que a maturidade política não é um pré-requisito teórico, mas uma capacidade crítica desenvolvid",
+        "texto": "A trajetória da estudante Renata ilustra com precisão o conceito de cidadania ativa, demonstrando que a intervenção nas estruturas institucionais decorre do engajamento e do debate consciente. Ao questionar uma norma eleitoral vigente ainda na juventude, ela evidenciou que a compreensão das relações sociais não constitui prerrogativa exclusiva da vida adulta, mas sim uma competência desenvolvida p",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=593855#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=596308#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5538,13 +5552,13 @@
         "novo": true
       },
       {
-        "id": "593724",
-        "autor": "DANIELA RIGOTTO",
-        "data": "2026-08-06T19:47:46-03:00",
+        "id": "596132",
+        "autor": "CAIQUE HENRIQUE DE PAULA FREITAS",
+        "data": "2026-08-07T01:16:46-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "A história de Renata mostra que a cidadania se constrói na prática. Para mim, o voto aos 16 anos não deve focar apenas na idade, mas no reconhecimento do jovem como sujeito de direitos. A maturidade política não surge do nada; ela se desenvolve na vivência democrática e no debate social.\n\nAcredito que os adolescentes possuem plena capacidade de compreender a realidade, mas sua preparação política ",
+        "texto": "A Capacidade de compreensão das relações sociais, a maturação da consciência e a capacidade de usar a razão para julgar a realidade são fundamentos essenciais para que o voto seja um ato de liberdade e não de tutela.\nAs fontes indicam que a transição para autonomia racional ocorre quando o individuo atinge a maturação biológica e cerebral suficiente para compreender a complexidade da sociedade, qu",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=593724#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=596132#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5553,13 +5567,13 @@
         "novo": true
       },
       {
-        "id": "593547",
-        "autor": "JONAS NUNES",
-        "data": "2026-08-06T19:33:35-03:00",
+        "id": "595994",
+        "autor": "LUIS ISMAEL ASMAT LOPEZ",
+        "data": "2026-08-07T00:03:49-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Saber escolher um candidato não é algo que acontece da noite para o dia, só porque a pessoa fez 18 anos. Aprender a entender a política vem com o tempo, com o que a gente estuda, conversa e vive no dia a dia.\n\nPor isso, a lei do Brasil acertou ao deixar o voto opcional para quem tem 16 e 17 anos. Ninguém é obrigado a votar nessa idade. A porta fica aberta para o jovem que já se interessa e quer aj",
+        "texto": "Olá colegas!\n\nNa minha opinião, os adolescentes, de forma geral, possuem formação para entender os problemas sociais que ocorrem na sociedade, pois eles são parte dessa convivência e têm seu ponto de vista que dever ser ouvido. Mas devemos tomar em conta as experiências dependendo dos locais onde moram, os problemas de grandes centros urbanos são diferentes aos que ocorrem nas pequenas cidades do ",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=593547#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=595994#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5568,13 +5582,13 @@
         "novo": true
       },
       {
-        "id": "593259",
-        "autor": "LEANDRO SCHIAVINATO HILDEBRAND",
-        "data": "2026-08-06T19:02:45-03:00",
+        "id": "595661",
+        "autor": "CAMILA ROQUE DA SILVA DOS SANTOS",
+        "data": "2026-08-06T22:56:45-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "A história de Renata me fez pensar que idade e maturidade política não são necessariamente a mesma coisa.\nAcredito que muitos adolescentes de 16 anos já possuem condições de compreender questões sociais e participar das eleições de forma consciente.\nIsso não significa que todos tenham o mesmo nível de conhecimento ou interesse por política. E, na verdade, isso também acontece entre os adultos.\nNão",
+        "texto": "Na minha opinião, o voto aos 16 anos é uma forma importante de incentivar a participação dos jovens na vida política. Nem todos os adolescentes têm o mesmo nível de conhecimento ou maturidade, mas isso também acontece entre os adultos. A capacidade de compreender as questões políticas não depende apenas da idade, e sim do acesso à informação, da educação e do interesse de cada pessoa.\n\nAcredito qu",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=593259#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=595661#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5583,14 +5597,13 @@
         "novo": true
       },
       {
-        "id": "592922",
-        "autor": "ANA PAULA ROCHA OLIVEIRA",
-        "data": "2026-08-06T18:19:28-03:00",
+        "id": "595520",
+        "autor": "NILSON LOURENCO DE ARAUJO",
+        "data": "2026-08-06T22:38:25-03:00",
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Sobre a maturidade e o critério de compreensão, o ponto central é o que Kant chama de esclarecimento: a saída do ser humano de sua \"menoridade\" intelectual para começar a usar o seu próprio entendimento. Essa menoridade muitas vezes não vem da falta de inteligência, mas sim da falta de coragem ou resolução de agir sem a tutela de outra pessoa.\nAos 16 anos, como aconteceu com a Renata, o jovem gera",
+        "texto": "Lendo a história da Renata, dá pra ver como esse tema é mais complexo do que parece.\nSobre a maturidade política aos 16 anos\nNão dá pra generalizar dizendo que todo adolescente está pronto pra votar, ou que nenhum está. A maturidade política depende do contexto: participação em grêmio estudantil, discussões em casa, acesso a informação de qualidade, uma escola que trate política de forma crítica. ",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=592922#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=593259#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=595520#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5602,7 +5615,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182606": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:47:20-03:00",
+    "ultimo": "2026-08-07T11:10:52-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -5632,7 +5645,8 @@
         "titulo": "Re: S3 - Fórum de dúvidas gerais",
         "texto": "Bom dia, Nathalia. Tudo bem?\n\nEmbora o tópico \"Live com o facilitador\" apareça em todas as semanas da disciplina, isso não significa que haverá uma live semanal. Nesta disciplina, esses encontros serão realizados apenas quando houver necessidade e, caso sejam agendados, todos os estudantes serão avisados com antecedência.\n\nNo entanto, ressalto que o funcionamento das lives pode variar de uma disci",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=589754#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=589754#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=596711#mformforum"
         ],
         "forum": "S3 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
@@ -5658,6 +5672,36 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "597201",
+        "autor": "GLAUCIA ELLEN GRANADO",
+        "data": "2026-08-07T10:44:34-03:00",
+        "titulo": "Re: S3 - Fórum de dúvidas gerais",
+        "texto": "Exatamente, assim fiquei com 75% na avaliação.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597201#mformforum"
+        ],
+        "forum": "S3 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "596004",
+        "autor": "LUIS ISMAEL ASMAT LOPEZ",
+        "data": "2026-08-07T00:08:32-03:00",
+        "titulo": "Re: S3 - Fórum de dúvidas gerais",
+        "texto": "Olá pessoal!\n\nNesta disciplina tem lives com o facilitador?",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=596004#mformforum"
+        ],
+        "forum": "S3 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -5735,46 +5779,108 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "587805",
-        "autor": "DANILO ZABOTTO DA COSTA",
-        "data": "2026-08-05T22:18:59-03:00",
-        "titulo": "Re: S3 - Fórum de dúvidas gerais",
-        "texto": "Também tive essa pergunta na atividade avaliativa, selecionei a opção da afirmativa I e III, exclui a II porque o enunciado afirmativa que a democracia DEPENDE de debates públicos abertos, ela realmente não depende, mas sabemos que debates públicos abertos feitos fortalecem e ajudam na consolidação e transparência. Foi so por esse depender taxativo que escolhi a opção das afirmativas I e III, eu t",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=587805#mformforum"
-        ],
-        "forum": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "587073",
-        "autor": "JULIO CESAR DE SOUZA",
-        "data": "2026-08-05T21:21:53-03:00",
-        "titulo": "Re: S3 - Fórum de dúvidas gerais",
-        "texto": "Excelente debates sobre o desafio da maturidade para votar. Boa semana para todos.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=587073#mformforum"
-        ],
-        "forum": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T21:49:40-03:00",
+    "ultimo": "2026-08-07T11:46:16-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "597643",
+        "autor": "SIMAO BECKER JOAO SANTANA",
+        "data": "2026-08-07T11:46:16-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Aprender a ler e a escrever criticamente é um direito fundamental porque vai além da decodificação mecânica de palavras. O letramento crítico desenvolve a autonomia do indivíduo, permitindo-lhe analisar informações, combater a desinformação e exercer a cidadania de forma plena e consciente na sociedade.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597643#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "597619",
+        "autor": "ANA CLAUDIA DE OLIVEIRA QUEIROZ VIANNA",
+        "data": "2026-08-07T11:41:17-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Em 2014, quando nós montamos o Movimento Brasil Livre, o maior e mais importante movimento da história do Brasil, nós não éramos nada além de um grupo de rapazes num escritório mofado no centro de São Paulo, com um sonho na cabeça e grandes ambições. Em um ano e meio de trabalho, o governo do PT havia caído. O mesmo PT que derrotou os tucanos à direita no centrão, o mesmo PT que era uma máquina el",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597619#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "597334",
+        "autor": "EMERSON RODRIGO MARTINS",
+        "data": "2026-08-07T10:56:25-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "O direito à aprendizagem da leitura e da escrita críticas é fundamental porque permite que as pessoas compreendam a realidade, expressem suas ideias e participem ativamente da sociedade. Além disso, é uma ferramenta essencial para combater a desigualdade social, pois garante maior acesso à educação, à informação, ao trabalho e aos demais direitos. Sem essas competências, muitos cidadãos permanecem",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597334#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "596748",
+        "autor": "JEFFERSON DOS SANTOS GUIMARAES",
+        "data": "2026-08-07T09:23:54-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "A leitura e a escrita vão além da decodificação mecânica de símbolos, constituindo processos cognitivos ativos e indispensáveis para a interpretação do mundo e o desenvolvimento do pensamento crítico. Conforme defende Antonio Candido, o acesso à palavra e à literatura é um bem incompressível — uma necessidade humana fundamental para a organização da mente e o equilíbrio social, devendo ser garanti",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=596748#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "596022",
+        "autor": "JEFERSON FUMACHI MONTICO",
+        "data": "2026-08-07T00:17:15-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Análise acerca da entrevista da cofundadora do Nubank, Cristina Junqueira - https://www.youtube.com/watch?v=NMi_VFwJshY\n\nAo assistir ao trecho da entrevista da Cristina Junqueira, cofundadora do Nubank, percebi que a forma como ela se comunica ajuda a transmitir segurança e credibilidade. Em vez de usar uma linguagem muito técnica, ela conta experiências da própria trajetória e explica as decisões",
+        "links": [
+          "https://www.youtube.com/watch?v=NMi_VFwJshY",
+          "https://ava.univesp.br/mod/forum/post.php?reply=596022#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "595231",
+        "autor": "MARCOS FERNANDO GIOTTO",
+        "data": "2026-08-06T22:07:47-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Trecho de uma fala de Abílio Diniz em \"PROPRÓSITO - Abílio Diniz \" https://youtu.be/wDrTfwQ0s1A?t=7\n\nPude perceber que iniciou a fala com uma abertura bem abrangente e tentou chamar atenção com dados (quantidade de habitantes) e uma série de perguntas, sem as respectivas respostas até então. Creio que funcionou muito bem, porque normalmente as perguntas fazem com que os ouvintes reflitam sobre ela",
+        "links": [
+          "https://youtu.be/wDrTfwQ0s1A?t=7",
+          "https://ava.univesp.br/mod/forum/post.php?reply=595231#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "595045",
         "autor": "ALESSANDRO NUNES DE JESUS",
@@ -5837,103 +5943,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "591719",
-        "autor": "RAFAEL GARCIA CRIVELENTI DE CAMPOS",
-        "data": "2026-08-06T15:51:01-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Sem a capacidade de leitura e escrita crítica, é muito difícil um indivíduo exercer plenamente sua cidadania, pois além de conhecer uma infinidade de códigos e leis que norteiam nossas vidas, é também necessário saber se expressar e se fazer entender, e dessa forma compreender até onde vão seus direitos e onde começam seus deveres. \nPensar de forma crítica também é importante, pois atualmente além",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=591719#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "591381",
-        "autor": "EDSON GOMES DE MAGALHAES",
-        "data": "2026-08-06T15:08:03-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "A linguagem e a educação exercem papeis centrais no exercício da cidadania e na manutenção da democracia. Enquanto regimes autoritários restringem e manipulam o discurso para limitar o pensamento crítico, a democracia pressupõe o livre debate de ideias e a evolução natural da linguagem, a qual reflete a diversidade social. Nesse cenário, o domínio da leitura e da escrita — garantido pela Constitui",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=591381#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "591366",
-        "autor": "CAMILA APARECIDA SETIN SANTOS",
-        "data": "2026-08-06T15:05:52-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Pensar na leitura e na escrita críticas como direitos fundamentais é o que nos faz perceber o peso real do que estamos estudando. Afinal, ao longo das leituras da disciplina, fica claro que ler não é só decodificar letrinhas em uma tela ou papel; ler de verdade é atribuir significado e interpretar os contextos, como bem aponta Flôres (2016).Quando uma sociedade não garante o direito ao letramento ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=591366#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "591031",
-        "autor": "MARCELO DE TOLEDO",
-        "data": "2026-08-06T14:15:09-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Procurei alinhar o que está sendo solicitado neste fórum sobre o direito fundamental dos cidadãos à aprendizagem da leitura e da escrita críticas com o que foi solicitado na atividade S3-Início, que consiste em selecionar o discurso de alguém que ocupe uma alta posição de comando em uma empresa ou instituição pública e destacar as estratégias linguísticas utilizadas.\n\nNa minha opinião, saber ler e",
-        "links": [
-          "http://www2.senado.leg.br/bdsf/handle/id/81844",
-          "https://ava.univesp.br/mod/forum/post.php?reply=591031#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "589168",
-        "autor": "PEDRO AUGUSTO DA SILVA GANEM",
-        "data": "2026-08-06T08:58:26-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "A aprendizagem da leitura e da escrita críticas não deve ser entendida apenas como uma ferramenta de decodificação mecânica de códigos, mas sim como o pilar fundamental para a consolidação da cidadania, da democracia e da emancipação humana. Conforme apontam os debates da nossa disciplina e os princípios constitucionais (como o Artigo 206 da Constituição de 1988), a educação e o domínio da linguag",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=589168#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "589123",
-        "autor": "JOSE RENATO SALIA",
-        "data": "2026-08-06T08:49:44-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Emtrevista de Carlo Ancelotti (Técnico Brasil), após a eliminação nas fases decisivas da Copa do Mundo FIFA 2026.\n\nPlataforma: YouTube (Canal Oficial da FIFA / Transmissão Esportiva)\n\nTrecho Selecionado: Abertura e resposta às primeiras perguntas (duração estimada: ~5 minutos).\n\nJustificou a eliminação , atribuindo a ele (Ancelotti) toda a culpa, e defendeu os jogadores , que se empenharam ao máxi",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=589123#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=215572": {
     "schema_version": 3,
-    "ultimo": "2026-08-06T19:28:22-03:00",
+    "ultimo": "2026-08-07T09:08:14-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -6274,6 +6289,40 @@
         "forum": "Avisos",
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=134075",
         "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      }
+    ]
+  },
+  "https://ava.univesp.br/mod/forum/discuss.php?d=135619": {
+    "schema_version": 3,
+    "ultimo": "2026-08-07T14:44+0000",
+    "truncado": false,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
+    "posts": [
+      {
+        "id": "597634",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-07T11:44:44-03:00",
+        "titulo": "LIVES",
+        "texto": "Prezados/as estudantes, \n\nNossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente.\n\nNas demais semanas, nos encontraremos às terças-feiras, às 20h. \n\nAtenciosamente,\n\nBruno.",
+        "links": [],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=135619",
+        "prazos": [
+          {
+            "rotulo": "Prezados/as estudantes, Nossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente",
+            "quando": "2026-08-07T13:00:00-03:00",
+            "trecho": "07/08) às 13h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": null,
+            "confianca": "alta",
+            "frase": "Prezados/as estudantes, Nossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente",
+            "titulo_evento": "Prezados/as estudantes"
+          }
+        ],
         "autoridade": "institucional",
         "novo": true
       }
