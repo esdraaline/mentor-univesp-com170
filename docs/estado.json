@@ -496,7 +496,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T10:59:43-03:00",
+    "ultimo": "2026-08-07T12:45:43-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 40,
     "posts_institucionais_guardados": 10,
@@ -856,7 +856,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T11:48:03-03:00",
+    "ultimo": "2026-08-07T12:07:39-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -868,7 +868,8 @@
         "titulo": "Re: Fórum de dúvidas gerais",
         "texto": "Prezados/as estudantes,\n\nNossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente.\n\nNas demais semanas, nos encontraremos às terças-feiras, às 20h.\n\nAtenciosamente,\n\nBruno.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=597648#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=597648#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=597759#mformforum"
         ],
         "forum": "Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
@@ -1002,6 +1003,21 @@
         "novo": false
       },
       {
+        "id": "597759",
+        "autor": "ROBSON CESAR CARDOSO",
+        "data": "2026-08-07T12:07:39-03:00",
+        "titulo": "Re: Fórum de dúvidas gerais",
+        "texto": "Boa tarde, estarei em aula. Infelizmente nesse horário não consigo participar.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597759#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "532818",
         "autor": "ADILEIA DAS DORES FERREIRA",
         "data": "2026-07-30T10:53:44-03:00",
@@ -1072,21 +1088,6 @@
         "texto": "Como escrevi anteriormente, gosto muito de escrever. E algo curioso que me lembrei sobre esse assunto foi um fato que me ocorreu esta semana: num determinado curso que estou a fazer, me foi orientado que estou dispensado de fazer o TCC, um artigo, mas de forma muito natural e pronta, eu disse que não, pois faço questão de fazê-lo, pois gosto muito disso! Pensando bem, eu mesmo me surpreendi, afina",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=531101#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
-      },
-      {
-        "id": "531036",
-        "autor": "MARIO SERGIO RODRIGUES BALBINO OLIVEIRA PASCHOAL",
-        "data": "2026-07-29T23:13:59-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Foi proposto nesta semana que fizéssemos algum texto livre e fosse postado aqui. Então aqui está!\nUm assunto que me incomoda é a inclusão, mais especificamente alunos com altas habilidades. Isso ocorre porque quando se fala sobre inclusão, quase sempre não pensam que o super dotado é um caso deste. Esse pensamento se reflete nas atitudes, de tal forma que só recentemente o Estado, em nível naciona",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=531036#mformforum"
         ],
         "forum": "Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
@@ -2211,18 +2212,6 @@
         "via": "api"
       },
       {
-        "nome": "Live 1",
-        "quando": "2026-08-07T13:00:00-03:00",
-        "curso_id": "18893",
-        "curso": null,
-        "atividade": "Live 1",
-        "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-        "acao": null,
-        "cmid": "165163",
-        "tipo": "course",
-        "via": "dom"
-      },
-      {
         "nome": "Término de S2 - Atividade Avaliativa",
         "quando": "2026-08-09T23:59:00-03:00",
         "curso_id": "18870",
@@ -2327,6 +2316,18 @@
         "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
         "acao": null,
         "cmid": "160778",
+        "tipo": "course",
+        "via": "dom"
+      },
+      {
+        "nome": "Live 3",
+        "quando": "2026-08-18T20:00:00-03:00",
+        "curso_id": "18893",
+        "curso": null,
+        "atividade": "Live 3",
+        "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+        "acao": null,
+        "cmid": "165163",
         "tipo": "course",
         "via": "dom"
       }
@@ -2587,22 +2588,6 @@
         }
       },
       "18922": {
-        "150524": {
-          "rotulo": "S2 - Ferramenta para Envio",
-          "nota_txt": "",
-          "nota": null,
-          "tem_nota": false,
-          "feedback": "O FAQ está completo, com perguntas, respostas e fontes verificáveis indicadas. As respostas estão bastante sintéticas – talvez até muito sintéticas, ao final – mas os documentos consultados contêm link e seção indicados, o que facilita a consulta de mais informações pelo leitor. A linguagem é clara e direta, o que indica uma preocupação com o público-alvo do trabalho. Nota-se um esforço de construção em grupo. Parabéns pela entrega!",
-          "url": "https://ava.univesp.br/mod/assign/view.php?id=150524"
-        },
-        "153342": {
-          "rotulo": "S3 - Ferramenta para Envio",
-          "nota_txt": "",
-          "nota": null,
-          "tem_nota": false,
-          "feedback": null,
-          "url": "https://ava.univesp.br/mod/assign/view.php?id=153342"
-        },
         "173857": {
           "rotulo": "M7 - Revisão entre pares (Portfólio em grupo) (envio)",
           "nota_txt": "0,00",
@@ -2611,13 +2596,13 @@
           "feedback": null,
           "url": "https://ava.univesp.br/mod/workshop/view.php?id=173857"
         },
-        "154862": {
-          "rotulo": "S4 - Laboratório: Revisão entre pares (avaliação)",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+        "173854": {
+          "rotulo": "M6 - Revisão entre pares (Portfólio Individual) (envio)",
+          "nota_txt": "0,00",
+          "nota": 0.0,
+          "tem_nota": true,
           "feedback": null,
-          "url": "https://ava.univesp.br/mod/workshop/view.php?id=154862"
+          "url": "https://ava.univesp.br/mod/workshop/view.php?id=173854"
         },
         "173832": {
           "rotulo": "M1 - Quiz: Identifique o paradigma em 5 situações do cotidiano",
@@ -2674,14 +2659,6 @@
           "tem_nota": false,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/scorm/view.php?id=215578"
-        },
-        "173854": {
-          "rotulo": "M6 - Revisão entre pares (Portfólio Individual) (envio)",
-          "nota_txt": "0,00",
-          "nota": 0.0,
-          "tem_nota": true,
-          "feedback": null,
-          "url": "https://ava.univesp.br/mod/workshop/view.php?id=173854"
         }
       }
     },
@@ -2696,7 +2673,7 @@
       },
       "18922": {
         "rotulo": "Quinzena 1 total",
-        "nota": "-"
+        "nota": "2,00"
       }
     },
     "participacao": {
@@ -2835,7 +2812,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T11:52:34-03:00",
+    "ultimo": "2026-08-07T14:12:32-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3203,7 +3180,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T10:53:18-03:00",
+    "ultimo": "2026-08-07T13:38:56-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3363,7 +3340,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182605": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T10:54:47-03:00",
+    "ultimo": "2026-08-07T12:00:27-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 17,
     "posts_institucionais_guardados": 10,
@@ -4068,7 +4045,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207956": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T06:00:48-03:00",
+    "ultimo": "2026-08-07T13:46:25-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -5095,11 +5072,27 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T11:53:20-03:00",
+    "ultimo": "2026-08-07T14:46:02-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "597721",
+        "autor": "ITAMAR JESUS DE SOUZA",
+        "data": "2026-08-07T12:01:02-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1367022781/\n\nO projeto foi desenvolvido na plataforma Scratch com o objetivo de criar uma animação utilizando programação em blocos. O personagem principal é Kobe, um jogador de basquete cadeirante, representando a inclusão e a acessibilidade no esporte. A proposta consiste em fazer com que o personagem realize um movimento de rotação com sua cadeira de rodas até f",
+        "links": [
+          "https://scratch.mit.edu/projects/1367022781/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=597721#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "597687",
         "autor": "DANIELA FAL DA SILVA",
@@ -5246,29 +5239,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "592887",
-        "autor": "MICHELLE TALITA DE FRANCO NASCIMENTO BELON",
-        "data": "2026-08-06T18:13:49-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Olá, fiz um projeto de street dance. Na minha cabeça é, invejosos dirão que não. Confesso que comecei pelo método tentativa e erro, mas aí apelei para ajudinha da Claude IA, ela me passou alguns comandos, fui empilhando os bloquinhos, que pareceram um edifício, mas ao clicar na bandeira nada de diferente aconteceu. Confesso que foi desafiador. Mas aí está o que decidi deixar, depois de apagar os o",
-        "links": [
-          "https://scratch.mit.edu/projects/1366588056/fullscreen/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=592887#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=593268#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T09:47:34-03:00",
+    "ultimo": "2026-08-07T13:12:14-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5439,7 +5415,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T11:49:43-03:00",
+    "ultimo": "2026-08-07T14:44:24-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5474,6 +5450,51 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "598389",
+        "autor": "REGIS BORGES",
+        "data": "2026-08-07T14:02:20-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Para mim, a compreensão social não deve ser um critério para votar. Pensando em Kant, a autonomia moral é um direito de todos. Se o Estado medisse o entendimento de cada um, excluiria pessoas mais simples. A cidadania é uma prática e nós aprendemos a participar exercendo nosso papel, como diz o conceito de Esclarecimento.\n\nEu acredito que os 16 anos são a idade ideal no Brasil. Nessa fase nós já s",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=598389#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "598151",
+        "autor": "WINDSON DOS SANTOS SANTANA",
+        "data": "2026-08-07T13:25:29-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "1- Acredito que não plenamente: a defasagem na educação política brasileira compromete a maturidade necessária para decisões conscientes. Por isso, o voto aos 16 deveria permanecer facultativo, como já é, permitindo que cada jovem escolha conforme seu próprio amadurecimento.\n\n2- O voto aos 16 traz para o debate demandas específicas dessa faixa etária — educação, meio ambiente, tecnologia e futuro ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=598151#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "597786",
+        "autor": "ELIAS ALVES LIMA JUNIOR",
+        "data": "2026-08-07T12:12:56-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Estudamos que a cidadania é baseada na ideia de esclarecimento. Um indivíduo esclarecido, por sua vez, possui maior consciência de si e da sua condição social, o que lhe confere autonomia na escolha dos representantes que vão lutar por suas causas.\nO processo de esclarecimento não é natural, mas fruto de um processo educacional. Logo, se a educação é capaz de desenvolver racionalmente com os aluno",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=597786#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "597624",
@@ -5565,57 +5586,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "595994",
-        "autor": "LUIS ISMAEL ASMAT LOPEZ",
-        "data": "2026-08-07T00:03:49-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Olá colegas!\n\nNa minha opinião, os adolescentes, de forma geral, possuem formação para entender os problemas sociais que ocorrem na sociedade, pois eles são parte dessa convivência e têm seu ponto de vista que dever ser ouvido. Mas devemos tomar em conta as experiências dependendo dos locais onde moram, os problemas de grandes centros urbanos são diferentes aos que ocorrem nas pequenas cidades do ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=595994#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "595661",
-        "autor": "CAMILA ROQUE DA SILVA DOS SANTOS",
-        "data": "2026-08-06T22:56:45-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Na minha opinião, o voto aos 16 anos é uma forma importante de incentivar a participação dos jovens na vida política. Nem todos os adolescentes têm o mesmo nível de conhecimento ou maturidade, mas isso também acontece entre os adultos. A capacidade de compreender as questões políticas não depende apenas da idade, e sim do acesso à informação, da educação e do interesse de cada pessoa.\n\nAcredito qu",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=595661#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "595520",
-        "autor": "NILSON LOURENCO DE ARAUJO",
-        "data": "2026-08-06T22:38:25-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Lendo a história da Renata, dá pra ver como esse tema é mais complexo do que parece.\nSobre a maturidade política aos 16 anos\nNão dá pra generalizar dizendo que todo adolescente está pronto pra votar, ou que nenhum está. A maturidade política depende do contexto: participação em grêmio estudantil, discussões em casa, acesso a informação de qualidade, uma escola que trate política de forma crítica. ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=595520#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182606": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T11:10:52-03:00",
+    "ultimo": "2026-08-07T14:11:58-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -5741,7 +5717,8 @@
         "titulo": "Re: S3 - Fórum de dúvidas gerais",
         "texto": "Concordo, Mayara e tive o mesmo problema com outra questão:\n\nSegundo Platão, o percurso educativo visa a conduzir o indivíduo da [preencher 1] até a [preencher 2], processo no qual a razão desempenha um papel central para o alcance da sabedoria.\n\nA.\n1 - escuridão; 2 - sabedoria\n\nB.\n1 - ignorância; 2 - razão\n\nC.\n1 - ilusão; 2 - sabedoria\n\nD.\n1 - ilusão; 2 - verdade\n\nE.\n1 - ignorância; 2 - iluminaçã",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=590629#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=590629#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=598470#mformforum"
         ],
         "forum": "S3 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
@@ -5784,7 +5761,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-07T11:46:16-03:00",
+    "ultimo": "2026-08-07T14:25:09-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
