@@ -1,26 +1,28 @@
 {
-  "status": "ok",
-  "checked_at": "2026-08-09T11:34:37.183748+00:00",
-  "snapshot_at": "2026-08-09T11:34:37.183748+00:00",
-  "attempted_at": "2026-08-09T11:34:37.183748+00:00",
-  "publication_id": "2026-08-09T11:34:37.183748+00:00",
+  "status": "coleta_degradada",
+  "checked_at": "2026-08-10T01:37:38.409270+00:00",
+  "snapshot_at": "2026-08-10T01:37:38.409270+00:00",
+  "attempted_at": "2026-08-10T01:37:38.409270+00:00",
+  "publication_id": "2026-08-10T01:37:38.409270+00:00",
   "fontes": {
     "disciplinas": 4,
-    "secoes": 49,
-    "itens": 174,
+    "secoes": 50,
+    "itens": 198,
     "avisos": 60,
-    "eventos_calendario": 12,
-    "eventos_uteis": 12,
+    "eventos_calendario": 17,
+    "eventos_uteis": 17,
     "notificacoes": 12,
     "cronograma": 3,
-    "itens_com_prazo": 34
+    "itens_com_prazo": 37
   },
-  "problemas": [],
+  "problemas": [
+    "fonte foruns não foi conferida por inteiro (degradado, 1 falha(s))"
+  ],
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,22 +31,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 12,
+      "quantidade_atual": 17,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 12,
-      "api": 5,
+      "eventos": 17,
+      "api": 9,
       "dom": 10
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -55,39 +57,43 @@
       "live": 3
     },
     "foruns": {
-      "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "status": "degradado",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
-      "from_cache": false,
+      "from_cache": true,
       "truncado": true,
-      "problemas": [],
-      "foruns": 33,
+      "problemas": [
+        "1 falha(s) ao ler fóruns"
+      ],
+      "foruns": 34,
       "listas_live": 33,
-      "falhas": 0,
+      "falhas": 1,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 153,
-      "posts_institucionais_guardados": 114
+      "posts_institucionais_vistos": 157,
+      "posts_institucionais_guardados": 118
     },
     "itens": {
-      "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "status": "parcial",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 14,
+      "quantidade_atual": 16,
       "from_cache": false,
       "truncado": false,
-      "problemas": [],
-      "indefinidos": 0,
+      "problemas": [
+        "2 item(ns) com abertura indefinida"
+      ],
+      "indefinidos": 2,
       "entregas_nao_confirmadas": 0
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 15,
+      "quantidade_atual": 23,
       "from_cache": false,
       "truncado": false,
       "problemas": [
@@ -99,8 +105,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -112,8 +118,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-09T11:34:37.185743+00:00",
-      "last_live_at": "2026-08-09T11:34:37.185743+00:00",
+      "checked_at": "2026-08-10T01:37:38.411333+00:00",
+      "last_live_at": "2026-08-10T01:37:38.411333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -179,6 +185,167 @@
         ]
       },
       "avisos": [
+        {
+          "id": "615850",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-09T22:38:03-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Boa noite, turma! Espero que todos estejam bem.\n\nAtualizando sobre as nossas lives da disciplina, realizaremos lives semanais (encontros ao vivo) todas as quartas-feiras, sempre às 20h, no AVA, para que vocês possam conversar conosco e tirar dúvidas sobre os conteúdos com as facilitadoras.\n\nFiquem atentos(as) ao calendário das lives, disponível no ambiente virtual da disciplina, pois nele constam ",
+          "links": [
+            "https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Xpeg3TOUaWR9/external",
+            "https://ava.univesp.br/mod/forum/post.php?reply=615850#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+          "prazos": [
+            {
+              "rotulo": "Facilitadores Link 03/08",
+              "quando": "2026-08-03T23:59:00-03:00",
+              "trecho": "03/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Facilitadores Link 03/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina não teve gravação 05/08",
+              "quando": "2026-08-05T23:59:00-03:00",
+              "trecho": "05/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina não teve gravação 05/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a...",
+              "quando": "2026-08-12T23:59:00-03:00",
+              "trecho": "12/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946 12/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+              "quando": "2026-08-19T23:59:00-03:00",
+              "trecho": "19/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external 19/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+              "quando": "2026-08-26T23:59:00-03:00",
+              "trecho": "26/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external 26/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+              "quando": "2026-09-02T23:59:00-03:00",
+              "trecho": "02/09",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external 02/09"
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "615647",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-09T22:26:25-03:00",
+          "titulo": "Lives todas as Quartas - Plantão de dúvidas",
+          "texto": "Boa noite, turma! Espero que todos estejam bem.\n\nAtualizando sobre as nossas lives da disciplina, realizaremos lives semanais (encontros ao vivo) todas as quartas-feiras, sempre às 20h, no AVA, para que vocês possam conversar conosco e tirar dúvidas sobre os conteúdos com as facilitadoras.\n\nFiquem atentos(as) ao calendário das lives, disponível no ambiente virtual da disciplina, pois nele constam ",
+          "links": [
+            "https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Xpeg3TOUaWR9/external"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=138169",
+          "prazos": [
+            {
+              "rotulo": "Facilitadores Link 03/08",
+              "quando": "2026-08-03T23:59:00-03:00",
+              "trecho": "03/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Facilitadores Link 03/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina não teve gravação 05/08",
+              "quando": "2026-08-05T23:59:00-03:00",
+              "trecho": "05/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina não teve gravação 05/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a...",
+              "quando": "2026-08-12T23:59:00-03:00",
+              "trecho": "12/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946 12/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+              "quando": "2026-08-19T23:59:00-03:00",
+              "trecho": "19/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external 19/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+              "quando": "2026-08-26T23:59:00-03:00",
+              "trecho": "26/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external 26/08"
+            },
+            {
+              "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+              "quando": "2026-09-02T23:59:00-03:00",
+              "trecho": "02/09",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external 02/09"
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
         {
           "id": "582352",
           "autor": "Joyce Mirella Dos Anjos Viana",
@@ -308,6 +475,41 @@
           "novo": false
         },
         {
+          "id": "615843",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-09T22:37:32-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Todas as lives serão gravadas e ficarão disponíveis para assistirem quando puderem.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=615843#mformforum",
+            "https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external",
+            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Xpeg3TOUaWR9/external"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "615822",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-09T22:35:51-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Isso Adileia, fica dentro do tópico Lives, aí vai na opção Agenda de lives.\nMas vou colocar aqui pra vocês.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=615822#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "604655",
           "autor": "Elva Karina Mayhua Quispe",
           "data": "2026-08-08T14:29:16-03:00",
@@ -378,6 +580,7 @@
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=587120#mformforum",
             "https://ava.univesp.br/mod/forum/post.php?reply=593045#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=615822#mformforum",
             "https://ava.univesp.br/mod/forum/post.php?reply=602367#mformforum"
           ],
           "forum": "Fórum de dúvidas gerais",
@@ -412,6 +615,7 @@
             "https://ava.univesp.br/mod/forum/post.php?reply=582970#mformforum",
             "https://ava.univesp.br/mod/forum/post.php?reply=587120#mformforum",
             "https://ava.univesp.br/mod/forum/post.php?reply=593045#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=615822#mformforum",
             "https://ava.univesp.br/mod/forum/post.php?reply=602367#mformforum"
           ],
           "forum": "Fórum de dúvidas gerais",
@@ -431,68 +635,6 @@
           ],
           "forum": "S2 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "581949",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-05T11:05:03-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Lucas, envia um print do erro, por favor.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=581949#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "573639",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-04T11:18:54-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Carlos, não tem como.\nQuando o prazo fecha, fica indisponível para nova tentativa.\nSinto muito, mas você pode colocar um alarme no seu celular para te lembrar da data das próximas, assim não perderás mais o prazo.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=573639#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "573598",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-04T11:13:22-03:00",
-          "titulo": "Aviso - importância dos fóruns",
-          "texto": "Boa dia, turma! Espero que todos estejam bem.\n\nGostaria de combinar com vocês a importância do uso dos fóruns como principal canal de comunicação da disciplina. Temos o fórum de dúvidas gerais e os fóruns temáticos, cada semana de aula tem ambos.\n\nSemana 1, 2, 3, 4, 5, etc.\n\n S1 - Fórum temático (espaço para o Desafio da semana)\n\nS1 - Fórum de dúvidas gerais (Discussões sobre o conteúdo da semana)",
-          "links": [
-            "https://ava.univesp.br/course/section.php?id=81107",
-            "https://ava.univesp.br/mod/forum/view.php?id=160786",
-            "https://ava.univesp.br/mod/forum/view.php?id=207955"
-          ],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132021",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "564172",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-03T10:09:11-03:00",
-          "titulo": "Re: S1 - Fórum temático",
-          "texto": "A princípio, para pensar em como a tecnologia se manifesta na rotina, eu precisei pensar em qual tecnologia?\nIsso porque tecnologia é uma ferramenta, é aquilo que eu uso para aprimorar uma tarefa a exemplo de: lápis ou caneta para escrever, máquina de fazer café, carro para se locomover.\nEntão o desafio da semana é sobre as tecnologias de informação e comunicação (TICs).\nUm exemplo concreto do meu",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=564172#mformforum"
-          ],
-          "forum": "S1 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
@@ -523,7 +665,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160777",
               "status": null,
-              "nao_lidas": "4",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -537,7 +679,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
-              "prazo": "2026-08-10T20:00:00-03:00",
+              "prazo": "2026-08-12T20:00:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null
             },
@@ -559,7 +701,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -634,7 +776,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "6",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -646,7 +788,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "6",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -733,7 +875,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "37",
+              "nao_lidas": "74",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -745,7 +887,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
               "status": "Concluído",
-              "nao_lidas": "10",
+              "nao_lidas": "13",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -833,7 +975,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "94",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -845,7 +987,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Marcar como feito",
-              "nao_lidas": "30",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1307,7 +1449,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "2",
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1439,7 +1581,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1571,7 +1713,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "42",
+              "nao_lidas": "66",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1583,7 +1725,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": "16",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1706,7 +1848,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "77",
+              "nao_lidas": "103",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1718,7 +1860,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "21",
+              "nao_lidas": "16",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2172,13 +2314,15 @@
           "novo": false
         },
         {
-          "id": "608444",
-          "autor": "ROBSON RAMOS",
-          "data": "2026-08-09T06:52:48-03:00",
+          "id": "615834",
+          "autor": "LAIS SAES MADEIRA MAGALHAES",
+          "data": "2026-08-09T22:36:35-03:00",
           "titulo": "Re: S3 - Fórum temático",
-          "texto": "Fala, pessoal e professor! Tudo bem?\n\nPensando sobre o tema do nosso fórum, quero trazer uma reflexão que, pra mim, é o cerne da questão: aprender a ler e escrever de forma crítica não é só uma questão de passar de ano ou conseguir um emprego; é a nossa única ferramenta de defesa e liberdade.\n\nPra mim, o direito a essa aprendizagem é o que separa o cidadão de súdito. E olhando pros materiais que a",
+          "texto": "Razões:\nPermite ao cidadão questionar estruturas de poder e desigualdades;\nHabilita a participação consciente na esfera pública e a defesa de direitos;\nDesenvolve a capacidade de filtrar informações e combater a desinformação.\nA principal fonte teórica dessa abordagem é o educador brasileiro Paulo Freire, como aprendemos na semana anterior, através do conceito de que \"a leitura do mundo precede a ",
           "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=608444#mformforum"
+            "https://unesdoc.unesco.org/ark:/48223/pf0000244826",
+            "https://youtube.com/shorts/feqkkuRRX1Y?si=gCRmp7k3Xb9x_Atm",
+            "https://ava.univesp.br/mod/forum/post.php?reply=615834#mformforum"
           ],
           "forum": "S3 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
@@ -2248,7 +2392,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": "5",
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2383,7 +2527,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2518,7 +2662,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "31",
+              "nao_lidas": "70",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2632,7 +2776,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "79",
+              "nao_lidas": "105",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3614,6 +3758,22 @@
               "frase": "Calendário da Quinzena 2, de 3 a 18 de agosto de 2026, com as etapas e os prazos. Célula: 15 PRAZO ENTREGA"
             },
             {
+              "rotulo": "Instruções da Quinzena 2 De 3 a 16 de agosto de 2026",
+              "quando": "2026-08-16T23:59:00-03:00",
+              "trecho": "16 de agosto de 2026",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  2
+                ],
+                "txt": "Quinzena 2"
+              },
+              "confianca": "baixa",
+              "frase": "Instruções da Quinzena 2 De 3 a 16 de agosto de 2026"
+            },
+            {
               "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agos...",
               "quando": "2026-08-18T23:59:00-03:00",
               "trecho": "18 de agosto",
@@ -3638,7 +3798,7 @@
           "rotulo": "Quinzena 1 total",
           "nota": "2,00"
         },
-        "itens": 9
+        "itens": 17
       },
       "participacao": {
         "quinzenas": [
@@ -3742,7 +3902,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=146218",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3825,7 +3985,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3837,7 +3997,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -4353,34 +4513,32 @@
               "label": "Q2 M1 - Atividade: tokenizador interativo",
               "type": "scorm",
               "url": "https://ava.univesp.br/mod/scorm/view.php?id=215577",
-              "status": "Pendente",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
-              "nota": null,
-              "nota_txt": "-",
-              "tem_nota": false,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
               "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
-              "carencia": null,
-              "aberto": true
+              "carencia": null
             },
             {
               "cmid": "215578",
               "label": "Q2 M1 - Atividade de embeddings: Mapa dos significados",
               "type": "scorm",
               "url": "https://ava.univesp.br/mod/scorm/view.php?id=215578",
-              "status": "Pendente",
+              "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": true,
-              "nota": null,
-              "nota_txt": "-",
-              "tem_nota": false,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
               "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
-              "carencia": null,
-              "aberto": true
+              "carencia": null
             }
           ],
           "fase": "regular"
@@ -4390,9 +4548,106 @@
           "secao_id": "90943",
           "title": "Q2 Módulo 2",
           "parent": "section-2",
-          "locked": "Disponível se: A atividade Q2 M1 - Atividade: tokenizador interativo esteja marcada como concluída ... Disponível se: A atividade Q2 M1 - Atividade: tokenizador interativo esteja marcada como concluída A atividade Q2 M1 - Atividade de embeddings: Mapa dos significados esteja marcada como concluída",
+          "locked": null,
           "theme": null,
-          "items": [],
+          "items": [
+            {
+              "cmid": "215580",
+              "label": "Q2 M2 - Como o modelo decide a próxima palavra",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215580",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215581",
+              "label": "Q2 M2 - Videoaula: Mecanismo de atenção - como o modelo decide o que importa",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215581",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215582",
+              "label": "Q2 M2 - Videoaula: Temperatura e plausibilidade estatística",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215582",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215583",
+              "label": "Q2 M2 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215583",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215584",
+              "label": "Q2 M2 - Atividade: atenção e temperatura ao vivo",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=215584",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215585",
+              "label": "Q2 M2 - Atividade: temperatura e plausibilidade",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=215585",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215586",
+              "label": "Q2 M2 - Atividade: auditoria da coerência",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=215586",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -4400,9 +4655,62 @@
           "secao_id": "90944",
           "title": "Q2 Módulo 3",
           "parent": "section-2",
-          "locked": "Disponível se: A atividade Q2 M2 - Como o modelo decide a próxima palavra esteja marcada como concluída ... Disponível se: A atividade Q2 M2 - Como o modelo decide a próxima palavra esteja marcada como concluída A atividade Q2 M2 - Videoaula: Mecanismo de atenção - como o modelo decide o que importa esteja marcada como concluída A atividade Q2 M2 - Videoaula: Temperatura e plausibilidade estatística esteja marcada como concluída A atividade Q2 M2 - Material-base esteja marcada como concluída A atividade Q2 M2 - Atividade: atenção e temperatura ao vivo esteja marcada como concluída A atividade Q2 M2 - Atividade: temperatura e plausibilidade esteja marcada como concluída A atividade Q2 M2 - Atividade: auditoria da coerência esteja marcada como concluída",
+          "locked": null,
           "theme": null,
-          "items": [],
+          "items": [
+            {
+              "cmid": "215588",
+              "label": "Q2 M3 - Alucinação: o teste da coisa que você conhece",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215588",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215589",
+              "label": "Q2 M3 - Videoaula: Alucinação como design, não como bug",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215589",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215590",
+              "label": "Q2 M3 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215590",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215591",
+              "label": "Q2 M3 - Mini-quiz: reconhecer a alucinação",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=215591",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -4410,9 +4718,90 @@
           "secao_id": "90945",
           "title": "Q2 Módulo 4",
           "parent": "section-2",
-          "locked": "Disponível se: A atividade Q2 M3 - Alucinação: o teste da coisa que você conhece esteja marcada como concluída ... Disponível se: A atividade Q2 M3 - Alucinação: o teste da coisa que você conhece esteja marcada como concluída A atividade Q2 M3 - Videoaula: Alucinação como design, não como bug esteja marcada como concluída A atividade Q2 M3 - Material-base esteja marcada como concluída A atividade Q2 M3 - Mini-quiz: reconhecer a alucinação esteja marcada como concluída",
+          "locked": null,
           "theme": null,
-          "items": [],
+          "items": [
+            {
+              "cmid": "215593",
+              "label": "Q2 M4 - O custo humano e a voz padronizada",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215593",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215594",
+              "label": "Q2 M4 - Videoaula: RLHF e ghost work: quem ensina a IA a parecer útil",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215594",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215595",
+              "label": "Q2 M4 - Videoaula: A ilusão de universalidade e a voz padronizada da máquina",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215595",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215596",
+              "label": "Q2 M4 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215596",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215597",
+              "label": "Q2 M4 - Atividade: julgue as respostas da IA",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=215597",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215598",
+              "label": "Q2 M4 - Mini-quiz: RLHF e ghost work — atividade de conclusão do módulo",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=215598",
+              "status": "Concluído",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
+              "feedback": null,
+              "prazo": "2026-08-09T23:59:00-03:00",
+              "prazo_fonte": "calendário do AVA",
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -4420,9 +4809,48 @@
           "secao_id": "90946",
           "title": "Q2 Módulo 5",
           "parent": "section-2",
-          "locked": "Disponível se: A atividade Q2 M4 - O custo humano e a voz padronizada esteja marcada como concluída ... Disponível se: A atividade Q2 M4 - O custo humano e a voz padronizada esteja marcada como concluída A atividade Q2 M4 - Videoaula: RLHF e ghost work: quem ensina a IA a parecer útil esteja marcada como concluída A atividade Q2 M4 - Videoaula: A ilusão de universalidade e a voz padronizada da máquina esteja marcada como concluída A atividade Q2 M4 - Material-base esteja marcada como concluída A atividade Q2 M4 - Atividade: julgue as respostas da IA esteja marcada como concluída",
+          "locked": null,
           "theme": null,
-          "items": [],
+          "items": [
+            {
+              "cmid": "215600",
+              "label": "Q2 M5 - O caso: a análise do documento",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215600",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "215601",
+              "label": "Q2 M5 - Templates",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215601",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "215603",
+              "label": "Q2 M5 - Caso B",
+              "type": "url",
+              "url": "https://ava.univesp.br/mod/url/view.php?id=215603",
+              "status": null,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -4430,9 +4858,85 @@
           "secao_id": "90947",
           "title": "Q2 Módulo 6",
           "parent": "section-2",
-          "locked": "Disponível se: A atividade Q2 M4 - O custo humano e a voz padronizada esteja marcada como concluída ... Disponível se: A atividade Q2 M4 - O custo humano e a voz padronizada esteja marcada como concluída A atividade Q2 M4 - Videoaula: RLHF e ghost work: quem ensina a IA a parecer útil esteja marcada como concluída A atividade Q2 M4 - Videoaula: A ilusão de universalidade e a voz padronizada da máquina esteja marcada como concluída A atividade Q2 M4 - Material-base esteja marcada como concluída A atividade Q2 M4 - Atividade: julgue as respostas da IA esteja marcada como concluída",
+          "locked": null,
           "theme": null,
-          "items": [],
+          "items": [
+            {
+              "cmid": "215608",
+              "label": "Q2 M6 - Tutorial da ferramenta Laboratório",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=215608",
+              "status": null,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215609",
+              "label": "Q2 M6 - Revisão entre pares (Portfólio Individual)",
+              "type": "workshop",
+              "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
+              "status": null,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": "2026-08-10T00:00:00-03:00",
+              "prazo_fonte": "calendário do AVA",
+              "carencia": null,
+              "enviado": false,
+              "aberto": null,
+              "avaliacao_pendente": null,
+              "avaliacoes_pendentes": null
+            }
+          ],
+          "fase": "regular"
+        },
+        {
+          "id": "section-5",
+          "secao_id": "90948",
+          "title": "Q2 Módulo 7",
+          "parent": "section-2",
+          "locked": null,
+          "theme": null,
+          "items": [
+            {
+              "cmid": "215611",
+              "label": "Q2 M7 - Grupo: Ponto de encontro",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=215611",
+              "status": null,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "215612",
+              "label": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
+              "type": "workshop",
+              "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": "2026-08-10T00:00:00-03:00",
+              "prazo_fonte": "calendário do AVA",
+              "carencia": null,
+              "enviado": false,
+              "aberto": null,
+              "avaliacao_pendente": null,
+              "avaliacoes_pendentes": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -4954,15 +5458,39 @@
       "via": "dom"
     },
     {
-      "nome": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-      "quando": "2026-08-10T20:00:00-03:00",
-      "curso_id": "18870",
+      "nome": "Término de Q2 M4 - Mini-quiz: RLHF e ghost work — atividade de conclusão do módulo",
+      "quando": "2026-08-09T23:59:00-03:00",
+      "curso_id": "18922",
       "curso": null,
-      "atividade": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "atividade": "Término de Q2 M4 - Mini-quiz: RLHF e ghost work — atividade de conclusão do módulo",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=215598",
       "acao": null,
-      "cmid": "160778",
-      "tipo": "course",
+      "cmid": "215598",
+      "tipo": "close",
+      "via": "dom"
+    },
+    {
+      "nome": "Q2 M6 - Revisão entre pares (Portfólio Individual) - início de envios",
+      "quando": "2026-08-10T00:00:00-03:00",
+      "curso_id": "18922",
+      "curso": null,
+      "atividade": "Q2 M6 - Revisão entre pares (Portfólio Individual) - início de envios",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
+      "acao": null,
+      "cmid": "215609",
+      "tipo": "opensubmission",
+      "via": "dom"
+    },
+    {
+      "nome": "Q2 M7 - Revisão entre pares (Portfólio em grupo) - início de envios",
+      "quando": "2026-08-10T00:00:00-03:00",
+      "curso_id": "18922",
+      "curso": null,
+      "atividade": "Q2 M7 - Revisão entre pares (Portfólio em grupo) - início de envios",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
+      "acao": null,
+      "cmid": "215612",
+      "tipo": "opensubmission",
       "via": "dom"
     },
     {
@@ -4976,6 +5504,42 @@
       "cmid": "165163",
       "tipo": "course",
       "via": "dom"
+    },
+    {
+      "nome": "Plantão de Dúvidas - Facil.  Elva Karina e Joyce Viana",
+      "quando": "2026-08-12T20:00:00-03:00",
+      "curso_id": "18870",
+      "curso": null,
+      "atividade": "Plantão de Dúvidas - Facil.  Elva Karina e Joyce Viana",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "acao": null,
+      "cmid": "160778",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
+      "nome": "Q2 M6 - Revisão entre pares (Portfólio Individual) - prazo limite de envios",
+      "quando": "2026-08-15T23:59:00-03:00",
+      "curso_id": "18922",
+      "curso": "COM170-BIA-DRP12-2026S2-T001",
+      "atividade": "Q2 M6 - Revisão entre pares (Portfólio Individual)",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
+      "acao": "Veja o resumo do laboratório de avaliação",
+      "cmid": "215609",
+      "tipo": "closesubmission",
+      "via": "api"
+    },
+    {
+      "nome": "Q2 M7 - Revisão entre pares (Portfólio em grupo) - prazo limite de envios",
+      "quando": "2026-08-15T23:59:00-03:00",
+      "curso_id": "18922",
+      "curso": "COM170-BIA-DRP12-2026S2-T001",
+      "atividade": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
+      "acao": "Veja o resumo do laboratório de avaliação",
+      "cmid": "215612",
+      "tipo": "closesubmission",
+      "via": "api"
     },
     {
       "nome": "Término de S3 - Atividade Avaliativa",
@@ -5014,28 +5578,28 @@
       "via": "api"
     },
     {
-      "nome": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-      "quando": "2026-08-17T20:00:00-03:00",
-      "curso_id": "18870",
-      "curso": null,
-      "atividade": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
-      "acao": null,
-      "cmid": "160778",
-      "tipo": "course",
-      "via": "dom"
+      "nome": "Q2 M6 - Revisão entre pares (Portfólio Individual) - prazo limite para avaliação",
+      "quando": "2026-08-18T23:59:00-03:00",
+      "curso_id": "18922",
+      "curso": "COM170-BIA-DRP12-2026S2-T001",
+      "atividade": "Q2 M6 - Revisão entre pares (Portfólio Individual)",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
+      "acao": "Veja o resumo do laboratório de avaliação",
+      "cmid": "215609",
+      "tipo": "closeassessment",
+      "via": "api"
     },
     {
-      "nome": "Live 3",
-      "quando": "2026-08-18T20:00:00-03:00",
-      "curso_id": "18893",
-      "curso": null,
-      "atividade": "Live 3",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-      "acao": null,
-      "cmid": "165163",
-      "tipo": "course",
-      "via": "dom"
+      "nome": "Q2 M7 - Revisão entre pares (Portfólio em grupo) - prazo limite para avaliação",
+      "quando": "2026-08-18T23:59:00-03:00",
+      "curso_id": "18922",
+      "curso": "COM170-BIA-DRP12-2026S2-T001",
+      "atividade": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
+      "acao": "Veja o resumo do laboratório de avaliação",
+      "cmid": "215612",
+      "tipo": "closeassessment",
+      "via": "api"
     }
   ],
   "notificacoes": [
@@ -5176,27 +5740,6 @@
     },
     {
       "curso": "COM170",
-      "secao": "Q2 Módulo 1",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
-      "o_que": "Q2 M1 - Atividade: tokenizador interativo",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=215577",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "hoje",
-      "prioridade_ate": "2026-08-09T23:59:00-03:00",
-      "destrava": "Q2 Módulo 4",
-      "destrava_em": "2026-08-09T23:59:00-03:00"
-    },
-    {
-      "curso": "COM170",
       "secao": "Q2 Módulo 4",
       "fase": "regular",
       "verbo": "Conclua",
@@ -5213,27 +5756,44 @@
       "carencia": null,
       "hora_certa": false,
       "urgencia": "hoje",
-      "bloqueio": "Disponível se: A atividade Q2 M3 - Alucinação: o teste da coisa que você conhece esteja marcada como concluída ... Disponível se: A atividade Q2 M3 - Alucinação: o teste da coisa que você conhece esteja marcada como concluída A atividade Q2 M3 - Videoaula: Alucinação como design, não como bug esteja marcada como concluída A atividade Q2 M3 - Material-base esteja marcada como concluída A atividade Q2 M3 - Mini-quiz: reconhecer a alucinação esteja marcada como concluída"
+      "bloqueio": null
     },
     {
-      "curso": "COM100",
-      "secao": "Calendário do AVA",
+      "curso": "COM170",
+      "secao": "Q2 Módulo 6",
       "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "ao vivo",
-      "o_que": "LIVE DE DÚVIDAS - PENSAMENTO COMPUTACIONAL - FACILITADORA KARINA",
-      "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "verbo": "Entregue e avalie",
+      "coisa": "revisão por pares",
+      "o_que": "Q2 M6 - Revisão entre pares (Portfólio Individual)",
+      "tipo": "workshop",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
       "conta_nota": true,
-      "prazo": "2026-08-10T20:00:00-03:00",
-      "prazo_txt": "acontece amanhã, 10/08 às 20:00",
+      "prazo": "2026-08-10T00:00:00-03:00",
+      "prazo_txt": "vence amanhã, 10/08 às 00:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
-      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "amanha"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q2 Módulo 7",
+      "fase": "regular",
+      "verbo": "Entregue e avalie",
+      "coisa": "revisão por pares",
+      "o_que": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
+      "tipo": "workshop",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
+      "conta_nota": true,
+      "prazo": "2026-08-10T00:00:00-03:00",
+      "prazo_txt": "vence amanhã, 10/08 às 00:00",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
       "carencia": null,
       "hora_certa": true,
       "urgencia": "amanha",
-      "repete": 2
+      "verificacao": "indefinida"
     },
     {
       "curso": "LET110",
@@ -5247,6 +5807,25 @@
       "conta_nota": true,
       "prazo": "2026-08-11T20:00:00-03:00",
       "prazo_txt": "acontece 11/08 às 20:00",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Calendário do AVA",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Plantão de Dúvidas - Facil.  Elva Karina e Joyce Viana",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "conta_nota": true,
+      "prazo": "2026-08-12T20:00:00-03:00",
+      "prazo_txt": "acontece 12/08 às 20:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
@@ -5419,25 +5998,6 @@
       "bloqueio": null
     },
     {
-      "curso": "LET110",
-      "secao": "Calendário do AVA",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "ao vivo",
-      "o_que": "Live 3",
-      "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-      "conta_nota": true,
-      "prazo": "2026-08-18T20:00:00-03:00",
-      "prazo_txt": "acontece 18/08",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "depois"
-    },
-    {
       "curso": "COM170",
       "secao": "COM170 - IA na Prática Acadêmica e Profissional",
       "fase": "regular",
@@ -5446,24 +6006,6 @@
       "o_que": "Live com facilitador",
       "tipo": "lti",
       "url": "https://ava.univesp.br/mod/lti/view.php?id=146217",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Q2 Módulo 1",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
-      "o_que": "Q2 M1 - Atividade de embeddings: Mapa dos significados",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=215578",
       "conta_nota": true,
       "prazo": null,
       "prazo_txt": "",
@@ -5612,6 +6154,42 @@
       "o_que": "S3 - Em síntese",
       "tipo": "page",
       "url": "https://ava.univesp.br/mod/page/view.php?id=160800",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q2 Módulo 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q2 M5 - O caso: a análise do documento",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=215600",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q2 Módulo 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q2 M5 - Templates",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=215601",
       "conta_nota": false,
       "prazo": null,
       "prazo_txt": "",
@@ -5833,6 +6411,17 @@
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132970"
     },
     {
+      "curso": "COM100",
+      "quando": "2026-08-12T23:59:00-03:00",
+      "quando_txt": "vence 12/08 (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a...",
+      "frase": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946 12/08",
+      "autor": "Joyce Mirella Dos Anjos Viana",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
+    },
+    {
       "curso": "COM170",
       "quando": "2026-08-15T23:59:00-03:00",
       "quando_txt": "vence 15/08 (horário não informado)",
@@ -5853,6 +6442,17 @@
       "autor": "Neide Silvania Campos Sampaio",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132782"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-08-16T23:59:00-03:00",
+      "quando_txt": "vence 16/08 (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "Instruções da Quinzena 2 De 3 a 16 de agosto de 2026",
+      "frase": "Instruções da Quinzena 2 De 3 a 16 de agosto de 2026",
+      "autor": "Q2 - Instruções da Quinzena 2",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=215566"
     },
     {
       "curso": "COM100",
@@ -5900,6 +6500,17 @@
     },
     {
       "curso": "COM100",
+      "quando": "2026-08-19T23:59:00-03:00",
+      "quando_txt": "vence 19/08",
+      "tipo_lido": "fim",
+      "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+      "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external 19/08",
+      "autor": "Joyce Mirella Dos Anjos Viana",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
+    },
+    {
+      "curso": "COM100",
       "quando": "2026-08-24T23:59:00-03:00",
       "quando_txt": "vence 24/08",
       "tipo_lido": "fim",
@@ -5911,6 +6522,17 @@
     },
     {
       "curso": "COM100",
+      "quando": "2026-08-26T23:59:00-03:00",
+      "quando_txt": "vence 26/08",
+      "tipo_lido": "fim",
+      "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+      "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external 26/08",
+      "autor": "Joyce Mirella Dos Anjos Viana",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
+    },
+    {
+      "curso": "COM100",
       "quando": "2026-08-31T23:59:00-03:00",
       "quando_txt": "vence 31/08",
       "tipo_lido": "fim",
@@ -5919,9 +6541,44 @@
       "autor": "Joyce Mirella Dos Anjos Viana",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132970"
+    },
+    {
+      "curso": "COM100",
+      "quando": "2026-09-02T23:59:00-03:00",
+      "quando_txt": "vence 02/09",
+      "tipo_lido": "fim",
+      "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
+      "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external 02/09",
+      "autor": "Joyce Mirella Dos Anjos Viana",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
     }
   ],
   "novidades": [
+    {
+      "curso": "COM100",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso",
+      "autoridade": "institucional"
+    },
+    {
+      "curso": "COM100",
+      "label": "Lives todas as Quartas - Plantão de dúvidas",
+      "kind": "aviso",
+      "autoridade": "institucional"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso",
+      "autoridade": "institucional"
+    },
+    {
+      "curso": "COM100",
+      "label": "Re: Fórum de dúvidas gerais",
+      "kind": "aviso",
+      "autoridade": "institucional"
+    },
     {
       "curso": "COM100",
       "label": "Re: Material da Live em PDF + Dicas pra não se perder na Semana 3!",
@@ -6032,21 +6689,135 @@
     },
     {
       "curso": "COM170",
-      "label": "Q2 - Instruções da Quinzena 2",
+      "label": "Q2 M1 - Atividade: tokenizador interativo",
       "kind": "concluido",
-      "cmid": "215566"
+      "cmid": "215577"
     },
     {
       "curso": "COM170",
-      "label": "Q2 - Introdução",
+      "label": "Q2 M1 - Atividade de embeddings: Mapa dos significados",
       "kind": "concluido",
-      "cmid": "215570"
+      "cmid": "215578"
     },
     {
       "curso": "COM170",
-      "label": "Q2 - Orientação de estudo",
-      "kind": "concluido",
-      "cmid": "215571"
+      "label": "Q2 M2 - Como o modelo decide a próxima palavra",
+      "kind": "novo",
+      "cmid": "215580"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M2 - Videoaula: Mecanismo de atenção - como o modelo decide o que importa",
+      "kind": "novo",
+      "cmid": "215581"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M2 - Videoaula: Temperatura e plausibilidade estatística",
+      "kind": "novo",
+      "cmid": "215582"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M2 - Material-base",
+      "kind": "novo",
+      "cmid": "215583"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M2 - Atividade: atenção e temperatura ao vivo",
+      "kind": "novo",
+      "cmid": "215584"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M2 - Atividade: temperatura e plausibilidade",
+      "kind": "novo",
+      "cmid": "215585"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M2 - Atividade: auditoria da coerência",
+      "kind": "novo",
+      "cmid": "215586"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M3 - Alucinação: o teste da coisa que você conhece",
+      "kind": "novo",
+      "cmid": "215588"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M3 - Videoaula: Alucinação como design, não como bug",
+      "kind": "novo",
+      "cmid": "215589"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M3 - Material-base",
+      "kind": "novo",
+      "cmid": "215590"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M3 - Mini-quiz: reconhecer a alucinação",
+      "kind": "novo",
+      "cmid": "215591"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M4 - O custo humano e a voz padronizada",
+      "kind": "novo",
+      "cmid": "215593"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M4 - Videoaula: RLHF e ghost work: quem ensina a IA a parecer útil",
+      "kind": "novo",
+      "cmid": "215594"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M4 - Videoaula: A ilusão de universalidade e a voz padronizada da máquina",
+      "kind": "novo",
+      "cmid": "215595"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M4 - Material-base",
+      "kind": "novo",
+      "cmid": "215596"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M4 - Atividade: julgue as respostas da IA",
+      "kind": "novo",
+      "cmid": "215597"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M4 - Mini-quiz: RLHF e ghost work — atividade de conclusão do módulo",
+      "kind": "novo",
+      "cmid": "215598"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M5 - O caso: a análise do documento",
+      "kind": "novo",
+      "cmid": "215600"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M5 - Templates",
+      "kind": "novo",
+      "cmid": "215601"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
+      "kind": "novo",
+      "cmid": "215612"
     },
     {
       "curso": "COM170",
