@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-10T20:44:07.866130+00:00",
-  "snapshot_at": "2026-08-10T20:44:07.866130+00:00",
-  "attempted_at": "2026-08-10T20:44:07.866130+00:00",
-  "publication_id": "2026-08-10T20:44:07.866130+00:00",
+  "checked_at": "2026-08-10T23:36:44.782702+00:00",
+  "snapshot_at": "2026-08-10T23:36:44.782702+00:00",
+  "attempted_at": "2026-08-10T23:36:44.782702+00:00",
+  "publication_id": "2026-08-10T23:36:44.782702+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,8 +29,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 17,
       "from_cache": false,
@@ -43,8 +43,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -67,13 +67,13 @@
       "listas_live": 39,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 159,
-      "posts_institucionais_guardados": 120
+      "posts_institucionais_vistos": 156,
+      "posts_institucionais_guardados": 117
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 23,
       "from_cache": false,
@@ -84,8 +84,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -99,8 +99,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -112,8 +112,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-10T20:44:07.868542+00:00",
-      "last_live_at": "2026-08-10T20:44:07.868542+00:00",
+      "checked_at": "2026-08-10T23:36:44.785208+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -763,7 +763,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -862,7 +862,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -962,7 +962,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "8",
+              "nao_lidas": "9",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1062,7 +1062,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Marcar como feito",
-              "nao_lidas": "6",
+              "nao_lidas": "10",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1074,7 +1074,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1526,7 +1526,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1925,7 +1925,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "8",
+              "nao_lidas": "16",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1937,7 +1937,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2073,7 +2073,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Marcar como feito",
-              "nao_lidas": "13",
+              "nao_lidas": "20",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2085,7 +2085,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2886,7 +2886,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3114,7 +3114,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Marcar como feito",
-              "nao_lidas": "10",
+              "nao_lidas": "13",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3944,40 +3944,6 @@
           "novo": false
         },
         {
-          "id": "393745",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-07-03T14:53:29-03:00",
-          "titulo": "Re: S2 - Fórum geral",
-          "texto": "Prezados alunos, boa tarde!\n\nMeu nome é Lucas, sou um dos facilitadores que estão acompanhando a disciplina. Escrevo para dar algumas orientações e atualizações sobre as atividades da Semana 2 deste mês de ambientação.\n\nNesta semana, temos a primeira atividade em grupo a ser realizada. Informo que todos devem se comunicar com seus grupos pelo Fórum do Grupo. Vocês podem utilizar outras ferramentas",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=393745#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=396260#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=396639#mformforum"
-          ],
-          "forum": "S2 - Fórum geral",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=150525",
-          "prazos": [
-            {
-              "rotulo": "O registro da participação será considerado a partir das interações e evidências dispon...",
-              "quando": "2026-07-05T23:59:00-03:00",
-              "trecho": "5/7, ÀS 23h59",
-              "tipo": "fim",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "semana",
-                "numeros": [
-                  2
-                ],
-                "txt": "Escrevo para dar algumas orientações e atualizações sobre as atividades da Semana 2 deste mês de ambientação"
-              },
-              "confianca": "alta",
-              "frase": "O registro da participação será considerado a partir das interações e evidências disponíveis no AVA Prazo de entrega da atividade: Considerando que estamos em uma fase de ambientação da disciplina e que o objetivo pri..."
-            }
-          ],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
           "id": "393741",
           "autor": "Lucas Demeda Dos Santos",
           "data": "2026-07-03T14:53:02-03:00",
@@ -4037,6 +4003,21 @@
           "texto": "Boa tarde, Fernando, pode detalhar melhor o seu problema?",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=574646#mformforum"
+          ],
+          "forum": "Q1 - Fórum de dúvidas",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": false
+        },
+        {
+          "id": "574618",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-08-04T14:01:52-03:00",
+          "titulo": "Re: Q1 - Fórum de dúvidas",
+          "texto": "Olá, Pablo, não entendi a sua pergunta, pode explicar melhor?",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=574618#mformforum"
           ],
           "forum": "Q1 - Fórum de dúvidas",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
@@ -7313,5 +7294,6 @@
       "kind": "aviso",
       "autoridade": "institucional"
     }
-  ]
+  ],
+  "notas_novas": []
 }
