@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-10T09:49:57.721200+00:00",
-  "snapshot_at": "2026-08-10T09:49:57.721200+00:00",
-  "attempted_at": "2026-08-10T09:49:57.721200+00:00",
-  "publication_id": "2026-08-10T09:49:57.721200+00:00",
+  "checked_at": "2026-08-10T11:52:25.022992+00:00",
+  "snapshot_at": "2026-08-10T11:52:25.022992+00:00",
+  "attempted_at": "2026-08-10T11:52:25.022992+00:00",
+  "publication_id": "2026-08-10T11:52:25.022992+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,8 +29,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 17,
       "from_cache": false,
@@ -43,8 +43,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -72,8 +72,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 22,
       "from_cache": false,
@@ -84,8 +84,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -99,8 +99,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -112,8 +112,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-10T09:49:57.723460+00:00",
-      "last_live_at": "2026-08-10T09:49:57.723460+00:00",
+      "checked_at": "2026-08-10T11:52:25.025487+00:00",
+      "last_live_at": "2026-08-10T11:52:25.025487+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -770,7 +770,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -869,7 +869,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "8",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -881,7 +881,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -969,7 +969,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "20",
+              "nao_lidas": "6",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1069,7 +1069,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1081,7 +1081,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1665,7 +1665,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1797,7 +1797,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1809,7 +1809,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1932,7 +1932,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1944,7 +1944,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2079,7 +2079,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2745,7 +2745,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2880,7 +2880,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "8",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2994,7 +2994,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "11",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3108,7 +3108,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -4290,7 +4290,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -7195,48 +7195,6 @@
   "novidades": [
     {
       "curso": "COM100",
-      "label": "S4 - Início",
-      "kind": "novo",
-      "cmid": "193361"
-    },
-    {
-      "curso": "COM100",
-      "label": "S4 - Avaliação",
-      "kind": "novo",
-      "cmid": "193362"
-    },
-    {
-      "curso": "COM100",
-      "label": "S4 - Atividade Avaliativa",
-      "kind": "novo",
-      "cmid": "193363"
-    },
-    {
-      "curso": "COM100",
-      "label": "S4 - Fórum temático",
-      "kind": "novo",
-      "cmid": "193364"
-    },
-    {
-      "curso": "COM100",
-      "label": "S4 - Fórum de dúvidas gerais",
-      "kind": "novo",
-      "cmid": "207958"
-    },
-    {
-      "curso": "COM100",
-      "label": "S4 - Live com facilitador",
-      "kind": "novo",
-      "cmid": "193365"
-    },
-    {
-      "curso": "COM100",
-      "label": "S4 - Em síntese",
-      "kind": "novo",
-      "cmid": "193366"
-    },
-    {
-      "curso": "COM100",
       "label": "Re: Fórum de dúvidas gerais",
       "kind": "aviso",
       "autoridade": "institucional"
@@ -7282,114 +7240,6 @@
       "label": "Material da Live em PDF + Dicas pra não se perder na Semana 3!",
       "kind": "aviso",
       "autoridade": "institucional"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Início",
-      "kind": "novo",
-      "cmid": "221621"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Texto-base - Do Estado moderno ao contemporâneo (Leia o capítulo 1, “A construção do Estado moderno”, p. 32-91) | Augusto Junior Clemente e Maíra Cabral Juliano",
-      "kind": "novo",
-      "cmid": "221622"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Videoaulas",
-      "kind": "novo",
-      "cmid": "221623"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Texto-base - Cidadania e direitos humanos | Lívia Gaigher Bósio Campello e Vladmir Oliveira da Silveira",
-      "kind": "novo",
-      "cmid": "221624"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Aprofundando o tema",
-      "kind": "novo",
-      "cmid": "221625"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Atividade Avaliativa",
-      "kind": "novo",
-      "cmid": "221626"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-      "kind": "novo",
-      "cmid": "221627"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Fórum de dúvidas gerais",
-      "kind": "novo",
-      "cmid": "221628"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Live com facilitador",
-      "kind": "novo",
-      "cmid": "221629"
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Em síntese",
-      "kind": "novo",
-      "cmid": "221630"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Início",
-      "kind": "novo",
-      "cmid": "165196"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Videoaulas",
-      "kind": "novo",
-      "cmid": "165197"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Material-base",
-      "kind": "novo",
-      "cmid": "165198"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Aprofundando o tema",
-      "kind": "novo",
-      "cmid": "165199"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Atividade Avaliativa",
-      "kind": "novo",
-      "cmid": "165200"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Fórum temático",
-      "kind": "novo",
-      "cmid": "165201"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Live com facilitador",
-      "kind": "novo",
-      "cmid": "165202"
-    },
-    {
-      "curso": "LET110",
-      "label": "S4 - Em síntese",
-      "kind": "novo",
-      "cmid": "179054"
     },
     {
       "curso": "LET110",
