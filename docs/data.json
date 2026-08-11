@@ -1,9 +1,9 @@
 {
-  "status": "coleta_incompleta",
-  "checked_at": "2026-08-10T23:36:44.782702+00:00",
-  "snapshot_at": "2026-08-10T23:36:44.782702+00:00",
-  "attempted_at": "2026-08-11T01:56:49.702869+00:00",
-  "publication_id": "2026-08-11T01:56:49.702869+00:00",
+  "status": "ok",
+  "checked_at": "2026-08-11T08:11:14.581600+00:00",
+  "snapshot_at": "2026-08-11T08:11:14.581600+00:00",
+  "attempted_at": "2026-08-11T08:11:14.581600+00:00",
+  "publication_id": "2026-08-11T08:11:14.581600+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -15,18 +15,12 @@
     "cronograma": 3,
     "itens_com_prazo": 45
   },
-  "problemas": [
-    "não encontrei nenhuma disciplina em Meus cursos",
-    "disciplina que existia ontem sumiu hoje: LET110, COM100, COM170, SOC100",
-    "nenhum item ficou com prazo (na última leitura válida eram 45)",
-    "não li nenhum aviso de fórum (na última leitura válida eram 60)",
-    "não li o cronograma de nenhuma disciplina (na última leitura válida eram 3)"
-  ],
+  "problemas": [],
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -35,8 +29,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 17,
       "from_cache": false,
@@ -49,8 +43,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -62,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -73,25 +67,26 @@
       "listas_live": 39,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 156,
-      "posts_institucionais_guardados": 117
+      "posts_institucionais_vistos": 159,
+      "posts_institucionais_guardados": 120
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 23,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "indefinidos": 0,
-      "entregas_nao_confirmadas": 0
+      "entregas_nao_confirmadas": 0,
+      "nao_conferidos": 0
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -105,8 +100,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -118,8 +113,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-10T23:36:44.785208+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "checked_at": "2026-08-11T08:11:14.583982+00:00",
+      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -638,8 +633,10 @@
         "status": "live",
         "media": {
           "rotulo": "Média AVA",
-          "nota": "2,00"
+          "nota": "2,00",
+          "tipo": "nota calculada"
         },
+        "totais": [],
         "itens": 4
       },
       "participacao": null,
@@ -868,7 +865,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1068,7 +1065,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Marcar como feito",
-              "nao_lidas": "10",
+              "nao_lidas": "11",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1080,7 +1077,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1478,6 +1475,7 @@
       "boletim": {
         "status": "vazio_confirmado",
         "media": null,
+        "totais": [],
         "itens": 0
       },
       "participacao": null,
@@ -1532,7 +1530,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1652,7 +1650,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1931,7 +1929,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "16",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1943,7 +1941,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2079,7 +2077,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Marcar como feito",
-              "nao_lidas": "20",
+              "nao_lidas": "13",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2091,7 +2089,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2252,7 +2250,7 @@
             }
           ],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "597634",
@@ -2277,7 +2275,7 @@
             }
           ],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "596736",
@@ -2292,7 +2290,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "581955",
@@ -2566,8 +2564,10 @@
         "status": "live",
         "media": {
           "rotulo": "Média AVA",
-          "nota": "1,70"
+          "nota": "1,70",
+          "tipo": "nota calculada"
         },
+        "totais": [],
         "itens": 4
       },
       "participacao": null,
@@ -3006,7 +3006,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "6",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3120,7 +3120,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Marcar como feito",
-              "nao_lidas": "13",
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3950,6 +3950,40 @@
           "novo": false
         },
         {
+          "id": "393745",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-07-03T14:53:29-03:00",
+          "titulo": "Re: S2 - Fórum geral",
+          "texto": "Prezados alunos, boa tarde!\n\nMeu nome é Lucas, sou um dos facilitadores que estão acompanhando a disciplina. Escrevo para dar algumas orientações e atualizações sobre as atividades da Semana 2 deste mês de ambientação.\n\nNesta semana, temos a primeira atividade em grupo a ser realizada. Informo que todos devem se comunicar com seus grupos pelo Fórum do Grupo. Vocês podem utilizar outras ferramentas",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=393745#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=396260#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=396639#mformforum"
+          ],
+          "forum": "S2 - Fórum geral",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=150525",
+          "prazos": [
+            {
+              "rotulo": "O registro da participação será considerado a partir das interações e evidências dispon...",
+              "quando": "2026-07-05T23:59:00-03:00",
+              "trecho": "5/7, ÀS 23h59",
+              "tipo": "fim",
+              "hora_certa": true,
+              "escopo": {
+                "familia": "semana",
+                "numeros": [
+                  2
+                ],
+                "txt": "Escrevo para dar algumas orientações e atualizações sobre as atividades da Semana 2 deste mês de ambientação"
+              },
+              "confianca": "alta",
+              "frase": "O registro da participação será considerado a partir das interações e evidências disponíveis no AVA Prazo de entrega da atividade: Considerando que estamos em uma fase de ambientação da disciplina e que o objetivo pri..."
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": false
+        },
+        {
           "id": "393741",
           "autor": "Lucas Demeda Dos Santos",
           "data": "2026-07-03T14:53:02-03:00",
@@ -4009,21 +4043,6 @@
           "texto": "Boa tarde, Fernando, pode detalhar melhor o seu problema?",
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=574646#mformforum"
-          ],
-          "forum": "Q1 - Fórum de dúvidas",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "574618",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-08-04T14:01:52-03:00",
-          "titulo": "Re: Q1 - Fórum de dúvidas",
-          "texto": "Olá, Pablo, não entendi a sua pergunta, pode explicar melhor?",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=574618#mformforum"
           ],
           "forum": "Q1 - Fórum de dúvidas",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
@@ -4093,9 +4112,17 @@
       "boletim": {
         "status": "live",
         "media": {
-          "rotulo": "Quinzena 1 total",
-          "nota": "2,00"
+          "rotulo": "Média AVA",
+          "nota": "0,29",
+          "tipo": "nota calculada"
         },
+        "totais": [
+          {
+            "rotulo": "Quinzena 1 total",
+            "nota": "2,00",
+            "tipo": "forma de agregacao das notas"
+          }
+        ],
         "itens": 17
       },
       "participacao": {
@@ -5987,13 +6014,13 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
       "conta_nota": true,
       "prazo": "2026-08-11T20:00:00-03:00",
-      "prazo_txt": "acontece amanhã, 11/08 às 20:00",
+      "prazo_txt": "acontece hoje às 20:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "amanha"
+      "urgencia": "hoje"
     },
     {
       "curso": "COM100",
@@ -6006,13 +6033,13 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
       "conta_nota": true,
       "prazo": "2026-08-12T20:00:00-03:00",
-      "prazo_txt": "acontece 12/08 às 20:00",
+      "prazo_txt": "acontece amanhã, 12/08 às 20:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM100",
@@ -6025,12 +6052,12 @@
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=160797",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -6043,12 +6070,12 @@
       "url": "https://ava.univesp.br/mod/page/view.php?id=165189",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -6061,12 +6088,12 @@
       "url": "https://ava.univesp.br/mod/page/view.php?id=165190",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -6079,12 +6106,12 @@
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=165192",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "SOC100",
@@ -6097,12 +6124,12 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=168812",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "SOC100",
@@ -6115,12 +6142,12 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=168813",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "SOC100",
@@ -6133,12 +6160,12 @@
       "url": "https://ava.univesp.br/mod/page/view.php?id=168814",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "SOC100",
@@ -6151,12 +6178,12 @@
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=168816",
       "conta_nota": true,
       "prazo": "2026-08-12T23:59:00-03:00",
-      "prazo_txt": "vence 12/08 às 23:59",
+      "prazo_txt": "vence amanhã, 12/08 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
       "fonte_url": null,
       "carencia": "2026-08-16T23:59:00-03:00",
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM170",
@@ -6206,13 +6233,13 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
       "conta_nota": true,
       "prazo": "2026-08-18T20:00:00-03:00",
-      "prazo_txt": "acontece 18/08",
+      "prazo_txt": "acontece 18/08 às 20:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "depois"
+      "urgencia": "semana"
     },
     {
       "curso": "COM100",
@@ -7050,19 +7077,8 @@
   "confirmar": [
     {
       "curso": "COM100",
-      "quando": "2026-08-10T23:59:00-03:00",
-      "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "Joyce Viana e Elva Karina não teve gravação 10/08",
-      "frase": "Joyce Viana e Elva Karina não teve gravação 10/08",
-      "autor": "Joyce Mirella Dos Anjos Viana",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132970"
-    },
-    {
-      "curso": "COM100",
       "quando": "2026-08-12T23:59:00-03:00",
-      "quando_txt": "vence 12/08 (horário não informado)",
+      "quando_txt": "vence amanhã, 12/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a...",
       "frase": "Joyce Viana e Elva Karina https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946 12/08",
@@ -7117,7 +7133,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-18T23:59:00-03:00",
-      "quando_txt": "vence 18/08",
+      "quando_txt": "vence 18/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "16 a 18/08 domingo a terça",
       "frase": "Os dois trabalhos correm em paralelo, o individual no M6 e o do grupo no M7 O dia 15 é o último de entrega, porque no dia 16 abre a revisão 16 a 18/08 domingo a terça: Fase de revisão por pares das atividades individu...",
@@ -7128,7 +7144,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-18T23:59:00-03:00",
-      "quando_txt": "vence 18/08",
+      "quando_txt": "vence 18/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "18 de agosto",
       "frase": "15 de agosto: decide o que foi entregue É o último dia para enviar os dois templates no Laboratório de Revisão, e o prazo termina aí porque no dia seguinte começa a revisão 18 de agosto: encerra a revisão",
@@ -7139,7 +7155,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-18T23:59:00-03:00",
-      "quando_txt": "vence 18/08",
+      "quando_txt": "vence 18/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agos...",
       "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agosto para concluir o Módulo 4 e 15 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que segue além do fim ...",
@@ -7203,209 +7219,7 @@
       "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
     }
   ],
-  "novidades": [
-    {
-      "curso": "COM100",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Lives todas as Quartas - Plantão de dúvidas",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: [Fórum Temático - Semana 4] Condicionais, Variáveis e Interatividade no Scratch!",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "[Fórum Temático - Semana 4] Condicionais, Variáveis e Interatividade no Scratch!",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: Material da Live em PDF + Dicas pra não se perder na Semana 3!",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: Material da Live em PDF + Dicas pra não se perder na Semana 3!",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Re: Material da Live em PDF + Dicas pra não se perder na Semana 3!",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "COM100",
-      "label": "Material da Live em PDF + Dicas pra não se perder na Semana 3!",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "LET110",
-      "label": "LIVES",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S2 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: S3 - Fórum temático",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "LET110",
-      "label": "Re: Fórum de dúvidas gerais",
-      "kind": "aviso",
-      "autoridade": "colega"
-    },
-    {
-      "curso": "COM170",
-      "label": "Re: Q2 - Fórum geral",
-      "kind": "aviso",
-      "autoridade": "institucional"
-    }
-  ],
+  "novidades": [],
   "notas_novas": [],
-  "fontes_tentativa": {
-    "disciplinas": 0,
-    "secoes": 0,
-    "itens": 0,
-    "avisos": 0,
-    "eventos_calendario": 10,
-    "eventos_uteis": 10,
-    "notificacoes": 12,
-    "cronograma": 0,
-    "itens_com_prazo": 0
-  },
-  "fontes_status_tentativa": {
-    "disciplinas": {
-      "status": "vazio_confirmado",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-11T01:56:49.705047+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 0,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": []
-    },
-    "calendario": {
-      "status": "live",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-11T01:56:49.705047+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 10,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": [],
-      "via": "dom",
-      "eventos": 10,
-      "api": 0,
-      "dom": 10
-    },
-    "cronograma": {
-      "status": "nao_aplicavel",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
-      "idade_segundos": 8404,
-      "quantidade_atual": 0,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": []
-    },
-    "foruns": {
-      "status": "nao_aplicavel",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
-      "idade_segundos": 8404,
-      "quantidade_atual": 0,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": [],
-      "foruns": 0,
-      "listas_live": 0,
-      "falhas": 0,
-      "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 0,
-      "posts_institucionais_guardados": 0
-    },
-    "itens": {
-      "status": "live",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-11T01:56:49.705047+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 0,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": [],
-      "indefinidos": 0,
-      "entregas_nao_confirmadas": 0,
-      "nao_conferidos": 0
-    },
-    "boletim": {
-      "status": "nao_aplicavel",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
-      "idade_segundos": 8404,
-      "quantidade_atual": 0,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": []
-    },
-    "participacao": {
-      "status": "nao_aplicavel",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
-      "idade_segundos": 8404,
-      "quantidade_atual": 0,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": []
-    },
-    "notificacoes": {
-      "status": "live",
-      "checked_at": "2026-08-11T01:56:49.705047+00:00",
-      "last_live_at": "2026-08-11T01:56:49.705047+00:00",
-      "idade_segundos": 0,
-      "quantidade_atual": 2,
-      "from_cache": false,
-      "truncado": false,
-      "problemas": []
-    }
-  }
+  "prazos_novos": []
 }
