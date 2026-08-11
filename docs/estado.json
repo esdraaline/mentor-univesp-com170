@@ -23,7 +23,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160780": {
     "schema_version": 3,
-    "ultimo": "2026-08-10T09:26:44-03:00",
+    "ultimo": "2026-08-11T20:02:00-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 9,
     "posts_institucionais_guardados": 9,
@@ -291,7 +291,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T14:39:29-03:00",
+    "ultimo": "2026-08-11T19:15:30-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -507,7 +507,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
     "schema_version": 3,
-    "ultimo": "2026-08-10T22:25:09-03:00",
+    "ultimo": "2026-08-11T20:25:36-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 40,
     "posts_institucionais_guardados": 10,
@@ -867,7 +867,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T16:46:13-03:00",
+    "ultimo": "2026-08-11T20:22:30-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -975,6 +975,32 @@
         "prazos": [],
         "autoridade": "institucional",
         "novo": false
+      },
+      {
+        "id": "638165",
+        "autor": "ANA CAROLINE DA COSTA NOVAIS",
+        "data": "2026-08-11T20:08:49-03:00",
+        "titulo": "Re: Fórum de dúvidas gerais",
+        "texto": "Boa noite, Por favor, pode me ajudar a entender o motivo do link da live não abrir ?\n11/08 tentado às 20h:08min",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638165#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+        "prazos": [
+          {
+            "rotulo": "11/08 tentado às 20h",
+            "quando": "2026-08-11T23:59:00-03:00",
+            "trecho": "11/08",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": null,
+            "confianca": "baixa",
+            "frase": "Boa noite, Por favor, pode me ajudar a entender o motivo do link da live não abrir ? 11/08 tentado às 20h:08min"
+          }
+        ],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "604196",
@@ -1088,6 +1114,23 @@
         "novo": false
       },
       {
+        "id": "638313",
+        "autor": "CARLOS EDUARDO FERREIRA",
+        "data": "2026-08-11T20:16:58-03:00",
+        "titulo": "Re: Fórum de dúvidas gerais",
+        "texto": "Boa Noite!!! Gostaria de saber onde encontro o link para participar das Lives as Terças Feiras às 20h00.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638313#mformforum",
+          "https://ava.univesp.br/mod/lti/view.php?id=165163",
+          "https://ava.univesp.br/mod/forum/post.php?reply=638415#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "610353",
         "autor": "LUIZ CARLOS FRANCISCO AGOSTINHO",
         "data": "2026-08-09T14:46:06-03:00",
@@ -1095,36 +1138,6 @@
         "texto": "Boa tarde, prezadas Daniela e Priscila, Gostaria de pedir o apoio e a orientação urgente de vocês. Recentemente passei por problemas de saúde, o que infelizmente contribuiu para que o conteúdo e as atividades das disciplinas acumulassem bastante. Além disso, estou enfrentando um problema técnico de duplicidade de grupos no sistema. Essa falha está travando o meu acesso e me impedindo de interagir ",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=610353#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "610344",
-        "autor": "LUIZ CARLOS FRANCISCO AGOSTINHO",
-        "data": "2026-08-09T14:44:43-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Boa tarde, prezadas Daniela e Priscila, Gostaria de pedir o apoio e a orientação urgente de vocês. Recentemente passei por problemas de saúde, o que infelizmente contribuiu para que o conteúdo e as atividades das disciplinas acumulassem bastante. Além disso, estou enfrentando um problema técnico de duplicidade de grupos no sistema. Essa falha está travando o meu acesso e me impedindo de interagir ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=610344#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "610337",
-        "autor": "LUIZ CARLOS FRANCISCO AGOSTINHO",
-        "data": "2026-08-09T14:42:54-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Boa tarde, prezadas Daniela e Priscila, Gostaria de pedir o apoio e a orientação urgente de vocês. Recentemente passei por problemas de saúde, o que infelizmente contribuiu para que o conteúdo e as atividades das disciplinas acumulassem bastante. Além disso, estou enfrentando um problema técnico de duplicidade de grupos no sistema. Essa falha está travando o meu acesso e me impedindo de interagir ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=610337#mformforum"
         ],
         "forum": "Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
@@ -2251,54 +2264,6 @@
         "via": "api"
       },
       {
-        "nome": "S3 - Fórum de dúvidas gerais é devido",
-        "quando": "2026-08-11T14:26:00-03:00",
-        "curso_id": "18880",
-        "curso": "SOC100-BIA-2026S2B1-T001",
-        "atividade": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-        "acao": "Ver",
-        "cmid": "182606",
-        "tipo": "due",
-        "via": "api"
-      },
-      {
-        "nome": "S3 - Fórum de dúvidas gerais é devido",
-        "quando": "2026-08-11T14:26:00-03:00",
-        "curso_id": "18870",
-        "curso": "COM100-BIA-2026S2B1-T001",
-        "atividade": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
-        "acao": "Ver",
-        "cmid": "207957",
-        "tipo": "due",
-        "via": "api"
-      },
-      {
-        "nome": "S4 - Fórum de dúvidas gerais é devido",
-        "quando": "2026-08-11T14:30:00-03:00",
-        "curso_id": "18870",
-        "curso": "COM100-BIA-2026S2B1-T001",
-        "atividade": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
-        "acao": "Ver",
-        "cmid": "207958",
-        "tipo": "due",
-        "via": "api"
-      },
-      {
-        "nome": "S4 - Fórum de dúvidas gerais é devido",
-        "quando": "2026-08-11T14:30:00-03:00",
-        "curso_id": "18880",
-        "curso": "SOC100-BIA-2026S2B1-T001",
-        "atividade": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
-        "acao": "Ver",
-        "cmid": "221628",
-        "tipo": "due",
-        "via": "api"
-      },
-      {
         "nome": "Live 2",
         "quando": "2026-08-11T20:00:00-03:00",
         "curso_id": "18893",
@@ -3071,7 +3036,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T10:19:38-03:00",
+    "ultimo": "2026-08-11T19:22:27-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3148,6 +3113,21 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "637417",
+        "autor": "MAYARA BRANDAO TEIXEIRA MODELLI",
+        "data": "2026-08-11T19:22:27-03:00",
+        "titulo": "Re: S2 - Fórum temático",
+        "texto": "Para entender melhor como o pensamento computacional pode ser utilizado no nosso cotidiano, escolhi como exemplo a organização da rotina de estudos. Muitas vezes temos várias tarefas para realizar e, sem uma organização, podemos acabar esquecendo prazos ou acumulando atividades.\n\n1. Abstração\n\nNa abstração, eu procuraria deixar de lado os detalhes que não são importantes naquele momento e focaria ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637417#mformforum"
+        ],
+        "forum": "S2 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "630750",
@@ -3247,21 +3227,6 @@
         "texto": "Abstração: No canteiro de obras, lida-se com muitos detalhes (materiais, prazos, equipes, normas técnicas). A abstração permite focar apenas nos elementos essenciais para cada etapa. Por exemplo, ao planejar a concretagem, abstraímos detalhes irrelevantes (como a pintura futura) e nos concentramos em insumos, mão de obra e condições climáticas.\nDecomposição: Uma obra é complexa, mas pode ser divid",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=616449#mformforum"
-        ],
-        "forum": "S2 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "616129",
-        "autor": "NEWMAN COSTA PEDRO",
-        "data": "2026-08-09T23:00:43-03:00",
-        "titulo": "Re: S2 - Fórum temático",
-        "texto": "Meus estudos:\nAbstração: Me concentrar nos pontos importantes da matéria\nDecomposição: Ler os textos e depois os videos\nReconhecimento de padrões: Sequenciar as tarefas\nAlgoritmos: Ler; Assistir os videos; Revisar",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=616129#mformforum"
         ],
         "forum": "S2 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
@@ -3438,7 +3403,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T14:26:13-03:00",
+    "ultimo": "2026-08-11T19:24:03-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5365,11 +5330,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:28:38-03:00",
+    "ultimo": "2026-08-11T20:13:49-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "637355",
+        "autor": "MARIO SERGIO RODRIGUES BALBINO OLIVEIRA PASCHOAL",
+        "data": "2026-08-11T19:18:17-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Não estou conseguindo assinar este forum. Sempre aprece amensagem que devo ser de outro grupo. Que maluco! Alguém da univesp pode arrumar isso na plataforma. Obrigado!",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637355#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "635552",
         "autor": "ARTHUR ESCOBAR MARINHO",
@@ -5513,28 +5493,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "621957",
-        "autor": "CAIO BRUNO CHECHI",
-        "data": "2026-08-10T14:29:30-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Nesse pequeno projeto, utilizei comandos básicos ensinado nas aulas e repliquei\no projeto é levar um centauro até a entrada da caverna, foi usado comando mover, sons e inclinação para dar sentido e também usei a repetição.\n\nhttps://scratch.mit.edu/projects/1367859594",
-        "links": [
-          "https://scratch.mit.edu/projects/1367859594",
-          "https://ava.univesp.br/mod/forum/post.php?reply=621957#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:46:02-03:00",
+    "ultimo": "2026-08-11T19:40:10-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5706,7 +5670,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:35:54-03:00",
+    "ultimo": "2026-08-11T20:44:01-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5771,6 +5735,81 @@
         "novo": false
       },
       {
+        "id": "638600",
+        "autor": "ANDERSON LEITE BARBOSA",
+        "data": "2026-08-11T20:33:19-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Acredito que a idade não é o problema para que adolescentes tenham direito ao voto. O problema não é a idade e sim a falta de estudos e formação sobre o tema durante a vida escolar, com 16 anos o estudante já está no ensimo médio e é primordial ter na grade curricular desde o ensino fundamental I matérias como sociologia, políticas públicas e cidadania. Assim, teriam mais condições de entender seu",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638600#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "638410",
+        "autor": "FELIPE NELSON DA COSTA SILVA",
+        "data": "2026-08-11T20:22:13-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Concordo, principalmente quando destaca que a maturidade política não depende apenas da idade. A escola tem um papel importante na formação de cidadãos críticos, oferecendo informação e espaços para debate. O voto aos 16 anos, por ser facultativo, pode ser uma oportunidade para que os jovens comecem a participar da vida política e compreendam melhor seu papel na sociedade.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638410#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "637974",
+        "autor": "JULIA MACHADO DA SILVA",
+        "data": "2026-08-11T19:58:06-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Concordo, a capacidade de compreensão das relações sociais deve ser um critério para a maioridade eleitoral.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637974#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "637862",
+        "autor": "DANIEL INABA DE SOUZA",
+        "data": "2026-08-11T19:51:34-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Boa noite, pessoal. Sobre a história de Renata, sou a favor do voto aos 16 anos porque muitos adolescentes já têm maturidade suficiente para entender questões sociais e políticas, especialmente quando participam da escola, do grêmio e de debates públicos. Além disso, permitir que jovens votem amplia a representatividade e inclui novas vozes no debate político‑social, fazendo com que temas importan",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637862#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "637432",
+        "autor": "DAVID DA SILVA MACEDO",
+        "data": "2026-08-11T19:23:47-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "A falta da educação adequada é um dos motivos mais relevantes para entendermos porque a maior parte dos adolescentes no Brasil não possuem possuem maturidade para o que é esperado para o voto.\nUma tentativa de capturar o interesse daqueles poucos que são considerados aptos para o voto é mantendo essa modalidade facultativa até a maioridade porem a propaganda direcionada por parte de políticos para",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637432#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "636074",
         "autor": "Rapuso Revati Purin de Sousa",
         "data": "2026-08-11T17:28:10-03:00",
@@ -5807,82 +5846,8 @@
         "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "texto": "1. A capacidade de compreensão das relações sociais deve ser um critério para a maioridade eleitoral?\n\nNão, pois, a compreensão se desenvolve na prática cotidiana e criar filtros apenas geraria exclusões.\n\n2. Qual seria a idade adequada para o início do exercício do voto na sociedade brasileira?\n\n16 anos (voto facultativo) é a idade ideal, pois o jovem já trabalha, responde por seus atos e usa ser",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=633353#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "633050",
-        "autor": "RICARDO ELIAS AKKAWI",
-        "data": "2026-08-11T12:49:04-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Acredito que a capacidade de compreensão das relações sociais está intimamente ligada à ideia de autonomia, isto é, de alguém que pensa por si mesmo, com maturidade, consciência, racionalidade e liberdade. Uma vez conquistada a autonomia, os indivíduos estariam aptos a escolher seus representantes. A idade adequada para o exercício do voto é aos 16 anos, onde já se reconhece a autonomia, que decor",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=633050#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "632193",
-        "autor": "VAGNER LUIS PAGANOTO",
-        "data": "2026-08-11T11:15:11-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Em uma Democracia de respeito, a compreensão das relações sociais seria um fator fundamental para que o cidadão possa ser considerado apto a votar. Essa idade deveria estar atrelada a maioridade civil (18 anos), já que ela é balizadora das responsabilidades como membro da sociedade. Infelizmente, ainda hoje, nossas escolas não fornecem material suficiente ou debates conscientes a respeito da impor",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=632193#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "631088",
-        "autor": "RENATO ANTONIO VEIGA DOS SANTOS PEREIRA",
-        "data": "2026-08-11T09:18:34-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Ainda que pese o fato do jovem ainda estar em desenvolvimento, eu vejo que não é a questão da idade no qual vai definir a maturidade política de um indivíduo, o que define é o seu pensamento crítico e a capacidade de analisar os seus representantes, pelo fato de ser uma novidade para os jovens e ser facultativo, eles tendem a analisar melhor o contexto político e realmente expressar essa maturidad",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=631088#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "629839",
-        "autor": "GENTIL ANTONIO ALVES FILHO",
-        "data": "2026-08-11T00:04:29-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "As minhas considerações sobre o assunto são as seguintes: • A capacidade de compreensão das relações sociais deve ser um critério para a maioridade eleitoral?\n-Sim. Uma pessoa que não tem consciência social também não tem maturidade para escolher os políticos que serão os representantes do povo na câmara e no senado. Essa escolha vem com uma responsabilidade muito grande no destino de milhões de p",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=629839#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "629703",
-        "autor": "FELLIPE MIRANDA TAVARES SOUZA",
-        "data": "2026-08-10T23:32:46-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "O debate sobre o voto na adolescência e o conceito de \"maturidade\" abre uma margem ampla de interpretações, influenciadas diretamente pelas experiências de cada indivíduo. Particularmente, acredito que a participação dos jovens a partir dos 16 anos no processo eleitoral é completamente válida e que, justamente pela dificuldade de mensurar a maturidade de uma faixa etária específica, o exercício de",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=629703#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=633353#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=637887#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -5894,7 +5859,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182606": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T16:57:54-03:00",
+    "ultimo": "2026-08-11T20:43:57-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -5954,6 +5919,21 @@
         "novo": false
       },
       {
+        "id": "637760",
+        "autor": "ANA CAROLINE DA COSTA NOVAIS",
+        "data": "2026-08-11T19:44:38-03:00",
+        "titulo": "Re: S3 - Fórum de dúvidas gerais",
+        "texto": "Sim, Mario. Concordo, deveria ser gravado as lives, complicadonão conseguirem isso nem que seja via Zoom.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637760#mformforum"
+        ],
+        "forum": "S3 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "633155",
         "autor": "VAGNER LUIS PAGANOTO",
         "data": "2026-08-11T13:01:03-03:00",
@@ -5976,7 +5956,8 @@
         "texto": "Já foi esclarecido a mim e vários outros sobre a impossibilidade de gravação das lives. Tudo bem. Mas qual a dificuldade em se manter o registro de quando ocorreu e quando ocorrerá? Acabei de consultar o local, mas está vazio. Desta forma não consigo me orientar adequadamente, haja vista que os eventos agendados estão sempre presentes na agenda, mas é muito bom saber o que perdi e ter um mapa mais",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=626121#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=634958#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=634958#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=637760#mformforum"
         ],
         "forum": "S3 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
@@ -6045,27 +6026,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "608125",
-        "autor": "MARCELO TRUCULO PAULA",
-        "data": "2026-08-09T00:28:32-03:00",
-        "titulo": "Re: S3 - Fórum de dúvidas gerais",
-        "texto": "O conteúdo da matéria é muito bom.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=608125#mformforum"
-        ],
-        "forum": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:38:46-03:00",
+    "ultimo": "2026-08-11T20:47:16-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6123,6 +6089,22 @@
             "frase": "Discurso escolhido: Sundar Pichai, CEO do Google e da Alphabet, Evento: Cerimônia de formatura da Universidade Stanford – turma de 2026 Data: 14 de junho de 2026"
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "638368",
+        "autor": "CARLOS JOSE SALES",
+        "data": "2026-08-11T20:19:51-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Segundo o artigo do IDIS, apenas 59% das crianças brasileiras estão alfabetizadas ao final do 2º ano do Ensino Fundamental. Esse fato nos mostra que a baixa alfabetização vai além de um problema educacional, sendo também uma questão de cidadania, pois impacta negativamente a formação dos indivíduos. Assim, na minha opinião, combater a baixa alfabetização deve ser entendido como uma política de pro",
+        "links": [
+          "https://www.idis.org.br/um-retrato-da-alfabetizacao-e-da-desigualdade-no-brasil/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=638368#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -6210,21 +6192,6 @@
         "texto": "A educação como ferramenta de emancipação social vai muito além dos muros das escolas. Na era digital, marcada pela circulação massiva de dados e redes sociais, a capacidade de analisar informações criticamente tornou-se um requisito fundamental para o exercício integral da cidadania. O pensamento crítico funciona como um filtro de proteção, capacitando o indivíduo a identificar desinformação, dis",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=627922#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "625002",
-        "autor": "MARCOS VINICIUS DOS SANTOS",
-        "data": "2026-08-10T18:30:05-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Achei muito interessante essa discussão porque, no fim das contas, saber ler e escrever criticamente é o que dá voz pra gente na sociedade.\nPara a atividade, eu peguei um trecho de um vídeo do canal do UOL no YouTube (\"Meritocracia só existe quando o ponto de partida é igual\"), onde a empresária Luiza Helena Trajano fala sobre cotas e igualdade. Assistindo com atenção, dá para ver certinho como qu",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=625002#mformforum"
         ],
         "forum": "S3 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
@@ -6876,11 +6843,27 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:45:52-03:00",
+    "ultimo": "2026-08-11T20:42:48-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "636523",
+        "autor": "JEFERSON AUGUSTO APARECIDO LAUREANO",
+        "data": "2026-08-11T18:10:17-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá:\n\nhttps://scratch.mit.edu/projects/1368135158\n\nUtilizei todas as estruturas recomendadas (condicionais, variável, estrutura de repetição), mas como eu utilizei o repita para realizar a contagem e precisaria contar do número do 0 até o Número desejado, foi preciso colocar para ele repetir até o número desejado+1 para não sair antes da contagem.\n\nReflexão:\nA estrutura de repetição teve de ser pe",
+        "links": [
+          "https://scratch.mit.edu/projects/1368135158",
+          "https://ava.univesp.br/mod/forum/post.php?reply=636523#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "635975",
         "autor": "GLAUCIA ELLEN GRANADO",
@@ -7027,28 +7010,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "628896",
-        "autor": "MATHEUS LONA RAMALHO",
-        "data": "2026-08-10T22:12:54-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Ola pessoal\nSegue link do projeto: https://scratch.mit.edu/projects/1367921126\n\nO funcionamento é bem simples, coloquei uma movimentação no personagem que vai ate certo ponto, pede um numero, registra a resposta na variável x, apos isso entra nos comandos if...else, se o numero for entre 0 e 10, o personagem conta de 0 ate o numero, usando a estrutura de repetição usando a variável y como contador",
-        "links": [
-          "https://scratch.mit.edu/projects/1367921126",
-          "https://ava.univesp.br/mod/forum/post.php?reply=628896#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T16:58:12-03:00",
+    "ultimo": "2026-08-11T20:36:34-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7137,11 +7104,101 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:39:54-03:00",
+    "ultimo": "2026-08-11T20:39:00-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "638339",
+        "autor": "MAIRA CRISTINA ALVES",
+        "data": "2026-08-11T20:18:19-03:00",
+        "titulo": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Acredito que existe, sim, um progresso ético-social, mas ele acontece de forma desigual. Atualmente, temos mais acesso à informação, educação, tecnologia e oportunidades de participação social do que em outras épocas. Também houve avanços importantes em relação aos direitos, à cidadania e à inclusão de diferentes grupos na sociedade.\n\nPor outro lado, isso não significa que todos tenham as mesmas c",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638339#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "638239",
+        "autor": "JEAN VIEIRA DE CAMARGO",
+        "data": "2026-08-11T20:13:16-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "O avanço estatístico e tecnológico apontado por João é real e inegável, mas a sensação de perda de estabilidade e previsibilidade expressa pela bisavó Laurinda também é legítima. O progresso trouxe mais direitos e facilidades materiais, mas aumentou os riscos e a complexidade da vida em sociedade.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638239#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "638104",
+        "autor": "JULIO CESAR DE SOUZA",
+        "data": "2026-08-11T20:05:33-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Boa noite à todos os colegas, caros professores e supervisores,\nSegue minha singela contribuição considerando o desafio frente os pontos de reflexão para uma abordagem pessoal:\n- Existe, de fato, um efeito significativo no progresso ético-social?\nPonto de discussão de John Locke e Rousseau na qualidade das relações humanas, ponto de apologética dos teóricos dos direitos humanos, para um debate com",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638104#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "637937",
+        "autor": "MACIEL GOMES DOS SANTOS",
+        "data": "2026-08-11T19:55:49-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Olá, pessoal!\n\nA leitura do desafio desta semana traz à tona um debate muito presente em nosso cotidiano. Compreendo perfeitamente o saudosismo da bisavó Laurinda. Aos 57 anos, e agora iniciando minha jornada como calouro no curso de Bacharelado em Inteligência Artificial, vivo constantemente essa transição entre a tranquilidade das épocas passadas e a aceleração do mundo moderno. No entanto, a ar",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637937#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "637891",
+        "autor": "Raquel Fernanda Piato Tasca",
+        "data": "2026-08-11T19:53:27-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Olá, Josie!\nSeu texto apresenta uma reflexão muito pertinente ao destacar que houve avanços sociais importantes, mas que eles não alcançaram todos de forma igual. Concordo principalmente com a ideia de que o acesso à educação, à tecnologia e aos direitos ampliou as oportunidades, embora ainda existam desigualdades que precisam ser enfrentadas. Acredito que o verdadeiro progresso social acontece qu",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=637891#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "636957",
+        "autor": "FRANCIELE BORGES PORTIK",
+        "data": "2026-08-11T18:47:54-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "A sociedade evoluiu bastante nas últimas décadas e, de modo geral, hoje existem mais oportunidades e melhores condições de vida do que antigamente. O acesso ao SUS, aos programas sociais e à educação, desde a infância até o ensino superior, permite que mais pessoas tenham oportunidades de crescimento. Além disso, houve avanços importantes na redução das desigualdades relacionadas à cor, ao gênero ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=636957#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "635999",
         "autor": "LUIZ ANTONIO MANFRIN",
@@ -7201,106 +7258,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "635307",
-        "autor": "LUIS GUSTAVO APARECIDO TUCKUMANTEL",
-        "data": "2026-08-11T16:19:02-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Boa tarde, colegas de curso!\n\nEu acredito que houve progressos sim. O acesso a educação e a tecnologia são provas de que houve esse progresso, e com isso, os jovens podem exercer a cidadania de forma plena, estando atualizados com aquilo que acontece no cenário nacional e internacional, e inteirados das questões que lhes competem.\nA questão dos jovens ter mais chances, na minha opinião, depende de",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=635307#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "634493",
-        "autor": "BRUNO CEZAR PASQUINI",
-        "data": "2026-08-11T15:15:02-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "A discussão proposta mostra como diferentes gerações percebem o passado e o presente de forma distinta. Para a bisavó Laurinda, o “antigamente” representava simplicidade e menos diversidade cultural, enquanto para João, o presente traz avanços em direitos, democracia e acesso ao consumo. Essa divergência reflete a tensão entre tradição e modernidade, comum em debates familiares e sociais.\n\nDo pont",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=634493#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "634242",
-        "autor": "NILTON KAZUO HASEGAWA HAJI",
-        "data": "2026-08-11T14:54:12-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Sim. A discussão apresentada permite perceber que houve progresso ético-social e material, embora esse progresso não seja uniforme e não signifique que todas as pessoas tenham hoje uma vida melhor em todos os aspectos.\n\nEm relação às condições de vida, indicadores como o IDH ajudam a demonstrar avanços em áreas como educação, saúde e renda. Além disso, a ampliação dos direitos civis, da democracia",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=634242#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "634128",
-        "autor": "RAIMUNDO ALEXANDRE RIBEIRO DA SILVA",
-        "data": "2026-08-11T14:46:29-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Na minha opinião, os jovens de hoje têm mais oportunidades do que antigamente, principalmente por causa do acesso à tecnologia, à informação e à educação. Hoje podemos estudar, buscar conhecimento e até encontrar oportunidades de trabalho pela internet.\n\nMas acredito que isso não significa que todos tenham as mesmas chances. Ainda existem muitas desigualdades sociais e financeiras que dificultam a",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=634128#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "633898",
-        "autor": "Fabio dos Santos Figueiredo",
-        "data": "2026-08-11T14:22:35-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "A controvérsia entre o progresso moderno e a preservação de modos de vida tradicionais recoloca no centro do debate a complexa relação entre indivíduo e sociedade. Ao analisar o desenvolvimento histórico das últimas décadas, percebe-se um avanço inegável nos indicadores de desenvolvimento humano (IDH), na expectativa de vida e no acesso à informação e aos direitos formais. Sob essa ótica material ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=633898#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "633538",
-        "autor": "ANDRE LUIZ SILVA DE FARIA",
-        "data": "2026-08-11T13:41:45-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "O debate na família da Laurinda e do João coloca lado a lado a nostalgia do passado e os dados do presente. A sociedade avançou muito, mas acabou criando novos problemas pelo caminho.\nSobre a questão do progresso ético e social, acho que a gente avançou bastante. Hoje a nossa sociedade é bem mais aberta e consciente do que antigamente. A democracia se fortaleceu, os Direitos Humanos ganharam espaç",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=633538#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:37:32-03:00",
+    "ultimo": "2026-08-11T20:39:13-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "638716",
+        "autor": "BRUNO RAFAEL TIRELLI DE CAMPOS",
+        "data": "2026-08-11T20:39:13-03:00",
+        "titulo": "Re: S4 - Fórum de dúvidas gerais",
+        "texto": "Achei muito interessante perceber como vários temas da semana estão conectados, principalmente cidadania, direitos humanos, democracia, liberdade, igualdade e o Estado Democrático de Direito. Também foi interessante entender que muitos dos direitos que hoje parecem naturais são, na verdade, resultado de um longo processo histórico de lutas e transformações sociais.\n\nOutro ponto que me chamou a ate",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638716#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "635485",
         "autor": "SOFIA CLEMENTINO DOS SANTOS",
@@ -7441,31 +7423,88 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "629297",
-        "autor": "PAULO SERGIO PINHEIRO ROSA",
-        "data": "2026-08-10T22:41:08-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Boa noite pessoal.\n\nO que não ficou muito claro para mim, após a consulta do materias é qual a relação entre dignidade e dinamogênese?",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=629297#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-11T17:25:14-03:00",
+    "ultimo": "2026-08-11T20:41:16-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "636487",
+        "autor": "ALEXANDRE DE OLIVEIRA MARQUES",
+        "data": "2026-08-11T18:06:59-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá pessoal.\n\nDe uma forma bem resumida a coesão e coerência, a meu ver, estão interligadas.\nA primeira tem a ver com a estrutura das palavras para a produção de um texto adequado, cujas informações sejam claras e objetivas, adequando-se os elementos: conjunções, preposições, advérbios e pronomes.\nA coerência, por sua vez, está diretamente ligada a uma sequência lógica das ideias para o entendimen",
+        "links": [
+          "https://youtu.be/IIU6i3UXyi0?si=S8cnTq3sVhWBJml1",
+          "https://ava.univesp.br/mod/forum/post.php?reply=636487#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [
+          {
+            "rotulo": "YouTube, data de publicação",
+            "quando": "2018-03-05T23:59:00-03:00",
+            "trecho": "05/03/2018",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": null,
+            "confianca": "baixa",
+            "frase": "Coesão e coerência [Prof Noslen] YouTube, data de publicação: 05/03/2018"
+          }
+        ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "638722",
+        "autor": "MAIRA CRISTINA ALVES",
+        "data": "2026-08-11T20:39:29-03:00",
+        "titulo": "S4 - Fórum temático",
+        "texto": "Para mim, a coerência e a coesão são fundamentais para que um texto consiga transmitir sua mensagem de forma clara. A coerência está relacionada principalmente ao sentido e à relação lógica entre as ideias, enquanto a coesão utiliza elementos linguísticos para conectar as diferentes partes do texto.\n\nUma das principais estratégias para escrever um texto bem estruturado é organizar as ideias em uma",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638722#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "638188",
+        "autor": "FABIO LUIZ DA SILVA",
+        "data": "2026-08-11T20:09:49-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "A coesão funciona como a \"costura\" ou a \"cola\" do nosso texto. Ela acontece quando usamos as palavras e estruturas linguísticas corretas para ligar as frases, evitando que a leitura fique cansativa ou truncada. Uma ótima estratégia para garantir um texto bem encadeado é evitar a repetição constante da mesma palavra, substituindo-a por pronomes ou sinônimos. Além disso, é essencial usar os conectiv",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638188#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "638153",
+        "autor": "ROBSON CESAR CARDOSO",
+        "data": "2026-08-11T20:08:16-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "A coesão e a coerência são fundamentais para a construção de textos claros e bem organizados. A coesão ocorre por meio de mecanismos como referenciação, repetição, substituição, elipse, sinonímia e conectores, como além disso, portanto, porém, porque e assim, que estabelecem relações entre as ideias. Já a coerência depende da organização lógica do texto, da continuidade temática, do contexto e tam",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=638153#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "636041",
         "autor": "GEOVANI COVOLAN",
@@ -7557,67 +7596,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "633906",
-        "autor": "EUGENIA DOS SANTOS FANINI",
-        "data": "2026-08-11T14:23:35-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A coesão pode ser referencial, sequencial ou elipse, ela se atenta a ligação gramatical de um texto. Já a coerência está ligada à formação da lógica do mesmo. Para uma correta interpretação dos textos é essencial ter o conhecimento da língua portuguesa e das suas regras gramaticais, dessa forma é possível fazer a troca de palavras repetidas por sinônimos, fazer o uso correto da pontuação e de cone",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=633906#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=634290#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "632954",
-        "autor": "MANOEL JEFFERSON TAVARES MENDONCA",
-        "data": "2026-08-11T12:36:29-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A coesão e a coerência são fundamentais para que um texto seja compreendido de maneira clara. A coerência está relacionada à organização e à relação lógica entre as ideias, enquanto a coesão utiliza elementos linguísticos para conectar as diferentes partes do texto.\n\nPara garantir uma boa interpretação, é importante observar o contexto, a sequência das informações e a relação existente entre as id",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=632954#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "632737",
-        "autor": "JAIME PEREIRA DA SILVA",
-        "data": "2026-08-11T12:13:31-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A Língua Portuguesa, especialmente a nossa Língua Portuguesa do Brasil, deveria ter muito mais espaço nos mega dados das Data Center.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=632737#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "632342",
-        "autor": "FABIANO DE SIMAS RODRIGUES",
-        "data": "2026-08-11T11:28:44-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A construção de um texto claro e dotado de sentido exige a articulação harmoniosa entre coesão e coerência. A coesão atua na superfície do texto por meio de recursos gramaticais e lexicais, como pronomes de retomada e conectivos, garantindo a interconexão lógica entre palavras, frases e parágrafos sem repetições exaustivas. Contudo, essa materialidade formal precisa ser sustentada pela coerência, ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=632342#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -7673,6 +7651,52 @@
     "SOC100:221628": {
       "prazo": "2026-08-11T14:30:00-03:00",
       "em": "2026-08-11T17:58:25.200282+00:00"
+    },
+    "LET110:165163": {
+      "prazo": "2026-08-18T20:00:00-03:00",
+      "em": "2026-08-11T23:42:16.423696+00:00"
     }
+  },
+  "https://ava.univesp.br/mod/forum/discuss.php?d=143885": {
+    "schema_version": 3,
+    "ultimo": "2026-08-11T22:49+0000",
+    "truncado": false,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
+    "posts": [
+      {
+        "id": "637843",
+        "autor": "Neide Silvania Campos Sampaio",
+        "data": "2026-08-11T19:49:53-03:00",
+        "titulo": "LIVE COM FACILITADORES - QUINZENA 02",
+        "texto": "Prezados/as,\n\nEstá marcada para a quinta-feira (13/08), às 18:30h, a live da QUINZENA 02, da turma com os facilitadores. Pretendemos repassar as orientações referente a quinzena e tirar eventuais dúvidas.\n\nSegue o link:\n\nhttps://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/0ojheuDKiYlp/external\n\nPara quem não conseguir participar, a live ficará gravada no AVA.\n\nCor",
+        "links": [
+          "https://lti.elos.vc/rooms/040fda53dd71a7397385e0ad37826c93fe5bc760/scheduled_meetings/0ojheuDKiYlp/external"
+        ],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=143885",
+        "prazos": [
+          {
+            "rotulo": "Está marcada para a quinta-feira (13/08), às 18",
+            "quando": "2026-08-13T23:59:00-03:00",
+            "trecho": "13/08",
+            "tipo": "compromisso",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                2
+              ],
+              "txt": "Está marcada para a quinta-feira (13/08), às 18:30h, a live da QUINZENA 02, da turma com os facilitadores"
+            },
+            "confianca": "alta",
+            "frase": "Prezados/as, Está marcada para a quinta-feira (13/08), às 18:30h, a live da QUINZENA 02, da turma com os facilitadores",
+            "titulo_evento": "Prezados/as"
+          }
+        ],
+        "autoridade": "institucional",
+        "novo": true
+      }
+    ]
   }
 }
