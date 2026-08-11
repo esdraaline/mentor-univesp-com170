@@ -1,16 +1,16 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-11T17:58:25.200282+00:00",
-  "snapshot_at": "2026-08-11T17:58:25.200282+00:00",
-  "attempted_at": "2026-08-11T17:58:25.200282+00:00",
-  "publication_id": "2026-08-11T17:58:25.200282+00:00",
+  "checked_at": "2026-08-11T20:46:33.816432+00:00",
+  "snapshot_at": "2026-08-11T20:46:33.816432+00:00",
+  "attempted_at": "2026-08-11T20:46:33.816432+00:00",
+  "publication_id": "2026-08-11T20:46:33.816432+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
     "itens": 224,
     "avisos": 60,
-    "eventos_calendario": 20,
-    "eventos_uteis": 20,
+    "eventos_calendario": 21,
+    "eventos_uteis": 21,
     "notificacoes": 12,
     "cronograma": 3,
     "itens_com_prazo": 49
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,22 +29,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 20,
+      "quantidade_atual": 21,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 20,
+      "eventos": 21,
       "api": 16,
       "dom": 10
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -67,13 +67,13 @@
       "listas_live": 39,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 162,
-      "posts_institucionais_guardados": 123
+      "posts_institucionais_vistos": 166,
+      "posts_institucionais_guardados": 127
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 23,
       "from_cache": false,
@@ -85,8 +85,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -100,8 +100,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -113,8 +113,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-11T17:58:25.202711+00:00",
-      "last_live_at": "2026-08-11T17:58:25.202711+00:00",
+      "checked_at": "2026-08-11T20:46:33.820351+00:00",
+      "last_live_at": "2026-08-11T20:46:33.820351+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -766,7 +766,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -965,7 +965,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "8",
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -977,7 +977,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": "2026-08-11T14:26:00-03:00",
               "prazo_fonte": "calendário do AVA",
@@ -1077,7 +1077,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "4",
               "conta_nota": false,
               "prazo": "2026-08-11T14:30:00-03:00",
               "prazo_fonte": "calendário do AVA",
@@ -1650,7 +1650,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1794,7 +1794,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1941,7 +1941,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Marcar como feito",
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": "2026-08-11T14:26:00-03:00",
               "prazo_fonte": "calendário do AVA",
@@ -2077,7 +2077,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Marcar como feito",
-              "nao_lidas": "19",
+              "nao_lidas": "18",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2089,7 +2089,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Marcar como feito",
-              "nao_lidas": "9",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": "2026-08-11T14:30:00-03:00",
               "prazo_fonte": "calendário do AVA",
@@ -2223,6 +2223,33 @@
       },
       "avisos": [
         {
+          "id": "635577",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-08-11T16:41:09-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Aqui o link da gravação da primeira live:\nhttps://rec.elos.vc/playback/presentation/2.3/0584975512098f66a516e7394586fd1e14c7dae7-1786118058781",
+          "links": [
+            "https://rec.elos.vc/playback/presentation/2.3/0584975512098f66a516e7394586fd1e14c7dae7-1786118058781",
+            "https://ava.univesp.br/mod/forum/post.php?reply=635577#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [
+            {
+              "rotulo": "https",
+              "quando": "2026-05-03T23:59:00-03:00",
+              "trecho": "3/05",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Aqui o link da gravação da primeira live: https://rec.elos.vc/playback/presentation/2.3/0584975512098f66a516e7394586fd1e14c7dae7-1786118058781"
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "597648",
           "autor": "Bruno Barra da Silva",
           "data": "2026-08-07T11:48:03-03:00",
@@ -2276,6 +2303,51 @@
           ],
           "autoridade": "institucional",
           "novo": false
+        },
+        {
+          "id": "635757",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-08-11T16:57:41-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "Oi, pessoal!\n\nParabéns pela participação no fórum da semana 3. Como aprendemos, o discurso envolve diferentes e complexas relações de poder, de modo que a leitura e a escrita constituem-se como direitos que precisam ser assegurados.\nEstou acompanhando as discussões e comentários de vocês! Continuem interagindo aqui pelo fórum e ótimos estudos!\n\nAtenciosamente,\nBruno Barra - Facilitador Univesp.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=635757#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "635714",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-08-11T16:54:31-03:00",
+          "titulo": "Re: S3 - Fórum temático",
+          "texto": "fique a vontade para fazer ambos.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=635714#mformforum"
+          ],
+          "forum": "S3 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "635630",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-08-11T16:46:13-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Para quem não participou da primeira LIVE, está gravada e fica disponível na seção \"live com facilitador\" - \"histórico\".\nTodas as lives ficarão salvas. Hoje, às 20h há nosso segundo encontro.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=635630#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
         },
         {
           "id": "596736",
@@ -2407,156 +2479,6 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
-        },
-        {
-          "id": "457098",
-          "autor": "Paulo Otavio da Silva Joaquim",
-          "data": "2026-07-21T10:06:26-03:00",
-          "titulo": "Pesos das Atividades",
-          "texto": "Olá, aluno (a)! Tudo bem?\n\nComo você já deve saber, sua nota de uma disciplina regular é composta por 40% atividades avaliativas do AVA mais 60% da prova final.\n\nTeremos atividades avaliativas nas semanas 1 a 7, para que você acompanhe melhor seu aprendizado ao longo de toda a disciplina.\n\nCada atividade avaliativa continua valendo de 0,0 a 10,0. No entanto, elas possuem pesos diferentes de acordo",
-          "links": [
-            "https://youtu.be/eSvW1CASqzg?si=7xCD2gxeNeUyfcd6"
-          ],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=123032",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "616753",
-          "autor": "DIEGO TENORIO DO NASCIMENTO",
-          "data": "2026-08-10T00:03:14-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Discurso escolhido: Sundar Pichai, CEO do Google e da Alphabet, Evento: Cerimônia de formatura da Universidade Stanford – turma de 2026\nData: 14 de junho de 2026\n\nTrecho escolhido: aproximadamente os primeiros 5 minutos.\n\nConteúdo do trecho — versão parafraseada\n\nPichai começa agradecendo às autoridades da universidade e parabenizando os formandos. Em seguida, comenta que aquela é apenas a segunda",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=616753#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-          "prazos": [
-            {
-              "rotulo": "Data",
-              "quando": "2026-06-14T23:59:00-03:00",
-              "trecho": "14 de junho de 2026",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": null,
-              "confianca": "baixa",
-              "frase": "Discurso escolhido: Sundar Pichai, CEO do Google e da Alphabet, Evento: Cerimônia de formatura da Universidade Stanford – turma de 2026 Data: 14 de junho de 2026"
-            }
-          ],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "604196",
-          "autor": "KARINE TORIBIO",
-          "data": "2026-08-08T12:45:15-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Olá, alguém teve acesso a LIVE gravada que ocorreu dia 07/08 as 13h? Não encontrei nenhum link, agradeço se alguém compartilhar.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=604196#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=607060#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [
-            {
-              "rotulo": "Olá, alguém teve acesso a LIVE gravada que ocorreu dia 07/08 as 13h? Não encontrei nenh...",
-              "quando": "2026-08-07T13:00:00-03:00",
-              "trecho": "07/08 as 13h",
-              "tipo": "compromisso",
-              "hora_certa": true,
-              "escopo": null,
-              "confianca": "baixa",
-              "frase": "Olá, alguém teve acesso a LIVE gravada que ocorreu dia 07/08 as 13h? Não encontrei nenhum link, agradeço se alguém compartilhar.",
-              "titulo_evento": null
-            }
-          ],
-          "autoridade": "colega",
-          "novo": true
-        },
-        {
-          "id": "524661",
-          "autor": "EDUARDO DE GODOY PUTTON",
-          "data": "2026-07-29T13:32:18-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Semana 1 é hoje, 29/07/2026, às 23:59. Porém, o cronograma também apresenta como data limite/carência o dia 02/08/2026, às 23:59. Pergunta: Para os alunos que não conseguirem enviar as a",
-          "links": [
-            "https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html",
-            "https://ava.univesp.br/mod/forum/post.php?reply=524661#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [
-            {
-              "rotulo": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Gera...",
-              "quando": "2026-07-29T23:59:00-03:00",
-              "trecho": "29/07/2026, às 23:59",
-              "tipo": "fim",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "semana",
-                "numeros": [
-                  1
-                ],
-                "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
-              },
-              "confianca": "baixa",
-              "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
-            },
-            {
-              "rotulo": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Gera...",
-              "quando": "2026-08-02T23:59:00-03:00",
-              "trecho": "02/08/2026, às 23:59",
-              "tipo": "fim",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "semana",
-                "numeros": [
-                  1
-                ],
-                "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
-              },
-              "confianca": "baixa",
-              "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
-            },
-            {
-              "rotulo": "Pergunta",
-              "quando": "2026-07-29T23:59:00-03:00",
-              "trecho": "29/07",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": {
-                "familia": "semana",
-                "numeros": [
-                  1
-                ],
-                "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
-              },
-              "confianca": "baixa",
-              "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
-            },
-            {
-              "rotulo": "Pergunta",
-              "quando": "2026-08-02T23:59:00-03:00",
-              "trecho": "02/08",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": {
-                "familia": "semana",
-                "numeros": [
-                  1
-                ],
-                "txt": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.u"
-              },
-              "confianca": "baixa",
-              "frase": "Boa tarde! Pelo cronograma regular do 3º Bimestre de 2026 desta disciplina (tópico Geral disponível em: https://assets.univesp.br/cronograma/2026/cronograma_regular_3.html), o prazo de vencimento das atividades da Sem..."
-            }
-          ],
-          "autoridade": "colega",
-          "novo": false
         }
       ],
       "paginas_instrucao": [],
@@ -2622,7 +2544,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2757,7 +2679,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2892,7 +2814,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3006,7 +2928,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "8",
+              "nao_lidas": "7",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3120,7 +3042,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Marcar como feito",
-              "nao_lidas": "9",
+              "nao_lidas": "15",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -5944,6 +5866,18 @@
       "via": "api"
     },
     {
+      "nome": "Live 3",
+      "quando": "2026-08-18T20:00:00-03:00",
+      "curso_id": "18893",
+      "curso": null,
+      "atividade": "Live 3",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "acao": null,
+      "cmid": "165163",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
       "nome": "Q2 M6 - Revisão entre pares (Portfólio Individual) - prazo limite para avaliação",
       "quando": "2026-08-18T23:59:00-03:00",
       "curso_id": "18922",
@@ -6367,6 +6301,25 @@
       "prazo_txt": "vence 15/08 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Calendário do AVA",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Live 3",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "conta_nota": true,
+      "prazo": "2026-08-18T20:00:00-03:00",
+      "prazo_txt": "acontece 18/08 às 20:00",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
       "urgencia": "semana"
@@ -7279,50 +7232,5 @@
   ],
   "novidades": [],
   "notas_novas": [],
-  "prazos_novos": [
-    {
-      "curso": "COM100",
-      "label": "S3 - Fórum de dúvidas gerais",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
-      "cmid": "207957",
-      "prazo": "2026-08-11T14:26:00-03:00",
-      "de": null,
-      "fonte": "calendário do AVA",
-      "conta_nota": false,
-      "atividade_nova": false
-    },
-    {
-      "curso": "SOC100",
-      "label": "S3 - Fórum de dúvidas gerais",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-      "cmid": "182606",
-      "prazo": "2026-08-11T14:26:00-03:00",
-      "de": null,
-      "fonte": "calendário do AVA",
-      "conta_nota": false,
-      "atividade_nova": false
-    },
-    {
-      "curso": "COM100",
-      "label": "S4 - Fórum de dúvidas gerais",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
-      "cmid": "207958",
-      "prazo": "2026-08-11T14:30:00-03:00",
-      "de": null,
-      "fonte": "calendário do AVA",
-      "conta_nota": false,
-      "atividade_nova": false
-    },
-    {
-      "curso": "SOC100",
-      "label": "S4 - Fórum de dúvidas gerais",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
-      "cmid": "221628",
-      "prazo": "2026-08-11T14:30:00-03:00",
-      "de": null,
-      "fonte": "calendário do AVA",
-      "conta_nota": false,
-      "atividade_nova": false
-    }
-  ]
+  "prazos_novos": []
 }
