@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-11T08:11:14.581600+00:00",
-  "snapshot_at": "2026-08-11T08:11:14.581600+00:00",
-  "attempted_at": "2026-08-11T08:11:14.581600+00:00",
-  "publication_id": "2026-08-11T08:11:14.581600+00:00",
+  "checked_at": "2026-08-11T11:49:25.607404+00:00",
+  "snapshot_at": "2026-08-11T11:49:25.607404+00:00",
+  "attempted_at": "2026-08-11T11:49:25.607404+00:00",
+  "publication_id": "2026-08-11T11:49:25.607404+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,8 +29,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 17,
       "from_cache": false,
@@ -43,8 +43,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -67,13 +67,13 @@
       "listas_live": 39,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 159,
-      "posts_institucionais_guardados": 120
+      "posts_institucionais_vistos": 162,
+      "posts_institucionais_guardados": 123
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 23,
       "from_cache": false,
@@ -85,8 +85,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -100,8 +100,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -113,8 +113,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-11T08:11:14.583982+00:00",
-      "last_live_at": "2026-08-11T08:11:14.583982+00:00",
+      "checked_at": "2026-08-11T11:49:25.610047+00:00",
+      "last_live_at": "2026-08-11T11:49:25.610047+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -766,7 +766,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -865,7 +865,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -965,7 +965,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Marcar como feito",
-              "nao_lidas": "9",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1065,7 +1065,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Marcar como feito",
-              "nao_lidas": "11",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1929,7 +1929,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Marcar como feito",
-              "nao_lidas": "5",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2077,7 +2077,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Marcar como feito",
-              "nao_lidas": "13",
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2089,7 +2089,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Marcar como feito",
-              "nao_lidas": "5",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2892,7 +2892,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3006,7 +3006,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Marcar como feito",
-              "nao_lidas": "5",
+              "nao_lidas": null,
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3120,7 +3120,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "5",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -3216,6 +3216,77 @@
       },
       "cronograma": null,
       "avisos": [
+        {
+          "id": "630781",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-08-11T08:45:17-03:00",
+          "titulo": "Re: Q2 - Fórum geral",
+          "texto": "[MENSAGEM DO FACILITADOR]\n\nOlá, pessoal!\n\nPerdeu as Lives com os supervisores ou quer rever os conteúdos e orientações da Quinzena 2 da disciplina COM 170 - IA na Prática Acadêmica e Profissional?\n\nA gravação da Live dos Supervisores está disponível nos links abaixo (pode escolher a que preferir)\n\nhttps://rec.elos.vc/playback/video/e0385f812cf1acb58d0f9805b2ac5bf2560fb592-1785861480874/index.html\n",
+          "links": [
+            "https://rec.elos.vc/playback/video/e0385f812cf1acb58d0f9805b2ac5bf2560fb592-1785861480874/index.html",
+            "https://rec.elos.vc/playback/presentation/2.3/8ec9ec7ae83de1823f8bbc5332ba9bcc90dfe2b8-1785963694137",
+            "https://rec.elos.vc/playback/presentation/2.3/4864bb2e1536ebd884f80e509001f8dc725a2b2b-1786045577812",
+            "https://rec.elos.vc/playback/presentation/2.3/f2cc282516f1289566fef3d5c26b288dae7ce458-1785935846145",
+            "https://ava.univesp.br/mod/forum/post.php?reply=630781#mformforum"
+          ],
+          "forum": "Q2 - Fórum geral",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
+          "prazos": [
+            {
+              "rotulo": "https",
+              "quando": "2026-08-03T23:59:00-03:00",
+              "trecho": "3/8",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  2
+                ],
+                "txt": "Perdeu as Lives com os supervisores ou quer rever os conteúdos e orientações da Quinzena 2 da disciplina COM 170 - IA na"
+              },
+              "confianca": "baixa",
+              "frase": "A gravação da Live dos Supervisores está disponível nos links abaixo (pode escolher a que preferir) https://rec.elos.vc/playback/video/e0385f812cf1acb58d0f9805b2ac5bf2560fb592-1785861480874/index.html https://rec.elos..."
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "630776",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-08-11T08:44:28-03:00",
+          "titulo": "Re: Cronograma de Lives com a Supervisão - Quinzena 2",
+          "texto": "Olá, pessoal!\n\nPerdeu as Lives com os supervisores ou quer rever os conteúdos e orientações da Quinzena 2 da disciplina COM 170 - IA na Prática Acadêmica e Profissional?\n\nA gravação da Live dos Supervisores está disponível nos links abaixo (pode escolher a que preferir)\n\nhttps://rec.elos.vc/playback/video/e0385f812cf1acb58d0f9805b2ac5bf2560fb592-1785861480874/index.html\nhttps://rec.elos.vc/playbac",
+          "links": [
+            "https://rec.elos.vc/playback/video/e0385f812cf1acb58d0f9805b2ac5bf2560fb592-1785861480874/index.html",
+            "https://rec.elos.vc/playback/presentation/2.3/8ec9ec7ae83de1823f8bbc5332ba9bcc90dfe2b8-1785963694137",
+            "https://rec.elos.vc/playback/presentation/2.3/4864bb2e1536ebd884f80e509001f8dc725a2b2b-1786045577812",
+            "https://rec.elos.vc/playback/presentation/2.3/f2cc282516f1289566fef3d5c26b288dae7ce458-1785935846145"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=128509",
+          "prazos": [
+            {
+              "rotulo": "https",
+              "quando": "2026-08-03T23:59:00-03:00",
+              "trecho": "3/8",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  2
+                ],
+                "txt": "Perdeu as Lives com os supervisores ou quer rever os conteúdos e orientações da Quinzena 2 da disciplina COM 170 - IA na"
+              },
+              "confianca": "baixa",
+              "frase": "A gravação da Live dos Supervisores está disponível nos links abaixo (pode escolher a que preferir) https://rec.elos.vc/playback/video/e0385f812cf1acb58d0f9805b2ac5bf2560fb592-1785861480874/index.html https://rec.elos..."
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
         {
           "id": "605127",
           "autor": "Lucas Demeda Dos Santos",
@@ -4019,36 +4090,6 @@
           ],
           "autoridade": "institucional",
           "novo": false
-        },
-        {
-          "id": "577027",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-08-04T18:51:55-03:00",
-          "titulo": "Re: Q2 - Fórum geral",
-          "texto": "Olá, Victor Hugo, tudo bem? Você pode tentar usar outro software ou navegador. Eu gosto do Edge, que permite criar caixas de texto e escrever nos pdfs. Se não conseguir usar os templates, também não há problema em criar outro documento para realizar as atividades de depois entregá-lo como pdf.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=577027#mformforum"
-          ],
-          "forum": "Q2 - Fórum geral",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "574646",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-08-04T14:03:48-03:00",
-          "titulo": "Re: Q1 - Fórum de dúvidas",
-          "texto": "Boa tarde, Fernando, pode detalhar melhor o seu problema?",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=574646#mformforum"
-          ],
-          "forum": "Q1 - Fórum de dúvidas",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
         }
       ],
       "paginas_instrucao": [
@@ -4227,7 +4268,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=146218",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -4251,7 +4292,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=148170",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -4780,7 +4821,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
