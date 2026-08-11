@@ -1,9 +1,9 @@
 {
-  "status": "ok",
+  "status": "coleta_incompleta",
   "checked_at": "2026-08-10T23:36:44.782702+00:00",
   "snapshot_at": "2026-08-10T23:36:44.782702+00:00",
-  "attempted_at": "2026-08-10T23:36:44.782702+00:00",
-  "publication_id": "2026-08-10T23:36:44.782702+00:00",
+  "attempted_at": "2026-08-11T01:40:19.876714+00:00",
+  "publication_id": "2026-08-11T01:40:19.876714+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -15,7 +15,11 @@
     "cronograma": 3,
     "itens_com_prazo": 45
   },
-  "problemas": [],
+  "problemas": [
+    "disciplina sem nenhuma seção: SOC100, COM170",
+    "disciplina sem nenhuma atividade: SOC100, COM170",
+    "itens_com_prazo caiu de 45 para 21 (menos da metade da última leitura válida)"
+  ],
   "fontes_status": {
     "disciplinas": {
       "status": "live",
@@ -7295,5 +7299,119 @@
       "autoridade": "institucional"
     }
   ],
-  "notas_novas": []
+  "notas_novas": [],
+  "fontes_tentativa": {
+    "disciplinas": 4,
+    "secoes": 19,
+    "itens": 75,
+    "avisos": 30,
+    "eventos_calendario": 12,
+    "eventos_uteis": 12,
+    "notificacoes": 12,
+    "cronograma": 4,
+    "itens_com_prazo": 21
+  },
+  "fontes_status_tentativa": {
+    "disciplinas": {
+      "status": "live",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-11T01:40:19.878567+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 4,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": []
+    },
+    "calendario": {
+      "status": "live",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-11T01:40:19.878567+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 12,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "via": "api+dom",
+      "eventos": 12,
+      "api": 12,
+      "dom": 0
+    },
+    "cronograma": {
+      "status": "live",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-11T01:40:19.878567+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 4,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "falhas": 0,
+      "esperados": 4,
+      "live": 4
+    },
+    "foruns": {
+      "status": "live",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-11T01:40:19.878567+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 30,
+      "from_cache": false,
+      "truncado": true,
+      "problemas": [],
+      "foruns": 16,
+      "listas_live": 16,
+      "falhas": 0,
+      "pulados_orcamento": 0,
+      "posts_institucionais_vistos": 35,
+      "posts_institucionais_guardados": 35
+    },
+    "itens": {
+      "status": "live",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-11T01:40:19.878567+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 8,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "indefinidos": 0,
+      "entregas_nao_confirmadas": 0,
+      "nao_conferidos": 0
+    },
+    "boletim": {
+      "status": "live",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-11T01:40:19.878567+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 25,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [
+        "boletim de 18880 veio sem linhas de atividade"
+      ],
+      "falhas": 0,
+      "esperados": 4,
+      "live": 4
+    },
+    "participacao": {
+      "status": "nao_aplicavel",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-10T23:36:44.785208+00:00",
+      "idade_segundos": 7415,
+      "quantidade_atual": 0,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": []
+    },
+    "notificacoes": {
+      "status": "live",
+      "checked_at": "2026-08-11T01:40:19.878567+00:00",
+      "last_live_at": "2026-08-11T01:40:19.878567+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 2,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": []
+    }
+  }
 }
