@@ -23,7 +23,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160780": {
     "schema_version": 3,
-    "ultimo": "2026-08-12T20:28:56-03:00",
+    "ultimo": "2026-08-13T19:29:43-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 11,
     "posts_institucionais_guardados": 10,
@@ -107,7 +107,7 @@
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "582000",
@@ -184,7 +184,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "615822",
@@ -200,7 +200,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "587120",
@@ -275,7 +275,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
     "schema_version": 3,
-    "ultimo": "2026-08-12T18:32:03-03:00",
+    "ultimo": "2026-08-13T19:22:15-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -294,6 +294,21 @@
         "prazos": [],
         "autoridade": "institucional",
         "novo": false
+      },
+      {
+        "id": "657848",
+        "autor": "MATHEUS OLIVEIRA PIGATTO AZEVEDO",
+        "data": "2026-08-13T19:22:15-03:00",
+        "titulo": "Re: S1 - Fórum temático",
+        "texto": "Atualmente a tecnologia se manifesta em tudo que temos e vivemos, ela pode ir desde o objeto mais simples que possamos ter comum prego ate o mais complexos como um satélite. Em todos eles tivemos que desenvolver formas e ferramentas que fossem necessárias para a sua criação.\n\nReflexões:\nNo meu dia-a-dia costumo utilizara base do pensamento computacional na execução de projetos de máquinas. Através",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=657848#mformforum"
+        ],
+        "forum": "S1 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "634055",
@@ -323,7 +338,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "614704",
@@ -338,7 +353,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "608154",
@@ -353,7 +368,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "608099",
@@ -368,7 +383,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "595125",
@@ -408,21 +423,6 @@
         "texto": "Um exemplo bastante claro de como o pensamento computacional se faz presente no nosso cotidiano é a automação residencial, como o uso de lâmpadas e rotinas inteligentes programadas pelo celular. Com poucas configurações, o sistema identifica o horário do dia, ajusta a iluminação ideal para o ambiente e até liga aparelhos eletrônicos sem a necessidade de intervenção manual. Processos que antes exig",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=589402#mformforum"
-        ],
-        "forum": "S1 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
-      },
-      {
-        "id": "586276",
-        "autor": "GIOVANA CRISTINA POLASTRINI DOS SANTOS",
-        "data": "2026-08-05T20:24:16-03:00",
-        "titulo": "Re: S1 - Fórum temático",
-        "texto": "Boa noite, pessoal! Para esse desafio, resolvi trazer um exemplo de como organizo meus estudos e meu trabalho. Como faço faculdade na Univesp e em outra instituição, além de ser estagiária e monitora, o volume de demandas é gigante. A tecnologia se manifesta no meu dia a dia principalmente pelo uso do Trello para gerenciar minhas entregas acadêmicas e do NotebookLM para organizar meus materiais de",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=586276#mformforum"
         ],
         "forum": "S1 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
@@ -2846,7 +2846,7 @@
       },
       "18922": {
         "rotulo": "Média AVA",
-        "nota": "0,29",
+        "nota": "0,51",
         "tipo": "nota calculada"
       }
     },
@@ -2925,6 +2925,11 @@
         {
           "rotulo": "Quinzena 1 total",
           "nota": "2,00",
+          "tipo": "forma de agregacao das notas"
+        },
+        {
+          "rotulo": "Quinzena 2 total",
+          "nota": "1,60",
           "tipo": "forma de agregacao das notas"
         }
       ]
@@ -5307,7 +5312,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T18:06:46-03:00",
+    "ultimo": "2026-08-13T20:30:29-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5476,7 +5481,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T14:58:55-03:00",
+    "ultimo": "2026-08-13T20:26:08-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5650,7 +5655,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T17:37:47-03:00",
+    "ultimo": "2026-08-13T20:14:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5713,6 +5718,21 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "658652",
+        "autor": "HUGO CESAR ALMEIDA MORAIS LAPA",
+        "data": "2026-08-13T20:14:28-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Olá, pessoal! Com base na história da Renata e nos estudos da semana, acredito que o voto aos 16 anos é uma conquista democrática fundamental. Os adolescentes de hoje possuem amplo acesso à informação e, quando inseridos em ambientes que estimulam o debate, como os grêmios estudantis, demonstram plena capacidade de desenvolver maturidade política. A ação da Renata prova que os jovens não são sujei",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=658652#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "656078",
@@ -5813,21 +5833,6 @@
         "texto": "Pessoal, para contribuir com o debate de um jeito um pouco diferente (e aproveitando meu gosto pela abstração matemática), gosto de pensar na maturidade eleitoral como uma soma simples de duas variáveis:\n\nMaturidade Eleitoral = Desenvolvimento Biológico (D) + Formação Cidadã (F)\n\nD (Maturidade Neurobiológica): É o desenvolvimento natural do cérebro — em especial do córtex pré-frontal —, que nos dá",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=651797#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "651538",
-        "autor": "EDUARDO LIBERACE PASSOS APPARECIDO",
-        "data": "2026-08-12T23:32:21-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "A questão da maioridade é bastante polêmica, pois devem ser levados em consideração os aspectos de igualdade (as pessoas possuem o amadurecimento em idades diferentes, porém isto não pode um critério excludente, então definir uma faixa de idade que iguale o direito para todos é correto), e que reflita o direito que cada cidadão deve ter. Há um problema quando a maioridade aparece em faixas, quando",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=651538#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -6009,7 +6014,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T18:01:09-03:00",
+    "ultimo": "2026-08-13T20:42:31-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6821,7 +6826,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T18:57:49-03:00",
+    "ultimo": "2026-08-13T20:34:33-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -6878,6 +6883,40 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "658554",
+        "autor": "GABRIEL DA COSTA FRANCOLINO",
+        "data": "2026-08-13T20:08:23-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Tentativa 1: https://scratch.mit.edu/projects/1368446204\nTentativa 2: https://scratch.mit.edu/projects/1368629662\n\nConsegui concluir o projeto após algumas tentativas, inicialmente (tentativa 1) não estava achando o comando necessário para fazer o número contar então fiz tudo manual usando apenas \"if\".\nDepois(tentativa 2), consegui resolver o problema achando o comando \"repeat until\" (repita até).",
+        "links": [
+          "https://scratch.mit.edu/projects/1368446204",
+          "https://scratch.mit.edu/projects/1368629662",
+          "https://ava.univesp.br/mod/forum/post.php?reply=658554#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "658513",
+        "autor": "PRISCILA TAJIMA",
+        "data": "2026-08-13T20:06:24-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Atividade 1: https://scratch.mit.edu/projects/1368410450\n\nAtividade 2: https://scratch.mit.edu/projects/1368637468\n\nTive dificuldade para fazer as atividades, mas a live de ontem com as facilitadoras foi muito esclarecedora.",
+        "links": [
+          "https://scratch.mit.edu/projects/1368410450",
+          "https://scratch.mit.edu/projects/1368637468",
+          "https://ava.univesp.br/mod/forum/post.php?reply=658513#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -6963,46 +7002,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "654248",
-        "autor": "MARCEL RODRIGUES LOPES",
-        "data": "2026-08-13T12:17:42-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Boa tarde. Fiz um código em que uma bola se movimenta na horizontal indo e voltando em um campo de futebol. Acima tem-se a área com a trave (e rede) no final do campo. Logo atrás, no canto superior esquerdo tem-se um moleque vendo o jogo. Quando você aperta a tecla para cima a bola sobe na vertical. Dependendo do que ocorre a bola pode: bater na trave, sair fora, ou entrar no gol. Em todos os caso",
-        "links": [
-          "https://scratch.mit.edu/projects/1368192143/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=654248#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "654129",
-        "autor": "EVERTON FRANCISCO DA SILVA E SOUZA",
-        "data": "2026-08-13T12:00:19-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Boa tarde a todos\n\nBem simplório mas estou gostando muito da matéria. Antes faziamos tudo na \"mão\" sem ver nada. Agora vendo é muito mais intuitivo.\n\nhttps://scratch.mit.edu/projects/1367850420",
-        "links": [
-          "https://scratch.mit.edu/projects/1367850420",
-          "https://ava.univesp.br/mod/forum/post.php?reply=654129#mformforum",
-          "https://scratch.mit.edu/projects/1368192143/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=654248#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T17:52:42-03:00",
+    "ultimo": "2026-08-13T20:27:03-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7057,6 +7062,21 @@
         "novo": true
       },
       {
+        "id": "658351",
+        "autor": "PRISCILA TAJIMA",
+        "data": "2026-08-13T19:57:42-03:00",
+        "titulo": "Re: S4 - Fórum de dúvidas gerais",
+        "texto": "Muito interessante utilizar o Scratch. Tive dificuldades e só consegui fazer a atividade após a live de ontem.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=658351#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "656956",
         "autor": "ANDREIA PIRES DA SILVA PARO",
         "data": "2026-08-13T17:52:42-03:00",
@@ -7078,7 +7098,8 @@
         "titulo": "Re: S4 - Fórum de dúvidas gerais",
         "texto": "Eu fiz o teste no programa e se diminuir o tempo para 0.1s ele anda de forma mais contínua e realista e sem pulos, anda a mesma distância e sem demorar muito. Ou seja a alternativa B está correta, no entanto se você marcar essa alternativa na avaliação vai considerar errado.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=656895#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=656895#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=657767#mformforum"
         ],
         "forum": "S4 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
@@ -7163,27 +7184,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "655744",
-        "autor": "LUCIO MARLON OLIVEIRA DE SOUSA",
-        "data": "2026-08-13T15:32:01-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Tive dificuldades em associar as variáveis criadas em bloco e inserí-la dentro do código, acostumado a linguagens que tenho que digitar, tive que começar do zero com operações básicas aritméricas até pegar a coisa.\n\nMas deu tudo certo.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=655744#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T18:52:48-03:00",
+    "ultimo": "2026-08-13T20:37:57-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7342,11 +7348,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T17:57:25-03:00",
+    "ultimo": "2026-08-13T20:36:01-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "658129",
+        "autor": "BIANCA GONCALVES DA CUNHA",
+        "data": "2026-08-13T19:41:02-03:00",
+        "titulo": "Re: S4 - Fórum de dúvidas gerais",
+        "texto": "Conteúdo muito bom essa semana, os materiais também são ótimos! Se aprofundar nesse tema foi bem interessante.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=658129#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "653785",
         "autor": "ALEXANDRE BARONE PICCININI",
@@ -7481,28 +7502,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "644253",
-        "autor": "ALEX DE JESUS WRIGG COELHO",
-        "data": "2026-08-12T13:06:58-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Concordo contigo Roberto, vivemos numa sociedade onde o avanço da cidadania e ética acontece lentamente, por vezes até retrocede, devido a falta de conhecimento da maioria das pessoas.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=644253#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=644426#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T18:58:36-03:00",
+    "ultimo": "2026-08-13T20:44:53-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7531,6 +7536,36 @@
             "frase": "Coesão e coerência [Prof Noslen] YouTube, data de publicação: 05/03/2018"
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "659035",
+        "autor": "JESUINO RIBEIRO DA SILVA JUNIOR",
+        "data": "2026-08-13T20:36:42-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Escrever um texto claro e bem estruturado exige atenção especial à coerência e à coesão. Afinal, a boa interpretação de uma mensagem depende de como as informações se conectam dentro de um determinado contexto. Para que as ideias desenvolvam-se com clareza, é essencial utilizar conectivos adequados (como portanto, porém, além disso e porque), que indicam relações de conclusão, oposição, adição e c",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=659035#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "658742",
+        "autor": "RAFAEL MARREIRA GARECA",
+        "data": "2026-08-13T20:19:53-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Minha principal estratégia é a leitura, nao se trata de apenas ter o conhecimento gramatical (algo que a leitura adequada reforça o aprendizado) , se não for treinada de forma adequada a leitura e compreensão de textos, esse alicerce deixa de ser fortalecido com a falta dessa pratica, o que torna a elaboração de textos cada vez menos coesos e por sua vez incoerentes.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=658742#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -7632,36 +7667,6 @@
         "texto": "As principais estratégias para garantir a correta interpretação dos textos são: ativação do conhecimento prévio, explicitabilidade das relações lógicas e progressão temática controlada.\n\nAlguns exemplos de palavras que podemos usar para estruturar o texto são:\n\nPara um primeiro argumento: Em primeiro lugar, Inicialmente ou A princípio;\n\nPara adicionar argumentos complementares: Vale ressaltar tamb",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=653622#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "653604",
-        "autor": "JULIANA DE BARROS BARBOSA",
-        "data": "2026-08-13T11:06:16-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Coerência e coesão são fundamentais para que um texto seja claro e faça sentido. A coerência está relacionada à organização das ideias e à compreensão geral do texto, enquanto a coesão utiliza recursos como pronomes, conectivos, sinônimos e elipses para ligar suas partes.\n\nPara compreender melhor um texto, é importante identificar as ideias principais, fazer paráfrases, produzir inferências, elabo",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=653604#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "653449",
-        "autor": "LEANDRO SCHIAVINATO HILDEBRAND",
-        "data": "2026-08-13T10:51:50-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Olá colegas!\n\nPara garantir a correta interpretação de um texto e a construção de um discurso claro e bem encadeado, precisamos articular de forma consciente a coerência (sentido global) e a coesão (recursos formais da língua).\n\nTendo como base o artigo de Roberto Cláudio Bento da Silva (2017) destaquei as principais estratégias que tornam essa comunicação eficiente:\n\nConsiderar quem é o interlocu",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=653449#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
@@ -7773,7 +7778,7 @@
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=146801": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T20:42+0000",
+    "ultimo": "2026-08-13T23:25+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7785,12 +7790,49 @@
         "titulo": "Informar participantes na atividade em grupo",
         "texto": "[MENSAGEM DO FACILITADOR📝]\n\nPessoal, não esqueçam de comunicar aqui no ponto de encontro quais alunos estão participando da atividade em grupo. Essa informação vai ser utilizada para compor a nota de participação.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=656879#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=656879#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?edit=658839",
+          "https://ava.univesp.br/mod/forum/post.php?delete=658839",
+          "https://ava.univesp.br/mod/forum/post.php?reply=658839#mformforum"
         ],
         "forum": "Q2 M7 - Grupo: Ponto de encontro",
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=146801",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "658839",
+        "autor": "JOSEMAR DE PAULA",
+        "data": "2026-08-13T20:25:53-03:00",
+        "titulo": "Re: Informar participantes na atividade em grupo",
+        "texto": "Boa noite, pessoal.\n\nRespondendo ao pedido do facilitador: estão na atividade em grupo desta quinzena o Rogério, a Aline, o Fabricio e eu.\n\nAbrindo a partilha com o meu caso, o B. A situação é um estudante que pergunta à IA por que o gelo flutua na água e pede uma explicação fácil de entender. A resposta veio fluida e ele anotou como certa.\n\nO que decidi conferir foi a frase que dá o motivo, que a",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?edit=658839",
+          "https://ava.univesp.br/mod/forum/post.php?delete=658839",
+          "https://ava.univesp.br/mod/forum/post.php?reply=658839#mformforum"
+        ],
+        "forum": "Q2 M7 - Grupo: Ponto de encontro",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=146801",
+        "prazos": [
+          {
+            "rotulo": "Prazo de sábado, 15/08, às 23",
+            "quando": "2026-08-15T23:59:00-03:00",
+            "trecho": "15/08, às 23:59",
+            "tipo": "fim",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "quinzena",
+              "numeros": [
+                1
+              ],
+              "txt": "Sobre a entrega: na Quinzena 1 eu fui o representante"
+            },
+            "confianca": "baixa",
+            "frase": "Sobre a entrega: na Quinzena 1 eu fui o representante Como o papel gira, alguém quer pegar esta? Se ninguém puder, eu envio de novo Prazo de sábado, 15/08, às 23:59, e a revisão entre grupos de 16 a 18."
+          }
+        ],
+        "autoridade": "colega",
         "novo": true
       }
     ]
