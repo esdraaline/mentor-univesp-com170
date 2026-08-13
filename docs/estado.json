@@ -851,7 +851,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T07:34:46-03:00",
+    "ultimo": "2026-08-13T11:43:03-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -2050,9 +2050,9 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=173826": {
     "schema_version": 3,
-    "ultimo": "2026-08-12T19:56:41-03:00",
+    "ultimo": "2026-08-13T11:45:37-03:00",
     "truncado": true,
-    "posts_institucionais_vistos": 12,
+    "posts_institucionais_vistos": 13,
     "posts_institucionais_guardados": 10,
     "posts": [
       {
@@ -2081,6 +2081,21 @@
         ],
         "autoridade": "institucional",
         "novo": false
+      },
+      {
+        "id": "654023",
+        "autor": "Lucas Demeda Dos Santos",
+        "data": "2026-08-13T11:45:37-03:00",
+        "titulo": "Re: Q1 - Fórum de dúvidas",
+        "texto": "Olá, Elias, tudo bem? Todos os prazos da Quinzena 1 já passaram. Sobre a Quinzena 2, você precisa ter concluído o Módulo 4 até o domingo, dia 9, para participar da atividade do grupo. Caso isso não tenha acontecido, você não precisa sair do grupo, só ficará fora da atividade em grupo da quinzena. Fique atente aos prazos do AVA para conseguir participar das atividades das próximas quinzenas.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=654023#mformforum"
+        ],
+        "forum": "Q1 - Fórum de dúvidas",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
+        "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
       },
       {
         "id": "574646",
@@ -2197,21 +2212,6 @@
         "texto": "Olá, Ana, qual dúvida? Se for em relação aos grupos, leia a resposta acima.",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=497093#mformforum"
-        ],
-        "forum": "Q1 - Fórum de dúvidas",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
-        "prazos": [],
-        "autoridade": "institucional",
-        "novo": false
-      },
-      {
-        "id": "488191",
-        "autor": "Lucas Demeda Dos Santos",
-        "data": "2026-07-25T09:16:10-03:00",
-        "titulo": "Re: Q1 - Fórum de dúvidas",
-        "texto": "Olá, Rosimeire, veja minha resposta ao Otávio mais acima.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=488191#mformforum"
         ],
         "forum": "Q1 - Fórum de dúvidas",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
@@ -3355,7 +3355,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T01:02:31-03:00",
+    "ultimo": "2026-08-13T11:07:03-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5282,11 +5282,43 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T08:23:16-03:00",
+    "ultimo": "2026-08-13T11:44:02-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "654002",
+        "autor": "NOEMI DOS SANTOS PAULA",
+        "data": "2026-08-13T11:44:02-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Olá, pessoal!\n\nSegue o link do meu projeto: https://scratch.mit.edu/projects/1368338585\n\nCriei uma versão do clássico jogo da cobrinha. A ideia é simples: o jogador controla uma bolinha pelo palco usando as setas do teclado, e o objetivo é comer os \"alimentos\" (tomates) que aparecem na tela. A cada item comido, o personagem cresce (aumenta de tamanho) e a pontuação sobe. O desafio do jogo é que, s",
+        "links": [
+          "https://scratch.mit.edu/projects/1368338585",
+          "https://ava.univesp.br/mod/forum/post.php?reply=654002#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653380",
+        "autor": "CAROLINE CORREIA",
+        "data": "2026-08-13T10:43:15-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1368530833\n\nNesse projeto fiz uma borboleta voando, no meio do caminho ela faz um giro em 340 graus e continua voando até uma arvore. De inicio achei que colocando somente o comando de girar em 360 graus, ela já faria o giro, mas não deu certo, então tive que colocar o comando de repetição, para girar 1 grau, 340 vezes. Uma dificuldade que tive e não encontrei solu",
+        "links": [
+          "https://scratch.mit.edu/projects/1368530833",
+          "https://ava.univesp.br/mod/forum/post.php?reply=653380#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "651510",
         "autor": "EDUARDO MORAES JUNIOR",
@@ -5413,44 +5445,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "635285",
-        "autor": "NATHALIA CAROLINE CUNHA E SILVA",
-        "data": "2026-08-11T16:16:58-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Link do projeto: https://scratch.mit.edu/projects/1368070365\n\nPara o desafio desta semana, criei o projeto “Missão: Alimentar a Arara”, inspirado no meu trabalho com animais. A ideia foi criar uma pequena animação em que o jogador controla uma cuidadora de animais e precisa chegar até a arara para alimentá-la.\n\nPara desenvolver o projeto, utilizei comandos de movimento com as setas do teclado, est",
-        "links": [
-          "https://scratch.mit.edu/projects/1368070365",
-          "https://ava.univesp.br/mod/forum/post.php?reply=635285#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "634407",
-        "autor": "JIVAGO ROCHA POLIZELI",
-        "data": "2026-08-11T15:08:16-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1368114000\n\nMinha ideia foi criar um personagem que patina no gelo e faz acrobacias. Tudo começa clicando na bandeira, em seguida usei o comando de movimento para o personagem ficar no início (lado esquerdo da tela). Depois coloquei dentro de uma estrutura de repetição para ele deslizar até o meio da tela, girar 180 graus, deslizar mais um pouco para a direita, gir",
-        "links": [
-          "https://scratch.mit.edu/projects/1368114000",
-          "https://ava.univesp.br/mod/forum/post.php?reply=634407#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T08:13:08-03:00",
+    "ultimo": "2026-08-13T11:06:51-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5480,6 +5480,21 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "653614",
+        "autor": "FABRICIO TALES RIBEIRO LOPES",
+        "data": "2026-08-13T11:06:51-03:00",
+        "titulo": "Re: S3 - Fórum de dúvidas gerais",
+        "texto": "interessante esta matéria.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653614#mformforum"
+        ],
+        "forum": "S3 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "648707",
@@ -5604,27 +5619,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": false
-      },
-      {
-        "id": "611654",
-        "autor": "JESSICA SOUZA DA SILVA",
-        "data": "2026-08-09T17:26:23-03:00",
-        "titulo": "Re: S3 - Fórum de dúvidas gerais",
-        "texto": "Bom esse foi bem interessante, e tranquilo de fazer até o momento!",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=611654#mformforum"
-        ],
-        "forum": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T08:16:25-03:00",
+    "ultimo": "2026-08-13T11:38:20-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5687,6 +5687,51 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "653290",
+        "autor": "CLOVIS CHARLANTI",
+        "data": "2026-08-13T10:31:44-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Olá a todos. Serei breve mas trarei apenas DADOS. Vocês, por favor Leiam e tirem suas próprias coclusões:\nAtualmente em nossa legislação o funcionamento para se candidatar a um cargo de agente político é o seguinte:\n\n\"Idades Mínimas por Cargo 35 anos para Presidente e Senador; 30 anos para Governador; 21 anos: para os cargos de Deputado Federal e Estadual; e18 anos para o cargo de Vereador\" Fonte:",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653290#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "652880",
+        "autor": "YARA CRISTINA MODESTO",
+        "data": "2026-08-13T09:41:47-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Sobre as questões desta semana, penso que a maturidade política não surge automaticamente com a idade, mas sim com a vivência prática e o acesso à informação. O caso da Renata mostra bem isso: o engajamento dela surgiu no ambiente do grêmio estudantil.\nAcredito que, de modo geral, muitos adolescentes de 16 anos ainda estão em processo de formação política — algo que também acontece com muitos adul",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=652880#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "652701",
+        "autor": "RODRIGO JOAQUIM ANASTACIO",
+        "data": "2026-08-13T09:17:02-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Os adolescentes possuem formação e maturidade política para o voto aos 16 anos?\n\nNo Brasil não há muito ensinamento na escola sobre consciência política, levando muitos adolescente a refletir os pensamentos políticos dos pais ou até mesmo ir contra eles propositalmente sem ter a consciência de fato formada nessa idade. É importante que eles tenham o direito, pois alguns gostam de estudar o assunto",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=652701#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "651797",
@@ -5762,57 +5807,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "650448",
-        "autor": "NANCI RAMOS SCHMIDT",
-        "data": "2026-08-12T21:47:19-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Acredito que a capacidade de compreensão das relações sociais deve ser sim critério pra a maioridade eleitoral, pois trata-se de conhecer a sociedade para poder ser atuante como cidadão. Dados do Tribunal Superior Eleitoral (TSE) mostram que o eleitorado com menos de 18 anos encolheu nos últimos anos, enquanto a população acima de 60 anos cresceu. Mas isso é reflexo de uma nova realidade sobre a j",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=650448#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "649306",
-        "autor": "SARAH REBECA GOUVEIA GISI",
-        "data": "2026-08-12T20:40:34-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Acredito que idealmente o voto deve estar atrelado a maioridade instituída civilmente. Jovens adolescentes usualmente não tem o conhecimento e até a maturidade necessário para exercer uma decisão de impacto tão grande (mesmo que tenham exceções).\n\nNa adolescência as pessoas biologicamente passam por muitas mudanças, que resultam em oscilações de humor e atos de impulsividade. Além disso, existe a ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=649306#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "649002",
-        "autor": "WELITON DANIEL DOS SANTOS DEMETRIO",
-        "data": "2026-08-12T20:22:28-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Acredito que adolescentes não têm maturidade e nem a formação política necessária para participar diretamente das eleições, em idade de desenvolvimento cognitivo e até estrutural do cérebro, as decisões ainda são tomadas majoritariamente por influências externas, e isso pode mudar completamente o cenário político de um pais.\nJá em relação a formação nas escolas, é bastante comum os próprios alunos",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=649002#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182606": {
     "schema_version": 3,
-    "ultimo": "2026-08-12T22:31:54-03:00",
+    "ultimo": "2026-08-13T08:59:37-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -5870,6 +5870,21 @@
         "prazos": [],
         "autoridade": "institucional",
         "novo": false
+      },
+      {
+        "id": "652613",
+        "autor": "ALEXANDRE BARONE PICCININI",
+        "data": "2026-08-13T08:59:37-03:00",
+        "titulo": "Re: S3 - Fórum de dúvidas gerais",
+        "texto": "Particularmente minha formação pessoal em escola pública foi moldada por ótimos professores e a saudosa matéria de OSPB.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=652613#mformforum"
+        ],
+        "forum": "S3 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "650998",
@@ -5962,28 +5977,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "616797",
-        "autor": "WELL CHRISTINA COSTA SOUSA",
-        "data": "2026-08-10T00:16:42-03:00",
-        "titulo": "Re: S3 - Fórum de dúvidas gerais",
-        "texto": "Rosemeire, acho que sim, e talvez hoje isso fique ainda mais evidente nas redes sociais.\n\nAo mesmo tempo que elas facilitam cobrar políticos, divulgar problemas e participar de debates, também colocam outro desafio: saber separar informação de desinformação.\n\nPra mim, exercer cidadania no ambiente digital não é só ter espaço para falar, mas também pensar antes de compartilhar, conferir fontes e en",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=616797#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=626027#mformforum"
-        ],
-        "forum": "S3 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T08:57:15-03:00",
+    "ultimo": "2026-08-13T11:54:34-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6796,7 +6795,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T08:54:40-03:00",
+    "ultimo": "2026-08-13T12:00:19-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -6853,6 +6852,54 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "654129",
+        "autor": "EVERTON FRANCISCO DA SILVA E SOUZA",
+        "data": "2026-08-13T12:00:19-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Boa tarde a todos\n\nBem simplório mas estou gostando muito da matéria. Antes faziamos tudo na \"mão\" sem ver nada. Agora vendo é muito mais intuitivo.\n\nhttps://scratch.mit.edu/projects/1367850420",
+        "links": [
+          "https://scratch.mit.edu/projects/1367850420",
+          "https://ava.univesp.br/mod/forum/post.php?reply=654129#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653620",
+        "autor": "STEPHANNIE FIGUEIREDO DE LIMA",
+        "data": "2026-08-13T11:07:11-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Seguindo o exemplo de outros colegas, uni ambos os projetos em um só.\nhttps://scratch.mit.edu/projects/1366836510/\n\nO personagem diz que pode dar até 9 passos. Depois pergunta quantos passos você quer que ele dê.\nDepois ele dá cada passo e conta ao mesmo tempo.\nTermina com um cordial Fim.",
+        "links": [
+          "https://scratch.mit.edu/projects/1366836510/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=653620#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653063",
+        "autor": "PEDRO AUGUSTO DA SILVA GANEM",
+        "data": "2026-08-13T10:03:02-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1368537459\n\nDocumentação do Projeto: Algoritmo Condicional no Scratch\n1. Descrição do Processo de Criação\nO objetivo deste projeto foi desenvolver um algoritmo simples no ambiente Scratch para filtrar entradas numéricas do usuário e reagir apenas quando o valor estivesse estritamente abaixo do limite de 10.\n\nEstrutura dos Blocos e Lógica Utilizada\nEstrutura de Repe",
+        "links": [
+          "https://scratch.mit.edu/projects/1368537459",
+          "https://ava.univesp.br/mod/forum/post.php?reply=653063#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -6918,61 +6965,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "651514",
-        "autor": "DANIELA FAL DA SILVA",
-        "data": "2026-08-12T23:29:02-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Também encontrei bastante dificuldade para criar os comandos em que o personagem fala os números de 0 até o número solicitado! Também utilizei as dicas e o trabalho do Rafael de Godoi Machado. Mesmo assim, ainda continuei com dúvidas e pedi ajuda ao ChatGPT, mas ele também não conseguiu me ajudar 100%. Até que testando vários comandos, consegui chegar ao que eu queria.\nPor fim, criei um personagem",
-        "links": [
-          "https://scratch.mit.edu/projects/1367019336",
-          "https://ava.univesp.br/mod/forum/post.php?reply=651514#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "651395",
-        "autor": "LUIZ CARLOS PEREIRA FILHO",
-        "data": "2026-08-12T23:10:21-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Atividade: https://scratch.mit.edu/projects/1368413892\nDesafio: https://scratch.mit.edu/projects/1368420693\n\nPara a atividade, comecei pela categoria Eventos usando o bloco \"quando for clicado\". Em seguida, fui para a categoria Sensores, no bloco \"pergunte e espere\", e encaixei-o logo abaixo do bloco \"quando for clicado\". Depois, fui na categoria Controle, no bloco \"se então\" e conectei-o abaixo d",
-        "links": [
-          "https://scratch.mit.edu/projects/1368413892",
-          "https://scratch.mit.edu/projects/1368420693",
-          "https://ava.univesp.br/mod/forum/post.php?reply=651395#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "651156",
-        "autor": "JOAO MARCOS MARTINS DE SOUZA",
-        "data": "2026-08-12T22:45:48-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1368399374 João Marcos Martins de Souza realizou esse projeto como tarefa obrigatória, da semana 4. da disciplina de Pensamento Computacional da Univesp. O programa utiliza blocos de condição (if/else) para verificar se o número digitado pelo usuário é menor que 10. Caso seja, o personagem executa uma contagem de 0 até o valor informado utilizando uma variável de c",
-        "links": [
-          "https://scratch.mit.edu/projects/1368399374",
-          "https://ava.univesp.br/mod/forum/post.php?reply=651156#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T01:13:58-03:00",
+    "ultimo": "2026-08-13T11:09:12-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7154,11 +7152,41 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T08:54:46-03:00",
+    "ultimo": "2026-08-13T11:41:57-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "653731",
+        "autor": "ALEXANDRE BARONE PICCININI",
+        "data": "2026-08-13T11:19:00-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "na minha opinião, é inegável ocorreu um significativo progresso ético-social e tecnológico, refletido na melhoria do IDH e ampliação dos direitos civis. A geração atual possue um acesso democratizado à educação, à informação e a recursos que geram novas oportunidades profissionais, entretando essa geração enfrenta problemas complexos, como a hipercompetitividade, a precarização das relações de tra",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653731#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "652888",
+        "autor": "PEDRO AUGUSTO DA SILVA GANEM",
+        "data": "2026-08-13T09:42:23-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "1. Existe, de fato, um efeito significativo no progresso ético-social?\nSim, mas é um progresso não linear e cheio de contradições.\n\nSe olharmos para dados quantitativos — como o próprio IDH (Índice de Desenvolvimento Humano) citado por João —, o progresso material e sanitário é indiscutível: a expectativa de vida aumentou drasticamente, a mortalidade infantil despencou, o acesso à educação básica ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=652888#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "652286",
         "autor": "BRUNA CRISTINA CARVALHO GOMES",
@@ -7278,46 +7306,61 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "647828",
-        "autor": "AIANY ALVES DE SOUZA",
-        "data": "2026-08-12T19:11:28-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Existe, de fato, um efeito significativo no progresso ético-social?\n\nSim. O progresso ético-social pode ser percebido na ampliação do reconhecimento da dignidade humana, dos direitos fundamentais, da participação política e da igualdade perante a lei. Historicamente, práticas como a escravidão foram abolidas em grande parte do mundo, o sufrágio se expandiu e grupos antes excluídos passaram a reivi",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=647828#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "646724",
-        "autor": "BRUNO FERNANDES MORAES",
-        "data": "2026-08-12T17:33:27-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Existe, de fato, um efeito significativo no progresso ético-social, mas com ressalvas importantes, se considerar o avanço das leis, tratados internacionais e o amadurecimento das instituições democráticas, há um claro progresso ético-social, o próprio acesso à tecnologia (como o celular 5G mencionado por João) permite maior democratização da informação. Conceitos de igualdade de gênero, combate ao",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=646724#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 3,
-    "ultimo": "2026-08-12T23:34:47-03:00",
+    "ultimo": "2026-08-13T11:22:44-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "653785",
+        "autor": "ALEXANDRE BARONE PICCININI",
+        "data": "2026-08-13T11:22:44-03:00",
+        "titulo": "Re: S4 - Fórum de dúvidas gerais",
+        "texto": "Na minha opinião, é inegável ocorreu um significativo progresso ético-social e tecnológico, refletido na melhoria do IDH e ampliação dos direitos civis. A geração atual possue um acesso democratizado à educação, à informação e a recursos que geram novas oportunidades profissionais, entretando essa geração enfrenta problemas complexos, como a hipercompetitividade, a precarização das relações de tra",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653785#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653716",
+        "autor": "EDUARDO JOSE NEVES SANTOS",
+        "data": "2026-08-13T11:17:22-03:00",
+        "titulo": "Re: S4 - Fórum de dúvidas gerais",
+        "texto": "Excelente material apresentado na semana.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653716#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653562",
+        "autor": "MARCIO LEITE DE MORAES",
+        "data": "2026-08-13T11:02:46-03:00",
+        "titulo": "Re: S4 - Fórum de dúvidas gerais",
+        "texto": "Concordo contigo colega, tem muito material de qualidade.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653562#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "651383",
         "autor": "MAYARA SANTOS DINIZ PORFIRIO",
@@ -7423,57 +7466,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "643570",
-        "autor": "DIEGO CLEMENTE BEVILAQUA",
-        "data": "2026-08-12T11:54:40-03:00",
-        "titulo": "S4 - Fórum de dúvidas gerais",
-        "texto": "Os jovens de hoje até têm mais oportunidades do que antes, principalmente por causa da internet, dos cursos online e da facilidade de acessar informação. Hoje em dia dá pra aprender muita coisa sem sair de casa, procurar emprego com mais facilidade e até mostrar seu talento nas redes sociais. Isso abriu várias portas que antigamente nem existiam. Mas, ao mesmo tempo, nem tudo ficou mais fácil. A c",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=643570#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "641847",
-        "autor": "LAIZA MARIA GRASSI FAIS",
-        "data": "2026-08-12T07:57:43-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Eu também, muita matéria para absorver com qualidade durante uma semana.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=641847#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "641242",
-        "autor": "NILSON LOURENCO DE ARAUJO",
-        "data": "2026-08-11T23:55:04-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Entendi que Estado de direito e democracia não são sinônimos: ter leis e Constituição não garante, por si só, uma democracia plena. A história do Estado moderno mostra que mesmo depois de instituído o Estado de direito, grupos como mulheres e pobres continuaram excluídos da cidadania. O Estado Democrático de Direito vai além disso, exigindo legitimidade popular e mecanismos reais de participação e",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=641242#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T01:39:03-03:00",
+    "ultimo": "2026-08-13T11:57:49-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7502,6 +7500,66 @@
             "frase": "Coesão e coerência [Prof Noslen] YouTube, data de publicação: 05/03/2018"
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653696",
+        "autor": "EDUARDO JOSE NEVES SANTOS",
+        "data": "2026-08-13T11:14:54-03:00",
+        "titulo": "S4 - Fórum temático",
+        "texto": "As estratégias de coesão e coerência são fundamentais quando se pensa em comunicação. A lógica na construção dos argumentos e explicações, bem como o alinhamento dos tempos verbais e a organização dos parágrafos são exemplos práticos de tópicos importantes de coesão. Quando pensamos em coerência, temos que pensar em na relevância das informações e nas relações de causa e efeito. Tanto na língua fa",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653696#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653622",
+        "autor": "GLEYSON MANOEL DA SILVA",
+        "data": "2026-08-13T11:07:14-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "As principais estratégias para garantir a correta interpretação dos textos são: ativação do conhecimento prévio, explicitabilidade das relações lógicas e progressão temática controlada.\n\nAlguns exemplos de palavras que podemos usar para estruturar o texto são:\n\nPara um primeiro argumento: Em primeiro lugar, Inicialmente ou A princípio;\n\nPara adicionar argumentos complementares: Vale ressaltar tamb",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653622#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653604",
+        "autor": "JULIANA DE BARROS BARBOSA",
+        "data": "2026-08-13T11:06:16-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Coerência e coesão são fundamentais para que um texto seja claro e faça sentido. A coerência está relacionada à organização das ideias e à compreensão geral do texto, enquanto a coesão utiliza recursos como pronomes, conectivos, sinônimos e elipses para ligar suas partes.\n\nPara compreender melhor um texto, é importante identificar as ideias principais, fazer paráfrases, produzir inferências, elabo",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653604#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "653449",
+        "autor": "LEANDRO SCHIAVINATO HILDEBRAND",
+        "data": "2026-08-13T10:51:50-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá colegas!\n\nPara garantir a correta interpretação de um texto e a construção de um discurso claro e bem encadeado, precisamos articular de forma consciente a coerência (sentido global) e a coesão (recursos formais da língua).\n\nTendo como base o artigo de Roberto Cláudio Bento da Silva (2017) destaquei as principais estratégias que tornam essa comunicação eficiente:\n\nConsiderar quem é o interlocu",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=653449#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -7574,68 +7632,6 @@
         "texto": "A coerência e a coesão são importantes para deixar um texto claro e fácil de entender. A coerência está ligada ao sentido e à organização das ideias, levando em conta fatores como situacionalidade, intencionalidade, aceitabilidade, informatividade, focalização, intertextualidade e relevância. Para manter um texto coerente, é importante não fugir do assunto, evitar contradições e considerar o conte",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=648487#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "648198",
-        "autor": "PEDRO RANGEL SILVA",
-        "data": "2026-08-12T19:35:07-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Hoje em dia, percebemos o quanto as pessoas escrevem com pressa. É comum usar muitas abreviações e gírias na internet, enquanto a leitura de livros e de textos bem estruturados vem caindo bastante. Essa falta de hábito de leitura prejudica direatamente a nossa capacidade de organizar as ideias e escrever um texto claro e bem feito. Essa dificuldade é comprovada na prática pelo estudo do professor ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=648198#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "647670",
-        "autor": "NILRANIA MENDONCA FORTES",
-        "data": "2026-08-12T18:58:55-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "RESPOSTA DO DESAFIO:\n\nVídeo: Luiza Trajano: Liderança, Empreendedorismo e Transformação disponível em https://www.youtube.com/watch?v=Ox6p2jsLan\n \nNo discurso, a empresária Luiza Helena Trajano reflete sobre os pilares que sustentam a longevidade e o êxito no mercado contemporâneo, destacando a inovação constante e a excelência no atendimento como os principais diferenciais competitivos. A oradora",
-        "links": [
-          "https://www.youtube.com/watch?v=Ox6p2jsLan",
-          "https://ava.univesp.br/mod/forum/post.php?reply=647670#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "647186",
-        "autor": "PABLO HENRYKE DOS SANTOS",
-        "data": "2026-08-12T18:17:38-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Lendo o material dessa semana, cheguei à conclusão de que a coerência e a coesão funcionam juntas na escrita, pois enquanto a coerência é a lógica das ideias que faz o texto ter sentido do começo ao fim sem se contradizer, a coesão é a 'cola' que une as frases e os parágrafos. Para garantir que o nosso texto seja bem interpretado e claro, as principais estratégias que podemos usar no dia a dia env",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=647186#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "646033",
-        "autor": "MICHEL DE CAMPOS VETTORATO",
-        "data": "2026-08-12T16:22:35-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Eu usei o mesmo video do desafio da semana 3.\n\nhttps://youtu.be/O8K_8ZO7ub0?is=NAwyb8J5nusAR4ic\n\n\n\n\nNo trecho analisado, o autor fala sobre o crescimento da empresa, desde o início em Santa Catarina até a expansão para outros estados do Brasil. Ele usa bastante “nós” e “a gente”, o que deixa a fala mais próxima e passa uma ideia de trabalho em equipe. Também mistura passado, presente e futuro para",
-        "links": [
-          "https://youtu.be/O8K_8ZO7ub0?is=NAwyb8J5nusAR4ic",
-          "https://ava.univesp.br/mod/forum/post.php?reply=646033#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
