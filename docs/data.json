@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-13T21:29:10.163403+00:00",
-  "snapshot_at": "2026-08-13T21:29:10.163403+00:00",
-  "attempted_at": "2026-08-13T21:29:10.163403+00:00",
-  "publication_id": "2026-08-13T21:29:10.163403+00:00",
+  "checked_at": "2026-08-13T21:56:48.522872+00:00",
+  "snapshot_at": "2026-08-13T21:56:48.522872+00:00",
+  "attempted_at": "2026-08-13T21:56:48.522872+00:00",
+  "publication_id": "2026-08-13T21:56:48.522872+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,8 +29,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 15,
       "from_cache": false,
@@ -43,8 +43,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -72,8 +72,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 23,
       "from_cache": false,
@@ -85,8 +85,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -100,8 +100,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -113,8 +113,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-13T21:29:10.165765+00:00",
-      "last_live_at": "2026-08-13T21:29:10.165765+00:00",
+      "checked_at": "2026-08-13T21:56:48.525261+00:00",
+      "last_live_at": "2026-08-13T21:56:48.525261+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -180,6 +180,19 @@
         ]
       },
       "avisos": [
+        {
+          "id": "462744",
+          "autor": "Wesley de Souza Lima",
+          "data": "2026-07-21T21:19:46-03:00",
+          "titulo": "CRITÉRIOS DE AVALIAÇÃO",
+          "texto": "CRITÉRIOS DE AVALIAÇÃO \n\nEixos de COMPUTAÇÂO e de NEGÓCIOS E PRODUÇÃO \n\n40% - nota pela participação na fase de estudos (AVA)  \n\n60% - nota pelo desempenho nas provas presenciais (nos Polos) \n\nParticipação na fase de estudos (AVA):  a nota será atribuída com base na participação \n\n dos estudantes ao longo da disciplina; será composta por três avaliações de mesmo peso:  \n\n1. Assistir às videoaulas ",
+          "links": [],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=123397",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": false
+        },
         {
           "id": "615850",
           "autor": "Joyce Mirella Dos Anjos Viana",
@@ -608,22 +621,6 @@
             "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external",
             "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external",
             "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Xpeg3TOUaWR9/external"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "615822",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-09T22:35:51-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Isso Adileia, fica dentro do tópico Lives, aí vai na opção Agenda de lives.\nMas vou colocar aqui pra vocês.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=615822#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=618103#mformforum"
           ],
           "forum": "Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
@@ -1070,7 +1067,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Marcar como feito",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -1214,6 +1211,19 @@
         ]
       },
       "avisos": [
+        {
+          "id": "462627",
+          "autor": "Wesley de Souza Lima",
+          "data": "2026-07-21T21:11:21-03:00",
+          "titulo": "CRITÉRIOS DE AVALIAÇÃO",
+          "texto": "CRITÉRIOS DE AVALIAÇÃO \n\nEixos de COMPUTAÇÂO e de NEGÓCIOS E PRODUÇÃO \n\n40% - nota pela participação na fase de estudos (AVA)  \n\n60% - nota pelo desempenho nas provas presenciais (nos Polos) \n\nParticipação na fase de estudos (AVA):  a nota será atribuída com base na participação \n\n dos estudantes ao longo da disciplina; será composta por três avaliações de mesmo peso:  \n\n1. Assistir às videoaulas ",
+          "links": [],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=123388",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": false
+        },
         {
           "id": "589898",
           "autor": "Igor Alexandre Silva Cassemiro",
@@ -1450,24 +1460,6 @@
           "links": [
             "https://ava.univesp.br/mod/forum/post.php?reply=573432#mformforum",
             "https://ava.univesp.br/mod/forum/post.php?reply=580077#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "573422",
-          "autor": "Igor Alexandre Silva Cassemiro",
-          "data": "2026-08-04T10:46:28-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Bom dia, Ederson!\n\nConforme informado em uma publicação anterior no fórum de dúvidas gerais, alguns estudantes também relataram esse mesmo problema.\n\nPeço, por gentileza, que você tente acesse a plataforma Minha Biblioteca pelo SEI. Em alguns casos, o acesso à Minha Biblioteca pelo AVA expira, sendo necessário acessar o SEI, clicar em Minha Biblioteca e realizar a autenticação inicial. Após esse p",
-          "links": [
-            "https://apps.univesp.br/tutoriais-univesp/assets/Tutorial_Minha_Biblioteca.pdf",
-            "https://atendimento.univesp.br/sae/alunos_univesp.html",
-            "https://ava.univesp.br/pluginfile.php/354750/mod_forum/attachment/573422/tutorial_biblioteca_sei%201%20%281%29.pdf?forcedownload=1",
-            "https://ava.univesp.br/mod/forum/post.php?reply=573422#mformforum"
           ],
           "forum": "Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
@@ -1800,7 +1792,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2083,7 +2075,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Marcar como feito",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "prazo": null,
               "prazo_fonte": null,
@@ -2228,6 +2220,21 @@
         ]
       },
       "avisos": [
+        {
+          "id": "457098",
+          "autor": "Paulo Otavio da Silva Joaquim",
+          "data": "2026-07-21T10:06:26-03:00",
+          "titulo": "Pesos das Atividades",
+          "texto": "Olá, aluno (a)! Tudo bem?\n\nComo você já deve saber, sua nota de uma disciplina regular é composta por 40% atividades avaliativas do AVA mais 60% da prova final.\n\nTeremos atividades avaliativas nas semanas 1 a 7, para que você acompanhe melhor seu aprendizado ao longo de toda a disciplina.\n\nCada atividade avaliativa continua valendo de 0,0 a 10,0. No entanto, elas possuem pesos diferentes de acordo",
+          "links": [
+            "https://youtu.be/eSvW1CASqzg?si=7xCD2gxeNeUyfcd6"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=123032",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": false
+        },
         {
           "id": "635577",
           "autor": "Bruno Barra da Silva",
@@ -2469,19 +2476,6 @@
           ],
           "forum": "Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "502272",
-          "autor": "Pedro Henrique dos Santos Malafaia",
-          "data": "2026-07-27T10:24:48-03:00",
-          "titulo": "Instruções Gerais",
-          "texto": "Olá, pessoal! Bom dia!\n\nMeu nome é Pedro Henrique e sou supervisor desta disciplina. Na ausência do facilitador de vocês, venho me apresentar e esclarecer algumas dúvidas que possam surgir até o retorno dele.\n\nLives: as lives são semanais a partir da 3ª semana (uma por semana), em horários definidos pelos facilitadores. Em geral, ocorrem à noite, porque muitos de vocês trabalham, mas isso não é um",
-          "links": [],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=125495",
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
@@ -3145,6 +3139,19 @@
       },
       "cronograma": null,
       "avisos": [
+        {
+          "id": "463650",
+          "autor": "Usuário Integração SEI",
+          "data": "2026-07-21T22:28:21-03:00",
+          "titulo": "CRITÉRIOS DE AVALIAÇÃO",
+          "texto": "IA nas Práticas Acadêmica e Profissional\n\n40% - nota pela participação na fase de estudos (AVA)\n\n60% - nota pelo desempenho nas provas presenciais (nos Polos)\n\nParticipação na fase de estudos (AVA): a nota será atribuída com base na participação dos estudantes ao longo da disciplina; será composta por nove atividades contáveis em cada quinzena, todas de mesmo peso:\n\n#\tAtividade ou critério (indepe",
+          "links": [],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=123537",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": false
+        },
         {
           "id": "637843",
           "autor": "Neide Silvania Campos Sampaio",
@@ -3977,40 +3984,6 @@
               "escopo": null,
               "confianca": "baixa",
               "frase": "Prezados, peço que vejam minha resposta ao Otávio, alguns posts acima Aproveito também para reforçar o convite para que participem da live de abertura da disciplina amanhã (quinta-feira, 23 de julho), conforme mensage..."
-            }
-          ],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "393745",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-07-03T14:53:29-03:00",
-          "titulo": "Re: S2 - Fórum geral",
-          "texto": "Prezados alunos, boa tarde!\n\nMeu nome é Lucas, sou um dos facilitadores que estão acompanhando a disciplina. Escrevo para dar algumas orientações e atualizações sobre as atividades da Semana 2 deste mês de ambientação.\n\nNesta semana, temos a primeira atividade em grupo a ser realizada. Informo que todos devem se comunicar com seus grupos pelo Fórum do Grupo. Vocês podem utilizar outras ferramentas",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=393745#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=396260#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=396639#mformforum"
-          ],
-          "forum": "S2 - Fórum geral",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=150525",
-          "prazos": [
-            {
-              "rotulo": "O registro da participação será considerado a partir das interações e evidências dispon...",
-              "quando": "2026-07-05T23:59:00-03:00",
-              "trecho": "5/7, ÀS 23h59",
-              "tipo": "fim",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "semana",
-                "numeros": [
-                  2
-                ],
-                "txt": "Escrevo para dar algumas orientações e atualizações sobre as atividades da Semana 2 deste mês de ambientação"
-              },
-              "confianca": "alta",
-              "frase": "O registro da participação será considerado a partir das interações e evidências disponíveis no AVA Prazo de entrega da atividade: Considerando que estamos em uma fase de ambientação da disciplina e que o objetivo pri..."
             }
           ],
           "autoridade": "institucional",
