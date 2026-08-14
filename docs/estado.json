@@ -491,7 +491,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T13:15:25-03:00",
+    "ultimo": "2026-08-14T18:56:16-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 46,
     "posts_institucionais_guardados": 10,
@@ -840,7 +840,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T16:41:06-03:00",
+    "ultimo": "2026-08-14T18:41:44-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -1726,7 +1726,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=173825": {
     "schema_version": 3,
-    "ultimo": "2026-08-12T19:55:14-03:00",
+    "ultimo": "2026-08-14T19:03:16-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 6,
     "posts_institucionais_guardados": 6,
@@ -2039,7 +2039,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=173826": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T11:45:37-03:00",
+    "ultimo": "2026-08-14T19:07:00-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 13,
     "posts_institucionais_guardados": 10,
@@ -2301,25 +2301,25 @@
         "nome": "Término de S3 - Atividade Avaliativa",
         "quando": "2026-08-16T23:59:00-03:00",
         "curso_id": "18893",
-        "curso": "LET110-BIA-2026S2B1-T001",
-        "atividade": "S3 - Atividade Avaliativa",
+        "curso": null,
+        "atividade": "Término de S3 - Atividade Avaliativa",
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=165192",
-        "acao": "Tentar responder o questionário agora",
+        "acao": null,
         "cmid": "165192",
         "tipo": "close",
-        "via": "api"
+        "via": "dom"
       },
       {
         "nome": "Término de S3 - Atividade Avaliativa",
         "quando": "2026-08-16T23:59:00-03:00",
         "curso_id": "18880",
-        "curso": "SOC100-BIA-2026S2B1-T001",
-        "atividade": "S3 - Atividade Avaliativa",
+        "curso": null,
+        "atividade": "Término de S3 - Atividade Avaliativa",
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=168816",
-        "acao": "Tentar responder o questionário agora",
+        "acao": null,
         "cmid": "168816",
         "tipo": "close",
-        "via": "api"
+        "via": "dom"
       },
       {
         "nome": "Live 3",
@@ -2360,36 +2360,12 @@
       {
         "nome": "Término de S4 - Atividade Avaliativa",
         "quando": "2026-08-23T23:59:00-03:00",
-        "curso_id": "18893",
-        "curso": "LET110-BIA-2026S2B1-T001",
-        "atividade": "S4 - Atividade Avaliativa",
-        "url": "https://ava.univesp.br/mod/quiz/view.php?id=165200",
-        "acao": "Tentar responder o questionário agora",
-        "cmid": "165200",
-        "tipo": "close",
-        "via": "api"
-      },
-      {
-        "nome": "Término de S4 - Atividade Avaliativa",
-        "quando": "2026-08-23T23:59:00-03:00",
         "curso_id": "18870",
         "curso": "COM100-BIA-2026S2B1-T001",
         "atividade": "S4 - Atividade Avaliativa",
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=193363",
         "acao": "Tentar responder o questionário agora",
         "cmid": "193363",
-        "tipo": "close",
-        "via": "api"
-      },
-      {
-        "nome": "Término de S4 - Atividade Avaliativa",
-        "quando": "2026-08-23T23:59:00-03:00",
-        "curso_id": "18880",
-        "curso": "SOC100-BIA-2026S2B1-T001",
-        "atividade": "S4 - Atividade Avaliativa",
-        "url": "https://ava.univesp.br/mod/quiz/view.php?id=221626",
-        "acao": "Tentar responder o questionário agora",
-        "cmid": "221626",
         "tipo": "close",
         "via": "api"
       }
@@ -2668,17 +2644,17 @@
         },
         "165192": {
           "rotulo": "S3 - Atividade Avaliativa",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/quiz/view.php?id=165192"
         },
         "165200": {
           "rotulo": "S4 - Atividade Avaliativa",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/quiz/view.php?id=165200"
         }
@@ -2830,7 +2806,7 @@
       },
       "18893": {
         "rotulo": "Média AVA",
-        "nota": "1,70",
+        "nota": "5,10",
         "tipo": "nota calculada"
       },
       "18922": {
@@ -5260,11 +5236,27 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T15:48:14-03:00",
+    "ultimo": "2026-08-14T18:57:00-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "666690",
+        "autor": "MATHEUS OLIVEIRA PIGATTO AZEVEDO",
+        "data": "2026-08-14T18:57:00-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Link do projeto: https://scratch.mit.edu/projects/1368645891/\n\nFiz uma animação com interação do usuário.\nA ideia é fazer os sprites mudarem até a posição da animação onde haverá uma pequena interação e instrução do scratch.\nPara fazer o projeto utilizei 3 sprites modificadas, cada uma interage entre si através de envio de mensagem interna que ativam uma determinada função entre elas.\nPara a movim",
+        "links": [
+          "https://scratch.mit.edu/projects/1368645891/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=666690#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "665104",
         "autor": "WELLINGTON RAFAEL TURRI",
@@ -5405,22 +5397,6 @@
         "links": [
           "https://scratch.mit.edu/projects/1368665943",
           "https://ava.univesp.br/mod/forum/post.php?reply=661439#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "660669",
-        "autor": "FABIO NAKASHIMA",
-        "data": "2026-08-13T22:22:18-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "O Resultado Que Acontece com o Gato na Tela\nInício e Recuo: Quando a bandeira verde é clicada, o gato dá alguns passos para a frente, espera dois segundos e \"teleporta\" para o canto esquerdo inferior do palco.\n\nA Escalada: Ele começa a subir pela tela em direção à cesta de basquete em etapas pausadas: primeiro anda em diagonal para cima e depois sobe em linha reta, fazendo uma pausa de um segundo ",
-        "links": [
-          "https://scratch.mit.edu/projects/1368646483",
-          "https://ava.univesp.br/mod/forum/post.php?reply=660669#mformforum"
         ],
         "forum": "S3 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
@@ -5606,7 +5582,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T16:52:49-03:00",
+    "ultimo": "2026-08-14T18:54:04-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5669,6 +5645,51 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "666416",
+        "autor": "JOSEMAR DE PAULA",
+        "data": "2026-08-14T18:29:16-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "Sobre a primeira pergunta, acho que capacidade de compreensão não serve como critério, por um motivo prático: ninguém consegue medir isso sem abrir a porta para excluir quem não interessa. A nossa própria história mostra o que acontece quando se tenta. Já tivemos voto censitário por renda e restrição por alfabetização, e nos dois casos o critério \"objetivo\" funcionou como filtro para manter gente ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=666416#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "666254",
+        "autor": "GIOVANA RODRIGUES DA SILVA ROBERTO",
+        "data": "2026-08-14T18:14:34-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "​A história da Renata ilustra com clareza o conceito de historicidade: os direitos não são estáticos ou dados de forma definitiva, mas resultam de lutas sociais, transformações culturais e revisões institucionais.\n​Sobre as questões propostas:\n​Critério de compreensão social: Acredito que vincular o direito ao voto a testes formais de \"compreensão social\" seria um risco democrático. Historicamente",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=666254#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "666041",
+        "autor": "EVERTON DO NASCIMENTO SERRA TAKAHASHI",
+        "data": "2026-08-14T17:46:36-03:00",
+        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "texto": "A resposta pode passar por um pergunta que seria a seguinte, qual é a formação e qual é o contexto politico do adolescentes de 16 anos.\nAlgumas escolas incentivam a politica e a reflexão sobre sua importância, outras até tentam, mas não conseguem engajar os jovens a se quer pensar nos assuntos, se até mesmo nós adultos ficamos descontentes e desconfiados com a politica, a chance de um adolescente ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=666041#mformforum"
+        ],
+        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "665604",
@@ -5744,58 +5765,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "655783",
-        "autor": "GUILHERME NAVARRO BERTONCINI",
-        "data": "2026-08-13T15:36:02-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "1. A capacidade de compreensão das relações sociais deve ser um critério para a maioridade eleitoral?\nSim.\n2. Qual seria a idade adequada para o início do exercício do voto na sociedade brasileira?\nMesmo sendo reconhecido em legislação a maioridade para efeitos de voto aos 18 anos, creio que pouquíssimas pessoas ao atingir esta idade tem pleno conhecimento de como funciona a política e muito menos",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=655783#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "655060",
-        "autor": "DORCAS CRISTINA SANTOS FREIRE",
-        "data": "2026-08-13T14:28:24-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Considero que os adolescentes possuem condições de participar do processo eleitoral a partir dos 16 anos, especialmente quando têm acesso à educação, à informação e ao debate sobre questões sociais. A maturidade política não está necessariamente ligada apenas à idade, mas à capacidade de compreender diferentes opiniões, refletir sobre os problemas da sociedade e fazer escolhas de forma consciente.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=655060#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "653290",
-        "autor": "CLOVIS CHARLANTI",
-        "data": "2026-08-13T10:31:44-03:00",
-        "titulo": "Re: S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "texto": "Olá a todos. Serei breve mas trarei apenas DADOS. Vocês, por favor Leiam e tirem suas próprias coclusões:\nAtualmente em nossa legislação o funcionamento para se candidatar a um cargo de agente político é o seguinte:\n\n\"Idades Mínimas por Cargo 35 anos para Presidente e Senador; 30 anos para Governador; 21 anos: para os cargos de Deputado Federal e Estadual; e18 anos para o cargo de Vereador\" Fonte:",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=653290#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=655060#mformforum"
-        ],
-        "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182606": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T14:35:07-03:00",
+    "ultimo": "2026-08-14T19:07:49-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 15,
     "posts_institucionais_guardados": 10,
@@ -5954,7 +5929,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T17:35:34-03:00",
+    "ultimo": "2026-08-14T19:05:47-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6779,7 +6754,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T17:23:33-03:00",
+    "ultimo": "2026-08-14T19:05:52-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -6953,7 +6928,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T16:43:23-03:00",
+    "ultimo": "2026-08-14T18:38:39-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7134,11 +7109,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T17:25:57-03:00",
+    "ultimo": "2026-08-14T18:31:51-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "666446",
+        "autor": "JOSEMAR DE PAULA",
+        "data": "2026-08-14T18:31:51-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Acho que o João está certo nos dados e a Laurinda está certa no que ela sente, e isso não é contradição.\n\nAs condições materiais melhoraram, e isso é mensurável. Acesso a serviço, escolaridade, expectativa de vida, tudo isso subiu, e o IDH capta essa parte. O que o IDH não capta é distribuição. Ele é média, e média esconde extremo. Na área que eu atendo dá para ver isso andando poucos quarteirões:",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=666446#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "665654",
         "autor": "WANDERSON DOS SANTOS COSTA",
@@ -7273,27 +7263,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "660952",
-        "autor": "FELLIPE MIRANDA TAVARES SOUZA",
-        "data": "2026-08-13T22:52:41-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "A análise desse debate requer uma reflexão baseada na ideia de historicidade abordada no conteúdo da disciplina, levando em consideração o contexto histórico e social de cada época para estabelecer uma comparação justa.\n\nNo meu entendimento, o próprio avanço tecnológico e científico, resultante do acúmulo de conhecimento pela humanidade ao longo das eras, permitiu uma melhoria gradual nas condiçõe",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=660952#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T16:06:33-03:00",
+    "ultimo": "2026-08-14T17:50:05-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -7452,7 +7427,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T17:38:04-03:00",
+    "ultimo": "2026-08-14T18:53:50-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7507,6 +7482,36 @@
             "frase": "Coesão e coerência [Prof Noslen] YouTube, data de publicação: 05/03/2018"
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "666475",
+        "autor": "JOSEMAR DE PAULA",
+        "data": "2026-08-14T18:34:00-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Trabalho escrevendo documento oficial todo dia, então essa semana bateu direto no que eu faço.\n\nA coesão referencial é onde mais vejo texto desandar. O vício do meio é escrever \"o mesmo\" no lugar do nome da pessoa. Aparece \"o mesmo compareceu ao local\" depois de um parágrafo com quatro pessoas citadas, e ninguém sabe qual delas compareceu. A frase está correta e o texto está quebrado. A regra que ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=666475#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "666406",
+        "autor": "WALCYR ANTONIO DE SOUZA JUNIOR",
+        "data": "2026-08-14T18:28:07-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá a todos!\n\nPara escrevermos textos claros e de fácil interpretação, devemos integrar a coerência (plano das ideias) à coesão (superfície textual), compreendendo que ambas são faces de um mesmo fenômeno (Koch; Travaglia, 2010).\n\nComo principais estratégias e estruturas linguísticas para alcançar esse objetivo, destaco:\nNo plano da Coerência (Sentido): Devemos planejar o texto para garantir a con",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=666406#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -7599,36 +7604,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "663833",
-        "autor": "VALDEMAR PEREIRA JUNIOR",
-        "data": "2026-08-14T12:49:45-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A coerência e a coesão são importantes para que um texto seja claro e fácil de entender. A coerência está relacionada à organização e ao sentido das ideias, evitando contradições. Já a coesão é responsável pela ligação entre palavras, frases e parágrafos. Para isso, podemos utilizar conectivos além de pronomes para evitar repetições. Dessa forma, organizar as ideias em uma sequência lógica e utili",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=663833#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "663751",
-        "autor": "MARCELA CARPES",
-        "data": "2026-08-14T12:38:48-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Para escrever textos coerentes e coesos, é preciso compreender que a coesão textual conecta frases e parágrafos por meio de pronomes, conjunções e sinônimos, garantindo fluidez, enquanto a coerência textual assegura a lógica das ideias, com continuidade, progressão e ausência de contradições (SILVA, 2017). Estratégias como distinguir ideias principais das secundárias, usar paráfrases e aplicar con",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=663751#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -7667,7 +7642,18 @@
       }
     ]
   },
-  "_notas_vistas": {},
+  "_notas_vistas": {
+    "LET110:165192": {
+      "nota": "10,00",
+      "de": null,
+      "em": "2026-08-14T22:04:49.794202+00:00"
+    },
+    "LET110:165200": {
+      "nota": "10,00",
+      "de": null,
+      "em": "2026-08-14T22:04:49.794202+00:00"
+    }
+  },
   "_prazos_avisados": {
     "COM100:207957": {
       "prazo": "2026-08-11T14:26:00-03:00",
