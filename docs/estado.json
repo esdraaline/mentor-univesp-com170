@@ -2289,13 +2289,13 @@
         "nome": "Término de S3 - Atividade Avaliativa",
         "quando": "2026-08-16T23:59:00-03:00",
         "curso_id": "18870",
-        "curso": "COM100-BIA-2026S2B1-T001",
-        "atividade": "S3 - Atividade Avaliativa",
+        "curso": null,
+        "atividade": "Término de S3 - Atividade Avaliativa",
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=160797",
-        "acao": "Tentar responder o questionário agora",
+        "acao": null,
         "cmid": "160797",
         "tipo": "close",
-        "via": "api"
+        "via": "dom"
       },
       {
         "nome": "Término de S3 - Atividade Avaliativa",
@@ -2355,18 +2355,6 @@
         "acao": "Veja o resumo do laboratório de avaliação",
         "cmid": "215612",
         "tipo": "closeassessment",
-        "via": "api"
-      },
-      {
-        "nome": "Término de S4 - Atividade Avaliativa",
-        "quando": "2026-08-23T23:59:00-03:00",
-        "curso_id": "18870",
-        "curso": "COM100-BIA-2026S2B1-T001",
-        "atividade": "S4 - Atividade Avaliativa",
-        "url": "https://ava.univesp.br/mod/quiz/view.php?id=193363",
-        "acao": "Tentar responder o questionário agora",
-        "cmid": "193363",
-        "tipo": "close",
         "via": "api"
       }
     ],
@@ -2610,17 +2598,17 @@
         },
         "160797": {
           "rotulo": "S3 - Atividade Avaliativa",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/quiz/view.php?id=160797"
         },
         "193363": {
           "rotulo": "S4 - Atividade Avaliativa",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/quiz/view.php?id=193363"
         }
@@ -2801,7 +2789,7 @@
     "boletim_medias": {
       "18870": {
         "rotulo": "Média AVA",
-        "nota": "2,00",
+        "nota": "5,40",
         "tipo": "nota calculada"
       },
       "18893": {
@@ -2983,7 +2971,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T23:15:33-03:00",
+    "ultimo": "2026-08-14T19:18:35-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5236,7 +5224,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T18:57:00-03:00",
+    "ultimo": "2026-08-14T19:27:02-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5266,7 +5254,8 @@
         "links": [
           "https://scratch.mit.edu/projects/1368843148/",
           "https://scratch.mit.edu/projects/1368843148/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=665104#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=665104#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=666940#mformforum"
         ],
         "forum": "S3 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
@@ -5408,7 +5397,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T15:24:27-03:00",
+    "ultimo": "2026-08-14T19:21:53-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5582,7 +5571,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T18:54:04-03:00",
+    "ultimo": "2026-08-14T19:23:31-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -6754,7 +6743,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T19:05:52-03:00",
+    "ultimo": "2026-08-14T19:29:22-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -6811,6 +6800,40 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "667046",
+        "autor": "NATHALIA CAROLINE CUNHA E SILVA",
+        "data": "2026-08-14T19:29:22-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Atividade proposta 1: https://scratch.mit.edu/projects/1368864765\n\nAtividade proposta 2: https://scratch.mit.edu/projects/1368872007\n\n1. Processo de criação:\n\nNo primeiro projeto, utilizei um comando condicional se para verificar se o número digitado era menor que 10. No segundo, além da condicional, utilizei uma variável e uma estrutura de repetição para fazer a arara contar de 0 até o número inf",
+        "links": [
+          "https://scratch.mit.edu/projects/1368864765",
+          "https://scratch.mit.edu/projects/1368872007",
+          "https://ava.univesp.br/mod/forum/post.php?reply=667046#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "667030",
+        "autor": "ANDRE DA CRUZ VALETA",
+        "data": "2026-08-14T19:28:00-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1368774998\nO primeiro desafio, adicionei alguns balões para dar naturalidade à interação, existe uma única condição \"se\" resposta < 10 para definir se o ator deve repetir a resposta ou não nada acontecer\n\nhttps://scratch.mit.edu/projects/1368811463\nO segundo desafio é um \"se\" \"senão\" que define a ação do ator, se o número for menor que 10, o ator fará o seguinte:\nd",
+        "links": [
+          "https://scratch.mit.edu/projects/1368774998",
+          "https://scratch.mit.edu/projects/1368811463",
+          "https://ava.univesp.br/mod/forum/post.php?reply=667030#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -6885,38 +6908,6 @@
         "texto": "Gostei da sua explicação, principalmente da parte em que você comenta sobre a condição de parada do laço de repetição. Também achei interessante você destacar a importância de zerar a variável no início, pois isso evita problemas quando o programa é executado novamente. Ficou claro como você utilizou o “se/senão”, a variável contador e o “repita até que” para desenvolver o projeto.",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=663601#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "663316",
-        "autor": "LUIS FELIPE DA CRUZ SILVA",
-        "data": "2026-08-14T11:29:54-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Olá pessoal\nsegue link do meu projeto;\n\nhttps://scratch.mit.edu/projects/1368548740/editor\n\nO que o Programa Faz?\nO programa é um contador numérico dinâmico e interativo. Ao iniciar, o personagem solicita que o usuário digite um número no teclado.\n\nSe o número for menor que 10: O personagem realiza uma contagem regressiva/progressiva, falando um por um todos os números de 0 até o número digitado. ",
-        "links": [
-          "https://scratch.mit.edu/projects/1368548740/editor",
-          "https://ava.univesp.br/mod/forum/post.php?reply=663316#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "662624",
-        "autor": "DANILO AUGUSTO PRESTA",
-        "data": "2026-08-14T10:00:48-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1368768435\nUsei as ferramentas para criar um joguinho e estimular que tente até acertar.\nPrimeiro fiz uma interação perguntando se gostaria de jogar.\nPedi para escolher um número entre 1 e 10.\nSe acertar repetiu a resposta.\nSe errar vem uma mensagem de erro.",
-        "links": [
-          "https://scratch.mit.edu/projects/1368768435",
-          "https://ava.univesp.br/mod/forum/post.php?reply=662624#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
@@ -7109,7 +7100,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T18:31:51-03:00",
+    "ultimo": "2026-08-14T19:21:33-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7427,7 +7418,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T18:53:50-03:00",
+    "ultimo": "2026-08-14T19:26:55-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7482,6 +7473,22 @@
             "frase": "Coesão e coerência [Prof Noslen] YouTube, data de publicação: 05/03/2018"
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "666867",
+        "autor": "ADRIANA CLEUSA DOS SANTOS",
+        "data": "2026-08-14T19:13:36-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Escolhi uma entrevista a transcrição do trecho inicial do vídeo do canal Performance Líder, com a fala do técnico Bernardinho em 2022: https://www.youtube.com/watch?v=oUbgTMeHZO0\n\nPrimeiro, montar o time, né? Como é que você... primeira pergunta que se faz: 'são os melhores ou são os certos? Se o melhor não tiver disposto a compartilhar o seu conhecimento, aí nós... somos uma orquestra. Eu quero t",
+        "links": [
+          "https://www.youtube.com/watch?v=oUbgTMeHZO0",
+          "https://ava.univesp.br/mod/forum/post.php?reply=666867#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -7589,21 +7596,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "664051",
-        "autor": "VITOR ROBERTO GRANGE",
-        "data": "2026-08-14T13:21:39-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Novamente o desafio do S4 - Início é um e o proposto aqui é outro, portanto, irei responder aos dois.\nQuanto ao vídeo, escolhi o discurso de Steve Jobs em Stanford (2005).\n[Abertura]\nJobs inicia dizendo sentir-se honrado por estar na formatura de uma das principais universidades do mundo. Ele confessa que nunca se formou na faculdade e que aquele momento era o mais próximo que já chegara de uma fo",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=664051#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -7652,6 +7644,16 @@
       "nota": "10,00",
       "de": null,
       "em": "2026-08-14T22:04:49.794202+00:00"
+    },
+    "COM100:160797": {
+      "nota": "10,00",
+      "de": null,
+      "em": "2026-08-14T22:33:03.842922+00:00"
+    },
+    "COM100:193363": {
+      "nota": "10,00",
+      "de": null,
+      "em": "2026-08-14T22:33:03.842922+00:00"
     }
   },
   "_prazos_avisados": {
