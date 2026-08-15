@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-14T23:42:15.770572+00:00",
-  "snapshot_at": "2026-08-14T23:42:15.770572+00:00",
-  "attempted_at": "2026-08-14T23:42:15.770572+00:00",
-  "publication_id": "2026-08-14T23:42:15.770572+00:00",
+  "checked_at": "2026-08-15T01:43:25.435382+00:00",
+  "snapshot_at": "2026-08-15T01:43:25.435382+00:00",
+  "attempted_at": "2026-08-15T01:43:25.435382+00:00",
+  "publication_id": "2026-08-15T01:43:25.435382+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,8 +29,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 12,
       "from_cache": false,
@@ -43,8 +43,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -72,8 +72,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -85,8 +85,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -100,8 +100,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -111,10 +111,23 @@
       "esperados": 1,
       "live": 1
     },
+    "meus_posts": {
+      "status": "live",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 33,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "falhas": 0,
+      "esperados": 4,
+      "live": 4
+    },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-14T23:42:15.772717+00:00",
-      "last_live_at": "2026-08-14T23:42:15.772717+00:00",
+      "checked_at": "2026-08-15T01:43:25.437573+00:00",
+      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -659,6 +672,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -695,6 +709,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -770,6 +785,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -782,6 +798,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -869,6 +886,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -881,6 +899,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -965,9 +984,10 @@
               "label": "S3 - Fórum temático",
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-              "status": "Marcar como feito",
-              "nao_lidas": null,
+              "status": "Concluído",
+              "nao_lidas": "2",
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -978,8 +998,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1064,9 +1085,10 @@
               "label": "S4 - Fórum temático",
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-              "status": "Marcar como feito",
-              "nao_lidas": null,
+              "status": "Concluído",
+              "nao_lidas": "7",
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1077,8 +1099,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1457,6 +1480,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1493,6 +1517,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1611,8 +1636,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1625,6 +1651,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1755,8 +1782,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1769,6 +1797,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1887,8 +1916,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -1901,6 +1931,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2032,8 +2063,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "8",
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2044,8 +2076,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2468,6 +2501,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2504,6 +2538,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2639,6 +2674,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2774,6 +2810,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2883,8 +2920,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -2994,8 +3032,9 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "12",
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -4157,6 +4196,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -4181,6 +4221,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -4240,6 +4281,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -4252,6 +4294,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -4634,6 +4677,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": true,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null,
@@ -4710,6 +4754,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5163,6 +5208,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5265,6 +5311,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5362,6 +5409,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5387,6 +5435,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5470,6 +5519,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5495,6 +5545,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -5602,6 +5653,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
+              "postei": false,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -6022,44 +6074,7 @@
       "motivo": "a ambientação (AIA) encerrou"
     }
   ],
-  "higiene": [
-    {
-      "curso": "COM100",
-      "secao": "Semana 3",
-      "fase": "regular",
-      "verbo": "Participe",
-      "coisa": "do fórum",
-      "o_que": "S3 - Fórum temático",
-      "tipo": "forum",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM100",
-      "secao": "Semana 4",
-      "fase": "regular",
-      "verbo": "Participe",
-      "coisa": "do fórum",
-      "o_que": "S4 - Fórum temático",
-      "tipo": "forum",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    }
-  ],
+  "higiene": [],
   "confirmar": [
     {
       "curso": "COM170",

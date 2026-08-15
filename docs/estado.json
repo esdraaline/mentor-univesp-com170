@@ -2887,6 +2887,49 @@
           "tipo": "forma de agregacao das notas"
         }
       ]
+    },
+    "meus_posts": {
+      "18870": {
+        "s4 - forum tematico": "2026-08-14T21:22:44-03:00",
+        "s3 - forum tematico": "2026-08-14T21:21:33-03:00",
+        "s2 - forum de duvidas gerais": "2026-07-30T19:52:49-03:00",
+        "s2 - forum tematico": "2026-07-30T19:51:38-03:00",
+        "s1 - forum de duvidas gerais": "2026-07-30T19:27:46-03:00",
+        "s1 - forum tematico": "2026-07-28T21:04:14-03:00",
+        "forum de duvidas gerais": "2026-07-28T20:28:59-03:00"
+      },
+      "18880": {
+        "s4 - forum tematico: os jovens de hoje tem mais oportunidades? uma analise etica e social": "2026-08-14T18:31:51-03:00",
+        "s3 - forum tematico: cidadania na adolescencia: os desafios do voto aos 16 anos": "2026-08-14T18:29:16-03:00",
+        "s2 - forum de duvidas gerais": "2026-07-28T13:08:52-03:00",
+        "s2 - forum tematico: dilema etico: saude publica vs. conviccoes pessoais": "2026-07-28T13:07:49-03:00",
+        "forum de duvidas gerais": "2026-07-28T12:43:34-03:00",
+        "s1 - forum de duvidas gerais": "2026-07-28T12:40:41-03:00",
+        "s1 - forum tematico - autonomia e liberdade: ate que ponto as pessoas sao livres?": "2026-07-28T12:36:30-03:00"
+      },
+      "18893": {
+        "s4 - forum tematico": "2026-08-14T18:34:00-03:00",
+        "s3 - forum tematico": "2026-08-14T18:32:31-03:00",
+        "s2 - forum tematico": "2026-07-28T20:30:15-03:00",
+        "s1 - forum tematico": "2026-07-28T13:58:01-03:00",
+        "forum de duvidas gerais": "2026-07-28T13:17:18-03:00"
+      },
+      "18922": {
+        "re: informar participantes na atividade em grupo": "2026-08-13T20:25:53-03:00",
+        "q2 - forum geral": "2026-08-08T20:53:18-03:00",
+        "q1 - forum de duvidas": "2026-08-01T18:18:26-03:00",
+        "re: apresentacao": "2026-08-01T14:39:58-03:00",
+        "re: participacao na atividade em grupo": "2026-07-29T23:44:21-03:00",
+        "re: atividades quinzena 1": "2026-07-29T23:40:07-03:00",
+        "q1 - forum geral": "2026-07-23T00:19:40-03:00",
+        "re: atividade enviada nao apareceu": "2026-07-16T17:05:44-03:00",
+        "forum de duvidas gerais": "2026-07-16T10:39:05-03:00",
+        "re: orientacoes semana 3": "2026-07-10T15:58:31-03:00",
+        "re: missao da semana 3": "2026-07-08T22:14:51-03:00",
+        "s2 - forum geral": "2026-07-03T11:54:03-03:00",
+        "re: referente ao trabalho da segunda semana.": "2026-07-03T11:46:22-03:00",
+        "s1 - forum de apresentacao": "2026-06-27T15:37:04-03:00"
+      }
     }
   },
   "_autores_institucionais": {
@@ -3317,7 +3360,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 3,
-    "ultimo": "2026-08-13T21:07:51-03:00",
+    "ultimo": "2026-08-14T21:18:09-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5225,11 +5268,27 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T19:27:02-03:00",
+    "ultimo": "2026-08-14T22:43:37-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "668156",
+        "autor": "JOSEMAR DE PAULA",
+        "data": "2026-08-14T21:21:33-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Olá, pessoal!\n\nSegue o meu projeto: https://scratch.mit.edu/projects/1368884695/\n\nFiz uma animação em que o gato pode ser controlado pelo teclado ou andar sozinho. Quando a bandeira verde é clicada, ele volta para o centro com o \"vá para x:0 y:0\" apontando para a direita, e um \"diga\" de 3 segundos explica os comandos para quem abre o projeto. As setas para cima, esquerda e direita movem e giram o ",
+        "links": [
+          "https://scratch.mit.edu/projects/1368884695/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=668156#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "666690",
         "autor": "MATHEUS OLIVEIRA PIGATTO AZEVEDO",
@@ -5377,28 +5436,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "661439",
-        "autor": "WESLEY DOS REIS",
-        "data": "2026-08-14T00:13:55-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1368665943\n\nFiz uma simples animação de um gatinho andando pela floresta. A intuito era explorar um pouco a ideia de profundidade do cenário. Tive uma certa dificuldade, principalmente em fazer o gatinho andar na \"diagonal\" enquanto diminui seu tamanho. Fui explorando vários comandos, até finalmente acertar, e por incrível que pareça, é mais simples do que imaginei",
-        "links": [
-          "https://scratch.mit.edu/projects/1368665943",
-          "https://ava.univesp.br/mod/forum/post.php?reply=661439#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T19:21:53-03:00",
+    "ultimo": "2026-08-14T21:14:55-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5572,7 +5615,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T19:54:02-03:00",
+    "ultimo": "2026-08-14T22:30:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5919,7 +5962,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T20:10:08-03:00",
+    "ultimo": "2026-08-14T22:34:35-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6745,7 +6788,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T20:28:14-03:00",
+    "ultimo": "2026-08-14T22:23:08-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -6802,6 +6845,54 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "668475",
+        "autor": "VALDEMAR PEREIRA JUNIOR",
+        "data": "2026-08-14T21:53:48-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1368816821\n\nInicio do programa:\nFoi usado o bloco amarelo \"quando bandeira verde for clicado\" da aba Eventos. Ele serve para dar a partida no programa quando o usuário clica na bandeira.\nPergunta ao usuário:\nFoi encaixado o bloco azul-claro \"pergunte digite um número e espere\" da aba Sensores. Ele abre uma caixa na tela para o usuário digitar um valor, que fica gua",
+        "links": [
+          "https://scratch.mit.edu/projects/1368816821",
+          "https://ava.univesp.br/mod/forum/post.php?reply=668475#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "668167",
+        "autor": "JOSEMAR DE PAULA",
+        "data": "2026-08-14T21:22:44-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá, pessoal!\n\nSegue o meu projeto: https://scratch.mit.edu/projects/1368882973/\n\nO programa começa zerando a variável contador e usa o bloco \"pergunte e espere\" para abrir a caixa de digitação no palco. Aí entra o \"se senão\": se a resposta for menor que 10, o gato repete o número que a pessoa digitou (Atividade 1) e em seguida conta de 0 até esse número, mostrando cada valor com 0,8 segundo de in",
+        "links": [
+          "https://scratch.mit.edu/projects/1368882973/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=668167#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "668014",
+        "autor": "LAZARO DONIZETI VIEIRA LUZ",
+        "data": "2026-08-14T21:07:09-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Boa noite pessoal, compartilho aqui o link do meu projeto para o desafio:\nhttps://scratch.mit.edu/projects/1367248970\nUsei a personagem do coelhinho na Floresta e montei os blocos para que ele solicite um número; com o bloco \"se\" coloquei que se o número for menor que 10, ele realiza a contagem de 0 até o número digitado utilizando a variável \"contador\", executando pulinhos e um efeito sonoro a ca",
+        "links": [
+          "https://scratch.mit.edu/projects/1367248970",
+          "https://ava.univesp.br/mod/forum/post.php?reply=668014#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -6868,62 +6959,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "667046",
-        "autor": "NATHALIA CAROLINE CUNHA E SILVA",
-        "data": "2026-08-14T19:29:22-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Atividade proposta 1: https://scratch.mit.edu/projects/1368864765\n\nAtividade proposta 2: https://scratch.mit.edu/projects/1368872007\n\n1. Processo de criação:\n\nNo primeiro projeto, utilizei um comando condicional se para verificar se o número digitado era menor que 10. No segundo, além da condicional, utilizei uma variável e uma estrutura de repetição para fazer a arara contar de 0 até o número inf",
-        "links": [
-          "https://scratch.mit.edu/projects/1368864765",
-          "https://scratch.mit.edu/projects/1368872007",
-          "https://ava.univesp.br/mod/forum/post.php?reply=667046#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "667030",
-        "autor": "ANDRE DA CRUZ VALETA",
-        "data": "2026-08-14T19:28:00-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1368774998\nO primeiro desafio, adicionei alguns balões para dar naturalidade à interação, existe uma única condição \"se\" resposta < 10 para definir se o ator deve repetir a resposta ou não nada acontecer\n\nhttps://scratch.mit.edu/projects/1368811463\nO segundo desafio é um \"se\" \"senão\" que define a ação do ator, se o número for menor que 10, o ator fará o seguinte:\nd",
-        "links": [
-          "https://scratch.mit.edu/projects/1368774998",
-          "https://scratch.mit.edu/projects/1368811463",
-          "https://ava.univesp.br/mod/forum/post.php?reply=667030#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "665856",
-        "autor": "CARLOS MATEUS BOARINI",
-        "data": "2026-08-14T17:23:33-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Link do Projeto no Scratch: [https://scratch.mit.edu/projects/1368848654/fullscreen/]\n1. Documentação do Processo de Criação\n\nPara resolver o desafio proposto, utilizei uma combinação de blocos de entrada/saída, comandos condicionais, variáveis e laço de repetição no Scratch:\n\nEntrada e Saída: Utilizei o bloco pergunte ... e espere da categoria Sensores para capturar o número digitado pelo usuário",
-        "links": [
-          "https://scratch.mit.edu/projects/1368848654/fullscreen/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=665856#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T20:34:37-03:00",
+    "ultimo": "2026-08-14T22:24:49-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7104,11 +7145,71 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T20:40:37-03:00",
+    "ultimo": "2026-08-14T22:27:07-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "668663",
+        "autor": "VANESSA MARILAC HIRATSUKA",
+        "data": "2026-08-14T22:15:18-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Eu acho que sim, em alguns aspectos os jovens de hoje têm mais oportunidades — mas isso não significa que tenham uma vida mais fácil.\nHoje existem oportunidades que praticamente não existiam para gerações anteriores.\nInternet e trabalho remoto: é possível trabalhar ou prestar serviços para empresas de outras cidades e até de outros países, surgiram profissões e áreas novas, como programação, análi",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=668663#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "668645",
+        "autor": "MAIARA NAVES DA SILVA MACHADO",
+        "data": "2026-08-14T22:13:51-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Este debate tem suas razões nos dois lados, antes a vida era mais dificíl em questão de acesso a informação e a direitos. mas também havia mais comunicação entre as pessoas, mais contato humano e conversas.\nPor um lado evoluimos muito profissionalmente, mas estamos vivendo a maior crise de problemas psicologicos que já afetam até crianças por exesso de telas e informações.\nEntão no meu ver estamos",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=668645#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "668583",
+        "autor": "HERBERT FRANCISCO PEREIRA",
+        "data": "2026-08-14T22:06:06-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "A conversa entre o João e a dona Laurinda mostra bem aquele choque de gerações clássico: a saudade de um tempo que parecia \"mais simples\" batendo de frente com os dados reais de progresso. A verdade é que, historicamente, avançamos muito. Saímos de modelos autoritários para a construção de um Estado Democrático de Direito e dos Direitos Humanos. Como o João bem lembrou ao mostrar o IDH no celular,",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=668583#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "668098",
+        "autor": "JONAS NUNES",
+        "data": "2026-08-14T21:16:17-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Hoje em dia a gente tem mais progresso social e ético, principalmente no Brasil. Mais acesso a estudo, saúde, informação, tecnologia. Os jovens até têm mais chance de sucesso profissional por causa disso.\n\nSó que, por outro lado... 20, 30 anos atrás, só o pai trabalhava e dava pra sustentar a casa, criar os filhos, e a mãe ficava em casa cuidando de tudo. Hoje trabalha marido, trabalha esposa, e à",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=668098#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "666446",
         "autor": "JOSEMAR DE PAULA",
@@ -7198,72 +7299,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "661508",
-        "autor": "ROSANA VILLANASSI",
-        "data": "2026-08-14T00:42:37-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "1- sim\n2- sim\n3 - sim\nHá evidências de progresso ético-social: indicadores globais e nacionais mostram queda da pobreza, maior escolaridade, mais acesso a saúde, água, eletricidade e aumento da expectativa de vida. No Brasil, a qualidade de vida melhorou em dimensões como saúde e serviços básicos, embora a desigualdade ainda limite o alcance universal desses ganho , a expectativa de vida aumentou ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=661508#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "661299",
-        "autor": "ALVIN HELY GONCALVES COELHO",
-        "data": "2026-08-13T23:40:44-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Analisando os contextos, na minha opinião, existe um avanço ético social.\nHoje o estado garante muito mais ferramentas de bem estar social que no passado. Meu pai tinha de caminhar vários km diariamente para ir a escola, hoje o estado/munícipio fornece transporte grátis da porta da casa da criança até a porta da escola. Da mesma forma que hoje todos uma assistência básica de saúde garantida pelo e",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=661299#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "661267",
-        "autor": "DIGIANI CRISTINA DE CARVALHO",
-        "data": "2026-08-13T23:35:19-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Sobre os dias atuais estarem mais fáceis que antigamente, penso apenas que estão com perspectivas diferentes. Hoje temos a tecnologia mais aprimorada, porém, antigamente se tinha mais raízes e princípios. Sobre as chances do jovem de em alcançar sucesso profissional, até pode ser, mas junto com a facilidade veio também o desdém ou desinteresse.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=661267#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "661106",
-        "autor": "DANILO DE SANTANA ALCANTARA",
-        "data": "2026-08-13T23:11:13-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Uma análise sociológica sugere que houve avanços significativos nas condições de vida da população ao longo das últimas décadas, mas esses avanços não ocorreram de forma igual para todos. A ampliação dos direitos civis, o acesso à educação, os avanços tecnológicos e indicadores como o IDH demonstram melhorias importantes na qualidade de vida em muitos países, incluindo o Brasil.\n\nPode-se afirmar q",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=661106#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T20:04:28-03:00",
+    "ultimo": "2026-08-14T22:30:23-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -7422,7 +7463,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-14T20:38:19-03:00",
+    "ultimo": "2026-08-14T22:25:34-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7477,6 +7518,36 @@
             "frase": "Coesão e coerência [Prof Noslen] YouTube, data de publicação: 05/03/2018"
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "668744",
+        "autor": "HERBERT FRANCISCO PEREIRA",
+        "data": "2026-08-14T22:25:34-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá, pessoal!\n\nPara escrevermos textos claros e de fácil interpretação, precisamos dominar a coesão e a coerência, que funcionam como \"duas faces do mesmo fenômeno\" na textualidade, segundo apontam Koch e Travaglia.\n\nAqui está um resumo das principais estratégias:\n\n1. Coesão (A \"costura\" do texto)\nLida com a estrutura gramatical e a escolha exata das palavras para ligar as frases.\n\nCoesão Sequenci",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=668744#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "668546",
+        "autor": "VANESSA MARILAC HIRATSUKA",
+        "data": "2026-08-14T22:01:54-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "A inteligência artificial pode contribuir para a educação. Além disso, ferramentas de IA podem auxiliar estudantes na organização dos estudos. Entretanto, seu uso deve ser acompanhado de orientação, pois o estudante precisa desenvolver autonomia e pensamento crítico. Portanto, a IA deve ser utilizada como ferramenta de apoio, e não como substituta da aprendizagem.\nCoesão:\nAlém disso → adiciona inf",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=668546#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -7564,36 +7635,6 @@
         "texto": "Para um texto ser claro e bem entendido, ele depende de uma boa organização dos parágrafos e das frases, com coerência e coesão, evitando repetições",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=665594#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "665179",
-        "autor": "GABRIELA FERNANDA DE OLIVEIRA",
-        "data": "2026-08-14T15:57:16-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Para garantir a correta interpretação de um texto, é importante observar tanto a coerência quanto a coesão. A coerência está relacionada à organização lógica das ideias, à continuidade do tema e ao sentido que o texto produz para o leitor. Já a coesão é construída por meio de recursos linguísticos que conectam as partes do texto, como conjunções, pronomes, advérbios, preposições e palavras de refe",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=665179#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "664972",
-        "autor": "MAYCON FELIPE CASCIONE SOUZA",
-        "data": "2026-08-14T15:29:36-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Lendo o material desta semana, a conclusão que tirei é bem prática: a coerência é a lógica das ideias (o texto ter começo, meio e fim sem se contradizer), enquanto a coesão é a \"cola\" gramatical que une as frases e parágrafos.\nPara garantir que o nosso texto seja bem interpretado, a melhor estratégia é organizar o raciocínio antes de sair escrevendo. Na hora de amarrar o texto, o segredo é usar os",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=664972#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
