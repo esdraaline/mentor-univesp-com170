@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "checked_at": "2026-08-15T01:43:25.435382+00:00",
-  "snapshot_at": "2026-08-15T01:43:25.435382+00:00",
-  "attempted_at": "2026-08-15T01:43:25.435382+00:00",
-  "publication_id": "2026-08-15T01:43:25.435382+00:00",
+  "checked_at": "2026-08-15T11:25:27.950608+00:00",
+  "snapshot_at": "2026-08-15T11:25:27.950608+00:00",
+  "attempted_at": "2026-08-15T11:25:27.950608+00:00",
+  "publication_id": "2026-08-15T11:25:27.950608+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -11,7 +11,7 @@
     "avisos": 60,
     "eventos_calendario": 12,
     "eventos_uteis": 12,
-    "notificacoes": 12,
+    "notificacoes": 15,
     "cronograma": 3,
     "itens_com_prazo": 44
   },
@@ -19,8 +19,8 @@
   "fontes_status": {
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -29,8 +29,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 12,
       "from_cache": false,
@@ -43,8 +43,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -56,8 +56,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -72,8 +72,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -85,8 +85,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -100,8 +100,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -113,8 +113,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 33,
       "from_cache": false,
@@ -126,8 +126,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-15T01:43:25.437573+00:00",
-      "last_live_at": "2026-08-15T01:43:25.437573+00:00",
+      "checked_at": "2026-08-15T11:25:27.952847+00:00",
+      "last_live_at": "2026-08-15T11:25:27.952847+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -593,7 +593,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "618861",
@@ -985,7 +985,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1086,7 +1086,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
-              "nao_lidas": "7",
+              "nao_lidas": "16",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1099,7 +1099,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "8",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1782,7 +1782,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1929,7 +1929,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2063,7 +2063,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
-              "nao_lidas": "8",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2076,7 +2076,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2250,7 +2250,7 @@
             }
           ],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "597648",
@@ -2320,7 +2320,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "635714",
@@ -2335,7 +2335,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "635630",
@@ -2350,7 +2350,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "596736",
@@ -2808,7 +2808,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2920,7 +2920,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3032,7 +3032,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
-              "nao_lidas": "12",
+              "nao_lidas": "8",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3174,7 +3174,7 @@
             }
           ],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "630781",
@@ -3210,7 +3210,7 @@
             }
           ],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "630776",
@@ -3245,7 +3245,7 @@
             }
           ],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "605127",
@@ -5848,6 +5848,24 @@
   ],
   "notificacoes": [
     {
+      "assunto": "Abre em segunda-feira, 17 ago. 2026, 00:00: S5 - Atividade Avaliativa",
+      "quando": "2026-08-15T04:27:44-03:00",
+      "lida": false,
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208"
+    },
+    {
+      "assunto": "Abre em segunda-feira, 17 ago. 2026, 00:00: S5 - Atividade Avaliativa",
+      "quando": "2026-08-15T03:09:20-03:00",
+      "lida": false,
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836"
+    },
+    {
+      "assunto": "Abre em segunda-feira, 17 ago. 2026, 00:00: S5 - Atividade Avaliativa",
+      "quando": "2026-08-15T01:35:01-03:00",
+      "lida": false,
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193369"
+    },
+    {
       "assunto": "Abre em segunda-feira, 10 ago. 2026, 00:00: S4 - Atividade Avaliativa",
       "quando": "2026-08-08T06:07:18-03:00",
       "lida": false,
@@ -5933,12 +5951,12 @@
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
       "conta_nota": true,
       "prazo": "2026-08-15T23:59:00-03:00",
-      "prazo_txt": "vence amanhã, 15/08 às 23:59",
+      "prazo_txt": "vence hoje às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "amanha"
+      "urgencia": "hoje"
     },
     {
       "curso": "LET110",
@@ -6079,7 +6097,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-15T23:59:00-03:00",
-      "quando_txt": "vence amanhã, 15/08 (horário não informado)",
+      "quando_txt": "vence hoje (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "10 a 15/08 segunda a sábado",
       "frase": "Quem não concluir não entra no grupo desta quinzena Para entrar em contato com o seu grupo, escreva no fórum do M7 - Grupo: Ponto de encontro 10 a 15/08 segunda a sábado: Janela de envio das atividades da quinzena",
@@ -6090,7 +6108,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-15T23:59:00-03:00",
-      "quando_txt": "vence amanhã, 15/08 (horário não informado)",
+      "quando_txt": "vence hoje (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "15 de agosto",
       "frase": "9 de agosto: decide quem entra no grupo É o prazo para concluir o Módulo 4 15 de agosto: decide o que foi entregue",
