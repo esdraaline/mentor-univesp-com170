@@ -34,8 +34,82 @@
       }
     ],
     "recados_nao_lidos": 7,
-    "notas": [],
-    "checked_at": "2026-08-15T17:21:48.033544+00:00",
+    "notas": [
+      {
+        "codigo": "SOC100",
+        "nome": "Ética, cidadania e Sociedade",
+        "frequencia": "100.0(%)",
+        "parcelas": {
+          "ATIVIDADE AVA": "",
+          "PROVA": "",
+          "MÉDIA PARCIAL": "",
+          "EXAME": ""
+        },
+        "situacao": "Cursando (Em Recuperação)"
+      },
+      {
+        "codigo": "COM170",
+        "nome": "Inteligência Artificial na Prática Acadêmica e Profissional",
+        "frequencia": "100.0(%)",
+        "parcelas": {
+          "ATIVIDADE AVA": ""
+        },
+        "situacao": ""
+      },
+      {
+        "codigo": "LET110",
+        "nome": "Leitura e Produção de textos",
+        "frequencia": "100.0(%)",
+        "parcelas": {
+          "ATIVIDADE AVA": "",
+          "PROVA": "",
+          "MÉDIA PARCIAL": "",
+          "EXAME": ""
+        },
+        "situacao": "Cursando (Em Recuperação)"
+      },
+      {
+        "codigo": "MMB002",
+        "nome": "Matemática Básica",
+        "frequencia": "100.0(%)",
+        "parcelas": {
+          "ATIVIDADE AVA": "",
+          "PROVA": "",
+          "MÉDIA PARCIAL": "",
+          "EXAME": ""
+        },
+        "situacao": ""
+      },
+      {
+        "codigo": "COM100",
+        "nome": "Pensamento Computacional",
+        "frequencia": "100.0(%)",
+        "parcelas": {
+          "ATIVIDADE AVA": "",
+          "PROVA": "",
+          "MÉDIA PARCIAL": "",
+          "EXAME": ""
+        },
+        "situacao": "Cursando (Em Recuperação)"
+      },
+      {
+        "codigo": "INT100",
+        "nome": "Projetos e métodos para a produção do conhecimento",
+        "frequencia": "100.0(%)",
+        "parcelas": {
+          "ATIVIDADE AVA": "",
+          "PROVA": "",
+          "MÉDIA PARCIAL": "",
+          "EXAME": ""
+        },
+        "situacao": ""
+      }
+    ],
+    "checked_at": "2026-08-15T18:36:08.312219+00:00",
+    "_login_ok": [
+      "#form\\:usuario",
+      "26235014"
+    ],
     "_so_no_portal": [
       {
         "codigo": "MMB002",
@@ -75,10 +149,10 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-15T17:21:48.031364+00:00",
-  "snapshot_at": "2026-08-15T17:21:48.031364+00:00",
-  "attempted_at": "2026-08-15T17:21:48.031364+00:00",
-  "publication_id": "2026-08-15T17:21:48.031364+00:00",
+  "checked_at": "2026-08-15T18:36:08.309979+00:00",
+  "snapshot_at": "2026-08-15T18:36:08.309979+00:00",
+  "attempted_at": "2026-08-15T18:36:08.309979+00:00",
+  "publication_id": "2026-08-15T18:36:08.309979+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -94,8 +168,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -109,8 +183,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -119,8 +193,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 12,
       "from_cache": false,
@@ -133,8 +207,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -146,8 +220,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -157,13 +231,13 @@
       "listas_live": 39,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 200,
-      "posts_institucionais_guardados": 146
+      "posts_institucionais_vistos": 201,
+      "posts_institucionais_guardados": 147
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -175,8 +249,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -190,8 +264,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -203,10 +277,10 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 29,
+      "quantidade_atual": 30,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
@@ -216,8 +290,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-15T17:21:48.033544+00:00",
-      "last_live_at": "2026-08-15T17:21:48.033544+00:00",
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "last_live_at": "2026-08-15T18:36:08.312219+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -586,6 +660,21 @@
           "novo": false
         },
         {
+          "id": "672011",
+          "autor": "Elva Karina Mayhua Quispe",
+          "data": "2026-08-15T14:58:20-03:00",
+          "titulo": "Re: S4 - Fórum temático",
+          "texto": "Fala, pessoal! Tudo bem?\n\nPassando para abrir espaço oficial aqui no Fórum Temático da Semana 4 para vocês enviarem o desafio do Scratch!\n\nPeço desculpas pelo equívoco, o aviso anterior foi publicado na aba de Avisos e por isso alguns de vocês não estavam conseguindo responder. Este aqui é o tópico correto para a postagem!\n\nLembrando o Desafio da Semana 4: Criar um programa interativo no Scratch u",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=672011#mformforum"
+          ],
+          "forum": "S4 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "650659",
           "autor": "Joyce Mirella Dos Anjos Viana",
           "data": "2026-08-12T22:02:33-03:00",
@@ -707,26 +796,6 @@
           "links": [],
           "forum": "Avisos",
           "url": "https://ava.univesp.br/mod/forum/discuss.php?d=138963",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "615843",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-09T22:37:32-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Todas as lives serão gravadas e ficarão disponíveis para assistirem quando puderem.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=615843#mformforum",
-            "https://rec.elos.vc/playback/presentation/2.3/aa809c2d0eb329a730580e3c7f533f4995b8c683-1785970326946",
-            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external",
-            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external",
-            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external",
-            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Xpeg3TOUaWR9/external"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
@@ -974,7 +1043,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1075,7 +1144,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1088,7 +1157,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1176,7 +1245,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
-              "nao_lidas": "14",
+              "nao_lidas": "8",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2006,7 +2075,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2019,7 +2088,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2153,7 +2222,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
-              "nao_lidas": "9",
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2166,7 +2235,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2762,7 +2831,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3010,7 +3079,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3122,7 +3191,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
-              "nao_lidas": "12",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -5401,7 +5470,7 @@
               "status": "Concluído",
               "nao_lidas": null,
               "conta_nota": false,
-              "postei": false,
+              "postei": true,
               "prazo": null,
               "prazo_fonte": null,
               "carencia": null
@@ -6034,12 +6103,14 @@
       "curso": "COM170",
       "secao": "Q2 Módulo 7",
       "fase": "regular",
-      "verbo": "Entregue e avalie",
-      "coisa": "revisão por pares",
+      "verbo": "Confirme com o grupo",
+      "coisa": "a entrega do representante",
       "o_que": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
       "tipo": "workshop",
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
       "conta_nota": true,
+      "explicacao": "Quem envia é o representante do grupo. O AVA registra envio por aluno, então a sua conta vai dizer que você não enviou mesmo que o grupo tenha entregado. O que cabe a você aqui é confirmar com quem envia.",
+      "entrega_nao_confirmada": false,
       "prazo": "2026-08-15T23:59:00-03:00",
       "prazo_txt": "vence hoje às 23:59",
       "prazo_fonte": "calendário do AVA",
@@ -6139,7 +6210,7 @@
       "prazo_txt": "acontece 22/09 às 17:55",
       "prazo_fonte": "Sistema de Provas, conferido à mão em 15/08",
       "fonte_url": null,
-      "autoridade": "institucional",
+      "autoridade": "conferido",
       "carencia": null,
       "hora_certa": true,
       "urgencia": "depois",
@@ -6160,7 +6231,7 @@
       "prazo_txt": "acontece 22/09 às 17:55",
       "prazo_fonte": "Sistema de Provas, conferido à mão em 15/08",
       "fonte_url": null,
-      "autoridade": "institucional",
+      "autoridade": "conferido",
       "carencia": null,
       "hora_certa": true,
       "urgencia": "depois",
@@ -6181,7 +6252,7 @@
       "prazo_txt": "acontece 22/09 às 17:55",
       "prazo_fonte": "Sistema de Provas, conferido à mão em 15/08",
       "fonte_url": null,
-      "autoridade": "institucional",
+      "autoridade": "conferido",
       "carencia": null,
       "hora_certa": true,
       "urgencia": "depois",

@@ -275,7 +275,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T14:06:07-03:00",
+    "ultimo": "2026-08-15T14:54:32-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -2941,7 +2941,8 @@
         "s4 - forum do grupo": "2026-07-16T17:05:44-03:00",
         "s3 - forum do grupo": "2026-07-10T15:58:31-03:00",
         "s2 - forum geral": "2026-07-03T11:54:03-03:00",
-        "s2 - forum do grupo": "2026-07-03T11:46:22-03:00"
+        "s2 - forum do grupo": "2026-07-03T11:46:22-03:00",
+        "s1 - forum de apresentacao": "2026-06-27T15:37:04-03:00"
       }
     },
     "portal": {
@@ -2979,8 +2980,82 @@
         }
       ],
       "recados_nao_lidos": 7,
-      "notas": [],
-      "checked_at": "2026-08-15T17:21:48.033544+00:00"
+      "notas": [
+        {
+          "codigo": "SOC100",
+          "nome": "Ética, cidadania e Sociedade",
+          "frequencia": "100.0(%)",
+          "parcelas": {
+            "ATIVIDADE AVA": "",
+            "PROVA": "",
+            "MÉDIA PARCIAL": "",
+            "EXAME": ""
+          },
+          "situacao": "Cursando (Em Recuperação)"
+        },
+        {
+          "codigo": "COM170",
+          "nome": "Inteligência Artificial na Prática Acadêmica e Profissional",
+          "frequencia": "100.0(%)",
+          "parcelas": {
+            "ATIVIDADE AVA": ""
+          },
+          "situacao": ""
+        },
+        {
+          "codigo": "LET110",
+          "nome": "Leitura e Produção de textos",
+          "frequencia": "100.0(%)",
+          "parcelas": {
+            "ATIVIDADE AVA": "",
+            "PROVA": "",
+            "MÉDIA PARCIAL": "",
+            "EXAME": ""
+          },
+          "situacao": "Cursando (Em Recuperação)"
+        },
+        {
+          "codigo": "MMB002",
+          "nome": "Matemática Básica",
+          "frequencia": "100.0(%)",
+          "parcelas": {
+            "ATIVIDADE AVA": "",
+            "PROVA": "",
+            "MÉDIA PARCIAL": "",
+            "EXAME": ""
+          },
+          "situacao": ""
+        },
+        {
+          "codigo": "COM100",
+          "nome": "Pensamento Computacional",
+          "frequencia": "100.0(%)",
+          "parcelas": {
+            "ATIVIDADE AVA": "",
+            "PROVA": "",
+            "MÉDIA PARCIAL": "",
+            "EXAME": ""
+          },
+          "situacao": "Cursando (Em Recuperação)"
+        },
+        {
+          "codigo": "INT100",
+          "nome": "Projetos e métodos para a produção do conhecimento",
+          "frequencia": "100.0(%)",
+          "parcelas": {
+            "ATIVIDADE AVA": "",
+            "PROVA": "",
+            "MÉDIA PARCIAL": "",
+            "EXAME": ""
+          },
+          "situacao": ""
+        }
+      ],
+      "checked_at": "2026-08-15T18:36:08.312219+00:00",
+      "_login_ok": [
+        "#form\\:usuario",
+        "26235014"
+      ]
     }
   },
   "_autores_institucionais": {
@@ -5319,7 +5394,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T14:18:19-03:00",
+    "ultimo": "2026-08-15T15:31:46-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5667,7 +5742,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T13:30:12-03:00",
+    "ultimo": "2026-08-15T14:40:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -6844,11 +6919,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T14:07:00-03:00",
+    "ultimo": "2026-08-15T15:35:49-03:00",
     "truncado": true,
-    "posts_institucionais_vistos": 3,
-    "posts_institucionais_guardados": 3,
+    "posts_institucionais_vistos": 4,
+    "posts_institucionais_guardados": 4,
     "posts": [
+      {
+        "id": "672011",
+        "autor": "Elva Karina Mayhua Quispe",
+        "data": "2026-08-15T14:58:20-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Fala, pessoal! Tudo bem?\n\nPassando para abrir espaço oficial aqui no Fórum Temático da Semana 4 para vocês enviarem o desafio do Scratch!\n\nPeço desculpas pelo equívoco, o aviso anterior foi publicado na aba de Avisos e por isso alguns de vocês não estavam conseguindo responder. Este aqui é o tópico correto para a postagem!\n\nLembrando o Desafio da Semana 4: Criar um programa interativo no Scratch u",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=672011#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      },
       {
         "id": "650659",
         "autor": "Joyce Mirella Dos Anjos Viana",
@@ -6904,6 +6994,53 @@
         "novo": true
       },
       {
+        "id": "672252",
+        "autor": "PHELLIPE DI CARLO LOCHA MACHADO",
+        "data": "2026-08-15T15:31:56-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá pessoal!\n\nSegue link do projeto: https://scratch.mit.edu/projects/1368975334/\n\nInclui: Comprimento formal / solicitação para digitar um número / a condição SE (para números até 9 e a partir de 10) / balão da resposta até o número 9 / Logo da Univesp na faixada da escola.",
+        "links": [
+          "https://scratch.mit.edu/projects/1368975334/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=672252#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "672236",
+        "autor": "GABRIEL JOSE DE ARAUJO",
+        "data": "2026-08-15T15:29:29-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Boa tarde, pessoal!\n\nSegue o link do meu projeto: https://scratch.mit.edu/projects/1369019323/\n\nO personagem vai perguntar para você digitar um número.\n\nSe o número for menor que 10: O personagem fará uma contagem progressiva na tela, falando em voz alta (usando balões) todos os números inteiros de 0 até o número que você digitou.\n\nSe o número for maior ou igual a 10: O personagem avisará \"Número ",
+        "links": [
+          "https://scratch.mit.edu/projects/1369019323/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=672236#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "672170",
+        "autor": "ALAN NILSON OLIVEIRA DOS SANTOS",
+        "data": "2026-08-15T15:21:34-03:00",
+        "titulo": "S4 - Fórum temático",
+        "texto": "Alguém tem grupo de WhatsApp do pessoal ? Me add 27995044437",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=672170#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "671684",
         "autor": "MARINA MARIANO",
         "data": "2026-08-15T14:07:00-03:00",
@@ -6911,7 +7048,9 @@
         "texto": "Olá pessoal,\n\nSegue aqui o link do meu projeto:\nhttps://scratch.mit.edu/projects/1368161448\n\nAo iniciar clicando na bandeirinha, usei o comando de som para digite um número, associado ao comanda da fantasia do personagem que eu escolhi. Em seguida, vem o sensor que abre a caixinha para o usuário digitar um número, que fica associado à resposta - também criado um comando para que o programa reaja à",
         "links": [
           "https://scratch.mit.edu/projects/1368161448",
-          "https://ava.univesp.br/mod/forum/post.php?reply=671684#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=671684#mformforum",
+          "https://scratch.mit.edu/projects/1369015973",
+          "https://ava.univesp.br/mod/forum/post.php?reply=672135#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
@@ -6950,76 +7089,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "669899",
-        "autor": "ROBSON RAMOS",
-        "data": "2026-08-15T08:32:19-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Olá Pessoal !\n\nEssa é a atividade obrigatória\nhttps://scratch.mit.edu/projects/1368968483/\n\nPara atender aos requisitos propostos (fazer o personagem interagir com o usuário com base em um número digitado), desenvolvi um algoritmo utilizando os seguintes blocos e etapas no Scratch:\n\nCriação de Variável:\n\nCriei a variável numero para armazenar o dado inserido.\n\nEntrada de Dados (Sensoriamento):\n\nUt",
-        "links": [
-          "https://scratch.mit.edu/projects/1368968483/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=669899#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "669816",
-        "autor": "JESSICA SOUZA DA SILVA",
-        "data": "2026-08-15T07:58:58-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Segue o link do meu projeto: https://scratch.mit.edu/projects/123456789\nComo fiz: Usei o bloco de pergunta para interagir com o usuário, salvei a resposta em uma variável e apliquei a estrutura se/senão para checar as condições. Para a repetição, usei o comando repita até que.\nReflexão: O maior desafio foi ajustar a lógica do laço para não rodar infinitamente e lembrar de zerar as variáveis no iní",
-        "links": [
-          "https://scratch.mit.edu/projects/123456789",
-          "https://ava.univesp.br/mod/forum/post.php?reply=669816#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "669686",
-        "autor": "NILSON LOURENCO DE ARAUJO",
-        "data": "2026-08-15T05:03:11-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1368346380\n\nO usuário deverá clicar na bandeira verde e seguir a instrução do personagem de digitar um número aleatório, se estiver de acordo, o personagem irá contar até o número digitado, se não estiver, ele dará uma resposta, cada vez que o usuário clicar na bandeira verde, haverá uma troca de cenário e de personagem(ATOR).",
-        "links": [
-          "https://scratch.mit.edu/projects/1368346380",
-          "https://ava.univesp.br/mod/forum/post.php?reply=669686#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "669634",
-        "autor": "RAFAELA ALVES LUPETTI DE LOREDO",
-        "data": "2026-08-15T02:55:16-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Tive um pouco de dificuldade ate pegar o jeito.\n\n\nhttps://scratch.mit.edu/projects/1368927611",
-        "links": [
-          "https://scratch.mit.edu/projects/1368927611",
-          "https://ava.univesp.br/mod/forum/post.php?reply=669634#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T14:11:56-03:00",
+    "ultimo": "2026-08-15T15:26:18-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7072,6 +7147,37 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "672210",
+        "autor": "ALAN NILSON OLIVEIRA DOS SANTOS",
+        "data": "2026-08-15T15:26:18-03:00",
+        "titulo": "S4 - Fórum de dúvidas gerais",
+        "texto": "https://chat.whatsapp.com/KtcvQZHVm9SLH04HpuFqmv?s=cl&p=i&ilr=2\n\n\n\n\n\n\n\nGrupo wpp",
+        "links": [
+          "https://chat.whatsapp.com/KtcvQZHVm9SLH04HpuFqmv?s=cl&p=i&ilr=2",
+          "https://ava.univesp.br/mod/forum/post.php?reply=672210#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "672181",
+        "autor": "ALAN NILSON OLIVEIRA DOS SANTOS",
+        "data": "2026-08-15T15:23:27-03:00",
+        "titulo": "S4 - Fórum de dúvidas gerais",
+        "texto": "Tem algum grupo de WhatsApp? Manda o link pra 27995044437",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=672181#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "669155",
@@ -7163,46 +7269,46 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "658351",
-        "autor": "PRISCILA TAJIMA",
-        "data": "2026-08-13T19:57:42-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Muito interessante utilizar o Scratch. Tive dificuldades e só consegui fazer a atividade após a live de ontem.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=658351#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "656956",
-        "autor": "ANDREIA PIRES DA SILVA PARO",
-        "data": "2026-08-13T17:52:42-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Boa noite!\nConfesso que encontro bastante dificuldade para realizar as atividades, mas estou gostando de aprender algo completamente novo para mim.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=656956#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T14:21:36-03:00",
+    "ultimo": "2026-08-15T15:29:17-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "672053",
+        "autor": "MILTON CARLOS FARINA",
+        "data": "2026-08-15T15:03:21-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Existe, de fato, um efeito significativo no progresso ético-social? Constata-se um efeito no progresso tecnológico que afeta o social, porém, o progresso ético muitas vezes não ocorre no mesmo ritmo. A sociedade apresenta melhores condições para o progresso dos indivíduos, porém, o ritmo que isso ocorre , traz problemas para as pessoas. Os jovens têm mais chances de alcançar o sucesso, porém, a co",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=672053#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "671833",
+        "autor": "GABRIEL JOSE DE ARAUJO",
+        "data": "2026-08-15T14:31:51-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Embora o contexto atual traga mais oportunidades, direitos e acesso à informação, esses avanços não se traduzem em igualdade prática. O progresso social e ético esbarra em barreiras materiais, como por exemplo, desigualdade econômica, falta de tempo e precarização do trabalho. Isso faz com que a verdadeira questão não seja a falta de caminhos, mas quem de fato tem condições de percorrê-los.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=671833#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "671785",
         "autor": "GRAZIELLA CRISTINA GONCALVES OLIVEIRA",
@@ -7323,42 +7429,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "669974",
-        "autor": "GABRIEL HENRIQUE POLLA",
-        "data": "2026-08-15T08:56:41-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Meu amigo, perfeita sua observacão. Tenho a impressão que hoje temos um acesso virtual a tudo, mas na prática isso não funciona. Os números mostram uma coisa mas a realidade não fecha a conta.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=669974#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "669218",
-        "autor": "CARLOS VINICIUS FRAVOLINI",
-        "data": "2026-08-14T23:36:54-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Existe sim um progresso ético social, principalmente na proteção da dignidade, pois antes muitos grupos não eram tratados de uma forma agradável pela sociedade e hoje são.\n\nPorém com as mudanças boas, vem novos problemas que a nova sociedade precisa enfrentar. Hoje temos melhores condições para indivíduos progredirem na vida social e profissional (no entanto, nem todos), porém surgiu novas condiçõ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=669218#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T12:15:43-03:00",
+    "ultimo": "2026-08-15T15:30:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -7517,7 +7593,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T14:12:18-03:00",
+    "ultimo": "2026-08-15T15:41:25-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
