@@ -1,10 +1,60 @@
 {
-  "portal": {},
+  "portal": {
+    "ra": "26235014",
+    "disciplinas": [
+      {
+        "codigo": "COM170",
+        "nome": "Inteligência Artificial na Prática Acadêmica e Profissional",
+        "situacao": "Cursando"
+      },
+      {
+        "codigo": "LET110",
+        "nome": "Leitura e Produção de textos",
+        "situacao": "Cursando"
+      },
+      {
+        "codigo": "COM100",
+        "nome": "Pensamento Computacional",
+        "situacao": "Cursando"
+      },
+      {
+        "codigo": "SOC100",
+        "nome": "Ética, cidadania e Sociedade",
+        "situacao": "Cursando"
+      },
+      {
+        "codigo": "MMB002",
+        "nome": "Matemática Básica",
+        "situacao": "Cursando"
+      },
+      {
+        "codigo": "INT100",
+        "nome": "Projetos e métodos para a produção do conhecimento",
+        "situacao": "Cursando"
+      }
+    ],
+    "recados_nao_lidos": 7,
+    "notas": [],
+    "provas": [],
+    "checked_at": "2026-08-15T13:49:30.978099+00:00",
+    "_so_no_portal": [
+      {
+        "codigo": "MMB002",
+        "nome": "Matemática Básica",
+        "situacao": "Cursando"
+      },
+      {
+        "codigo": "INT100",
+        "nome": "Projetos e métodos para a produção do conhecimento",
+        "situacao": "Cursando"
+      }
+    ]
+  },
   "status": "ok",
-  "checked_at": "2026-08-15T13:34:33.969112+00:00",
-  "snapshot_at": "2026-08-15T13:34:33.969112+00:00",
-  "attempted_at": "2026-08-15T13:34:33.969112+00:00",
-  "publication_id": "2026-08-15T13:34:33.969112+00:00",
+  "checked_at": "2026-08-15T13:49:30.975417+00:00",
+  "snapshot_at": "2026-08-15T13:49:30.975417+00:00",
+  "attempted_at": "2026-08-15T13:49:30.975417+00:00",
+  "publication_id": "2026-08-15T13:49:30.975417+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 50,
@@ -19,21 +69,22 @@
   "problemas": [],
   "fontes_status": {
     "portal": {
-      "status": "falhou",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": null,
-      "idade_segundos": null,
+      "status": "live",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
+      "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
       "truncado": false,
-      "problemas": [
-        "o portal não abriu a tela do aluno depois do login"
-      ]
+      "problemas": [],
+      "disciplinas": 6,
+      "provas": 0,
+      "recados_nao_lidos": 7
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -42,8 +93,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 12,
       "from_cache": false,
@@ -56,8 +107,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -69,8 +120,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -85,8 +136,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -98,8 +149,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -113,8 +164,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -126,8 +177,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 30,
       "from_cache": false,
@@ -139,8 +190,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-15T13:34:33.971308+00:00",
-      "last_live_at": "2026-08-15T13:34:33.971308+00:00",
+      "checked_at": "2026-08-15T13:49:30.978099+00:00",
+      "last_live_at": "2026-08-15T13:49:30.978099+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -1099,7 +1150,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2933,7 +2984,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,

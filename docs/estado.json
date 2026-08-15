@@ -2945,6 +2945,45 @@
         "s2 - forum do grupo": "2026-07-03T11:46:22-03:00",
         "s1 - forum de apresentacao": "2026-06-27T15:37:04-03:00"
       }
+    },
+    "portal": {
+      "ra": "26235014",
+      "disciplinas": [
+        {
+          "codigo": "COM170",
+          "nome": "Inteligência Artificial na Prática Acadêmica e Profissional",
+          "situacao": "Cursando"
+        },
+        {
+          "codigo": "LET110",
+          "nome": "Leitura e Produção de textos",
+          "situacao": "Cursando"
+        },
+        {
+          "codigo": "COM100",
+          "nome": "Pensamento Computacional",
+          "situacao": "Cursando"
+        },
+        {
+          "codigo": "SOC100",
+          "nome": "Ética, cidadania e Sociedade",
+          "situacao": "Cursando"
+        },
+        {
+          "codigo": "MMB002",
+          "nome": "Matemática Básica",
+          "situacao": "Cursando"
+        },
+        {
+          "codigo": "INT100",
+          "nome": "Projetos e métodos para a produção do conhecimento",
+          "situacao": "Cursando"
+        }
+      ],
+      "recados_nao_lidos": 7,
+      "notas": [],
+      "provas": [],
+      "checked_at": "2026-08-15T13:49:30.978099+00:00"
     }
   },
   "_autores_institucionais": {
@@ -5978,7 +6017,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T10:02:39-03:00",
+    "ultimo": "2026-08-15T10:50:24-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6038,6 +6077,21 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "670470",
+        "autor": "ROBERTO DIAS ALVES",
+        "data": "2026-08-15T10:50:24-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "Para mim os textos convergem para a ideia de que a linguagem e a literatura são direitos humanos fundamentais de interação social, necessárias para nós mantermos o equilíbrio mental. A leitura me mostrou que continuemos a ter estratégias críticas para superar o analfabetismo e ter resistência a discursos de poder.\nResumindo, o ensino deve focar na prática da vida com base histórica, dando autonomi",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=670470#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "669293",
@@ -6126,21 +6180,6 @@
         "texto": "Ao refletirmos sobre o acesso à leitura e à escrita, é fundamental compreender que o direito à alfabetização não se encerra na mera capacidade de decodificar letras, juntar sílabas ou assinar o próprio nome. Garantir o acesso à leitura e à escrita críticas é assegurar um direito humano fundamental e uma ferramenta indispensável para o exercício pleno da cidadania.\n1. A leitura crítica como emancip",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=659562#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "657024",
-        "autor": "JOSE IVANIR ANDERSON JUNIOR",
-        "data": "2026-08-13T18:01:09-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Aprender a ler e a escrever criticamente é um direito fundamental pois o poder se exerce prioritariamente através dos discursos e do controle dos sentidos das palavras. Em democracias, a livre palavra coletiva é o que garante a vivacidade do regime, combatendo usurpações que tentam impor o silêncio como signo de obediência. A literacia crítica assegura a autonomia, permitindo que o indivíduo trans",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=657024#mformforum"
         ],
         "forum": "S3 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
@@ -6807,7 +6846,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T09:28:42-03:00",
+    "ultimo": "2026-08-15T10:48:48-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -7161,11 +7200,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-15T10:06:37-03:00",
+    "ultimo": "2026-08-15T10:42:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "670428",
+        "autor": "RAFAEL FLAVIO DA SILVEIRA",
+        "data": "2026-08-15T10:42:28-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Acredito, sim, que tenha existido avanços significativos no progresso ético-social considerando períodos mais antigos com os dias atuais, mas ao passo que esses avanços acontecem em suas mais diversas áreas, também é possível observar a pemanência de desigualdade social, precarização do trabalho, violência e dificuldade de acesso à cidadania plena.\nSobre a juventude, hoje existem muito mais recurs",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=670428#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "670198",
         "autor": "ANTONIO RAEL DE PAIVA",
@@ -7294,21 +7348,6 @@
         "texto": "Hoje em dia a gente tem mais progresso social e ético, principalmente no Brasil. Mais acesso a estudo, saúde, informação, tecnologia. Os jovens até têm mais chance de sucesso profissional por causa disso.\n\nSó que, por outro lado... 20, 30 anos atrás, só o pai trabalhava e dava pra sustentar a casa, criar os filhos, e a mãe ficava em casa cuidando de tudo. Hoje trabalha marido, trabalha esposa, e à",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=668098#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "666446",
-        "autor": "JOSEMAR DE PAULA",
-        "data": "2026-08-14T18:31:51-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Acho que o João está certo nos dados e a Laurinda está certa no que ela sente, e isso não é contradição.\n\nAs condições materiais melhoraram, e isso é mensurável. Acesso a serviço, escolaridade, expectativa de vida, tudo isso subiu, e o IDH capta essa parte. O que o IDH não capta é distribuição. Ele é média, e média esconde extremo. Na área que eu atendo dá para ver isso andando poucos quarteirões:",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=666446#mformforum"
         ],
         "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
