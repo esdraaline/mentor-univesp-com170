@@ -1,5 +1,6 @@
 {
-  "_leia": "Provas presenciais conferidas à mão no Sistema de Provas (portal do aluno). Existe porque o prova.univesp.br fica atrás de verificação anti-robô: do navegador do Josemar, logado, o calendário abre normal; do servidor da Action, aparece a tela 'confirm you are human'. Contornar isso está fora de escopo por decisão, não por dificuldade. Então a data vem daqui, com a validade à mostra. Atualize com: python automacao/provas.py",
+  "_leia": "Provas presenciais conferidas à mão no Sistema de Provas (portal do aluno). Existe porque o prova.univesp.br fica atrás de verificação anti-robô: do navegador do Josemar, logado, o calendário abre normal; do servidor da Action, aparece a tela 'confirm you are human'. Contornar isso está fora de escopo por decisão, não por dificuldade. Então a data vem daqui, com a validade à mostra.",
+  "_como_atualizar": "Abra o Portal do Aluno > Links Úteis > Sistema de Provas > Calendário de Atividades, e copie o bloco 'Suas atividades'. Edite este arquivo na mão: uma entrada por prova, com o fuso -03:00 no fim da data (sem ele o robô completa sozinho, mas escreva certo), e atualize 'conferido_em' e 'vale_ate'. Passado o 'vale_ate' o registro some sozinho, em vez de continuar afirmando a data de um bimestre que já virou.",
   "conferido_em": "2026-08-15",
   "conferido_por": "leitura ao vivo do Calendário de Atividades, com a sessão do Josemar",
   "vale_ate": "2026-09-23",
