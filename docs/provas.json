@@ -1,0 +1,29 @@
+{
+  "_leia": "Provas presenciais conferidas à mão no Sistema de Provas (portal do aluno). Existe porque o prova.univesp.br fica atrás de verificação anti-robô: do navegador do Josemar, logado, o calendário abre normal; do servidor da Action, aparece a tela 'confirm you are human'. Contornar isso está fora de escopo por decisão, não por dificuldade. Então a data vem daqui, com a validade à mostra. Atualize com: python automacao/provas.py",
+  "conferido_em": "2026-08-15",
+  "conferido_por": "leitura ao vivo do Calendário de Atividades, com a sessão do Josemar",
+  "vale_ate": "2026-09-23",
+  "provas": [
+    {
+      "codigo": "COM100",
+      "titulo": "2026 - COM100 - PENSAMENTO COMPUTACIONAL - 3 BIMESTRE",
+      "modalidade": "Presencial",
+      "inicio": "2026-09-22T17:55:00-03:00",
+      "fim": "2026-09-22T22:05:00-03:00"
+    },
+    {
+      "codigo": "LET110",
+      "titulo": "2026 - LET110 - LEITURA E PRODUÇÃO DE TEXTOS - 3 BIMESTRE",
+      "modalidade": "Presencial",
+      "inicio": "2026-09-22T17:55:00-03:00",
+      "fim": "2026-09-22T22:05:00-03:00"
+    },
+    {
+      "codigo": "SOC100",
+      "titulo": "2026 - SOC100 - ÉTICA CIDADANIA E SOCIEDADE - 3 BIMESTRE",
+      "modalidade": "Presencial",
+      "inicio": "2026-09-22T17:55:00-03:00",
+      "fim": "2026-09-22T22:05:00-03:00"
+    }
+  ]
+}
