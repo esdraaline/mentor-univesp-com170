@@ -105,7 +105,7 @@
         "situacao": ""
       }
     ],
-    "checked_at": "2026-08-15T20:24:19.250215+00:00",
+    "checked_at": "2026-08-16T11:25:02.537121+00:00",
     "_login_ok": [
       "#form\\:usuario",
       "26235014"
@@ -149,27 +149,27 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-15T20:24:19.247984+00:00",
-  "snapshot_at": "2026-08-15T20:24:19.247984+00:00",
-  "attempted_at": "2026-08-15T20:24:19.247984+00:00",
-  "publication_id": "2026-08-15T20:24:19.247984+00:00",
+  "checked_at": "2026-08-16T11:25:02.534875+00:00",
+  "snapshot_at": "2026-08-16T11:25:02.534875+00:00",
+  "attempted_at": "2026-08-16T11:25:02.534875+00:00",
+  "publication_id": "2026-08-16T11:25:02.534875+00:00",
   "fontes": {
     "disciplinas": 4,
-    "secoes": 50,
+    "secoes": 51,
     "itens": 224,
     "avisos": 60,
-    "eventos_calendario": 12,
-    "eventos_uteis": 12,
+    "eventos_calendario": 13,
+    "eventos_uteis": 13,
     "notificacoes": 15,
     "cronograma": 3,
-    "itens_com_prazo": 44
+    "itens_com_prazo": 45
   },
   "problemas": [],
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -183,8 +183,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -193,22 +193,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 12,
+      "quantidade_atual": 13,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 12,
+      "eventos": 13,
       "api": 6,
       "dom": 10
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -220,8 +220,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -236,8 +236,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 7,
       "from_cache": false,
@@ -249,8 +249,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 25,
       "from_cache": false,
@@ -264,8 +264,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -277,8 +277,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 30,
       "from_cache": false,
@@ -290,8 +290,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-15T20:24:19.250215+00:00",
-      "last_live_at": "2026-08-15T20:24:19.250215+00:00",
+      "checked_at": "2026-08-16T11:25:02.537121+00:00",
+      "last_live_at": "2026-08-16T11:25:02.537121+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -689,7 +689,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "650226",
@@ -709,7 +709,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "641398",
@@ -724,7 +724,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "641346",
@@ -740,7 +740,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "641322",
@@ -757,7 +757,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "639771",
@@ -844,8 +844,8 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
-              "prazo": null,
-              "prazo_fonte": null,
+              "prazo": "2026-08-19T20:00:00-03:00",
+              "prazo_fonte": "calendário do AVA",
               "carencia": null
             },
             {
@@ -942,7 +942,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1144,7 +1144,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "17",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1157,7 +1157,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "7",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1245,7 +1245,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
-              "nao_lidas": "9",
+              "nao_lidas": "31",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1258,7 +1258,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "8",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1941,7 +1941,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2075,7 +2075,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "23",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2088,7 +2088,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "7",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2222,7 +2222,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
-              "nao_lidas": "6",
+              "nao_lidas": "43",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2235,7 +2235,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2967,7 +2967,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3079,7 +3079,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "18",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3191,7 +3191,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
-              "nao_lidas": "7",
+              "nao_lidas": "20",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4180,22 +4180,6 @@
           "autoridade": "institucional",
           "prazos": [
             {
-              "rotulo": "Prazo entrega",
-              "quando": "2026-08-15T23:59:00-03:00",
-              "trecho": "15 PRAZO ENTREGA",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": {
-                "familia": "quinzena",
-                "numeros": [
-                  2
-                ],
-                "txt": "PRAZO ENTREGA"
-              },
-              "confianca": "alta",
-              "frase": "Calendário da Quinzena 2, de 3 a 18 de agosto de 2026, com as etapas e os prazos. Célula: 15 PRAZO ENTREGA"
-            },
-            {
               "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agos...",
               "quando": "2026-08-18T23:59:00-03:00",
               "trecho": "18 de agosto",
@@ -4462,7 +4446,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-18",
+          "id": "section-26",
           "secao_id": "83112",
           "title": "Módulo 1",
           "parent": "section-1",
@@ -4537,7 +4521,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-17",
+          "id": "section-25",
           "secao_id": "83113",
           "title": "Módulo 2",
           "parent": "section-1",
@@ -4628,7 +4612,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-16",
+          "id": "section-24",
           "secao_id": "83114",
           "title": "Módulo 3",
           "parent": "section-1",
@@ -4691,7 +4675,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-15",
+          "id": "section-23",
           "secao_id": "83115",
           "title": "Módulo 4",
           "parent": "section-1",
@@ -4754,7 +4738,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-14",
+          "id": "section-22",
           "secao_id": "83116",
           "title": "Módulo 5",
           "parent": "section-1",
@@ -4777,7 +4761,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-13",
+          "id": "section-21",
           "secao_id": "83117",
           "title": "Módulo 6",
           "parent": "section-1",
@@ -4821,7 +4805,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-12",
+          "id": "section-20",
           "secao_id": "83118",
           "title": "Módulo 7",
           "parent": "section-1",
@@ -4911,7 +4895,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4922,7 +4906,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-11",
+          "id": "section-19",
           "secao_id": "90942",
           "title": "Q2 Módulo 1",
           "parent": "section-2",
@@ -5001,7 +4985,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-10",
+          "id": "section-18",
           "secao_id": "90943",
           "title": "Q2 Módulo 2",
           "parent": "section-2",
@@ -5108,7 +5092,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-9",
+          "id": "section-17",
           "secao_id": "90944",
           "title": "Q2 Módulo 3",
           "parent": "section-2",
@@ -5171,7 +5155,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-8",
+          "id": "section-16",
           "secao_id": "90945",
           "title": "Q2 Módulo 4",
           "parent": "section-2",
@@ -5262,7 +5246,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-7",
+          "id": "section-15",
           "secao_id": "90946",
           "title": "Q2 Módulo 5",
           "parent": "section-2",
@@ -5309,7 +5293,7 @@
           "fase": "regular"
         },
         {
-          "id": "section-6",
+          "id": "section-14",
           "secao_id": "90947",
           "title": "Q2 Módulo 6",
           "parent": "section-2",
@@ -5340,19 +5324,19 @@
               "nota_txt": "-",
               "tem_nota": false,
               "feedback": null,
-              "prazo": "2026-08-15T23:59:00-03:00",
+              "prazo": "2026-08-18T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
               "enviado": true,
               "aberto": true,
-              "avaliacao_pendente": null,
-              "avaliacoes_pendentes": null
+              "avaliacao_pendente": true,
+              "avaliacoes_pendentes": 1
             }
           ],
           "fase": "regular"
         },
         {
-          "id": "section-5",
+          "id": "section-13",
           "secao_id": "90948",
           "title": "Q2 Módulo 7",
           "parent": "section-2",
@@ -5384,14 +5368,14 @@
               "nota_txt": "-",
               "tem_nota": false,
               "feedback": null,
-              "prazo": "2026-08-15T23:59:00-03:00",
+              "prazo": "2026-08-18T23:59:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null,
               "enviado": false,
-              "aberto": true,
+              "aberto": false,
               "avaliacao_pendente": null,
               "avaliacoes_pendentes": null,
-              "aberto_fonte": "calendário do AVA"
+              "motivo_fechado": "o AVA diz que não está aberta"
             }
           ],
           "fase": "regular"
@@ -5407,7 +5391,7 @@
           "fase": "AIA"
         },
         {
-          "id": "section-19",
+          "id": "section-27",
           "secao_id": "85032",
           "title": "Semana 1",
           "parent": "section-3",
@@ -5505,7 +5489,7 @@
           "fase": "AIA"
         },
         {
-          "id": "section-20",
+          "id": "section-28",
           "secao_id": "85033",
           "title": "Semana 2",
           "parent": "section-3",
@@ -5615,7 +5599,7 @@
           "fase": "AIA"
         },
         {
-          "id": "section-21",
+          "id": "section-29",
           "secao_id": "85034",
           "title": "Semana 3",
           "parent": "section-3",
@@ -5725,7 +5709,7 @@
           "fase": "AIA"
         },
         {
-          "id": "section-22",
+          "id": "section-30",
           "secao_id": "85035",
           "title": "Semana 4",
           "parent": "section-3",
@@ -5855,6 +5839,16 @@
             }
           ],
           "fase": "AIA"
+        },
+        {
+          "id": "section-5",
+          "secao_id": "92853",
+          "title": "Quinzena 3",
+          "parent": null,
+          "locked": "Disponível a partir de 17 de agosto de 2026",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
         }
       ]
     }
@@ -5907,30 +5901,6 @@
       "cmid": "215612",
       "tipo": "closesubmission",
       "via": "api"
-    },
-    {
-      "nome": "Q2 M6 - Revisão entre pares (Portfólio Individual) - início para avaliação",
-      "quando": "2026-08-16T00:00:00-03:00",
-      "curso_id": "18922",
-      "curso": null,
-      "atividade": "Q2 M6 - Revisão entre pares (Portfólio Individual) - início para avaliação",
-      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
-      "acao": null,
-      "cmid": "215609",
-      "tipo": "openassessment",
-      "via": "dom"
-    },
-    {
-      "nome": "Q2 M7 - Revisão entre pares (Portfólio em grupo) - início para avaliação",
-      "quando": "2026-08-16T00:00:00-03:00",
-      "curso_id": "18922",
-      "curso": null,
-      "atividade": "Q2 M7 - Revisão entre pares (Portfólio em grupo) - início para avaliação",
-      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
-      "acao": null,
-      "cmid": "215612",
-      "tipo": "openassessment",
-      "via": "dom"
     },
     {
       "nome": "Término de S3 - Atividade Avaliativa",
@@ -6003,6 +5973,42 @@
       "cmid": "215612",
       "tipo": "closeassessment",
       "via": "api"
+    },
+    {
+      "nome": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "quando": "2026-08-19T20:00:00-03:00",
+      "curso_id": "18870",
+      "curso": null,
+      "atividade": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "acao": null,
+      "cmid": "160778",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
+      "nome": "Término de S4 - Atividade Avaliativa",
+      "quando": "2026-08-23T23:59:00-03:00",
+      "curso_id": "18893",
+      "curso": null,
+      "atividade": "Término de S4 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165200",
+      "acao": null,
+      "cmid": "165200",
+      "tipo": "close",
+      "via": "dom"
+    },
+    {
+      "nome": "Término de S4 - Atividade Avaliativa",
+      "quando": "2026-08-23T23:59:00-03:00",
+      "curso_id": "18870",
+      "curso": null,
+      "atividade": "Término de S4 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193363",
+      "acao": null,
+      "cmid": "193363",
+      "tipo": "close",
+      "via": "dom"
     }
   ],
   "notificacoes": [
@@ -6100,26 +6106,6 @@
   "mensagens": [],
   "acoes": [
     {
-      "curso": "COM170",
-      "secao": "Q2 Módulo 7",
-      "fase": "regular",
-      "verbo": "Confirme com o grupo",
-      "coisa": "a entrega do representante",
-      "o_que": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
-      "tipo": "workshop",
-      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
-      "conta_nota": true,
-      "explicacao": "O AVA registra envio por aluno, então a sua conta diz que você não enviou mesmo que o grupo tenha entregado. Se o representante desta quinzena é outra pessoa, confirme com ela. Se for você, o envio é seu e ainda não consta.",
-      "entrega_nao_confirmada": false,
-      "prazo": "2026-08-15T23:59:00-03:00",
-      "prazo_txt": "vence hoje às 23:59",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
-    {
       "curso": "LET110",
       "secao": "Calendário do AVA",
       "fase": "regular",
@@ -6140,7 +6126,7 @@
     },
     {
       "curso": "COM170",
-      "secao": "Calendário do AVA",
+      "secao": "Q2 Módulo 6",
       "fase": "regular",
       "verbo": "Avalie",
       "coisa": "o trabalho do colega",
@@ -6152,11 +6138,9 @@
       "prazo_txt": "vence 18/08 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
-      "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana",
-      "abre_em": "2026-08-16T00:00:00-03:00"
+      "urgencia": "semana"
     },
     {
       "curso": "COM170",
@@ -6165,7 +6149,7 @@
       "verbo": "Avalie",
       "coisa": "o trabalho do colega",
       "o_que": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
-      "tipo": "workshop",
+      "tipo": "calendario",
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
       "conta_nota": true,
       "prazo": "2026-08-18T23:59:00-03:00",
@@ -6176,7 +6160,26 @@
       "carencia": null,
       "hora_certa": true,
       "urgencia": "semana",
-      "abre_em": "2026-08-16T00:00:00-03:00"
+      "resgatado": true
+    },
+    {
+      "curso": "COM100",
+      "secao": "Calendário do AVA",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "conta_nota": true,
+      "prazo": "2026-08-19T20:00:00-03:00",
+      "prazo_txt": "acontece 19/08 às 20:00",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana"
     },
     {
       "curso": "SOC100",
@@ -6305,6 +6308,20 @@
     },
     {
       "curso": "COM170",
+      "secao": "Q2 Módulo 7",
+      "fase": "regular",
+      "verbo": "Confirme com o grupo",
+      "coisa": "a entrega do representante",
+      "o_que": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
+      "tipo": "workshop",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
+      "conta_nota": true,
+      "explicacao": "O AVA registra envio por aluno, então a sua conta diz que você não enviou mesmo que o grupo tenha entregado. Se o representante desta quinzena é outra pessoa, confirme com ela. Se for você, o envio é seu e ainda não consta.",
+      "entrega_nao_confirmada": false,
+      "motivo": "o AVA diz que não está aberta"
+    },
+    {
+      "curso": "COM170",
       "secao": "Semana 1",
       "fase": "AIA",
       "verbo": "Responda",
@@ -6319,31 +6336,9 @@
   "higiene": [],
   "confirmar": [
     {
-      "curso": "COM170",
-      "quando": "2026-08-15T23:59:00-03:00",
-      "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "10 a 15/08 segunda a sábado",
-      "frase": "Quem não concluir não entra no grupo desta quinzena Para entrar em contato com o seu grupo, escreva no fórum do M7 - Grupo: Ponto de encontro 10 a 15/08 segunda a sábado: Janela de envio das atividades da quinzena",
-      "autor": "Neide Silvania Campos Sampaio",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132782"
-    },
-    {
-      "curso": "COM170",
-      "quando": "2026-08-15T23:59:00-03:00",
-      "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "15 de agosto",
-      "frase": "9 de agosto: decide quem entra no grupo É o prazo para concluir o Módulo 4 15 de agosto: decide o que foi entregue",
-      "autor": "Neide Silvania Campos Sampaio",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132782"
-    },
-    {
       "curso": "COM100",
       "quando": "2026-08-17T23:59:00-03:00",
-      "quando_txt": "vence 17/08 (horário não informado)",
+      "quando_txt": "vence amanhã, 17/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
       "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external 17/08",
@@ -6483,5 +6478,39 @@
       "em": "2026-08-14T22:04:49.794202+00:00"
     }
   ],
-  "prazos_novos": []
+  "prazos_novos": [
+    {
+      "curso": "COM170",
+      "label": "Q2 M6 - Revisão entre pares (Portfólio Individual)",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
+      "cmid": "215609",
+      "prazo": "2026-08-18T23:59:00-03:00",
+      "de": "2026-08-15T23:59:00-03:00",
+      "fonte": "calendário do AVA",
+      "conta_nota": true,
+      "atividade_nova": false
+    },
+    {
+      "curso": "COM170",
+      "label": "Q2 M7 - Revisão entre pares (Portfólio em grupo)",
+      "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
+      "cmid": "215612",
+      "prazo": "2026-08-18T23:59:00-03:00",
+      "de": "2026-08-15T23:59:00-03:00",
+      "fonte": "calendário do AVA",
+      "conta_nota": true,
+      "atividade_nova": false
+    },
+    {
+      "curso": "COM100",
+      "label": "Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "cmid": "160778",
+      "prazo": "2026-08-19T20:00:00-03:00",
+      "de": null,
+      "fonte": "calendário do AVA",
+      "conta_nota": false,
+      "atividade_nova": false
+    }
+  ]
 }
