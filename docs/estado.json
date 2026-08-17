@@ -491,7 +491,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
     "schema_version": 3,
-    "ultimo": "2026-08-16T21:29:21-03:00",
+    "ultimo": "2026-08-17T19:25:13-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 46,
     "posts_institucionais_guardados": 10,
@@ -841,11 +841,94 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T16:09:23-03:00",
+    "ultimo": "2026-08-17T19:26:31-03:00",
     "truncado": true,
-    "posts_institucionais_vistos": 9,
-    "posts_institucionais_guardados": 9,
+    "posts_institucionais_vistos": 10,
+    "posts_institucionais_guardados": 10,
     "posts": [
+      {
+        "id": "691515",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-17T19:26:31-03:00",
+        "titulo": "Re: Fórum de dúvidas gerais",
+        "texto": "Prezados/as,\n\nConforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08).\n\nNa semana que vem, a de nº 6, voltamos pra terça-feira (25/08).\n\nPortanto, a live desta semana será na quinta-feira (20/08), às 20h.\n\nTragam as dúvidas de vocês. \n\nAté lá,\n\nBruno Barra - Facilitador UNIVESP.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=691515#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+        "prazos": [
+          {
+            "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
+            "quando": "2026-08-20T23:59:00-03:00",
+            "trecho": "20/08",
+            "tipo": "compromisso",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08)",
+            "titulo_evento": "Prezados/as"
+          },
+          {
+            "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
+            "quando": "2026-08-18T23:59:00-03:00",
+            "trecho": "18/08",
+            "tipo": "compromisso",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08)",
+            "titulo_evento": "Prezados/as"
+          },
+          {
+            "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
+            "quando": "2026-08-25T23:59:00-03:00",
+            "trecho": "25/08",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08) Na semana que vem, a de nº 6, voltamos pra terça-feira (25/08)"
+          },
+          {
+            "rotulo": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (2...",
+            "quando": "2026-08-20T20:00:00-03:00",
+            "trecho": "20/08), às 20h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08) Na semana que vem, a de nº 6, voltamos pra terça-feira (25/08) Portanto, a live desta semana se...",
+            "titulo_evento": null
+          }
+        ],
+        "autoridade": "institucional",
+        "novo": true
+      },
       {
         "id": "635577",
         "autor": "Bruno Barra da Silva",
@@ -1009,34 +1092,6 @@
         "prazos": [],
         "autoridade": "institucional",
         "novo": false
-      },
-      {
-        "id": "685332",
-        "autor": "ADILEIA DAS DORES FERREIRA",
-        "data": "2026-08-17T08:18:48-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Bruno(Facilitador)\nA live de amanhã (18/08) vai acontecer de fato? Pergunto porque na última Live você havia mencionado que talvez teria que mudar para quinta...",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=685332#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=689328#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-        "prazos": [
-          {
-            "rotulo": "Bruno(Facilitador) A live de amanhã (18/08) vai acontecer de fato? Pergunto porque na ú...",
-            "quando": "2026-08-18T23:59:00-03:00",
-            "trecho": "18/08",
-            "tipo": "compromisso",
-            "hora_certa": false,
-            "escopo": null,
-            "confianca": "baixa",
-            "frase": "Bruno(Facilitador) A live de amanhã (18/08) vai acontecer de fato? Pergunto porque na última Live você havia mencionado que talvez teria que mudar para quinta...",
-            "titulo_evento": "Bruno(Facilitador)"
-          }
-        ],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -2192,18 +2247,6 @@
         "via": "api"
       },
       {
-        "nome": "Live 3",
-        "quando": "2026-08-18T20:00:00-03:00",
-        "curso_id": "18893",
-        "curso": null,
-        "atividade": "Live 3",
-        "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-        "acao": null,
-        "cmid": "165163",
-        "tipo": "course",
-        "via": "dom"
-      },
-      {
         "nome": "Q2 M6 - Revisão entre pares (Portfólio Individual) - prazo limite para avaliação",
         "quando": "2026-08-18T23:59:00-03:00",
         "curso_id": "18922",
@@ -2236,6 +2279,18 @@
         "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
         "acao": null,
         "cmid": "160778",
+        "tipo": "course",
+        "via": "dom"
+      },
+      {
+        "nome": "Live 3",
+        "quando": "2026-08-20T20:00:00-03:00",
+        "curso_id": "18893",
+        "curso": null,
+        "atividade": "Live 3",
+        "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+        "acao": null,
+        "cmid": "165163",
         "tipo": "course",
         "via": "dom"
       },
@@ -3061,7 +3116,7 @@
           "situacao": ""
         }
       ],
-      "checked_at": "2026-08-17T21:20:55.957388+00:00",
+      "checked_at": "2026-08-17T23:24:25.044529+00:00",
       "_login_ok": [
         "#form\\:usuario",
         "26235014"
@@ -3151,7 +3206,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T14:26:24-03:00",
+    "ultimo": "2026-08-17T19:12:21-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5404,7 +5459,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T17:30:31-03:00",
+    "ultimo": "2026-08-17T19:52:45-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -6050,7 +6105,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T00:13:36-03:00",
+    "ultimo": "2026-08-17T20:00:24-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6960,7 +7015,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T17:31:49-03:00",
+    "ultimo": "2026-08-17T20:14:34-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -7148,7 +7203,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T17:32:39-03:00",
+    "ultimo": "2026-08-17T18:41:15-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7327,11 +7382,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T17:22:23-03:00",
+    "ultimo": "2026-08-17T19:49:31-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "691863",
+        "autor": "DHARA CAVALCANTI DE OLIVEIRA",
+        "data": "2026-08-17T19:47:21-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "Podemos observar um progresso ético-social significativo quando analisamos a evolução da cidadania, dos direitos humanos e da organização do Estado. Ao longo do tempo, direitos que antes eram restritos a determinados grupos foram sendo ampliados para parcelas maiores da população. O desenvolvimento da sociedade também provoca novas necessidades e, consequentemente, o surgimento e a ampliação de di",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=691863#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "690144",
         "autor": "MARCO ANTONIO CORREA",
@@ -7466,27 +7536,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "682084",
-        "autor": "CARLOS MATEUS BOARINI",
-        "data": "2026-08-16T20:39:48-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Olá a todos!\n\nA discussão entre a bisavó Laurinda e seu neto João exemplifica perfeitamente como a percepção sobre o progresso varia conforme os indicadores utilizados para analisá-lo.\n\nComo João apontou ao consultar dados do IDH, é inegável que houve um avanço técnico, material e institucional. Indicadores como expectativa de vida, acesso à educação, avanços da medicina e democratização da inform",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=682084#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T16:47:46-03:00",
+    "ultimo": "2026-08-17T19:49:00-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -7650,7 +7705,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T17:29:51-03:00",
+    "ultimo": "2026-08-17T19:59:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7733,6 +7788,21 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "692010",
+        "autor": "JANICE AUGUSTO BAPTISTA DE FIGUEIREDO",
+        "data": "2026-08-17T19:56:36-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "De acordo com o que nos foi ensinado através dos três vídeos-base da semana, o texto precisa articular três dimensões interdependentes para garantir a correta interpretação e a clareza na escrita,:\n1) a estrutura gramatical (coesão),\n2) a consistência lógica do sentido (coerência) e\n3) a seleção crítica dos termos (referenciação).\n\nEstratégias para Garantir a Correta Interpretação de Textos\n\n- Cál",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=692010#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "689160",
@@ -7823,21 +7893,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "684574",
-        "autor": "ELIENE DA ROCHA CARVALHO",
-        "data": "2026-08-16T23:44:35-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Nesta semana aprendi muito sobre elementos linguísticos que podem nos ajudar na construção de textos coerentes e coesos.\nDe acordo com o estudado, devemos ter atenção à organização dos parágrafos identificando qual tópico central do parágrafo e organizando o argumento (ideia principal + desdobramento + fechamento) para evitar sobrecarga de informações.\n\nPensar na progressão textual, apresentando c",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=684574#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -7876,28 +7931,7 @@
       }
     ]
   },
-  "_notas_vistas": {
-    "LET110:165192": {
-      "nota": "10,00",
-      "de": null,
-      "em": "2026-08-14T22:04:49.794202+00:00"
-    },
-    "LET110:165200": {
-      "nota": "10,00",
-      "de": null,
-      "em": "2026-08-14T22:04:49.794202+00:00"
-    },
-    "COM100:160797": {
-      "nota": "10,00",
-      "de": null,
-      "em": "2026-08-14T22:33:03.842922+00:00"
-    },
-    "COM100:193363": {
-      "nota": "10,00",
-      "de": null,
-      "em": "2026-08-14T22:33:03.842922+00:00"
-    }
-  },
+  "_notas_vistas": {},
   "_prazos_avisados": {
     "COM100:207957": {
       "prazo": "2026-08-11T14:26:00-03:00",
@@ -7916,8 +7950,8 @@
       "em": "2026-08-11T17:58:25.200282+00:00"
     },
     "LET110:165163": {
-      "prazo": "2026-08-18T20:00:00-03:00",
-      "em": "2026-08-11T23:42:16.423696+00:00"
+      "prazo": "2026-08-20T20:00:00-03:00",
+      "em": "2026-08-17T23:24:25.041801+00:00"
     },
     "COM100:160778": {
       "prazo": "2026-08-19T20:00:00-03:00",
@@ -8105,7 +8139,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T17:41:38-03:00",
+    "ultimo": "2026-08-17T19:40:39-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -8167,7 +8201,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207959": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T14:52:24-03:00",
+    "ultimo": "2026-08-17T19:59:18-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8175,11 +8209,101 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222535": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T18:15:17-03:00",
+    "ultimo": "2026-08-17T20:29:21-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "692178",
+        "autor": "THIAGO STATELLA",
+        "data": "2026-08-17T20:08:44-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Ainda nos dias de hoje, a estrutura social e cultural influencia a definição dos salários ao reproduzir desigualdades históricas e estereótipos de gênero. Isso se reflete na história da Andrea, mostrando um exemplo real de que competência e produtividade nem sempre são os únicos critérios usados nas decisões salariais.\n\nDiante disso, as empresas não são necessariamente éticas em todos os aspectos,",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=692178#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "692098",
+        "autor": "BRUNA ARAUJO DA SILVA FRANCO",
+        "data": "2026-08-17T20:03:01-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "A história de Andrea mostra que a estrutura social e cultural pode influenciar nos salários e na valorização profissional. As empresas devem buscar ser éticas, justas e transparentes, valorizando todos os funcionários de forma igual. Por isso, é importante combater a desigualdade de gênero no ambiente de trabalho.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=692098#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "692034",
+        "autor": "KAUE VINICIUS VIEIRA",
+        "data": "2026-08-17T19:58:23-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "1. A estrutura social e cultural influencia na atribuição dos salários?\nSim. A valoração do trabalho não ocorre em um vácuo puramente técnico; ela é atravessada por vieses inconscientes e construções históricas. Estruturas patriarcais historicamente associaram o trabalho masculino à provisão do lar (gerando a falsa percepção de que o homem \"merece\" uma remuneração maior) e o trabalho feminino a pa",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=692034#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "692011",
+        "autor": "ALESSANDRO BOMFIM DE OLIVEIRA",
+        "data": "2026-08-17T19:56:44-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "A situação descrita no caso de Andrea levanta um debate central na Ética Aplicada: as divergências entre políticas institucionais declaradas e as práticas remuneratórias no ambiente corporativo.\n\nAbaixo, apresento uma síntese das principais perspectivas teóricas e empíricas que envolvem as três questões propostas:\n\nInfluência da estrutura social e cultural: Estudos em sociologia do trabalho e econ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=692011#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "691795",
+        "autor": "PAULO SERGIO PINHEIRO ROSA",
+        "data": "2026-08-17T19:42:39-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "A história de Andrea explicita como construções sociais e culturais históricas ainda ditam a valoração financeira das funções no mercado de trabalho. Fatores como preconceitos inconscientes e a divisão de papéis sociais continuam influenciando a definição de remunerações, fazendo com que as qualificações técnicas de mulheres e homens não recebam o mesmo peso financeiro na prática.\n\n\nDessa forma, o",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=691795#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "691168",
+        "autor": "ADALBERTO BENTO JUNIOR",
+        "data": "2026-08-17T18:59:05-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "O caso de Andrea resume bem um problema que vejo o tempo todo: teoria dez, prática zero. A empresa faz happy hour pra \"celebrar a mulher\" e, na mesma empresa, homens ganham 22% a mais fazendo exatamente a mesma coisa. Isso não é acaso, é padrão, pois os números batem com o que pesquisas reais mostram sobre desigualdade salarial de gênero no Brasil.\n\nNinguém decide formalmente pagar menos pra mulhe",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=691168#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "690476",
         "autor": "DALTON ONOFRE REIS DIAS",
@@ -8239,102 +8363,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "687862",
-        "autor": "LUANA FERREIRA BARBOSA DE CARVALHO",
-        "data": "2026-08-17T13:38:49-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Achei a história da Andrea bem interessante porque mostra uma situação que, muitas vezes, fica apenas na discussão e acaba sendo tratada como opinião ou até como “vitimismo”. Quando ela foi atrás dos dados e encontrou uma diferença de 22% nos salários, a situação ficou bem mais clara.\nNa minha opinião, a questão cultural e social ainda influencia bastante na forma como homens e mulheres são vistos",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=687862#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "687529",
-        "autor": "EZEQUIAS LOPES DE JESUS",
-        "data": "2026-08-17T12:54:57-03:00",
-        "titulo": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "A situação de Andréa deve ser analisada de maneira mais profunda. Existem fatores, não relacionados a gênero que podem levar a uma diferença salarial: Negociação individual, afinidade com superiores, entrega de resultados e o bom e velho \"puxa-saquismo\". Todos esses fatores contribuem para que também possa haver diferença de salário entre pessoas do mesmo gênero e isso deve ser considerado para qu",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=687529#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "687066",
-        "autor": "GLAUCO FARIAS MATTEIS",
-        "data": "2026-08-17T11:47:26-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "O caso de Andrea reflete algo que a estrutura social e cultural brasileira considera no momento de atribuir os salários. É preciso considerar que a CLT garante diversos direitos aos trabalhadores que representam custos para as empresas. Dentre estes custos o mais utilizado como \"justificativa\" para essa diferença está a licença maternidade, o potencial afastamento da mulher por até 180 dias do tra",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=687066#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "686260",
-        "autor": "BRUNO CEZAR PASQUINI",
-        "data": "2026-08-17T10:25:09-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Andrea trouxe à tona uma questão delicada e fundamental no ambiente corporativo: a desigualdade salarial entre homens e mulheres. Apesar das iniciativas simbólicas da empresa no Dia Internacional da Mulher, como presentes e confraternizações, o episódio revelou que ainda existem barreiras estruturais que comprometem a ética empresarial e a valorização justa do trabalho feminino.\n\nA constatação de ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=686260#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "685410",
-        "autor": "HUGO VIGATTI",
-        "data": "2026-08-17T08:32:59-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Acho que sim, a estrutura social e cultural influencia diretamente na atribuição dos salários. O caso da Andrea mostra isso, conforme notamos, pessoas com a mesma formação, contratadas na mesma época, pra exercer a mesma função, recebendo valores diferentes. Mostra, assim, um resultado de um padrão cultural que ainda associa o trabalho masculino a mais valor, mesmo quando a entrega é idêntica.\n\nSo",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=685410#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "685221",
-        "autor": "MARCO ANTONIO CORREA",
-        "data": "2026-08-17T07:52:34-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Bom dia\nEsse problema vem de muito tempo, é estrutural que perdura até os dias atuais, é uma pena, pois a competência profissional não depende do gênero.\nMarco.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=685221#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222536": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T17:58:38-03:00",
+    "ultimo": "2026-08-17T20:11:34-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8373,11 +8407,56 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165209": {
     "schema_version": 3,
-    "ultimo": "2026-08-17T18:26:28-03:00",
+    "ultimo": "2026-08-17T20:20:32-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "692076",
+        "autor": "JUCELIA SANTOS SILVA",
+        "data": "2026-08-17T20:01:46-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Definir o público-alvo orienta linguagem, tom e exemplos, tornando a mensagem clara e interessante. Para \"Tempos Modernos\" de Chaplin, o público seriam estudantes e interessados em cinema, História, Sociologia e tecnologia.\nA linguagem seria acessível, relacionando o filme à produtividade, mecanização e substituição de trabalhadores por máquinas. A abertura quebraria expectativas: \"Embora Tempos M",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=692076#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "691878",
+        "autor": "SANDRO RICARDO DA SILVA",
+        "data": "2026-08-17T19:48:24-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Impressionante como o filme do Chaplin continua atual. Ver o bonequinho preso na engrenagem gigante parece muito com a nossa rotina corrida de hoje em dia, sempre grudados em telas e prazos. Mesmo sendo mudo e antigo, ele consegue fazer a gente rir e pensar ao mesmo tempo sobre o quanto a tecnologia às vezes nos controla, em vez de ajudar.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=691878#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "691840",
+        "autor": "WELLINGTON JOSE TOKUO OGASAWARA",
+        "data": "2026-08-17T19:45:10-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Todos neste fórum estão em busca de uma idéia para publicarem um texto que lhes garantam o máximo de nota com um mínimo esforço. E o que atrai a atenção deste público, nada mais, nada menos do que a objetividade sem rodeios. O tempo lhes é precioso. Porém, o que, como e quando? Resposta simples: \"Pensem fora da caixinha.\"",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=691840#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "690747",
         "autor": "MANOEL BAZANI SIMOES JUNIOR",
@@ -8526,6 +8605,118 @@
         "forum": "Q3 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
         "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      }
+    ]
+  },
+  "https://ava.univesp.br/mod/forum/discuss.php?d=150839": {
+    "schema_version": 3,
+    "ultimo": "2026-08-17T22:19+0000",
+    "truncado": false,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
+    "posts": [
+      {
+        "id": "691425",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-17T19:19:30-03:00",
+        "titulo": "Informações gerais 6",
+        "texto": "1. Acesso aos livros da Biblioteca Virtual\n Algumas pessoas estão relatando dificuldades para acessar os livros da Biblioteca Virtual. Nesses casos, orientamos que entrem pelo SEI → Biblioteca e procurem diretamente pelos títulos indicados. \n \n2. Carteirinha\nA Univesp não pode oferecer a Carteira de Identificação Estudantil. Para fins de comprovação da matrícula, é possível emitir a declaração de ",
+        "links": [],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=150839",
+        "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      }
+    ]
+  },
+  "https://ava.univesp.br/mod/forum/discuss.php?d=150843": {
+    "schema_version": 3,
+    "ultimo": "2026-08-17T22:25+0000",
+    "truncado": false,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
+    "posts": [
+      {
+        "id": "691491",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-17T19:25:04-03:00",
+        "titulo": "Alteração de dia de live - semana 5",
+        "texto": "Prezados/as,\n\nConforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08).\n\nNa semana que vem, a de nº 6, voltamos pra terça-feira (25/08).\n\nPortanto, a live desta semana será na quinta-feira (20/08), às 20h.\n\nTragam as dúvidas de vocês. \n\nAté lá,\n\nBruno Barra - Facilitador UNIVESP.",
+        "links": [],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=150843",
+        "prazos": [
+          {
+            "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
+            "quando": "2026-08-20T23:59:00-03:00",
+            "trecho": "20/08",
+            "tipo": "compromisso",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08)",
+            "titulo_evento": "Prezados/as"
+          },
+          {
+            "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
+            "quando": "2026-08-18T23:59:00-03:00",
+            "trecho": "18/08",
+            "tipo": "compromisso",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08)",
+            "titulo_evento": "Prezados/as"
+          },
+          {
+            "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
+            "quando": "2026-08-25T23:59:00-03:00",
+            "trecho": "25/08",
+            "tipo": "fim",
+            "hora_certa": false,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08) Na semana que vem, a de nº 6, voltamos pra terça-feira (25/08)"
+          },
+          {
+            "rotulo": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (2...",
+            "quando": "2026-08-20T20:00:00-03:00",
+            "trecho": "20/08), às 20h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": {
+              "familia": "semana",
+              "numeros": [
+                5
+              ],
+              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
+            },
+            "confianca": "alta",
+            "frase": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08) Na semana que vem, a de nº 6, voltamos pra terça-feira (25/08) Portanto, a live desta semana se...",
+            "titulo_evento": null
+          }
+        ],
         "autoridade": "institucional",
         "novo": true
       }
