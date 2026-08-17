@@ -105,7 +105,7 @@
         "situacao": ""
       }
     ],
-    "checked_at": "2026-08-16T23:21:22.025984+00:00",
+    "checked_at": "2026-08-17T11:30:59.829136+00:00",
     "_login_ok": [
       "#form\\:usuario",
       "26235014"
@@ -149,27 +149,27 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-16T23:21:22.023770+00:00",
-  "snapshot_at": "2026-08-16T23:21:22.023770+00:00",
-  "attempted_at": "2026-08-16T23:21:22.023770+00:00",
-  "publication_id": "2026-08-16T23:21:22.023770+00:00",
+  "checked_at": "2026-08-17T11:30:59.827186+00:00",
+  "snapshot_at": "2026-08-17T11:30:59.827186+00:00",
+  "attempted_at": "2026-08-17T11:30:59.827186+00:00",
+  "publication_id": "2026-08-17T11:30:59.827186+00:00",
   "fontes": {
     "disciplinas": 4,
-    "secoes": 51,
-    "itens": 224,
+    "secoes": 57,
+    "itens": 260,
     "avisos": 60,
-    "eventos_calendario": 13,
-    "eventos_uteis": 13,
+    "eventos_calendario": 17,
+    "eventos_uteis": 17,
     "notificacoes": 15,
     "cronograma": 3,
-    "itens_com_prazo": 45
+    "itens_com_prazo": 55
   },
   "problemas": [],
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -183,8 +183,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -193,22 +193,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 13,
+      "quantidade_atual": 17,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 13,
-      "api": 6,
+      "eventos": 17,
+      "api": 10,
       "dom": 10
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -220,26 +220,26 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
-      "foruns": 39,
-      "listas_live": 39,
+      "foruns": 45,
+      "listas_live": 45,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 203,
-      "posts_institucionais_guardados": 149
+      "posts_institucionais_vistos": 208,
+      "posts_institucionais_guardados": 153
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 7,
+      "quantidade_atual": 22,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
@@ -249,10 +249,10 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 25,
+      "quantidade_atual": 29,
       "from_cache": false,
       "truncado": false,
       "problemas": [
@@ -264,8 +264,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -277,8 +277,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 30,
       "from_cache": false,
@@ -290,8 +290,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-16T23:21:22.025984+00:00",
-      "last_live_at": "2026-08-16T23:21:22.025984+00:00",
+      "checked_at": "2026-08-17T11:30:59.829136+00:00",
+      "last_live_at": "2026-08-17T11:30:59.829136+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -660,6 +660,69 @@
           "novo": false
         },
         {
+          "id": "684845",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-17T00:27:23-03:00",
+          "titulo": "Re: S5 - Fórum temático",
+          "texto": "Saudações pessoal.\n\nComo no desafio dessa semana vocês irão colocar em prática os princípios da aprendizagem criativa ao pensamento computacional ao remixar projetos no Scratch, compartilho aqui algumas situações do mundo real que permitem transformar desafios comuns em oportunidades de inovação e resolução de problemas de forma lógica e estruturada.\n Essa relação é intrínseca, pois ambas as abord",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=684845#mformforum"
+          ],
+          "forum": "S5 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "684790",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-17T00:10:09-03:00",
+          "titulo": "Re: S5 - Fórum temático",
+          "texto": "Saudações pessoal. Como vocês estão com os estudos?\n\nPara o desafio da semana, vocês precisaram conhecer o trabalho de outras pessoas, semelhante ao que fizeram na semana 4, e fazer um remixe. Ou seja, personalizar com os ajustes que achem interessante.\nDica:  Não deixem pra fazer a atividade no último dia, pois vai demandar um pouco mais de tempo.\nNeste desafio, vocês irão colocar em prática os p",
+          "links": [
+            "https://aprendizagemcriativa.org/atividade/minha-historia-em-blocos-scratch-desplugado",
+            "https://aprendizagemcriativa.org/atividade/animacoes-interativas-com-o-scratch",
+            "https://ava.univesp.br/mod/forum/post.php?reply=684790#mformforum",
+            "https://ava.univesp.br/mod/forum/post.php?reply=684845#mformforum"
+          ],
+          "forum": "S5 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "684089",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-16T23:00:52-03:00",
+          "titulo": "Re: S4 - Fórum temático",
+          "texto": "Turma,\nquero parabenizar a todos pela dedicação, pelos projetos apresentados, por realizarem os desafios.\nEu vi que vocês se empenharam em fazê-lo e ainda fizeram mais dos que foi pedido.\nParabéns.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=684089#mformforum"
+          ],
+          "forum": "S4 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "683965",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-08-16T22:50:35-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Adilson, diz que excedeu o limite de conexões.\nBem, é algo mais de software da UNIVESP.\nSe o problema continuar, me avise que vou verificar com a supervisora.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=683965#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "672011",
           "autor": "Elva Karina Mayhua Quispe",
           "data": "2026-08-15T14:58:20-03:00",
@@ -742,64 +805,6 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
-        },
-        {
-          "id": "641322",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-12T00:19:25-03:00",
-          "titulo": "Re: S4 - Fórum temático",
-          "texto": "Compartilhando o meu projeto no Scratch, já com as duas atividades propostas implementadas.\nhttps://scratch.mit.edu/projects/1368180390\n\nhttps://scratch.mit.edu/projects/1368181003\n\nOs desafios que encontrei foi fazer o personagem falar todos os números do 0 até o informado. Não estava conseguindo achar o ponto chave, mas depois dos testes conseguir achar a solução.",
-          "links": [
-            "https://scratch.mit.edu/projects/1368180390",
-            "https://scratch.mit.edu/projects/1368181003",
-            "https://ava.univesp.br/mod/forum/post.php?reply=641322#mformforum"
-          ],
-          "forum": "S4 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "639771",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-11T21:34:16-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "boa noite Adriano.\nVerifiquei aqui o problema. Já repassei para a supervisora a situação.\nEu também estou sem acesso. Alguém mais está sem acesso?",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=639771#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "618861",
-          "autor": "Elva Karina Mayhua Quispe",
-          "data": "2026-08-10T10:31:23-03:00",
-          "titulo": "Re: [Fórum Temático - Semana 4] Condicionais, Variáveis e Interatividade no Scratch!",
-          "texto": "Pessoal, sintam-se à vontade para responder aqui embaixo! 👇\n\nQuero muito saber:\n\n- O seu projeto funcionou de primeira ou deu algum bug?\n\n- Coloca o link do seu Scratch pra gente testar!",
-          "links": [],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=138963",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "618832",
-          "autor": "Elva Karina Mayhua Quispe",
-          "data": "2026-08-10T10:29:21-03:00",
-          "titulo": "[Fórum Temático - Semana 4] Condicionais, Variáveis e Interatividade no Scratch!",
-          "texto": "Fala, pessoal! Tudo bem? \n\nChegamos na Semana 4 e agora o bicho pega (no bom sentido!): vamos deixar nossos projetos no Scratch inteligentes! \n\nA ideia desta semana é usar condicionais (se / se/senão) e variáveis para criar um programa interativo.\n\nO desafio da vez: Criar um personagem que pede um número ao usuário:\n\nSe o número for menor que 10, ele conta de 0 até o número digitado.\n\nSe for maior",
-          "links": [],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=138963",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
         }
       ],
       "espacos_de_grupo": [],
@@ -812,7 +817,7 @@
           "tipo": "nota calculada"
         },
         "totais": [],
-        "itens": 4
+        "itens": 5
       },
       "participacao": null,
       "sections": [
@@ -867,7 +872,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -943,7 +948,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1044,7 +1049,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1145,7 +1150,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
-              "nao_lidas": "28",
+              "nao_lidas": "57",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1158,7 +1163,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207957",
               "status": "Concluído",
-              "nao_lidas": "6",
+              "nao_lidas": "16",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1246,7 +1251,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
-              "nao_lidas": "31",
+              "nao_lidas": "55",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1259,7 +1264,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Concluído",
-              "nao_lidas": "7",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1298,9 +1303,101 @@
           "secao_id": "87190",
           "title": "Semana 5",
           "parent": null,
-          "locked": "Disponível a partir de 17 de agosto de 2026",
+          "locked": null,
           "theme": "Aprendizagem criativa (Parte 1)",
-          "items": [],
+          "items": [
+            {
+              "cmid": "193367",
+              "label": "S5 - Início",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193367",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193368",
+              "label": "S5 - Avaliação",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193368",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193369",
+              "label": "S5 - Atividade Avaliativa",
+              "type": "quiz",
+              "url": "https://ava.univesp.br/mod/quiz/view.php?id=193369",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "193370",
+              "label": "S5 - Fórum temático",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+              "status": "Marcar como feito",
+              "nao_lidas": "2",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "207959",
+              "label": "S5 - Fórum de dúvidas gerais",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
+              "status": "Marcar como feito",
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": "2026-08-11T14:35:00-03:00",
+              "prazo_fonte": "calendário do AVA",
+              "carencia": null
+            },
+            {
+              "cmid": "193371",
+              "label": "S5 - Live com facilitador",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=193371",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193372",
+              "label": "S5 - Em síntese",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193372",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -1457,9 +1554,7 @@
           "data": "2026-08-14T14:35:07-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Marcel!\n\nAssim como respondi a outros colegas, pode ficar tranquilo. É provável que a ausência das notas esteja relacionada a uma instabilidade ou a um erro do sistema que ainda não foi solucionado. Acessei a página de atividades de alguns alunos que entraram em contato e, embora as notas não estejam aparecendo para vocês, para mim elas estão sendo exibidas normalmente, com todas as ati",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664532#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1472,9 +1567,7 @@
           "data": "2026-08-14T14:31:11-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Sérgio! Tudo bem?\n\nVocê está correto. Pode marcar como item feito.\n\nEmbora o tópico \"Live com o facilitador\" apareça em todas as semanas da disciplina, isso não significa que haverá uma live semanal. Nesta disciplina, esses encontros serão realizados apenas quando houver necessidade e, caso sejam agendados, todos os estudantes serão avisados com antecedência.\n\nNo entanto, ressalto que o",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664495#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1487,9 +1580,7 @@
           "data": "2026-08-14T14:29:03-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Daniela! Tudo bem?\n\nVerifique, por gentileza, se as respostas corretas das atividades avaliativas estão aparecendo após o encerramento do prazo para sua realização. No caso, as atividades das semanas 1 e 2 já estão encerradas. No momento, estão abertas as atividades das semanas 3 e 4.\n\nPara as semanas que ainda estão abertas, as respostas corretas não devem aparecer, justamente para não",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664476#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1502,9 +1593,7 @@
           "data": "2026-08-14T14:24:47-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Luis! Tudo bem?\n\nComo colocado nos Avisos e no fórum de dúvidas gerais, embora o tópico \"Live com o facilitador\" apareça em todas as semanas da disciplina, isso não significa que haverá uma live semanal. Nesta disciplina, esses encontros serão realizados apenas quando houver necessidade e, caso sejam agendados, todos os estudantes serão avisados com antecedência.\n\nNo entanto, ressalto q",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664436#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1517,9 +1606,7 @@
           "data": "2026-08-14T14:23:26-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Vanessa! Tudo bem?\n\nPode colocar como feita.\n\nComo colocado nos Avisos e no fórum de dúvidas gerais, embora o tópico \"Live com o facilitador\" apareça em todas as semanas da disciplina, isso não significa que haverá uma live semanal. Nesta disciplina, esses encontros serão realizados apenas quando houver necessidade e, caso sejam agendados, todos os estudantes serão avisados com antecedê",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664429#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1532,9 +1619,7 @@
           "data": "2026-08-14T14:22:40-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Geane! Tudo bem?\n\nComo colocado nos Avisos e no fórum de dúvidas gerais, embora o tópico \"Live com o facilitador\" apareça em todas as semanas da disciplina, isso não significa que haverá uma live semanal. Nesta disciplina, esses encontros serão realizados apenas quando houver necessidade e, caso sejam agendados, todos os estudantes serão avisados com antecedência.\n\nNo entanto, ressalto ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664420#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1547,9 +1632,7 @@
           "data": "2026-08-14T14:19:39-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Mario! Tudo bem?\n\nCaso esteja se referindo às lives desta disciplina, já foi informado e reiterado, em diferentes ocasiões, nos Avisos e nos fóruns, que esta disciplina não conta com lives semanais. As lives ocorrerão apenas se houver necessidade. Caso uma live seja agendada, todos os estudantes serão avisados com antecedência.\n\nRessalto, porém, que o funcionamento das lives pode variar",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664400#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1562,9 +1645,7 @@
           "data": "2026-08-14T14:10:09-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Paola! Tudo bem?\n\nSempre que estiver diante de um caso assim, tire um print da pergunta ou copie-a integralmente e poste aqui no fórum semanal. Somente dessa forma poderei avaliar a questão e verificar se há algum possível erro.\n\nAbraços e bons estudos!",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664337#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1577,9 +1658,7 @@
           "data": "2026-08-14T14:08:47-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Carlos! Tudo bem?\n\nVerifique, por gentileza, se as respostas corretas das atividades avaliativas estão aparecendo após o encerramento do prazo para sua realização. No caso, as atividades das semanas 1 e 2 já estão encerradas. No momento, estão abertas as atividades das semanas 3 e 4.\n\nPara as semanas que ainda estão abertas, as respostas corretas não devem aparecer, justamente para não ",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664327#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1592,9 +1671,7 @@
           "data": "2026-08-14T14:05:44-03:00",
           "titulo": "Re: S3 - Fórum de dúvidas gerais",
           "texto": "Boa tarde, Fabio! Tudo bem?\n\nPor gentileza, verifique o quadro de avisos da disciplina, que fica no menu lateral esquerdo. Lá, postei um passo a passo sobre como acessar a biblioteca.\n\nAbraços e bons estudos!",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=664306#mformforum"
-          ],
+          "links": [],
           "forum": "S3 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
           "prazos": [],
@@ -1676,7 +1753,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1943,7 +2020,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2077,7 +2154,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Concluído",
-              "nao_lidas": "18",
+              "nao_lidas": "36",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2090,7 +2167,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
               "status": "Concluído",
-              "nao_lidas": "4",
+              "nao_lidas": "7",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2224,7 +2301,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
-              "nao_lidas": "21",
+              "nao_lidas": "30",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2237,7 +2314,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Concluído",
-              "nao_lidas": "8",
+              "nao_lidas": "5",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2276,9 +2353,149 @@
           "secao_id": "81970",
           "title": "Semana 5",
           "parent": null,
-          "locked": "Disponível a partir de 17 de agosto de 2026",
+          "locked": null,
           "theme": "Ética Aplicada",
-          "items": [],
+          "items": [
+            {
+              "cmid": "222529",
+              "label": "S5 - Início",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=222529",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "222530",
+              "label": "S5 - Texto-base - O significado do trabalho em tempos de reestruturação produtiva | Carla Vaz dos Santos Ribeiro e Denise Bessa Léda",
+              "type": "url",
+              "url": "https://ava.univesp.br/mod/url/view.php?id=222530",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "222531",
+              "label": "S5 - Texto-base - Ética profissional (Leia os capítulos 10, “Profissão e efeitos de sua conduta” e 11, “Ética e profissão”, p. 127-144) | Antônio Lopes de Sá",
+              "type": "url",
+              "url": "https://ava.univesp.br/mod/url/view.php?id=222531",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "222532",
+              "label": "S5 - Texto-base - Ética aplicada: estudos (Leia o capítulo 2, “Ética e sociedade”, p. 29-40) | Jayme Paviani",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=222532",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "222533",
+              "label": "S5 - Videoaulas",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=222533",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "222534",
+              "label": "S5 - Aprofundando o tema",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=222534",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "168836",
+              "label": "S5 - Atividade Avaliativa",
+              "type": "quiz",
+              "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "222535",
+              "label": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+              "status": "Marcar como feito",
+              "nao_lidas": "5",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "222536",
+              "label": "S5 - Fórum de dúvidas gerais",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "222537",
+              "label": "S5 - Live com facilitador",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=222537",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "222538",
+              "label": "S5 - Em síntese",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=222538",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -2642,7 +2859,7 @@
           "tipo": "nota calculada"
         },
         "totais": [],
-        "itens": 4
+        "itens": 5
       },
       "participacao": null,
       "sections": [
@@ -2969,7 +3186,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3081,7 +3298,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
-              "nao_lidas": "21",
+              "nao_lidas": "44",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3193,7 +3410,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
-              "nao_lidas": "32",
+              "nao_lidas": "28",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3232,9 +3449,114 @@
           "secao_id": "81575",
           "title": "Semana 5",
           "parent": null,
-          "locked": "Disponível a partir de 17 de agosto de 2026",
+          "locked": null,
           "theme": "Informatividade e clareza",
-          "items": [],
+          "items": [
+            {
+              "cmid": "165204",
+              "label": "S5 - Início",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165204",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165205",
+              "label": "S5 - Videoaulas",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165205",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "165206",
+              "label": "S5 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165206",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "165207",
+              "label": "S5 - Aprofundando o tema",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165207",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165208",
+              "label": "S5 - Atividade Avaliativa",
+              "type": "quiz",
+              "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": "2026-08-26T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-08-30T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "165209",
+              "label": "S5 - Fórum temático",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+              "status": "Marcar como feito",
+              "nao_lidas": "2",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165210",
+              "label": "S5 - Live com facilitador",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=165210",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "179056",
+              "label": "S5 - Em síntese",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=179056",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -4198,6 +4520,110 @@
               "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agosto para concluir o Módulo 4 e 15 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que segue além do fim ..."
             }
           ]
+        },
+        {
+          "autor": "Q3 - Instruções da Quinzena 3",
+          "titulo": "Q3 - Instruções da Quinzena 3",
+          "url": "https://ava.univesp.br/mod/page/view.php?id=228099",
+          "autoridade": "institucional",
+          "prazos": [
+            {
+              "rotulo": "Prazo módulos 1 a 4",
+              "quando": "2026-09-23T23:59:00-03:00",
+              "trecho": "23 PRAZO MÓDULOS 1 A 4",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  3
+                ],
+                "txt": "PRAZO MÓDULOS 1 A 4"
+              },
+              "confianca": "alta",
+              "frase": "Calendário da Quinzena 3, de 16 de agosto a 1º de setembro de 2026, com as etapas e os prazos. Célula: 23 PRAZO MÓDULOS 1 A 4"
+            },
+            {
+              "rotulo": "Prazo entrega",
+              "quando": "2026-09-29T23:59:00-03:00",
+              "trecho": "29 PRAZO ENTREGA",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  3
+                ],
+                "txt": "PRAZO ENTREGA"
+              },
+              "confianca": "alta",
+              "frase": "Calendário da Quinzena 3, de 16 de agosto a 1º de setembro de 2026, com as etapas e os prazos. Célula: 29 PRAZO ENTREGA"
+            },
+            {
+              "rotulo": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, q...",
+              "quando": "2026-08-23T23:59:00-03:00",
+              "trecho": "23 de agosto",
+              "tipo": "inicio",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "modulo",
+                "numeros": [
+                  29
+                ],
+                "txt": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concluir os quatro prime"
+              },
+              "confianca": "baixa",
+              "frase": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, quando a Quinzena 4 se inicia Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concl..."
+            },
+            {
+              "rotulo": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, q...",
+              "quando": "2026-08-29T23:59:00-03:00",
+              "trecho": "29 de agosto",
+              "tipo": "inicio",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "modulo",
+                "numeros": [
+                  29
+                ],
+                "txt": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concluir os quatro prime"
+              },
+              "confianca": "baixa",
+              "frase": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, quando a Quinzena 4 se inicia Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concl..."
+            },
+            {
+              "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de ago...",
+              "quando": "2026-09-01T23:59:00-03:00",
+              "trecho": "1º de setembro",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  4
+                ],
+                "txt": "Ela vai até 1º de setembro, portanto os seus dois primeiros dias já correm junto com o começo da Quinzena 4"
+              },
+              "confianca": "baixa",
+              "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concluir os quatro primeiros módulos e 29 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que ..."
+            },
+            {
+              "rotulo": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 d...",
+              "quando": "2026-08-30T23:59:00-03:00",
+              "trecho": "30 de agosto",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  4
+                ],
+                "txt": "30 de agosto a 1º de setembro · leitura entre colegas, já na Quinzena 4"
+              },
+              "confianca": "baixa",
+              "frase": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 de agosto a 1º de setembro · leitura entre colegas, já na Quinzena 4"
+            }
+          ]
         }
       ],
       "boletim": {
@@ -4219,7 +4645,7 @@
             "tipo": "forma de agregacao das notas"
           }
         ],
-        "itens": 17
+        "itens": 19
       },
       "participacao": {
         "quinzenas": [
@@ -5847,7 +6273,204 @@
           "secao_id": "92853",
           "title": "Quinzena 3",
           "parent": null,
-          "locked": "Disponível a partir de 17 de agosto de 2026",
+          "locked": null,
+          "theme": null,
+          "items": [
+            {
+              "cmid": "228099",
+              "label": "Q3 - Instruções da Quinzena 3",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=228099",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "228100",
+              "label": "Q3 - Introdução",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=228100",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "228101",
+              "label": "Q3 - Lembrete de datas e live",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=228101",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "228102",
+              "label": "Q3 - Orientação de estudo",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=228102",
+              "status": "Marcar como feito",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "228103",
+              "label": "Q3 - Fórum geral",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
+              "status": null,
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
+          "fase": "regular"
+        },
+        {
+          "id": "section-12",
+          "secao_id": "92854",
+          "title": "Q3 Módulo 1",
+          "parent": "section-5",
+          "locked": null,
+          "theme": null,
+          "items": [
+            {
+              "cmid": "228105",
+              "label": "Q3 M1 - Competências profissionais na era da IA",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=228105",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "228106",
+              "label": "Q3 M1 - Atividade: Da manchete à competência",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=228106",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "228107",
+              "label": "Q3 M1 - Videoaula 1: Da manchete à taxonomia Bailey",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=228107",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "228108",
+              "label": "Q3 M1 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=228108",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "228109",
+              "label": "Q3 M1 - Atividade: Qual é o critério da taxonomia?",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=228109",
+              "status": "Pendente",
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            }
+          ],
+          "fase": "regular"
+        },
+        {
+          "id": "section-11",
+          "secao_id": "92855",
+          "title": "Q3 Módulo 2",
+          "parent": "section-5",
+          "locked": "Disponível se: A atividade Q3 M1 - Competências profissionais na era da IA esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-10",
+          "secao_id": "92856",
+          "title": "Q3 Módulo 3",
+          "parent": "section-5",
+          "locked": "Disponível se: A atividade Q3 M2 - Centauro e Ciborgue, dois modos de colaborar esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-9",
+          "secao_id": "92857",
+          "title": "Q3 Módulo 4",
+          "parent": "section-5",
+          "locked": "Disponível se: A atividade Q3 M3 - Quando a IA acerta uma tarefa e erra a vizinha esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-8",
+          "secao_id": "92858",
+          "title": "Q3 Módulo 5",
+          "parent": "section-5",
+          "locked": "Disponível se: A atividade Q3 M4 - Cada mensagem tem um custo esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-7",
+          "secao_id": "92859",
+          "title": "Q3 Módulo 6",
+          "parent": "section-5",
+          "locked": "Disponível se: A atividade Q3 M4 - Cada mensagem tem um custo esteja marcada como concluída",
           "theme": null,
           "items": [],
           "fase": "regular"
@@ -5881,6 +6504,18 @@
       "via": "api"
     },
     {
+      "nome": "S5 - Fórum de dúvidas gerais é devido",
+      "quando": "2026-08-11T14:35:00-03:00",
+      "curso_id": "18870",
+      "curso": "COM100-BIA-2026S2B1-T001",
+      "atividade": "S5 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
+      "acao": "Ver",
+      "cmid": "207959",
+      "tipo": "due",
+      "via": "api"
+    },
+    {
       "nome": "Q2 M6 - Revisão entre pares (Portfólio Individual) - prazo limite de envios",
       "quando": "2026-08-15T23:59:00-03:00",
       "curso_id": "18922",
@@ -5903,42 +6538,6 @@
       "cmid": "215612",
       "tipo": "closesubmission",
       "via": "api"
-    },
-    {
-      "nome": "Término de S3 - Atividade Avaliativa",
-      "quando": "2026-08-16T23:59:00-03:00",
-      "curso_id": "18870",
-      "curso": null,
-      "atividade": "Término de S3 - Atividade Avaliativa",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=160797",
-      "acao": null,
-      "cmid": "160797",
-      "tipo": "close",
-      "via": "dom"
-    },
-    {
-      "nome": "Término de S3 - Atividade Avaliativa",
-      "quando": "2026-08-16T23:59:00-03:00",
-      "curso_id": "18893",
-      "curso": null,
-      "atividade": "Término de S3 - Atividade Avaliativa",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165192",
-      "acao": null,
-      "cmid": "165192",
-      "tipo": "close",
-      "via": "dom"
-    },
-    {
-      "nome": "Término de S3 - Atividade Avaliativa",
-      "quando": "2026-08-16T23:59:00-03:00",
-      "curso_id": "18880",
-      "curso": null,
-      "atividade": "Término de S3 - Atividade Avaliativa",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168816",
-      "acao": null,
-      "cmid": "168816",
-      "tipo": "close",
-      "via": "dom"
     },
     {
       "nome": "Live 3",
@@ -6011,6 +6610,78 @@
       "cmid": "193363",
       "tipo": "close",
       "via": "dom"
+    },
+    {
+      "nome": "Término de S4 - Atividade Avaliativa",
+      "quando": "2026-08-23T23:59:00-03:00",
+      "curso_id": "18880",
+      "curso": null,
+      "atividade": "Término de S4 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=221626",
+      "acao": null,
+      "cmid": "221626",
+      "tipo": "close",
+      "via": "dom"
+    },
+    {
+      "nome": "Live 4",
+      "quando": "2026-08-25T20:00:00-03:00",
+      "curso_id": "18893",
+      "curso": null,
+      "atividade": "Live 4",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "acao": null,
+      "cmid": "165163",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
+      "nome": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "quando": "2026-08-26T20:00:00-03:00",
+      "curso_id": "18870",
+      "curso": null,
+      "atividade": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "acao": null,
+      "cmid": "160778",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
+      "nome": "Término de S5 - Atividade Avaliativa",
+      "quando": "2026-08-30T23:59:00-03:00",
+      "curso_id": "18893",
+      "curso": "LET110-BIA-2026S2B1-T001",
+      "atividade": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208",
+      "acao": "Tentar responder o questionário agora",
+      "cmid": "165208",
+      "tipo": "close",
+      "via": "api"
+    },
+    {
+      "nome": "Término de S5 - Atividade Avaliativa",
+      "quando": "2026-08-30T23:59:00-03:00",
+      "curso_id": "18880",
+      "curso": "SOC100-BIA-2026S2B1-T001",
+      "atividade": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836",
+      "acao": "Tentar responder o questionário agora",
+      "cmid": "168836",
+      "tipo": "close",
+      "via": "api"
+    },
+    {
+      "nome": "Término de S5 - Atividade Avaliativa",
+      "quando": "2026-08-30T23:59:00-03:00",
+      "curso_id": "18870",
+      "curso": "COM100-BIA-2026S2B1-T001",
+      "atividade": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193369",
+      "acao": "Tentar responder o questionário agora",
+      "cmid": "193369",
+      "tipo": "close",
+      "via": "api"
     }
   ],
   "notificacoes": [
@@ -6118,13 +6789,13 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
       "conta_nota": true,
       "prazo": "2026-08-18T20:00:00-03:00",
-      "prazo_txt": "acontece 18/08 às 20:00",
+      "prazo_txt": "acontece amanhã, 18/08 às 20:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM170",
@@ -6137,12 +6808,12 @@
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=215609",
       "conta_nota": true,
       "prazo": "2026-08-18T23:59:00-03:00",
-      "prazo_txt": "vence 18/08 às 23:59",
+      "prazo_txt": "vence amanhã, 18/08 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM170",
@@ -6155,13 +6826,13 @@
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=215612",
       "conta_nota": true,
       "prazo": "2026-08-18T23:59:00-03:00",
-      "prazo_txt": "vence 18/08 às 23:59",
+      "prazo_txt": "vence amanhã, 18/08 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana",
+      "urgencia": "amanha",
       "resgatado": true
     },
     {
@@ -6181,7 +6852,8 @@
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "semana",
+      "repete": 2
     },
     {
       "curso": "SOC100",
@@ -6200,6 +6872,187 @@
       "carencia": "2026-08-23T23:59:00-03:00",
       "hora_certa": true,
       "urgencia": "semana"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Calendário do AVA",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Live 4",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "conta_nota": true,
+      "prazo": "2026-08-25T20:00:00-03:00",
+      "prazo_txt": "acontece 25/08",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S5 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193369",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "videoaula",
+      "o_que": "S5 - Videoaulas",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165205",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "S5 - Material-base",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165206",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S5 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "S5 - Texto-base - O significado do trabalho em tempos de reestruturação produtiva | Carla Vaz dos Santos Ribeiro e Denise Bessa Léda",
+      "tipo": "url",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=222530",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "S5 - Texto-base - Ética profissional (Leia os capítulos 10, “Profissão e efeitos de sua conduta” e 11, “Ética e profissão”, p. 127-144) | Antônio Lopes de Sá",
+      "tipo": "url",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=222531",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Acesse",
+      "coisa": "ferramenta",
+      "o_que": "S5 - Texto-base - Ética aplicada: estudos (Leia o capítulo 2, “Ética e sociedade”, p. 29-40) | Jayme Paviani",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=222532",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "videoaula",
+      "o_que": "S5 - Videoaulas",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222533",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S5 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836",
+      "conta_nota": true,
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "prazo_txt": "vence 26/08",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-08-30T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
     },
     {
       "curso": "COM100",
@@ -6266,6 +7119,65 @@
     },
     {
       "curso": "COM170",
+      "secao": "Quinzena 3",
+      "fase": "regular",
+      "verbo": "Conclua",
+      "coisa": "",
+      "o_que": "Quinzena 3 · Prazo módulos 1 a 4",
+      "tipo": "obrigacao",
+      "url": null,
+      "conta_nota": true,
+      "prazo": "2026-09-23T23:59:00-03:00",
+      "prazo_txt": "vence 23/09",
+      "prazo_fonte": "aviso de Q3 - Instruções da Quinzena 3",
+      "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=228099",
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": false,
+      "urgencia": "depois",
+      "bloqueio": null
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "fase": "regular",
+      "verbo": "Entregue",
+      "coisa": "o trabalho",
+      "o_que": "Quinzena 3 · Prazo entrega",
+      "tipo": "obrigacao",
+      "url": null,
+      "conta_nota": true,
+      "prazo": "2026-09-29T23:59:00-03:00",
+      "prazo_txt": "vence 29/09",
+      "prazo_fonte": "aviso de Q3 - Instruções da Quinzena 3",
+      "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=228099",
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": false,
+      "urgencia": "depois",
+      "bloqueio": null
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S5 - Fórum temático",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo",
+      "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
+    },
+    {
+      "curso": "COM170",
       "secao": "COM170 - IA na Prática Acadêmica e Profissional",
       "fase": "regular",
       "verbo": "Assista",
@@ -6281,9 +7193,113 @@
       "carencia": null,
       "hora_certa": true,
       "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q3 - Lembrete de datas e live",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228101",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "fase": "regular",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "Q3 M1 - Atividade: Da manchete à competência",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228106",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "fase": "regular",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "Q3 M1 - Atividade: Qual é o critério da taxonomia?",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228109",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S5 - Fórum temático",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo",
+      "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo",
+      "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
     }
   ],
   "encerrados": [
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S5 - Fórum de dúvidas gerais",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
+      "conta_nota": false,
+      "motivo": "venceu em 11/08"
+    },
     {
       "curso": "COM170",
       "secao": "Módulo 6",
@@ -6335,12 +7351,355 @@
       "motivo": "a ambientação (AIA) encerrou"
     }
   ],
-  "higiene": [],
+  "higiene": [
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Início",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193367",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Avaliação",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193368",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "live",
+      "o_que": "S5 - Live com facilitador",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=193371",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Em síntese",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193372",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q3 - Instruções da Quinzena 3",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228099",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q3 - Introdução",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228100",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q3 - Orientação de estudo",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228102",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q3 M1 - Competências profissionais na era da IA",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228105",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "videoaula",
+      "o_que": "Q3 M1 - Videoaula 1: Da manchete à taxonomia Bailey",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228107",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "Q3 M1 - Material-base",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228108",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Início",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165204",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Aprofundando o tema",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165207",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "live",
+      "o_que": "S5 - Live com facilitador",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165210",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Em síntese",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=179056",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Início",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222529",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Aprofundando o tema",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222534",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S5 - Fórum de dúvidas gerais",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "live",
+      "o_que": "S5 - Live com facilitador",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=222537",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S5 - Em síntese",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222538",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    }
+  ],
   "confirmar": [
     {
       "curso": "COM100",
       "quando": "2026-08-17T23:59:00-03:00",
-      "quando_txt": "vence amanhã, 17/08 (horário não informado)",
+      "quando_txt": "vence hoje (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
       "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/Rc1aSeKL7y4K/external 17/08",
@@ -6351,7 +7710,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-18T23:59:00-03:00",
-      "quando_txt": "vence 18/08 (horário não informado)",
+      "quando_txt": "vence amanhã, 18/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "16 a 18/08 domingo a terça",
       "frase": "Os dois trabalhos correm em paralelo, o individual no M6 e o do grupo no M7 O dia 15 é o último de entrega, porque no dia 16 abre a revisão 16 a 18/08 domingo a terça: Fase de revisão por pares das atividades individu...",
@@ -6362,7 +7721,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-18T23:59:00-03:00",
-      "quando_txt": "vence 18/08 (horário não informado)",
+      "quando_txt": "vence amanhã, 18/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "18 de agosto",
       "frase": "15 de agosto: decide o que foi entregue É o último dia para enviar os dois templates no Laboratório de Revisão, e o prazo termina aí porque no dia seguinte começa a revisão 18 de agosto: encerra a revisão",
@@ -6373,7 +7732,7 @@
     {
       "curso": "COM170",
       "quando": "2026-08-18T23:59:00-03:00",
-      "quando_txt": "vence 18/08 (horário não informado)",
+      "quando_txt": "vence amanhã, 18/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agos...",
       "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 9 de agosto para concluir o Módulo 4 e 15 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que segue além do fim ...",
@@ -6393,9 +7752,20 @@
       "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
     },
     {
+      "curso": "COM170",
+      "quando": "2026-08-23T23:59:00-03:00",
+      "quando_txt": "vence 23/08 (horário não informado)",
+      "tipo_lido": "inicio",
+      "rotulo": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, q...",
+      "frase": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, quando a Quinzena 4 se inicia Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concl...",
+      "autor": "Q3 - Instruções da Quinzena 3",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228099"
+    },
+    {
       "curso": "COM100",
       "quando": "2026-08-24T23:59:00-03:00",
-      "quando_txt": "vence 24/08",
+      "quando_txt": "vence 24/08 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
       "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/s8p26lkEi1vH/external 24/08",
@@ -6415,6 +7785,28 @@
       "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
     },
     {
+      "curso": "COM170",
+      "quando": "2026-08-29T23:59:00-03:00",
+      "quando_txt": "vence 29/08",
+      "tipo_lido": "inicio",
+      "rotulo": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, q...",
+      "frase": "O calendário e os prazos A Quinzena 3 começa no dia 16 de agosto e termina no dia 30, quando a Quinzena 4 se inicia Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concl...",
+      "autor": "Q3 - Instruções da Quinzena 3",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228099"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-08-30T23:59:00-03:00",
+      "quando_txt": "vence 30/08",
+      "tipo_lido": "fim",
+      "rotulo": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 d...",
+      "frase": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 de agosto a 1º de setembro · leitura entre colegas, já na Quinzena 4",
+      "autor": "Q3 - Instruções da Quinzena 3",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228099"
+    },
+    {
       "curso": "COM100",
       "quando": "2026-08-31T23:59:00-03:00",
       "quando_txt": "vence 31/08",
@@ -6424,6 +7816,17 @@
       "autor": "Joyce Mirella Dos Anjos Viana",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132970"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-09-01T23:59:00-03:00",
+      "quando_txt": "vence 01/09",
+      "tipo_lido": "fim",
+      "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de ago...",
+      "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concluir os quatro primeiros módulos e 29 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que ...",
+      "autor": "Q3 - Instruções da Quinzena 3",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228099"
     },
     {
       "curso": "COM100",
@@ -6437,7 +7840,253 @@
       "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
     }
   ],
-  "novidades": [],
+  "novidades": [
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "label": "S5 - Início",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193367",
+      "cmid": "193367"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "label": "S5 - Avaliação",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193368",
+      "cmid": "193368"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "label": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193369",
+      "cmid": "193369"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "label": "S5 - Fórum temático",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+      "cmid": "193370"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "label": "S5 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
+      "cmid": "207959"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "label": "S5 - Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=193371",
+      "cmid": "193371"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 5",
+      "label": "S5 - Em síntese",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193372",
+      "cmid": "193372"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Início",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222529",
+      "cmid": "222529"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Texto-base - O significado do trabalho em tempos de reestruturação produtiva | Carla Vaz dos Santos Ribeiro e Denise Bessa Léda",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=222530",
+      "cmid": "222530"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Texto-base - Ética profissional (Leia os capítulos 10, “Profissão e efeitos de sua conduta” e 11, “Ética e profissão”, p. 127-144) | Antônio Lopes de Sá",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=222531",
+      "cmid": "222531"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Texto-base - Ética aplicada: estudos (Leia o capítulo 2, “Ética e sociedade”, p. 29-40) | Jayme Paviani",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=222532",
+      "cmid": "222532"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222533",
+      "cmid": "222533"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Aprofundando o tema",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222534",
+      "cmid": "222534"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836",
+      "cmid": "168836"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+      "cmid": "222535"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
+      "cmid": "222536"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=222537",
+      "cmid": "222537"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 5",
+      "label": "S5 - Em síntese",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222538",
+      "cmid": "222538"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Início",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165204",
+      "cmid": "165204"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165205",
+      "cmid": "165205"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Material-base",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165206",
+      "cmid": "165206"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Aprofundando o tema",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165207",
+      "cmid": "165207"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208",
+      "cmid": "165208"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Fórum temático",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+      "cmid": "165209"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165210",
+      "cmid": "165210"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 5",
+      "label": "S5 - Em síntese",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=179056",
+      "cmid": "179056"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "label": "Q3 - Instruções da Quinzena 3",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228099",
+      "cmid": "228099"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "label": "Q3 - Introdução",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228100",
+      "cmid": "228100"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "label": "Q3 - Lembrete de datas e live",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228101",
+      "cmid": "228101"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 3",
+      "label": "Q3 - Orientação de estudo",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228102",
+      "cmid": "228102"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "label": "Q3 M1 - Competências profissionais na era da IA",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228105",
+      "cmid": "228105"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "label": "Q3 M1 - Atividade: Da manchete à competência",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228106",
+      "cmid": "228106"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "label": "Q3 M1 - Videoaula 1: Da manchete à taxonomia Bailey",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228107",
+      "cmid": "228107"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "label": "Q3 M1 - Material-base",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228108",
+      "cmid": "228108"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "label": "Q3 M1 - Atividade: Qual é o critério da taxonomia?",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228109",
+      "cmid": "228109"
+    }
+  ],
   "notas_novas": [
     {
       "curso": "COM100",
@@ -6480,5 +8129,116 @@
       "em": "2026-08-14T22:04:49.794202+00:00"
     }
   ],
-  "prazos_novos": []
+  "prazos_novos": [
+    {
+      "curso": "COM100",
+      "label": "S5 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
+      "cmid": "207959",
+      "prazo": "2026-08-11T14:35:00-03:00",
+      "de": null,
+      "fonte": "calendário do AVA",
+      "conta_nota": false,
+      "atividade_nova": true
+    },
+    {
+      "curso": "COM100",
+      "label": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193369",
+      "cmid": "193369",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S5 - Texto-base - O significado do trabalho em tempos de reestruturação produtiva | Carla Vaz dos Santos Ribeiro e Denise Bessa Léda",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=222530",
+      "cmid": "222530",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S5 - Texto-base - Ética profissional (Leia os capítulos 10, “Profissão e efeitos de sua conduta” e 11, “Ética e profissão”, p. 127-144) | Antônio Lopes de Sá",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=222531",
+      "cmid": "222531",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S5 - Texto-base - Ética aplicada: estudos (Leia o capítulo 2, “Ética e sociedade”, p. 29-40) | Jayme Paviani",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=222532",
+      "cmid": "222532",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S5 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=222533",
+      "cmid": "222533",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836",
+      "cmid": "168836",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "LET110",
+      "label": "S5 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165205",
+      "cmid": "165205",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "LET110",
+      "label": "S5 - Material-base",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165206",
+      "cmid": "165206",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "LET110",
+      "label": "S5 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208",
+      "cmid": "165208",
+      "prazo": "2026-08-26T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    }
+  ]
 }
