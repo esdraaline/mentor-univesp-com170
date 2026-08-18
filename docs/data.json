@@ -105,7 +105,7 @@
         "situacao": ""
       }
     ],
-    "checked_at": "2026-08-18T13:42:21.072867+00:00",
+    "checked_at": "2026-08-18T14:00:24.863253+00:00",
     "_login_ok": [
       "#form\\:usuario",
       "26235014"
@@ -149,10 +149,10 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-18T13:42:21.070756+00:00",
-  "snapshot_at": "2026-08-18T13:42:21.070756+00:00",
-  "attempted_at": "2026-08-18T13:42:21.070756+00:00",
-  "publication_id": "2026-08-18T13:42:21.070756+00:00",
+  "checked_at": "2026-08-18T14:00:24.861084+00:00",
+  "snapshot_at": "2026-08-18T14:00:24.861084+00:00",
+  "attempted_at": "2026-08-18T14:00:24.861084+00:00",
+  "publication_id": "2026-08-18T14:00:24.861084+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 57,
@@ -168,8 +168,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -183,8 +183,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -193,8 +193,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 17,
       "from_cache": false,
@@ -207,8 +207,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -219,25 +219,25 @@
       "live": 3
     },
     "foruns": {
-      "status": "parcial",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "status": "live",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
       "foruns": 45,
-      "listas_live": 32,
+      "listas_live": 45,
       "falhas": 0,
-      "pulados_orcamento": 15,
-      "posts_institucionais_vistos": 216,
-      "posts_institucionais_guardados": 161
+      "pulados_orcamento": 0,
+      "posts_institucionais_vistos": 219,
+      "posts_institucionais_guardados": 164
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 19,
       "from_cache": false,
@@ -249,8 +249,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 29,
       "from_cache": false,
@@ -264,8 +264,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -277,8 +277,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 30,
       "from_cache": false,
@@ -290,8 +290,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-18T13:42:21.072867+00:00",
-      "last_live_at": "2026-08-18T13:42:21.072867+00:00",
+      "checked_at": "2026-08-18T14:00:24.863253+00:00",
+      "last_live_at": "2026-08-18T14:00:24.863253+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -1146,7 +1146,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1247,7 +1247,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2297,7 +2297,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2447,7 +2447,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
               "status": "Marcar como feito",
-              "nao_lidas": "4",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3506,7 +3506,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3621,7 +3621,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
               "status": "Marcar como feito",
-              "nao_lidas": "4",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3749,7 +3749,7 @@
               },
               "confianca": "alta",
               "frase": "Prezados/as, Está marcada para a quinta-feira (13/08), às 18:30h, a live da QUINZENA 02, da turma com os facilitadores",
-              "titulo_evento": "Prezados/as"
+              "titulo_evento": null
             }
           ],
           "autoridade": "institucional",
@@ -4265,7 +4265,7 @@
               "escopo": null,
               "confianca": "alta",
               "frase": "Prezados alunos, como estão? Informo que nesta quinta-feira (30/07), às 19h, teremos nossa a primeira live da turma com os facilitadores",
-              "titulo_evento": "Prezados alunos, como estão?"
+              "titulo_evento": null
             }
           ],
           "autoridade": "institucional",
@@ -4560,7 +4560,38 @@
           "novo": false
         }
       ],
-      "espacos_de_grupo": [],
+      "espacos_de_grupo": [
+        {
+          "label": "M7 - Grupo: Ponto de encontro",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
+          "cmid": null,
+          "tem_topico": true
+        },
+        {
+          "label": "Q2 M7 - Grupo: Ponto de encontro",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=215611",
+          "cmid": null,
+          "tem_topico": true
+        },
+        {
+          "label": "S2 - Fórum do Grupo",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=150523",
+          "cmid": null,
+          "tem_topico": false
+        },
+        {
+          "label": "S3 - Fórum do Grupo",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=153340",
+          "cmid": null,
+          "tem_topico": false
+        },
+        {
+          "label": "S4 - Fórum do Grupo",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=154863",
+          "cmid": null,
+          "tem_topico": false
+        }
+      ],
       "paginas_instrucao": [
         {
           "autor": "Q2 - Instruções da Quinzena 2",
@@ -4597,7 +4628,7 @@
               "quando": "2026-08-23T23:59:00-03:00",
               "trecho": "23 PRAZO MÓDULOS 1 A 4",
               "tipo": "fim",
-              "hora_certa": false,
+              "hora_certa": true,
               "escopo": {
                 "familia": "quinzena",
                 "numeros": [
@@ -4606,14 +4637,16 @@
                 "txt": "PRAZO MÓDULOS 1 A 4"
               },
               "confianca": "alta",
-              "frase": "Calendário da Quinzena 3, de 16 de agosto a 1º de setembro de 2026, com as etapas e os prazos. Célula: 23 PRAZO MÓDULOS 1 A 4"
+              "frase": "Calendário da Quinzena 3, de 16 de agosto a 1º de setembro de 2026, com as etapas e os prazos. Célula: 23 PRAZO MÓDULOS 1 A 4",
+              "hora_fonte": "a página da unidade declara o horário",
+              "consequencia": "Se você concluir os módulos depois do dia 23 Quem conclui os quatro primeiros módulos depois de domingo, 23 de agosto, às 23h59, recebe na segunda-feira a etapa prática individual: lê a situação e escreve o trabalho individual, dentro da mesma janela de entrega. Esse trabalho vale por inteiro. O trabalho em grupo fica com quem concluiu os módulos até domingo, e a sua próxima oportunidade de participar dele chega na quinzena seguinte."
             },
             {
               "rotulo": "Prazo entrega",
               "quando": "2026-08-29T23:59:00-03:00",
               "trecho": "29 PRAZO ENTREGA",
               "tipo": "fim",
-              "hora_certa": false,
+              "hora_certa": true,
               "escopo": {
                 "familia": "quinzena",
                 "numeros": [
@@ -4622,7 +4655,8 @@
                 "txt": "PRAZO ENTREGA"
               },
               "confianca": "alta",
-              "frase": "Calendário da Quinzena 3, de 16 de agosto a 1º de setembro de 2026, com as etapas e os prazos. Célula: 29 PRAZO ENTREGA"
+              "frase": "Calendário da Quinzena 3, de 16 de agosto a 1º de setembro de 2026, com as etapas e os prazos. Célula: 29 PRAZO ENTREGA",
+              "hora_fonte": "a página da unidade declara o horário"
             },
             {
               "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de ago...",
@@ -7205,14 +7239,16 @@
       "url": null,
       "conta_nota": true,
       "prazo": "2026-08-23T23:59:00-03:00",
-      "prazo_txt": "vence 23/08 (horário não informado)",
+      "prazo_txt": "vence 23/08 às 23:59",
       "prazo_fonte": "aviso de Q3 - Instruções da Quinzena 3",
       "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=228099",
       "autoridade": "institucional",
       "carencia": null,
-      "hora_certa": false,
+      "hora_certa": true,
       "urgencia": "semana",
-      "bloqueio": null
+      "bloqueio": null,
+      "explicacao": "A página da unidade avisa: “Se você concluir os módulos depois do dia 23 Quem conclui os quatro primeiros módulos depois de domingo, 23 de agosto, às 23h59, recebe na segunda-feira a etapa prática individual: lê a situação e escreve o trabalho individual, dentro da mesma janela de entrega. Esse trabalho vale por inteiro. O trabalho em grupo fica com quem concluiu os módulos até domingo, e a sua próxima oportunidade de participar dele chega na quinzena seguinte.”",
+      "hora_fonte": "a página da unidade declara o horário"
     },
     {
       "curso": "LET110",
@@ -7431,9 +7467,10 @@
       "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=228099",
       "autoridade": "institucional",
       "carencia": null,
-      "hora_certa": false,
+      "hora_certa": true,
       "urgencia": "depois",
-      "bloqueio": null
+      "bloqueio": null,
+      "hora_fonte": "a página da unidade declara o horário"
     },
     {
       "curso": "COM100",
