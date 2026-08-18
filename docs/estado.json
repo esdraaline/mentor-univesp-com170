@@ -1,6 +1,6 @@
 {
   "https://ava.univesp.br/mod/forum/discuss.php?d=123397": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-22T00:19+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -22,7 +22,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160780": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-16T22:50:35-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 12,
@@ -274,7 +274,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-16T19:31:37-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
@@ -323,7 +323,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "657848",
@@ -338,7 +338,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "634055",
@@ -433,7 +433,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=123388": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-22T00:11+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -455,7 +455,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=122945": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-25T16:44+0000",
     "truncado": false,
     "posts_institucionais_vistos": 2,
@@ -490,7 +490,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T22:10:42-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 46,
@@ -656,7 +656,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168798": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T22:55:33-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -816,7 +816,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=123032": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-21T13:06+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -840,7 +840,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-18T10:01:06-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 10,
@@ -1079,7 +1079,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165175": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-16T22:28:39-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
@@ -1446,7 +1446,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=99953": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-06-22T19:31+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -1473,13 +1473,12 @@
             "frase": "Olá, pessoal! Passando para lembrar que a atividade obrigatória de hoje é assistir à nossa Live de Boas-Vindas Fiquem tranquilos quanto ao acesso à plataforma: o Gemini será liberado amanhã, terça-feira (23/06)"
           }
         ],
-        "autoridade": "institucional",
-        "novo": false
+        "autoridade": "institucional"
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=112790": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-08T22:55+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -1501,7 +1500,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=123537": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-22T01:28+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -1523,7 +1522,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=124738": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-04T14:31+0000",
     "truncado": false,
     "posts_institucionais_vistos": 2,
@@ -1557,7 +1556,7 @@
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "485864",
@@ -3099,7 +3098,7 @@
           "situacao": ""
         }
       ],
-      "checked_at": "2026-08-18T13:10:23.001913+00:00",
+      "checked_at": "2026-08-18T13:42:21.072867+00:00",
       "_login_ok": [
         "#form\\:usuario",
         "26235014"
@@ -3188,7 +3187,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160792": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T20:27:55-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -3390,7 +3389,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182604": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-14T12:44:51-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 11,
@@ -3407,7 +3406,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182604",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "549130",
@@ -3533,7 +3532,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T23:27:22-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -3692,7 +3691,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182605": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-14T12:51:14-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 18,
@@ -3709,7 +3708,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182605",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "589742",
@@ -3854,7 +3853,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=125495": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-27T13:24+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -3876,7 +3875,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165185": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T16:57:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
@@ -3925,7 +3924,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "661572",
@@ -3940,7 +3939,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "659649",
@@ -4035,7 +4034,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126298": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-28T13:46+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -4052,12 +4051,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126298",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126438": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-28T16:47+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -4076,12 +4075,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126438",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126445": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-31T12:40+0000",
     "truncado": false,
     "posts_institucionais_vistos": 2,
@@ -4114,7 +4113,7 @@
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "540615",
@@ -4130,12 +4129,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126445",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=126704": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-07-28T23:21+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -4152,7 +4151,7 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=126704",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
@@ -4214,7 +4213,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207955": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-10T21:56:33-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -4226,14 +4225,12 @@
         "data": "2026-08-09T18:47:56-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "Os conteúdos relacionados a matéria, abre um leque muito grande da abrangência tecnologica em plena evolução. A logística tecnologica anda em passos largos e temos que acompanhar da mesma forma, espero conseguir administar melhor meu tempo para me dedicar mais a evolução em pleno movimento.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=612468#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "597142",
@@ -4241,9 +4238,7 @@
         "data": "2026-08-07T10:36:57-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "C oncordo com o ensinamento do pensamento computacional nas escolas , e que seja desde a educação básica até o ensino médio, uma vez que até para se fazer uma pesquisa , os alunos utilizam prompts inadequados, onde não possuem um vocabulário diversificado, onde carregam muitas dificuldades em transmitir o que realmente precisam na pesquisa, acredito com a implantação desse conteúdo seria muito vál",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=597142#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4256,9 +4251,7 @@
         "data": "2026-08-04T21:08:26-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "Excelente posicionamento, como estamos muito habituados a com o uso de celular esquecemos as dificuldades dos outros, até mesmo da forma como os aplicativos são desenvolvidos.\nJá tentou fazer o reconhecimento facial em um idoso kkk é uma jornada, ajudo muito meu avô nisso e vejo como os aplicativos excluíram essas pessoas.\nMuitos idosos vão usar somente o básico e as vezes até nisso são explorados",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=578745#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4271,9 +4264,7 @@
         "data": "2026-08-03T23:51:06-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "Infelizmente também atrasei, mas por falta de atenção minha porque estava acompanhando apenas uma matéria 🤡 perdi algumas atividades avaliativas, mas aos poucos vamos tentando acompanhar",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=571926#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4286,12 +4277,7 @@
         "data": "2026-08-03T21:41:15-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "Estou atrasado nas atividades de Pensamento Computacional, me surpreendi com a avaliação da S1 já fechada. Realmente está sendo fornecido um material de leitura muito extenso dentro desse pouco espaço de tempo. Para realizar a leitura total e assistir aos vídeos sem acelerar, é necessário mais tempo do que apenas um período de aulas noturnas. Talvez seja esperado que os alunos realmente pulem cont",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=570779#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=571598#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=571926#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=579546#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4304,9 +4290,7 @@
         "data": "2026-08-03T09:21:12-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "Olá pessoal! Li bastante sobre a BNCC e foi uma novidade saber que estão adaptando o ensino baseado na tecnologia e pesnamento computacional. Além disso, os vídeos e materiais de leitura são bem ricos em informações.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=563890#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4319,9 +4303,7 @@
         "data": "2026-08-02T23:25:39-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "O pensamento computacional ajuda-nos a arquitetar soluções de maneira transversal, ou seja, abrangendo diversas áreas do conhecimento, e não apenas à programação de computadores, servindo como uma ferramenta mental para diversas áreas de atuação e, claro, a nossa própria produtividade pessoal, como revisões de trabalhos acadêmicos, automatização de tarefas como envio de e-mails, atendimentos robot",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=562791#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4334,9 +4316,7 @@
         "data": "2026-08-02T23:18:19-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "Boa noite a todos.\n\nTenho acompanhado as discussões e percebo como esta primeira semana é importante para construirmos uma base sobre Inteligência Artificial e pensamento computacional.\n\nUma dúvida que surgiu durante meus estudos está relacionada à aplicação prática desses conceitos no cotidiano: até que ponto podemos identificar o pensamento computacional em ferramentas que já utilizamos diariame",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=562718#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4349,9 +4329,7 @@
         "data": "2026-08-02T22:35:51-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "Essa matéria foi imprescindível para darmos início ao desenvolvimento do nosso estudo/conhecimento a essa área que está dominando o mercado de trabalho e a nossa rotina. O pensamento computacional é fundamental para que possamos garantir o nosso lugar no mercado de trabalho.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=562252#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4364,9 +4342,7 @@
         "data": "2026-08-02T21:20:05-03:00",
         "titulo": "Re: S1 - Fórum de dúvidas gerais",
         "texto": "O pensamento computacional no dia a dia é, de forma muito simples, a nossa capacidade humana de resolver problemas usando a lógica e a organização.\nEle não serve apenas para quem trabalha com computadores; serve para ajudar qualquer pessoa a tomar decisões melhores e economizar tempo na rotina.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=561298#mformforum"
-        ],
+        "links": [],
         "forum": "S1 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207955",
         "prazos": [],
@@ -4376,7 +4352,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207956": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-10T08:59:02-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
@@ -4388,9 +4364,7 @@
         "data": "2026-08-05T11:47:25-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "❗RECADO IMPORTANTE (Fechamento da S2)\nAtenção pessoal,\no prazo de fechamento da atividades avaliativa da semana 2 - S2\né dia = 09/08 (DOMINGO)\n\nSe perderem o prazo, fica indisponível para nova tentativa.\nAbraços,",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582245#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [
@@ -4420,9 +4394,7 @@
         "data": "2026-08-05T11:45:01-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Janice, a postagem no \"Fórum de Dúvidas\" é só se você estiver dúvidas sobre o AVA, sobre as provas, sobre o sistema de avaliação, sobre essa dúvidas que você teve agora e outras.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=582229#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
@@ -4435,10 +4407,7 @@
         "data": "2026-08-06T16:57:44-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "irei fazer o possível para participar das Live dia 10/08 as 20:00.obrigado e boas aulas para todos.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=592208#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=593964#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [
@@ -4464,14 +4433,13 @@
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Newman, nessa área é possível assistir as lives que ficaram gravadas, conferir as datas das próximas e acessá-las:\nhttps://ava.univesp.br/mod/lti/view.php?id=160778",
         "links": [
-          "https://ava.univesp.br/mod/lti/view.php?id=160778",
-          "https://ava.univesp.br/mod/forum/post.php?reply=617845#mformforum"
+          "https://ava.univesp.br/mod/lti/view.php?id=160778"
         ],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "616750",
@@ -4479,14 +4447,12 @@
         "data": "2026-08-10T00:02:47-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Cristiano, confesso que estou bem confuso ainda, vou seguir suas dicas relendo os materiais e os exemplos.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=616750#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "616408",
@@ -4495,15 +4461,13 @@
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Há um espaço específico onde todas as lives são divulgadas?",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=616408#mformforum",
-          "https://ava.univesp.br/mod/lti/view.php?id=160778",
-          "https://ava.univesp.br/mod/forum/post.php?reply=617845#mformforum"
+          "https://ava.univesp.br/mod/lti/view.php?id=160778"
         ],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "614403",
@@ -4511,15 +4475,12 @@
         "data": "2026-08-09T21:11:56-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Até agora, entendi bem o conteúdo da semana. Os materiais e exemplos facilitaram a compreensão do pensamento computacional e de seus quatro pilares.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=614403#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=616750#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "612837",
@@ -4527,14 +4488,12 @@
         "data": "2026-08-09T19:18:27-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Ótimo conteúdo da materia.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=612837#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "608167",
@@ -4542,14 +4501,12 @@
         "data": "2026-08-09T00:42:59-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Também aconteceu isso comigo, achei a resposta correta para a alternativa mas não creio que ela se encaixa para a resposta que deveria ser.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=608167#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "607230",
@@ -4557,14 +4514,12 @@
         "data": "2026-08-08T21:33:42-03:00",
         "titulo": "Re: S2 - Fórum de dúvidas gerais",
         "texto": "Bons estudos!!! Excelente material",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=607230#mformforum"
-        ],
+        "links": [],
         "forum": "S2 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=207956",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       }
     ]
   },
@@ -5419,7 +5374,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=130626": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-03T12:10+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -5436,13 +5391,13 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=130626",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
-    "schema_version": 3,
-    "ultimo": "2026-08-18T09:30:03-03:00",
+    "schema_version": 4,
+    "ultimo": "2026-08-18T10:43:05-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5609,7 +5564,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207957": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-16T23:57:11-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -5759,7 +5714,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-18T03:42:45-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
@@ -5947,7 +5902,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182606": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-16T23:40:49-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 15,
@@ -5964,7 +5919,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664495",
@@ -5977,7 +5932,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664476",
@@ -5990,7 +5945,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664436",
@@ -6003,7 +5958,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664429",
@@ -6016,7 +5971,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664420",
@@ -6029,7 +5984,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664400",
@@ -6042,7 +5997,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664337",
@@ -6055,7 +6010,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664327",
@@ -6068,7 +6023,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "664306",
@@ -6081,12 +6036,12 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182606",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T20:00:24-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
@@ -6478,7 +6433,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=131095": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-03T18:07+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6495,12 +6450,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=131095",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=131101": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-03T18:11+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6517,12 +6472,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=131101",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=132021": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-04T14:13+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6543,12 +6498,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132021",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=132782": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-05T12:00+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6646,12 +6601,12 @@
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=132970": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-05T15:02+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6724,12 +6679,12 @@
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=133219": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-05T17:49+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6748,12 +6703,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=133219",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=134058": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-06T13:49+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6775,12 +6730,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=134058",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=134075": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-06T13:52+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6797,12 +6752,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=134075",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=135619": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-07T14:44+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6827,16 +6782,16 @@
             "escopo": null,
             "confianca": "alta",
             "frase": "Prezados/as estudantes, Nossa primeira live ocorrerá hoje (07/08) às 13h, excepcionalmente",
-            "titulo_evento": "Prezados/as estudantes"
+            "titulo_evento": null
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=136908": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-08T17:29+0000",
     "truncado": false,
     "posts_institucionais_vistos": 4,
@@ -6855,7 +6810,7 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=136908",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "604653",
@@ -6870,7 +6825,7 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=136908",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "604650",
@@ -6885,7 +6840,7 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=136908",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "604562",
@@ -6902,12 +6857,12 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=136908",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=138169": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-10T01:26+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -6991,13 +6946,13 @@
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
-    "schema_version": 3,
-    "ultimo": "2026-08-18T09:54:10-03:00",
+    "schema_version": 4,
+    "ultimo": "2026-08-18T10:22:27-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -7185,7 +7140,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T21:50:32-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
@@ -7364,12 +7319,42 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
-    "schema_version": 3,
-    "ultimo": "2026-08-18T10:13:00-03:00",
+    "schema_version": 4,
+    "ultimo": "2026-08-18T10:24:58-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "696111",
+        "autor": "MARINEILE BAKKENIST ALTARUGIO COLETI",
+        "data": "2026-08-18T10:24:58-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "O progresso social e a expansão dos direitos: entre o dado estatístico e a complexidade contemporâneaOlá a todas e todos,O debate familiar entre a bisavó Laurinda e o neto João ilustra perfeitamente um dos conceitos mais importantes que estudamos nesta semana: a historicidade dos direitos e da cidadania. A sensação nostálgica de que \"se vivia melhor antigamente\" muitas vezes se apoia na lembrança ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=696111#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "696067",
+        "autor": "RICARDO VALTER NUNES",
+        "data": "2026-08-18T10:21:12-03:00",
+        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "texto": "O progresso ético-social é marcado pela conquista progressiva de direitos civis, políticos e sociais que garantem uma dignidade antes inexistente para a maioria da população.\nAtualmente, a consolidação do Estado Democrático de Direito e a universalização dos direitos humanos oferecem condições superiores para o desenvolvimento social e profissional, visto que gerações passadas frequentemente carec",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=696067#mformforum"
+        ],
+        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "695166",
         "autor": "JANICE AUGUSTO BAPTISTA DE FIGUEIREDO",
@@ -7489,41 +7474,11 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "687974",
-        "autor": "JEFFERSON PIMPINELA FERREIRA",
-        "data": "2026-08-17T13:50:38-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "Há evidências de que ocorreu um progresso ético-social significativo nas últimas décadas, especialmente quando observamos indicadores como o aumento da expectativa de vida, a ampliação do acesso à educação, os avanços nos direitos civis e a redução de diversas formas de discriminação. Nesse sentido, a sociedade atual oferece condições mais favoráveis para o desenvolvimento pessoal, social e profis",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=687974#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "687532",
-        "autor": "ADEMARIO MARTINS DE BARROS",
-        "data": "2026-08-17T12:55:48-03:00",
-        "titulo": "Re: S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "texto": "De fato, creio que o progresso trouxe mais agilidade e independência pessoal, porém isto tem tornado o convívio familiar mais distante, com integrantes morando em outros locais e até paises distantes, diminuindo assim a quantidade de pessoas ao redor da mesa para prosear.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=687532#mformforum"
-        ],
-        "forum": "S4 - Fórum temático: Os Jovens de Hoje Têm Mais Oportunidades? Uma Análise Ética e Social",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-18T07:13:51-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
@@ -7687,7 +7642,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-18T07:36:53-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
@@ -7881,7 +7836,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=138963": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-10T13:31+0000",
     "truncado": false,
     "posts_institucionais_vistos": 2,
@@ -7898,7 +7853,7 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=138963",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "618832",
@@ -7911,7 +7866,7 @@
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=138963",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       }
     ]
   },
@@ -8122,7 +8077,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-18T00:15:05-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 3,
@@ -8184,7 +8139,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207959": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-18T09:34:52-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -8251,8 +8206,8 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222535": {
-    "schema_version": 3,
-    "ultimo": "2026-08-18T10:08:38-03:00",
+    "schema_version": 4,
+    "ultimo": "2026-08-18T10:36:02-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8411,7 +8366,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222536": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-18T08:56:05-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
@@ -8525,12 +8480,27 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165209": {
-    "schema_version": 3,
-    "ultimo": "2026-08-18T09:55:29-03:00",
+    "schema_version": 4,
+    "ultimo": "2026-08-18T10:46:43-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "696086",
+        "autor": "DANILO AUGUSTO PRESTA",
+        "data": "2026-08-18T10:22:28-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Jovens e estudantes de graduação/vestibulandos.\n\nPara o público que escolhi, penso que a minha escrita precisa ser direta, dinâmica e conectada a temas atuais. Ao planejar um texto sobre Tempos Modernos (1936), a minha estratégia seria começar quebrando as expectativas do leitor.\n\nEm vez de abrir com uma introdução histórica tradicional sobre a Revolução Industrial, eu iniciaria fazendo uma ponte ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=696086#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "695487",
         "autor": "BARBARA FENERICH NOGUEIRA",
@@ -8666,21 +8636,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "691840",
-        "autor": "WELLINGTON JOSE TOKUO OGASAWARA",
-        "data": "2026-08-17T19:45:10-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "Todos neste fórum estão em busca de uma idéia para publicarem um texto que lhes garantam o máximo de nota com um mínimo esforço. E o que atrai a atenção deste público, nada mais, nada menos do que a objetividade sem rodeios. O tempo lhes é precioso. Porém, o que, como e quando? Resposta simples: \"Pensem fora da caixinha.\"",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=691840#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -8725,7 +8680,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=150839": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T22:19+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -8747,7 +8702,7 @@
     ]
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=150843": {
-    "schema_version": 3,
+    "schema_version": 4,
     "ultimo": "2026-08-17T22:25+0000",
     "truncado": false,
     "posts_institucionais_vistos": 1,
@@ -8778,24 +8733,7 @@
             },
             "confianca": "alta",
             "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08)",
-            "titulo_evento": "Prezados/as"
-          },
-          {
-            "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
-            "quando": "2026-08-18T23:59:00-03:00",
-            "trecho": "18/08",
-            "tipo": "compromisso",
-            "hora_certa": false,
-            "escopo": {
-              "familia": "semana",
-              "numeros": [
-                5
-              ],
-              "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
-            },
-            "confianca": "alta",
-            "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08)",
-            "titulo_evento": "Prezados/as"
+            "titulo_evento": null
           },
           {
             "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
