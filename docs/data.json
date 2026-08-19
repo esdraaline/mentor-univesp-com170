@@ -105,7 +105,7 @@
         "situacao": ""
       }
     ],
-    "checked_at": "2026-08-19T20:29:39.328151+00:00",
+    "checked_at": "2026-08-19T23:24:02.070863+00:00",
     "_login_ok": [
       "#form\\:usuario",
       "26235014"
@@ -149,10 +149,10 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-19T20:29:39.326032+00:00",
-  "snapshot_at": "2026-08-19T20:29:39.326032+00:00",
-  "attempted_at": "2026-08-19T20:29:39.326032+00:00",
-  "publication_id": "2026-08-19T20:29:39.326032+00:00",
+  "checked_at": "2026-08-19T23:24:02.068155+00:00",
+  "snapshot_at": "2026-08-19T23:24:02.068155+00:00",
+  "attempted_at": "2026-08-19T23:24:02.068155+00:00",
+  "publication_id": "2026-08-19T23:24:02.068155+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 57,
@@ -168,8 +168,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -183,8 +183,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -193,8 +193,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 18,
       "from_cache": false,
@@ -207,8 +207,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -219,25 +219,25 @@
       "live": 3
     },
     "foruns": {
-      "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "status": "parcial",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
       "foruns": 45,
-      "listas_live": 45,
+      "listas_live": 32,
       "falhas": 0,
-      "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 226,
-      "posts_institucionais_guardados": 168
+      "pulados_orcamento": 17,
+      "posts_institucionais_vistos": 223,
+      "posts_institucionais_guardados": 165
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 19,
       "from_cache": false,
@@ -249,8 +249,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 29,
       "from_cache": false,
@@ -264,8 +264,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -277,8 +277,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 30,
       "from_cache": false,
@@ -290,8 +290,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-19T20:29:39.328151+00:00",
-      "last_live_at": "2026-08-19T20:29:39.328151+00:00",
+      "checked_at": "2026-08-19T23:24:02.070863+00:00",
+      "last_live_at": "2026-08-19T23:24:02.070863+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -842,7 +842,7 @@
               "status": null,
               "nao_lidas": null,
               "conta_nota": false,
-              "prazo": "2026-08-19T20:00:00-03:00",
+              "prazo": "2026-08-26T20:00:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null
             },
@@ -1041,7 +1041,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1142,7 +1142,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1243,7 +1243,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
-              "nao_lidas": "3",
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1345,7 +1345,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
               "status": "Marcar como feito",
-              "nao_lidas": "9",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1358,7 +1358,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
               "status": "Marcar como feito",
-              "nao_lidas": "3",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-26T23:59:00-03:00",
@@ -1753,7 +1753,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2154,7 +2154,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Concluído",
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2301,7 +2301,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
-              "nao_lidas": "9",
+              "nao_lidas": "5",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2314,7 +2314,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Concluído",
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2451,7 +2451,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
               "status": "Marcar como feito",
-              "nao_lidas": "18",
+              "nao_lidas": "26",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2464,7 +2464,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
               "status": "Marcar como feito",
-              "nao_lidas": "7",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2646,7 +2646,7 @@
                 ],
                 "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
               },
-              "confianca": "alta",
+              "confianca": "baixa",
               "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08) Na semana que vem, a de nº 6, voltamos pra terça-feira (25/08)"
             },
             {
@@ -2710,7 +2710,7 @@
                 ],
                 "txt": "Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08"
               },
-              "confianca": "alta",
+              "confianca": "baixa",
               "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08) Na semana que vem, a de nº 6, voltamos pra terça-feira (25/08)"
             },
             {
@@ -3015,7 +3015,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3399,7 +3399,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3511,7 +3511,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
-              "nao_lidas": "5",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3626,7 +3626,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
               "status": "Marcar como feito",
-              "nao_lidas": "7",
+              "nao_lidas": "15",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4565,38 +4565,7 @@
           "novo": false
         }
       ],
-      "espacos_de_grupo": [
-        {
-          "label": "M7 - Grupo: Ponto de encontro",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173856",
-          "cmid": null,
-          "tem_topico": true
-        },
-        {
-          "label": "Q2 M7 - Grupo: Ponto de encontro",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=215611",
-          "cmid": null,
-          "tem_topico": true
-        },
-        {
-          "label": "S2 - Fórum do Grupo",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=150523",
-          "cmid": null,
-          "tem_topico": false
-        },
-        {
-          "label": "S3 - Fórum do Grupo",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=153340",
-          "cmid": null,
-          "tem_topico": false
-        },
-        {
-          "label": "S4 - Fórum do Grupo",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=154863",
-          "cmid": null,
-          "tem_topico": false
-        }
-      ],
+      "espacos_de_grupo": [],
       "paginas_instrucao": [
         {
           "autor": "Q3 - Instruções da Quinzena 3",
@@ -4852,7 +4821,9 @@
               "frase": "Entrar na live Carlos e Siguara 20/08/2026 · 17h",
               "titulo_evento": "Carlos e Siguara"
             }
-          ]
+          ],
+          "lives_anunciadas": 7,
+          "lives_lidas": 5
         }
       ],
       "boletim": {
@@ -6566,7 +6537,7 @@
               "type": "forum",
               "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
               "status": null,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -7023,67 +6994,6 @@
   "mensagens": [],
   "acoes": [
     {
-      "curso": "COM170",
-      "secao": "Q3 - Lembrete de datas e live",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "ao vivo",
-      "o_que": "Lyon e Victor",
-      "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228101",
-      "conta_nota": true,
-      "prazo": "2026-08-19T18:00:00-03:00",
-      "prazo_txt": "acontece hoje às 18:00",
-      "prazo_fonte": "aviso de Q3 - Lembrete de datas e live",
-      "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=228101",
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "hoje",
-      "opcoes": [
-        {
-          "quando": "2026-08-19T18:00:00-03:00",
-          "prazo_txt": "acontece hoje às 18:00",
-          "o_que": "Lyon e Victor"
-        },
-        {
-          "quando": "2026-08-19T19:00:00-03:00",
-          "prazo_txt": "acontece hoje às 19:00",
-          "o_que": "Cauê e Andréia"
-        },
-        {
-          "quando": "2026-08-20T10:00:00-03:00",
-          "prazo_txt": "acontece amanhã, 20/08 às 10:00",
-          "o_que": "Lívia e Cássia"
-        },
-        {
-          "quando": "2026-08-20T17:00:00-03:00",
-          "prazo_txt": "acontece amanhã, 20/08 às 17:00",
-          "o_que": "Carlos e Siguara"
-        }
-      ]
-    },
-    {
-      "curso": "COM100",
-      "secao": "Calendário do AVA",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "ao vivo",
-      "o_que": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
-      "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
-      "conta_nota": true,
-      "prazo": "2026-08-19T20:00:00-03:00",
-      "prazo_txt": "acontece hoje às 20:00",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "hoje",
-      "repete": 2
-    },
-    {
       "curso": "SOC100",
       "secao": "Semana 4",
       "fase": "regular",
@@ -7102,33 +7012,35 @@
       "urgencia": "hoje"
     },
     {
-      "curso": "LET110",
-      "secao": "Re: Fórum de dúvidas gerais",
+      "curso": "COM170",
+      "secao": "Q3 - Lembrete de datas e live",
       "fase": "regular",
       "verbo": "Assista",
       "coisa": "ao vivo",
-      "o_que": "Re: Fórum de dúvidas gerais",
+      "o_que": "Lívia e Cássia",
       "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228101",
       "conta_nota": true,
-      "prazo": "2026-08-20T20:00:00-03:00",
-      "prazo_txt": "acontece amanhã, 20/08 às 20:00",
-      "prazo_fonte": "aviso de Bruno Barra da Silva",
-      "fonte_url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+      "prazo": "2026-08-20T10:00:00-03:00",
+      "prazo_txt": "acontece amanhã, 20/08 às 10:00",
+      "prazo_fonte": "aviso de Q3 - Lembrete de datas e live",
+      "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=228101",
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
       "urgencia": "amanha",
+      "lives_anunciadas": 7,
+      "lives_lidas": 5,
       "opcoes": [
         {
-          "quando": "2026-08-20T23:59:00-03:00",
-          "prazo_txt": "acontece amanhã, 20/08 (horário não informado)",
-          "o_que": "Re: Fórum de dúvidas gerais"
+          "quando": "2026-08-20T10:00:00-03:00",
+          "prazo_txt": "acontece amanhã, 20/08 às 10:00",
+          "o_que": "Lívia e Cássia"
         },
         {
-          "quando": "2026-08-20T20:00:00-03:00",
-          "prazo_txt": "acontece amanhã, 20/08 às 20:00",
-          "o_que": "Re: Fórum de dúvidas gerais"
+          "quando": "2026-08-20T17:00:00-03:00",
+          "prazo_txt": "acontece amanhã, 20/08 às 17:00",
+          "o_que": "Carlos e Siguara"
         }
       ]
     },
@@ -7174,6 +7086,48 @@
       "hora_fonte": "a página da unidade declara o horário"
     },
     {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "fase": "regular",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "Q3 M1 - Atividade: Da manchete à competência",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228106",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana",
+      "prioridade_ate": "2026-08-23T23:59:00-03:00",
+      "destrava": "Q3 Módulo 2",
+      "destrava_em": "2026-08-23T23:59:00-03:00"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q3 Módulo 1",
+      "fase": "regular",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "Q3 M1 - Atividade: Qual é o critério da taxonomia?",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228109",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana",
+      "prioridade_ate": "2026-08-23T23:59:00-03:00",
+      "cobrado_por": "Quinzena 3 · Prazo módulos 1 a 4",
+      "destrava_em": "2026-08-23T23:59:00-03:00"
+    },
+    {
       "curso": "LET110",
       "secao": "Calendário do AVA",
       "fase": "regular",
@@ -7193,24 +7147,23 @@
       "urgencia": "semana"
     },
     {
-      "curso": "LET110",
-      "secao": "Semana 5",
+      "curso": "COM100",
+      "secao": "Calendário do AVA",
       "fase": "regular",
-      "verbo": "Conclua",
-      "coisa": "",
-      "o_que": "Semana 5 · conclusão",
-      "tipo": "obrigacao",
-      "url": null,
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
       "conta_nota": true,
-      "prazo": "2026-08-25T23:59:00-03:00",
-      "prazo_txt": "vence 25/08 (horário não informado)",
-      "prazo_fonte": "aviso de Bruno Barra da Silva",
-      "fonte_url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+      "prazo": "2026-08-26T20:00:00-03:00",
+      "prazo_txt": "acontece 26/08 às 20:00",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
-      "hora_certa": false,
-      "urgencia": "semana",
-      "bloqueio": null
+      "hora_certa": true,
+      "urgencia": "semana"
     },
     {
       "curso": "COM100",
@@ -7504,42 +7457,6 @@
       "o_que": "Q3 - Lembrete de datas e live",
       "tipo": "page",
       "url": "https://ava.univesp.br/mod/page/view.php?id=228101",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Q3 Módulo 1",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
-      "o_que": "Q3 M1 - Atividade: Da manchete à competência",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228106",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Q3 Módulo 1",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
-      "o_que": "Q3 M1 - Atividade: Qual é o critério da taxonomia?",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=228109",
       "conta_nota": true,
       "prazo": null,
       "prazo_txt": "",
@@ -7932,39 +7849,6 @@
   ],
   "confirmar": [
     {
-      "curso": "COM170",
-      "quando": "2026-08-19T16:00:00-03:00",
-      "quando_txt": "vence hoje às 16:00",
-      "tipo_lido": "compromisso",
-      "rotulo": "Entrar na live Vittoria e Nicolle 19/08/2026 · 16h",
-      "frase": "Entrar na live Vittoria e Nicolle 19/08/2026 · 16h",
-      "autor": "Q3 - Lembrete de datas e live",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
-    },
-    {
-      "curso": "COM170",
-      "quando": "2026-08-19T18:00:00-03:00",
-      "quando_txt": "vence hoje às 18:00",
-      "tipo_lido": "compromisso",
-      "rotulo": "Entrar na live Lyon e Victor 19/08/2026 · 18h",
-      "frase": "Entrar na live Lyon e Victor 19/08/2026 · 18h",
-      "autor": "Q3 - Lembrete de datas e live",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
-    },
-    {
-      "curso": "COM170",
-      "quando": "2026-08-19T19:00:00-03:00",
-      "quando_txt": "vence hoje às 19:00",
-      "tipo_lido": "compromisso",
-      "rotulo": "Entrar na live Cauê e Andréia 19/08/2026 · 19h",
-      "frase": "Entrar na live Cauê e Andréia 19/08/2026 · 19h",
-      "autor": "Q3 - Lembrete de datas e live",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
-    },
-    {
       "curso": "COM100",
       "quando": "2026-08-19T23:59:00-03:00",
       "quando_txt": "vence hoje (horário não informado)",
@@ -7974,28 +7858,6 @@
       "autor": "Joyce Mirella Dos Anjos Viana",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
-    },
-    {
-      "curso": "COM170",
-      "quando": "2026-08-20T10:00:00-03:00",
-      "quando_txt": "vence amanhã, 20/08 às 10:00",
-      "tipo_lido": "compromisso",
-      "rotulo": "Entrar na live Lívia e Cássia 20/08/2026 · 10h",
-      "frase": "Entrar na live Lívia e Cássia 20/08/2026 · 10h",
-      "autor": "Q3 - Lembrete de datas e live",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
-    },
-    {
-      "curso": "COM170",
-      "quando": "2026-08-20T17:00:00-03:00",
-      "quando_txt": "vence amanhã, 20/08 às 17:00",
-      "tipo_lido": "compromisso",
-      "rotulo": "Entrar na live Carlos e Siguara 20/08/2026 · 17h",
-      "frase": "Entrar na live Carlos e Siguara 20/08/2026 · 17h",
-      "autor": "Q3 - Lembrete de datas e live",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
     },
     {
       "curso": "COM170",
@@ -8018,6 +7880,17 @@
       "autor": "Joyce Mirella Dos Anjos Viana",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132970"
+    },
+    {
+      "curso": "LET110",
+      "quando": "2026-08-25T23:59:00-03:00",
+      "quando_txt": "vence 25/08 (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na qu...",
+      "frase": "Prezados/as, Conforme comentei anteriormente, nesta semana 5, nossa live ocorrerá na quinta-feira (20/08) e não na terça-feira (18/08) Na semana que vem, a de nº 6, voltamos pra terça-feira (25/08)",
+      "autor": "Bruno Barra da Silva",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=165165"
     },
     {
       "curso": "COM100",
@@ -8124,23 +7997,12 @@
   "prazos_novos": [
     {
       "curso": "COM100",
-      "label": "S4 - Fórum de dúvidas gerais",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
-      "cmid": "207958",
-      "prazo": "2026-08-19T23:59:00-03:00",
-      "de": null,
-      "fonte": "cronograma oficial da Univesp",
-      "conta_nota": false,
-      "atividade_nova": false
-    },
-    {
-      "curso": "COM100",
-      "label": "S5 - Fórum de dúvidas gerais",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
-      "cmid": "207959",
-      "prazo": "2026-08-26T23:59:00-03:00",
-      "de": "2026-08-11T14:35:00-03:00",
-      "fonte": "cronograma oficial da Univesp",
+      "label": "Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
+      "cmid": "160778",
+      "prazo": "2026-08-26T20:00:00-03:00",
+      "de": "2026-08-19T20:00:00-03:00",
+      "fonte": "calendário do AVA",
       "conta_nota": false,
       "atividade_nova": false
     }
