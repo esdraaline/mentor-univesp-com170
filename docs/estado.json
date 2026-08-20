@@ -2736,11 +2736,27 @@
         },
         "228109": {
           "rotulo": "Q3 M1 - Atividade: Qual é o critério da taxonomia?",
+          "nota_txt": "0,00",
+          "nota": 0.0,
+          "tem_nota": true,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/scorm/view.php?id=228109"
+        },
+        "228115": {
+          "rotulo": "Q3 M2 - Atividade: Mapa de tarefas",
           "nota_txt": "-",
           "nota": null,
           "tem_nota": false,
           "feedback": null,
-          "url": "https://ava.univesp.br/mod/scorm/view.php?id=228109"
+          "url": "https://ava.univesp.br/mod/scorm/view.php?id=228115"
+        },
+        "228112": {
+          "rotulo": "Q3 M2 - Atividade: O que aconteceu da última vez",
+          "nota_txt": "-",
+          "nota": null,
+          "tem_nota": false,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/scorm/view.php?id=228112"
         },
         "173832": {
           "rotulo": "M1 - Quiz: Identifique o paradigma em 5 situações do cotidiano",
@@ -3096,7 +3112,7 @@
           "situacao": ""
         }
       ],
-      "checked_at": "2026-08-20T17:30:55.883421+00:00",
+      "checked_at": "2026-08-20T20:30:32.211716+00:00",
       "_login_ok": [
         "#form\\:usuario",
         "26235014"
@@ -3531,7 +3547,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168808": {
     "schema_version": 5,
-    "ultimo": "2026-08-17T23:27:22-03:00",
+    "ultimo": "2026-08-20T14:44:42-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -3564,7 +3580,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "679505",
@@ -3579,7 +3595,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "678637",
@@ -3594,7 +3610,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "677827",
@@ -3609,7 +3625,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "675724",
@@ -3874,7 +3890,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165185": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T10:38:51-03:00",
+    "ultimo": "2026-08-20T15:54:22-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -5384,7 +5400,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 5,
-    "ultimo": "2026-08-19T22:44:34-03:00",
+    "ultimo": "2026-08-20T16:34:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -6029,7 +6045,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T10:52:57-03:00",
+    "ultimo": "2026-08-20T16:01:11-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6942,7 +6958,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T14:31:04-03:00",
+    "ultimo": "2026-08-20T17:20:26-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -7309,7 +7325,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T13:52:54-03:00",
+    "ultimo": "2026-08-20T15:43:35-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7630,7 +7646,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T14:20:59-03:00",
+    "ultimo": "2026-08-20T17:23:04-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7730,6 +7746,21 @@
         "novo": false
       },
       {
+        "id": "716108",
+        "autor": "DIOGENES MACIEL",
+        "data": "2026-08-20T17:23:04-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "A primeira relação que fiz foi que me pareceu que a \"forma\" está para a coesão, como o \"conteúdo\" está para a coerência textuais.\nPara se avaliar a coesão textual, analisa-se o uso dos conectivos, conjunções, pronomes...já a coerência, seria sustentada pela organização lógica das ideias.\nComo afirma Koch, \"a coerência não está apenas nas palavras, mas nos conhecimentos de mundo e inferências compa",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=716108#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "714896",
         "autor": "JAQUELINE CRISTINA RODRIGUES",
         "data": "2026-08-20T14:20:59-03:00",
@@ -7804,21 +7835,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "712686",
-        "autor": "ANDRE FRANCO PAGNIN",
-        "data": "2026-08-20T07:50:04-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A coerência e a coesão são fundamentais para garantir a clareza e a compreensão de um texto. Entre as principais estratégias estão a organização lógica das ideias, a consideração do contexto e o uso adequado de conectivos, pronomes e sinônimos. Esses recursos ajudam a evitar repetições e estabelecem relações entre as partes do texto, tornando a leitura mais fluida e o texto mais bem encadeado.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=712686#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -7867,6 +7883,11 @@
       "nota": "0,00",
       "de": null,
       "em": "2026-08-20T11:31:39.218292+00:00"
+    },
+    "COM170:228109": {
+      "nota": "0,00",
+      "de": null,
+      "em": "2026-08-20T20:30:32.208864+00:00"
     }
   },
   "_prazos_avisados": {
@@ -8064,7 +8085,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T14:15:46-03:00",
+    "ultimo": "2026-08-20T17:29:13-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -8124,6 +8145,54 @@
         "prazos": [],
         "autoridade": "institucional",
         "novo": false
+      },
+      {
+        "id": "715925",
+        "autor": "MARINA MARIANO",
+        "data": "2026-08-20T16:56:44-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Olá, segue meu remix:\nhttps://scratch.mit.edu/projects/1370276469\n\nAs mudanças foram de cenário, de personagens, de som, de velocidade, de altura de pulo. Poderia ter transformado mais, mas quis manter a essência do jogo pelo menos. Foi interessante, mas acredito que eu precise explorar mais para criar do zero. De qualquer maneira, é interessante conhecer as estratégias de quem já está mais famili",
+        "links": [
+          "https://scratch.mit.edu/projects/1370276469",
+          "https://ava.univesp.br/mod/forum/post.php?reply=715925#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "715829",
+        "autor": "EDUARDO PENTEADO LACUSTA",
+        "data": "2026-08-20T16:43:38-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Meu Remix do Scratch\nhttps://scratch.mit.edu/projects/1370278993\nAproveitei a lógica do Sprite apontando para o mouse e fiz um Sprite animado - um gato que pula até chegar ao mouse.",
+        "links": [
+          "https://scratch.mit.edu/projects/1370278993",
+          "https://ava.univesp.br/mod/forum/post.php?reply=715829#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "715631",
+        "autor": "ROBSON FERRAZ DA SILVA",
+        "data": "2026-08-20T16:13:10-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Ola!!!\nUsei um projeto que eu mesmo já havia feito, de um gato correndo sobre o planeta terra.\nInseri novas funções como saltar, som de miado, som ambiente e tambem novo personagem asteroides.\nConclusão - Fiz um pequeno jogo em que o gato precisa pular os asteroides, até inseri um contador para somar os pontos, mas, ainda não entendi a lógica para no caso do asteroide bater no personagem zerasse o",
+        "links": [
+          "https://scratch.mit.edu/projects/1370200374",
+          "https://ava.univesp.br/mod/forum/post.php?reply=715631#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "714821",
@@ -8191,61 +8260,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "711117",
-        "autor": "JOSE EMILIO CATANHO DA SILVA JUNIOR",
-        "data": "2026-08-19T21:37:37-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1370025810\n\nEscolhi o projeto Random clicks! / Random clicking game remix. A ideia original era bem simples: clicar em um dos dois botões para tentar acertar qual deles foi sorteado (com 50% de chance), mas não havia pontuação com risco real, nem tempo limite ou condição de derrota.\n\nO que adicionei e mudei no projeto:\n\nSistema de Vidas e Tempo: Adicionei 3 vidas p",
-        "links": [
-          "https://scratch.mit.edu/projects/1370025810",
-          "https://ava.univesp.br/mod/forum/post.php?reply=711117#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "707785",
-        "autor": "LAZARO DONIZETI VIEIRA LUZ",
-        "data": "2026-08-19T16:13:22-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "Aqui está o projeto: é um jogo de tiro de um astronauta contra uma nave, eu acrescentei os efeitos de som no jogo para auxiliar na jogabilidade, como o efeito de carga da arma do astronauta, um som para disparo e som ambiente de espaço (o que me deu mais trabalho até eu perceber que tinha que criar uma sequencia de blocos individuais para o som ficar tocando em loop). Trabalhar com os sons me ajud",
-        "links": [
-          "https://scratch.mit.edu/projects/1369976084",
-          "https://ava.univesp.br/mod/forum/post.php?reply=707785#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "704514",
-        "autor": "TACIA CRISTINA ANARDINO",
-        "data": "2026-08-19T07:53:00-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "https://scratch.mit.edu/projects/1369868951\nNo projeto no Scratch, fiz algumas alterações no personagem. Mudei a fantasia e também acrescentei um som, que é reproduzido quando clico no personagem e ocorre a troca de fantasia. Com essas mudanças, o projeto ficou mais interativo e dinâmico.",
-        "links": [
-          "https://scratch.mit.edu/projects/1369868951",
-          "https://ava.univesp.br/mod/forum/post.php?reply=704514#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=705889#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207959": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T13:15:54-03:00",
+    "ultimo": "2026-08-20T14:46:57-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -8360,7 +8380,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222535": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T14:15:26-03:00",
+    "ultimo": "2026-08-20T17:01:26-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8521,11 +8541,41 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222536": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T13:49:51-03:00",
+    "ultimo": "2026-08-20T17:27:20-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "715517",
+        "autor": "DIEGO FERREIRA RABALDELLI",
+        "data": "2026-08-20T15:56:22-03:00",
+        "titulo": "Re: S5 - Fórum de dúvidas gerais",
+        "texto": "Na disciplina de IA parece que é obrigatório, as outras não tenho certeza, mas acho que sim também e sim tem lista de presença no final da live.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=715517#mformforum"
+        ],
+        "forum": "S5 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "715514",
+        "autor": "VALERIA DOS SANTOS",
+        "data": "2026-08-20T15:56:14-03:00",
+        "titulo": "S5 - Fórum de dúvidas gerais",
+        "texto": "Boa tarde,\n\nMinha dúvida é sobre a estrutura da avaliação bimestral. Quantas questões, questões discursivas ou questões de assinalar. \n\nObrigada.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=715514#mformforum"
+        ],
+        "forum": "S5 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "714065",
         "autor": "ROGERIO MITSUNOBU KIMURA",
@@ -8550,7 +8600,8 @@
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=714049#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=714065#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=714594#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=714594#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=715517#mformforum"
         ],
         "forum": "S5 - Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
@@ -8647,46 +8698,46 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "698649",
-        "autor": "PAULO MADUREIRA JUNIOR",
-        "data": "2026-08-18T15:29:30-03:00",
-        "titulo": "Re: S5 - Fórum de dúvidas gerais",
-        "texto": "Olá!\n\nNão consigo acessar o seguinte material: Texto-base - Ética profissional (Leia os capítulos 10, “Profissão e efeitos de sua conduta” e 11, “Ética e profissão”, p. 127-144) | Antônio Lopes de Sá para abrir o recurso.\n\nAlguém pode me ajudar?",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=698649#mformforum"
-        ],
-        "forum": "S5 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "694631",
-        "autor": "DHARA CAVALCANTI DE OLIVEIRA",
-        "data": "2026-08-17T23:30:13-03:00",
-        "titulo": "Re: S5 - Fórum de dúvidas gerais",
-        "texto": "Ótima reflexão, Luiz! Pensei muito no exemplo dos profissionais bancários, que são cada vez mais pressionados a atingir metas e, em alguns casos, acabam ultrapassando os limites éticos para alcançá-las. Acredito que exista uma linha tênue que não deve ser ultrapassada, independentemente dos resultados que se pretende alcançar. Infelizmente, muitas vezes, a deontologia acaba ficando apenas no papel",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=694631#mformforum"
-        ],
-        "forum": "S5 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165209": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T14:26:02-03:00",
+    "ultimo": "2026-08-20T17:24:54-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "716014",
+        "autor": "LAIS SAES MADEIRA MAGALHAES",
+        "data": "2026-08-20T17:08:49-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Essa semana o conteúdo apresentado e a atividade proposta ampliaram minha cosmovisão, conhecer o conceito de informatividade e saber mais sobre Charles Chaplin foi muito edificante.\n\nDefinir um público-alvo é essencial para atingir diretamente quem tem verdadeiro interesse e evitar assim o desperdício de recursos, porém essa definição é um desafio crítico. Identificar e compreender esse grupo é fu",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=716014#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "715737",
+        "autor": "SAMUEL NERY SILVA",
+        "data": "2026-08-20T16:28:12-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Creio eu que é necessário escolher um publico alvo para que possamos prender a atenção desse publico. essa é uma etapa essencial no desenvolvimento de textos. Por exemplo, é muito provável que um texto que aborde uma descoberta cientifica, atinja um publico que tem interesse nesse assunto.\n\nIsso também se conecta com outro conceito que vimos em aula, sobre a informatividade. Esse conceito é um tex",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=715737#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "714451",
         "autor": "DALTON ONOFRE REIS DIAS",
@@ -8800,36 +8851,6 @@
         "texto": "Para um texto sobre o filme Tempos Modernos, um público interessante seria o de jovens ingressantes no mercado de trabalho ou estudantes enfrentando o estresse da produtividade. A estratégia para esse leitor seria aproximar a obra de 1936 das dores do século XXI, utilizando o filme como um espelho de questões atuais, como a ansiedade, a sobrecarga profissional e a sensação de sermos robôs da tecno",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=711764#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "711218",
-        "autor": "SANDRO RICARDO DA SILVA",
-        "data": "2026-08-19T21:45:04-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "É impressionante como o filme do Chaplin continua atual. Ver o bonequinho preso na engrenagem gigante parece muito com a nossa rotina corrida de hoje em dia, sempre grudados em telas e prazos. Mesmo sendo mudo e antigo, ele consegue fazer a gente rir e pensar ao mesmo tempo sobre o quanto a tecnologia às vezes nos controla, em vez de ajudar.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=711218#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "711073",
-        "autor": "JOSE GABRIEL DA SILVA",
-        "data": "2026-08-19T21:33:57-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "Imaginar o público-alvo é essencial para dosar a informatividade do texto. Pensando em um artigo sobre o filme \"Tempos Modernos\" voltado para jovens profissionais da era digital, a estratégia seria:\nQuebra de expectativas: Em vez de uma introdução acadêmica previsível, o texto começaria relacionando a clássica cena de Chaplin na engrenagem com a pressão atual por produtividade, notificações fora d",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=711073#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
