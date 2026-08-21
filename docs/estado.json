@@ -275,7 +275,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160786": {
     "schema_version": 5,
-    "ultimo": "2026-08-18T20:25:50-03:00",
+    "ultimo": "2026-08-20T21:48:47-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -491,7 +491,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168788": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T06:51:40-03:00",
+    "ultimo": "2026-08-20T20:43:46-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 49,
     "posts_institucionais_guardados": 10,
@@ -840,11 +840,38 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:08:49-03:00",
+    "ultimo": "2026-08-20T20:35:41-03:00",
     "truncado": true,
-    "posts_institucionais_vistos": 10,
+    "posts_institucionais_vistos": 11,
     "posts_institucionais_guardados": 10,
     "posts": [
+      {
+        "id": "717845",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-20T20:35:41-03:00",
+        "titulo": "Live - semana 5",
+        "texto": "Pessoal, \n\nVou remarcar a live para amanhã, sexta-feira (21/08), às 19h assim consigo resolver meu problema de conexão. Infelizmente, às vezes a rede falha. Peço desculpas pelo contratempo e sigo à disposição. \n\nAtenciosamente, Bruno.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=717845#mformforum"
+        ],
+        "forum": "Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+        "prazos": [
+          {
+            "rotulo": "Pessoal, Vou remarcar a live para amanhã, sexta-feira (21/08), às 19h assim consigo res...",
+            "quando": "2026-08-21T19:00:00-03:00",
+            "trecho": "21/08), às 19h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": null,
+            "confianca": "alta",
+            "frase": "Pessoal, Vou remarcar a live para amanhã, sexta-feira (21/08), às 19h assim consigo resolver meu problema de conexão",
+            "titulo_evento": null
+          }
+        ],
+        "autoridade": "institucional",
+        "novo": true
+      },
       {
         "id": "691515",
         "autor": "Bruno Barra da Silva",
@@ -910,7 +937,7 @@
           }
         ],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "635577",
@@ -984,7 +1011,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "689363",
@@ -999,7 +1026,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "689348",
@@ -1014,7 +1041,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "689328",
@@ -1029,7 +1056,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "635630",
@@ -1054,23 +1081,6 @@
         "texto": "Olá, pessoal!\n\nDeixei 2 novos posts na seção \"avisos\" respondendo às dúvidas de vocês!",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=566433#mformforum"
-        ],
-        "forum": "Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-        "prazos": [],
-        "autoridade": "institucional",
-        "novo": false
-      },
-      {
-        "id": "515000",
-        "autor": "Bruno Barra da Silva",
-        "data": "2026-07-28T13:41:41-03:00",
-        "titulo": "Re: Fórum de dúvidas gerais",
-        "texto": "Olá, pessoal!\nEspero que estejam bem e animados/as para este semestre.\n\nGostaria de iniciar nosso contato me apresentando: meu nome é Bruno Barra, sou mestrando em Literatura pela USP e será um prazer estar com vocês nessa etapa tão importante da formação acadêmica. Para quem quiser conhecer um pouco mais da minha trajetória, deixo aqui o link do meu currículo Lattes: http://lattes.cnpq.br/8422619",
-        "links": [
-          "http://lattes.cnpq.br/8422619565625661",
-          "https://ava.univesp.br/mod/forum/post.php?reply=515000#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=519203#mformforum"
         ],
         "forum": "Fórum de dúvidas gerais",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
@@ -2241,7 +2251,7 @@
       },
       {
         "nome": "Live 3",
-        "quando": "2026-08-20T20:00:00-03:00",
+        "quando": "2026-08-21T19:00:00-03:00",
         "curso_id": "18893",
         "curso": null,
         "atividade": "Live 3",
@@ -3114,7 +3124,7 @@
           "situacao": ""
         }
       ],
-      "checked_at": "2026-08-20T23:27:18.655040+00:00",
+      "checked_at": "2026-08-21T11:32:05.900289+00:00",
       "_login_ok": [
         "#form\\:usuario",
         "26235014"
@@ -3123,26 +3133,26 @@
   },
   "_autores_institucionais": {
     "18870": {
-      "Elva Karina Mayhua Quispe": "2026-08-20",
-      "Joyce Mirella Dos Anjos Viana": "2026-08-20",
-      "Loren Salles Souza Pereira": "2026-08-20",
-      "Wesley de Souza Lima": "2026-08-20"
+      "Elva Karina Mayhua Quispe": "2026-08-21",
+      "Joyce Mirella Dos Anjos Viana": "2026-08-21",
+      "Loren Salles Souza Pereira": "2026-08-21",
+      "Wesley de Souza Lima": "2026-08-21"
     },
     "18880": {
-      "Igor Alexandre Silva Cassemiro": "2026-08-20",
-      "Mirza Ferreira": "2026-08-20",
-      "Wesley de Souza Lima": "2026-08-20"
+      "Igor Alexandre Silva Cassemiro": "2026-08-21",
+      "Mirza Ferreira": "2026-08-21",
+      "Wesley de Souza Lima": "2026-08-21"
     },
     "18893": {
-      "Bruno Barra da Silva": "2026-08-20",
-      "Paulo Otavio da Silva Joaquim": "2026-08-20",
-      "Pedro Henrique dos Santos Malafaia": "2026-08-20"
+      "Bruno Barra da Silva": "2026-08-21",
+      "Paulo Otavio da Silva Joaquim": "2026-08-21",
+      "Pedro Henrique dos Santos Malafaia": "2026-08-21"
     },
     "18922": {
-      "Lucas Demeda Dos Santos": "2026-08-20",
-      "Neide Silvania Campos Sampaio": "2026-08-20",
-      "Usuário Integração SEI": "2026-08-20",
-      "no reply": "2026-08-20"
+      "Lucas Demeda Dos Santos": "2026-08-21",
+      "Neide Silvania Campos Sampaio": "2026-08-21",
+      "Usuário Integração SEI": "2026-08-21",
+      "no reply": "2026-08-21"
     }
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=125120": {
@@ -4871,7 +4881,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=146224": {
     "schema_version": 5,
-    "ultimo": "2026-07-14T19:11:10-03:00",
+    "ultimo": "2026-08-20T23:08:48-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -5402,11 +5412,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160798": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T19:34:28-03:00",
+    "ultimo": "2026-08-20T20:42:01-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "717924",
+        "autor": "NEEMIAS BISPO DOS SANTOS",
+        "data": "2026-08-20T20:42:01-03:00",
+        "titulo": "Re: S3 - Fórum temático",
+        "texto": "consegui fazer o bonequinho ficar rodando na sala, juro que comecei batendo a cabeça mas depois se tornou simples",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=717924#mformforum"
+        ],
+        "forum": "S3 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "695498",
         "autor": "SUELI FERREIRA FREIRE",
@@ -5437,7 +5462,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "683978",
@@ -5543,22 +5568,6 @@
         "links": [
           "https://scratch.mit.edu/projects/1369058491/",
           "https://ava.univesp.br/mod/forum/post.php?reply=680854#mformforum"
-        ],
-        "forum": "S3 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
-      },
-      {
-        "id": "680784",
-        "autor": "MARIANE OLIVEIRA FERNANDES DE SOUZA",
-        "data": "2026-08-16T18:52:22-03:00",
-        "titulo": "Re: S3 - Fórum temático",
-        "texto": "Fiz um projeto bem simples, apenas para começar a entender as possibilidades da plataforma.\n\nhttps://scratch.mit.edu/projects/1369203280\n\nO objetivo é fazer uma entregadora se movimentar pelo cenário. Ao clicar na bandeira verde, ela sai de uma área mais restrita e consegue chegar até uma área com mais possibilidade de direcionamento. Ao clicar no avatar da entregadora, ela orienta a utilizar as s",
-        "links": [
-          "https://scratch.mit.edu/projects/1369203280",
-          "https://ava.univesp.br/mod/forum/post.php?reply=680784#mformforum"
         ],
         "forum": "S3 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
@@ -6959,7 +6968,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T19:20:42-03:00",
+    "ultimo": "2026-08-21T07:02:19-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -7079,6 +7088,58 @@
         "novo": false
       },
       {
+        "id": "719599",
+        "autor": "WALCYR ANTONIO DE SOUZA JUNIOR",
+        "data": "2026-08-21T07:02:19-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Olá a todos!\n\nCompartilho aqui o link do meu projeto LeãoVegano 2.0, desenvolvido na plataforma Scratch como parte das atividades da Semana 4 de Pensamento Computacional: [Acesse aqui e veja o resultado]\n\nAo clicar na bandeira verde, o leão pergunta \"Qual o seu nome?\" e permanece imóvel até o usuário responder. Após a resposta, a saudação \"Olá, Eu sou [nome]\" aparece fixa no topo da tela e o leão ",
+        "links": [
+          "https://scratch.mit.edu/projects/1370406060",
+          "https://scratch.mit.edu/projects/1368942892",
+          "https://scratch.mit.edu/projects/1370366042",
+          "https://scratch.mit.edu/projects/1370406060",
+          "https://ava.univesp.br/mod/forum/post.php?reply=719599#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "719054",
+        "autor": "JEOZADAQUE FLORENTINO DA SILVA",
+        "data": "2026-08-20T22:54:10-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1370330958/editor?tutorial=home\n\nDocumentação do Processo de Criação\n\nNeste projeto, desenvolvi uma aplicação interativa na qual o personagem se comunica diretamente com o usuário por meio de perguntas e respostas.\n\nComandos de Entrada e Saída: A interação ocorre pelo bloco pergunte [] e espere, que capta as entradas do usuário (nome e respostas). O valor é armazen",
+        "links": [
+          "https://scratch.mit.edu/projects/1370330958/editor?tutorial=home",
+          "https://ava.univesp.br/mod/forum/post.php?reply=719054#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "718400",
+        "autor": "NICOLE DE QUEIROZ NEVES",
+        "data": "2026-08-20T21:27:50-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Desafio 1: https://scratch.mit.edu/projects/1370325694\nDesafio 2: https://scratch.mit.edu/projects/1370327357\n\nO desafio exigiu acrescentar uma estrutura de repetição e uma variável contador ao programa anterior. O contador começa em 0 e aumenta de um em um até chegar ao número informado. Foi Importante testar também o número 10, porque ele verifica exatamente a condição de limite da atividade: nú",
+        "links": [
+          "https://scratch.mit.edu/projects/1370325694",
+          "https://scratch.mit.edu/projects/1370327357",
+          "https://ava.univesp.br/mod/forum/post.php?reply=718400#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "714211",
         "autor": "RODRIGO JOAQUIM ANASTACIO",
         "data": "2026-08-20T12:27:08-03:00",
@@ -7093,61 +7154,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "713651",
-        "autor": "EDUARDO SIDNEI RANGEL GOMES",
-        "data": "2026-08-20T10:56:34-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Desafio 1: https://scratch.mit.edu/projects/1370176456\n\nDesafio 2: https://scratch.mit.edu/projects/1370176456\n\nlúdico.\nerrei bastante no segundo, normal né, mas foi até encontrar o jeito.",
-        "links": [
-          "https://scratch.mit.edu/projects/1370176456",
-          "https://scratch.mit.edu/projects/1370176456",
-          "https://ava.univesp.br/mod/forum/post.php?reply=713651#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "711904",
-        "autor": "ROBERVAL LAES ALVES BANDEIRA",
-        "data": "2026-08-19T22:58:03-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Boa noite colegas!\n\nSegue meu projeto:\n\nhttps://scratch.mit.edu/projects/1368414733\nUtilizei duas variáveis: \"número\" para o número digitado pelo usuário e x para a variável que irá aparecer na tela contando até \"número\". Utilizei a condição Se -> Então -> Senão, esta última para dar a resposta de número muito grande quando \"número\" maior ou igual a 10.",
-        "links": [
-          "https://scratch.mit.edu/projects/1368414733",
-          "https://ava.univesp.br/mod/forum/post.php?reply=711904#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "710444",
-        "autor": "DAIANE ELEUTERIO PEREIRA MONTANHANA",
-        "data": "2026-08-19T20:51:03-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Olá a todos!\nSegue o link do meu projeto:\nhttps://scratch.mit.edu/projects/1370020665\n\nUtilizei os blocos condicionais para a interação do personagem com o jogador. Números menores do que 10 são contados até o número digitado, já em números maiores que 10, ele emite uma mensagem sinalizando que o número é muito grande.",
-        "links": [
-          "https://scratch.mit.edu/projects/1370020665",
-          "https://ava.univesp.br/mod/forum/post.php?reply=710444#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207958": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T19:22:49-03:00",
+    "ultimo": "2026-08-20T23:50:08-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7201,6 +7213,21 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "719291",
+        "autor": "JOSUE BERNARDO DA SILVA",
+        "data": "2026-08-20T23:50:08-03:00",
+        "titulo": "Re: S4 - Fórum de dúvidas gerais",
+        "texto": "Estou gostando do scratch, um ótimo passatempo rs",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=719291#mformforum"
+        ],
+        "forum": "S4 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "699158",
@@ -7306,27 +7333,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": false
-      },
-      {
-        "id": "674401",
-        "autor": "MARCIO DA SILVAPIRES",
-        "data": "2026-08-15T19:53:53-03:00",
-        "titulo": "Re: S4 - Fórum de dúvidas gerais",
-        "texto": "Matéria bacana e conteúdos bem explicados, parabéns.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=674401#mformforum"
-        ],
-        "forum": "S4 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:15:42-03:00",
+    "ultimo": "2026-08-21T02:45:53-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7486,7 +7498,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221628": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:20:45-03:00",
+    "ultimo": "2026-08-21T02:46:34-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -7580,7 +7592,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "689789",
@@ -7595,7 +7607,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "680890",
@@ -7647,7 +7659,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:00:52-03:00",
+    "ultimo": "2026-08-21T03:18:29-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7665,7 +7677,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "678316",
@@ -7747,6 +7759,51 @@
         "novo": false
       },
       {
+        "id": "719181",
+        "autor": "FERNANDO LUIZ DE SOUZA JUNIOR",
+        "data": "2026-08-20T23:18:52-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Para interpretar bem, podemos lançar mão de algumas verificações básicas: análise do contexto trazido e da intenção do emissor; identificar quem fala, para quem fala e qual é o objetivo do texto (informar, persuadir, instruir). Um outro ponto é ter atenção a elementos como títulos, subtítulos, pontuação e a divisão em parágrafos - podem indicar a hierarquia das ideias e elementos fundamentais do t",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=719181#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "718913",
+        "autor": "MARINEILE BAKKENIST ALTARUGIO COLETI",
+        "data": "2026-08-20T22:31:14-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Tipos de Coerência, Coesão e Estratégias Textuais\n\nOlá, professor(a) e colegas!\n\nPara garantir que um texto seja claro e interpretável, a coesão (estrutura superficial) e a coerência (sentido profundo) precisam trabalhar juntas.\n\nConforme destaca Silva (2017), a coerência depende de quatro fatores essenciais: continuidade, progressão, não contradição e articulação. Para assegurar a correta interpr",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=718913#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "717874",
+        "autor": "NICOLE DE QUEIROZ NEVES",
+        "data": "2026-08-20T20:38:05-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Percebemos a importância da coerência e da coesão em situações simples do cotidiano, como escrever uma mensagem, um e-mail, fazer um trabalho ou até mesmo explicar algo para outra pessoa. Para que a comunicação seja clara, é importante organizar as ideias, manter o assunto principal e evitar mudanças bruscas de tema. Também podemos utilizar palavras como “além disso”, “porém”, “porque”, “por isso”",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=717874#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "716324",
         "autor": "RAFAEL XAVIER DE LIMA",
         "data": "2026-08-20T17:54:41-03:00",
@@ -7784,52 +7841,6 @@
         "texto": "A primeira relação que fiz foi que me pareceu que a \"forma\" está para a coesão, como o \"conteúdo\" está para a coerência textuais.\nPara se avaliar a coesão textual, analisa-se o uso dos conectivos, conjunções, pronomes...já a coerência, seria sustentada pela organização lógica das ideias.\nComo afirma Koch, \"a coerência não está apenas nas palavras, mas nos conhecimentos de mundo e inferências compa",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=716108#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "714896",
-        "autor": "JAQUELINE CRISTINA RODRIGUES",
-        "data": "2026-08-20T14:20:59-03:00",
-        "titulo": "S4 - Fórum temático",
-        "texto": "1. Identificação do Discurso\n\nOradora: Ministra Marina Silva - Ministério do Meio Ambiente e Mudança do Clima\nVídeo: Discurso na abertura da Semana do Meio Ambiente 2023 - Palácio do Planalto (23 min)\nYouTube: Canal GovBr\nTrecho: 03:40 - 08:45\nLink: https://www.youtube.com/results?search_query=Marina+Silva+Semana+Meio+Ambiente+2023\n\n2. Transcrição\n\n\"Meus cumprimentos a todos e a todas aqui present",
-        "links": [
-          "https://www.youtube.com/results?search_query=Marina+Silva+Semana+Meio+Ambiente+2023",
-          "https://ava.univesp.br/mod/forum/post.php?reply=714896#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "713682",
-        "autor": "ALINE CAROLINA PENALVA TALARICO",
-        "data": "2026-08-20T11:01:17-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Acho legal esse exemplo do grupo de WhatsApp porque mostra bem como uma conversa pode perder o sentido mesmo com frases corretas. Isso acontece quando falta coesão e coerência, que são o que ajudam a organizar as ideias.\n\nE não basta só usar conectivos pra o texto fazer sentido. Tem que ter uma sequência lógica e tudo precisa estar bem ligado ao contexto. No fim, escrever bem é fazer o leitor ente",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=713682#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "713615",
-        "autor": "DEISEYRRE ALVES DE ANDRADE",
-        "data": "2026-08-20T10:50:54-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A coerência e a coesão são fundamentais para garantir que um texto seja compreendido de maneira clara e organizada. A coerência está relacionada à construção do sentido do texto, à continuidade das ideias e à ausência de contradições. Já a coesão diz respeito aos mecanismos linguísticos utilizados para conectar palavras, frases e parágrafos.\n\nEntre as principais estratégias de coesão estão o uso a",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=713615#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
@@ -7893,8 +7904,8 @@
   },
   "_prazos_avisados": {
     "LET110:165163": {
-      "prazo": "2026-08-25T20:00:00-03:00",
-      "em": "2026-08-20T23:27:18.652187+00:00"
+      "prazo": "2026-08-21T19:00:00-03:00",
+      "em": "2026-08-21T11:32:05.897405+00:00"
     },
     "COM100:160778": {
       "prazo": "2026-08-26T20:00:00-03:00",
@@ -8086,7 +8097,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:07:12-03:00",
+    "ultimo": "2026-08-21T03:02:28-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -8105,7 +8116,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "684790",
@@ -8125,7 +8136,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "514357",
@@ -8263,7 +8274,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207959": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T19:55:10-03:00",
+    "ultimo": "2026-08-21T03:03:37-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -8309,7 +8320,7 @@
           }
         ],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "703136",
@@ -8378,11 +8389,101 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222535": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:08:43-03:00",
+    "ultimo": "2026-08-21T08:12:29-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "719523",
+        "autor": "GILBERTO CANDIDO DE SOUZA",
+        "data": "2026-08-21T03:15:15-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "A pesar de ainda em alguns casos realmente haver discrepância entre as remunerações de homens e mulheres, o que se percebe é mulheres que exercem funções iguais aos homens geralmente tem ganhado o mesmo salário e até mais. Muito de desigualdade que é colocado na mídia e em pesquisas tem cunho tendencioso ou ideológico para alimentar um embate sobre gênero que tem se distanciado cada vez mais da re",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=719523#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "719176",
+        "autor": "VANESSA MARILAC HIRATSUKA",
+        "data": "2026-08-20T23:17:32-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "A mulher em qualquer empresa é cobrada muito mais ,em tudo metas ,organização e frequência e ainda o preconceito ,já tive cargo de chefia e sei o que digo pois fui promovida por méritos ,muito trabalho e mesmo assim tinha que provar todo os dias que era merecedora daquela promoção .",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=719176#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "719068",
+        "autor": "Cassia Aparecida dos Santos Nunes",
+        "data": "2026-08-20T22:57:36-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Infelizmente ainda vemos isso acontecendo em muitas empresas, o trabalho dos homens é mais valorizado e melhor remunerado. A História é real, e as percentagens não mentem, embora muito já se tenha melhorado, muita coisa ainda tem que ser revista em relação a equidade e ética no ambiente de trabalho.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=719068#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "718888",
+        "autor": "PAULO CESAR DOS SANTOS JUNIOR",
+        "data": "2026-08-20T22:26:14-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Segundo a literatura disponibilizada para a atividade, o caso de Andrea ilustra de forma perfeita como os dilemas reais do mercado testam os limites da ética aplicada e revelam as engrenagens econômicas e sociais que moldam o mundo do trabalho.\n\nEstrutura social, cultural e a racionalidade do lucro Segundo os estudos de reestruturação produtiva, as empresas privadas operam sob uma rígida racionali",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=718888#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "718354",
+        "autor": "ADRIANA CARVALHO SILVA",
+        "data": "2026-08-20T21:21:36-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Infelizmente, a história da Andrea é real e situações como essa ainda continuam acontecendo. No cenário apresentado, foi possível comprovar a diferença através dos holerites, mas muitas vezes isso acontece de forma velada. Mulheres podem deixar de ser promovidas ou receber as mesmas oportunidades e, no papel, não existir nenhuma questão relacionada ao gênero, mas sim justificativas sobre desempenh",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=718354#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "718294",
+        "autor": "ANA LYVIA ALVES SILVA",
+        "data": "2026-08-20T21:15:34-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "A história de Andrea mostra que a sociedade e a cultura podem influenciar bastante na forma como as pessoas são tratadas no ambiente de trabalho, inclusive nos salários. Se homens e mulheres fazem a mesma função e possuem formação parecida, não é justo que um grupo receba mais apenas por causa do gênero.\n\nNa minha opinião, o trabalho dos homens não deve ser mais valorizado que o das mulheres. Todo",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=718294#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "717556",
         "autor": "Raquel Fernanda Piato Tasca",
@@ -8442,103 +8543,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "714146",
-        "autor": "VITOR ROBERTO GRANGE",
-        "data": "2026-08-20T12:13:21-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "1 - Sim, de forma determinante. A disparidade salarial não é um fenômeno puramente econômico ou isolado, mas o reflexo de construções culturais históricas. Historicamente, atribuiu-se à mulher a responsabilidade primária pelo trabalho de cuidado. a maternidade ainda é vista por muitas organizações como um custo ou risco, enquanto a paternidade para os homens costuma ser associada à estabilidade e ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=714146#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "713748",
-        "autor": "RICHARD AROSTI DA SILVA",
-        "data": "2026-08-20T11:11:15-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Acredito que estrutura social e cultural pode influenciar os salários e contribuir para desigualdades entre homens e mulheres. O caso de Andrea demonstra que mesmo com a mesma formação e funções semelhantes, podem existir diferenças de remuneração.\nAs empresas podem promover ações de valorização, mas não significa que tratam todos iguais. A ética exige igualdade de oportunidades, critérios justos ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=713748#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "713588",
-        "autor": "SERGIO RENATO PETRONI ALVES MACHADO",
-        "data": "2026-08-20T10:46:23-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "O caso de Andrea ensina que o papel do profissional ético não é o do conformismo confortável, mas o da investigação crítica e da proposição de soluções. A busca por transparência — com sigilo e respeito aos colegas — foi a ferramenta que transformou uma percepção subjetiva em um fato indiscutível, abrindo espaço para transformações genuínas dentro da organização.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=713588#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "713465",
-        "autor": "RODRIGO NASCIBEM ORFAO",
-        "data": "2026-08-20T10:25:48-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Apesar dos avanços no combate a desigualdade, a estrutura social e cultura ainda é um fator que influencia diversos aspectos na vida das pessoas, tal qual na atribuição dos salários. Desse modo, fica nítida a existência de empresas que valorizam mais o trabalho dos homens em relação ao das mulheres, assim como foi mencionado na história de Andrea. Atualmente, acredito que seja praticamente impossí",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=713465#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "712735",
-        "autor": "ANDRE LUIZ SILVA DE FARIA",
-        "data": "2026-08-20T08:06:36-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Sobre o debate da semana, acho que a estrutura social e cultural influencia demais os salários.\n\nLendo os textos, fica muito claro como a própria ideia de \"trabalho\" mudou ao longo do tempo. Na Grécia Antiga e no início do Cristianismo, trabalhar era visto como um castigo — a própria palavra vem de tripalium, que era um instrumento de tortura. Hoje, no capitalismo, virou símbolo de status e uma fo",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=712735#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "712533",
-        "autor": "NILRANIA MENDONCA FORTES",
-        "data": "2026-08-20T06:02:25-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "A história de Andrea evidencia o contraste entre o discurso institucional e as práticas de ética aplicada no mercado de trabalho. Analisando as questões propostas, posso responder o seguinte:\n\nA definição salarial não ocorre de forma puramente neutra ou técnica; ela carrega vieses históricos e culturais. Expectativas sociais sobre papéis de gênero, negociação e projeções sobre maternidade acabam g",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=712533#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=712575#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222536": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:13:39-03:00",
+    "ultimo": "2026-08-21T08:01:07-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8700,19 +8710,19 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165209": {
     "schema_version": 5,
-    "ultimo": "2026-08-20T20:13:49-03:00",
+    "ultimo": "2026-08-21T08:13:49-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
       {
-        "id": "717616",
-        "autor": "DAVID DE JESUS BUENO DE CAMARGO",
-        "data": "2026-08-20T20:13:49-03:00",
+        "id": "719431",
+        "autor": "MAYARA SANTOS DINIZ PORFIRIO",
+        "data": "2026-08-21T01:13:25-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Acho que a maneira como o texto começa pode atrair qualquer público, desde que as primeiras frases falem diretamente com o leitor ideal. Para os jovens, o melhor caminho seria quebrar as expectativas logo no início com uma pergunta provocativa. Já para o público mais maduro, uma abordagem com novas ideias e uma perspectiva mais ampla sobre o filme prenderia mais a atenção.",
+        "texto": "Quando penso em um público-alvo para um texto sobre Tempos Modernos, me vem à mente a minha própria experiência: jovens estudantes do ensino médio. Fui apresentada ao filme nessa fase por um professor que usou a obra para ilustrar o impacto da Revolução Industrial, o que transformou a análise do filme em uma ferramenta visual e crítica incrível para a matéria.\n\nPara conectar com esse público jovem",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=717616#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=719431#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8721,13 +8731,13 @@
         "novo": true
       },
       {
-        "id": "716014",
-        "autor": "LAIS SAES MADEIRA MAGALHAES",
-        "data": "2026-08-20T17:08:49-03:00",
+        "id": "719351",
+        "autor": "LUIZ FERNANDO PEDON MARCHESINI",
+        "data": "2026-08-21T00:17:48-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Essa semana o conteúdo apresentado e a atividade proposta ampliaram minha cosmovisão, conhecer o conceito de informatividade e saber mais sobre Charles Chaplin foi muito edificante.\n\nDefinir um público-alvo é essencial para atingir diretamente quem tem verdadeiro interesse e evitar assim o desperdício de recursos, porém essa definição é um desafio crítico. Identificar e compreender esse grupo é fu",
+        "texto": "Definir o leitor ideal funciona como uma bússola que direciona a intenção do autor, transformando a escrita em um diálogo real e persuasivo. Ao prever quem lerá a análise de Tempos Modernos, ajustamos o tom e a profundidade dos argumentos para capturar essa atenção. Quebrar expectativas na abertura serve como um gancho poderoso, conectando a crítica de um clássico aos problemas contemporâneos do p",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=716014#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=719351#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8736,13 +8746,13 @@
         "novo": true
       },
       {
-        "id": "715737",
-        "autor": "SAMUEL NERY SILVA",
-        "data": "2026-08-20T16:28:12-03:00",
+        "id": "719302",
+        "autor": "JESSICA SOUZA DA SILVA",
+        "data": "2026-08-20T23:55:23-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Creio eu que é necessário escolher um publico alvo para que possamos prender a atenção desse publico. essa é uma etapa essencial no desenvolvimento de textos. Por exemplo, é muito provável que um texto que aborde uma descoberta cientifica, atinja um publico que tem interesse nesse assunto.\n\nIsso também se conecta com outro conceito que vimos em aula, sobre a informatividade. Esse conceito é um tex",
+        "texto": "Para um público geral ou estudantes: O melhor é começar com o simples e conhecido — como a famosa cena do Chaplin preso nas engrenagens — e depois mostrar como isso se parece com o nosso dia a dia corrido e cheio de telas.\nPara um público mais especialista: Já dá para começar direto com uma ideia diferente e surpreendente, provocando uma reflexão mais profunda logo de cara.\nSaber a hora de entrega",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=715737#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=719302#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8751,13 +8761,13 @@
         "novo": true
       },
       {
-        "id": "714451",
-        "autor": "DALTON ONOFRE REIS DIAS",
-        "data": "2026-08-20T13:15:03-03:00",
+        "id": "718969",
+        "autor": "ANA CLAUDIA CARNEIRO",
+        "data": "2026-08-20T22:40:34-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Acredito que os mais variados públicos podem se interessar pelo filme Tempos Modernos, uma vez que ele se apresenta atemporal em alguns aspectos. Um deles por exemplo, é o fato da retratação do ambiente de trabalho e todas as suas variáveis, como a produtividade ou repetição de tarefas. Para chamar a atenção do público, eu tentaria relacionar sempre uma situação do contexto atual, com alguma cena ",
+        "texto": "Eu pensaria em estudantes e pessoas interessadas em cinema e história. Usaria uma linguagem simples e clara, relacionando o filme Tempos Modernos com situações atuais. Começaria com algo que despertasse a curiosidade do leitor, para chamar sua atenção e incentivar a leitura.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=714451#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718969#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8766,13 +8776,13 @@
         "novo": true
       },
       {
-        "id": "713676",
-        "autor": "DEISEYRRE ALVES DE ANDRADE",
-        "data": "2026-08-20T10:59:49-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "Definir um público-alvo leitor, mesmo que de forma imaginária, é importante porque ajuda a determinar a linguagem, o nível de aprofundamento, os exemplos e até a forma de organizar o texto. Antes de escrever, é necessário pensar em quem provavelmente terá interesse pelo assunto e quais conhecimentos esse leitor já possui.\n\nNo caso de um texto sobre o filme Tempos Modernos, de Charlie Chaplin, eu i",
+        "id": "718958",
+        "autor": "ANA CLAUDIA CARNEIRO",
+        "data": "2026-08-20T22:38:59-03:00",
+        "titulo": "S5 - Fórum temático",
+        "texto": "Eu pensaria em estudantes e pessoas interessadas em cinema e história. Usaria uma linguagem simples e clara, relacionando o filme Tempos Modernos com situações atuais. Começaria com algo que despertasse a curiosidade do leitor, para chamar sua atenção e incentivar a leitura.",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=713676#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718958#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8781,13 +8791,14 @@
         "novo": true
       },
       {
-        "id": "713306",
-        "autor": "Mayara Fernanda Moreno Petti",
-        "data": "2026-08-20T09:59:02-03:00",
+        "id": "718670",
+        "autor": "YURI RODRIGUES LOMBARDI",
+        "data": "2026-08-20T21:54:42-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Imaginar o público leitor é importante porque a forma de escrever muda de acordo com quem queremos alcançar. Ao definir esse público, conseguimos escolher melhor a linguagem, o nível de detalhamento, os exemplos e até a maneira de iniciar o texto.\n\nPensando em um texto sobre o filme *Tempos Modernos*, por exemplo, eu imaginaria como público estudantes ou pessoas interessadas em temas como trabalho",
+        "texto": "Eu acho que pessoas que poderiam se interessar pelo texto produzido sobre os filmes Tempos Modernos seriam os fãs de Chaplin, professores, historiadores, sociólogos e até estudantes que gostam dos de ver, curtir e refletir sobre os filmes de Chaplin\nPensando nesse público, o texto começaria quebrando as expectativas do leitor para atrair esses leitores a ler e o texto, apresentando informações e n",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=713306#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718670#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=718969#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8796,13 +8807,13 @@
         "novo": true
       },
       {
-        "id": "712734",
-        "autor": "ITALO AUGUSTO CAMARGOS PEREIRA",
-        "data": "2026-08-20T08:06:30-03:00",
+        "id": "718619",
+        "autor": "Raquel Fernanda Piato Tasca",
+        "data": "2026-08-20T21:50:00-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Particularmente, penso que Chaplin é uma dessas figuras que conseguem transformar suas obras em atemporais. A forma como estrutura sua obra permite interpretações mais simplistas e, paradoxalmente, extremamente complexas ao mesmo tempo; há várias camadas de análise. Entendo, portanto, que é possível explorar sua obra para uma vastidão de público-alvo.\n\nSobre a questão central do fórum - importânci",
+        "texto": "Acho importante pensar em quem vai ler o nosso texto antes de começar a escrevê-lo. Mesmo que seja um público que estamos imaginando, isso ajuda a escolher melhor as palavras, o jeito de apresentar as ideias e até a forma de chamar a atenção do leitor.\nSe eu fosse escrever sobre o filme Tempos Modernos, por exemplo, imaginaria como público estudantes ou pessoas interessadas em questões relacionada",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=712734#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718619#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8811,13 +8822,13 @@
         "novo": true
       },
       {
-        "id": "712580",
-        "autor": "ROGERIO FOLLA MARCHIOLLI",
-        "data": "2026-08-20T06:59:17-03:00",
+        "id": "718458",
+        "autor": "MICHEL DE CAMPOS VETTORATO",
+        "data": "2026-08-20T21:34:02-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Bom dia! Escreveria sobre o Filme Tempos Modernos, para um público jovem que tem interesse de ingressar ao mercado de trabalho, trazendo informações e expectativas novas sobre o atual mercado de trabalho. Apresentaria uma linguagem de fácil interpretação e com uma escrita mais direta para não perder a atenção do leitor.",
+        "texto": "Aqui vão três exemplos práticos de textos prováveis ilustrados em placas que demandam pouquíssimo processamento linguístico:\nA placa PARE no transito\nA placa FECHADO em um estabelicimento comercial\nA placa SAÍDA DE EMERGÊNCIA",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=712580#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718458#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8826,13 +8837,14 @@
         "novo": true
       },
       {
-        "id": "712519",
-        "autor": "PABLO HENRYKE DOS SANTOS",
-        "data": "2026-08-20T05:42:07-03:00",
+        "id": "718401",
+        "autor": "ADRIANA CARVALHO SILVA",
+        "data": "2026-08-20T21:27:56-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "Bom dia pessoal, Lendo a proposta dessa semana, percebi que escrever fica bem mais fácil quando a gente já tem na cabeça quem vai ler. Sobre o exemplo de Tempos Modernos, eu miraria num público mais jovem ou na galera que tá no mercado de trabalho e vive reclamando de rotina corrida e estresse. Pra prender a atenção desse pessoal, eu com certeza começaria quebrando a expectativa. Acho que ninguém ",
+        "texto": "Pensando no filme Tempos Modernos, acredito que hoje um público interessante seriam os profissionais de tecnologia(engenheiros de software), que estão vendo seu trabalho ser transformado pela inteligência artificial. Eu começaria o texto fazendo essa relação entre a automação mostrada no filme e a IA atualmente, talvez até questionando se estamos vivendo os nossos próprios \"tempos modernos\". Acred",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=712519#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718401#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=718458#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8841,13 +8853,13 @@
         "novo": true
       },
       {
-        "id": "712036",
-        "autor": "MACIEL GOMES DOS SANTOS",
-        "data": "2026-08-19T23:18:16-03:00",
+        "id": "718172",
+        "autor": "MICHELE DE SANTANA CARMELOSSI",
+        "data": "2026-08-20T21:04:11-03:00",
         "titulo": "Re: S5 - Fórum temático",
-        "texto": "O leitor de tecnologia e a quebra de expectativas em Tempos Modernos\n\nOlá a todos!\n\nPensando no desafio desta semana, o público que imaginei para ler um texto sobre o filme Tempos Modernos seria composto por estudantes de tecnologia, entusiastas de IA e programadores.\n\nPara captar a atenção desse público, eu começaria quebrando totalmente as expectativas do leitor. Se escrevesse apenas um resumo s",
+        "texto": "Ao escrever um texto, considero importante imaginar quem será o seu leitor, porque essa definição influencia diretamente a linguagem, os exemplos, o nível de detalhamento e até a forma de iniciar o assunto. Um mesmo tema pode ser apresentado de maneiras muito diferentes dependendo do público ao qual se destina.\nPensando em um texto sobre o filme Tempos Modernos, por exemplo, o público poderia ser ",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=712036#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718172#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -8859,7 +8871,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=228103": {
     "schema_version": 5,
-    "ultimo": "2026-08-19T21:48:36-03:00",
+    "ultimo": "2026-08-20T22:27:09-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -8872,7 +8884,8 @@
         "texto": "Oi, Renato, ótima reflexão!\n\nLembrando que os prazos começam de novo a cada quinzena, então completando o M4 da quinzena 3 até o próximo domingo (23) você poderá enviar as atividades individual e em grupo normalmente.",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=704786#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=705454#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=705454#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=718896#mformforum"
         ],
         "forum": "Q3 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
@@ -8891,13 +8904,14 @@
           "https://ava.univesp.br/mod/forum/post.php?reply=701330#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=704786#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=705454#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=718896#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=706690#mformforum"
         ],
         "forum": "Q3 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
         "prazos": [],
         "autoridade": "institucional",
-        "novo": true
+        "novo": false
       },
       {
         "id": "674295",
@@ -8911,13 +8925,28 @@
           "https://ava.univesp.br/mod/forum/post.php?reply=701330#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=704786#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=705454#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=706690#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=718896#mformforum"
         ],
         "forum": "Q3 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
         "prazos": [],
         "autoridade": "institucional",
         "novo": false
+      },
+      {
+        "id": "718896",
+        "autor": "SIDCLER CUNHA MOREIRA",
+        "data": "2026-08-20T22:27:09-03:00",
+        "titulo": "Re: Q3 - Fórum geral",
+        "texto": "Também não havia compreendido como realizar as disciplinas, estava fazendo somente uma, não tinha me tocado que são quatro disciplinas por bimestre/semestre. Ainda tentando compreender e ver como realizar todos os módulos. As lives tem horários especificos e isso dificulta quem precisa de flexibilidade. Não descobri se há a possibilidade de reve-la.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=718896#mformforum"
+        ],
+        "forum": "Q3 - Fórum geral",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "701330",
@@ -8929,6 +8958,7 @@
           "https://ava.univesp.br/mod/forum/post.php?reply=701330#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=704786#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=705454#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=718896#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=706690#mformforum"
         ],
         "forum": "Q3 - Fórum geral",
@@ -9075,6 +9105,40 @@
         "forum": "Avisos",
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=152468",
         "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      }
+    ]
+  },
+  "https://ava.univesp.br/mod/forum/discuss.php?d=153920": {
+    "schema_version": 5,
+    "ultimo": "2026-08-20T23:46+0000",
+    "truncado": false,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
+    "posts": [
+      {
+        "id": "717967",
+        "autor": "Bruno Barra da Silva",
+        "data": "2026-08-20T20:46:23-03:00",
+        "titulo": "LIVE SEMANA 5",
+        "texto": "Pessoal, \n\nVou remarcar a live para amanhã, sexta-feira (21/08), às 19h assim consigo resolver meu problema de conexão. Infelizmente, às vezes a rede falha. Peço desculpas pelo contratempo e sigo à disposição. \n\nAtenciosamente, Bruno.",
+        "links": [],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=153920",
+        "prazos": [
+          {
+            "rotulo": "Pessoal, Vou remarcar a live para amanhã, sexta-feira (21/08), às 19h assim consigo res...",
+            "quando": "2026-08-21T19:00:00-03:00",
+            "trecho": "21/08), às 19h",
+            "tipo": "compromisso",
+            "hora_certa": true,
+            "escopo": null,
+            "confianca": "alta",
+            "frase": "Pessoal, Vou remarcar a live para amanhã, sexta-feira (21/08), às 19h assim consigo resolver meu problema de conexão",
+            "titulo_evento": null
+          }
+        ],
         "autoridade": "institucional",
         "novo": true
       }
