@@ -105,7 +105,7 @@
         "situacao": ""
       }
     ],
-    "checked_at": "2026-08-21T20:28:15.098304+00:00",
+    "checked_at": "2026-08-21T23:25:36.114804+00:00",
     "_login_ok": [
       "#form\\:usuario",
       "26235014"
@@ -149,17 +149,17 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-21T20:28:15.096468+00:00",
-  "snapshot_at": "2026-08-21T20:28:15.096468+00:00",
-  "attempted_at": "2026-08-21T20:28:15.096468+00:00",
-  "publication_id": "2026-08-21T20:28:15.096468+00:00",
+  "checked_at": "2026-08-21T23:25:36.112609+00:00",
+  "snapshot_at": "2026-08-21T23:25:36.112609+00:00",
+  "attempted_at": "2026-08-21T23:25:36.112609+00:00",
+  "publication_id": "2026-08-21T23:25:36.112609+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 57,
     "itens": 265,
     "avisos": 60,
-    "eventos_calendario": 17,
-    "eventos_uteis": 17,
+    "eventos_calendario": 16,
+    "eventos_uteis": 16,
     "notificacoes": 15,
     "cronograma": 3,
     "itens_com_prazo": 56
@@ -168,8 +168,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -183,8 +183,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -193,22 +193,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 17,
+      "quantidade_atual": 16,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 17,
+      "eventos": 16,
       "api": 10,
       "dom": 10
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -220,8 +220,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -231,13 +231,13 @@
       "listas_live": 45,
       "falhas": 0,
       "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 229,
-      "posts_institucionais_guardados": 170
+      "posts_institucionais_vistos": 232,
+      "posts_institucionais_guardados": 173
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 18,
       "from_cache": false,
@@ -249,8 +249,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 31,
       "from_cache": false,
@@ -264,8 +264,8 @@
     },
     "participacao": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 6,
       "from_cache": false,
@@ -277,8 +277,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 31,
       "from_cache": false,
@@ -290,8 +290,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-21T20:28:15.098304+00:00",
-      "last_live_at": "2026-08-21T20:28:15.098304+00:00",
+      "checked_at": "2026-08-21T23:25:36.114804+00:00",
+      "last_live_at": "2026-08-21T23:25:36.114804+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -712,7 +712,7 @@
             "https://ava.univesp.br/mod/forum/post.php?reply=720925#mformforum",
             "https://scratch.mit.edu/projects/1373338922",
             "https://ava.univesp.br/mod/forum/post.php?reply=721715#mformforum",
-            "https://scratch.mit.edu/projects/1374207291/"
+            "https://ava.univesp.br/mod/forum/post.php?reply=724077#mformforum"
           ],
           "forum": "S5 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
@@ -1169,7 +1169,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1291,7 +1291,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207958",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-19T23:59:00-03:00",
@@ -1386,7 +1386,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "16",
+              "nao_lidas": "11",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1400,7 +1400,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-26T23:59:00-03:00",
@@ -2390,7 +2390,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "6",
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2404,7 +2404,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221628",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2551,7 +2551,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "14",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2565,7 +2565,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "8",
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3122,7 +3122,7 @@
               "sem_rastreio": true,
               "nao_lidas": null,
               "conta_nota": false,
-              "prazo": "2026-08-21T19:00:00-03:00",
+              "prazo": "2026-08-25T20:00:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null
             },
@@ -3438,7 +3438,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165185",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3558,7 +3558,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "3",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3678,7 +3678,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "3",
+              "nao_lidas": "5",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3801,7 +3801,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "14",
+              "nao_lidas": "15",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3902,6 +3902,39 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
+        },
+        {
+          "id": "723381",
+          "autor": "Lucas Demeda Dos Santos",
+          "data": "2026-08-21T18:19:23-03:00",
+          "titulo": "Gravação da live com a supervisão - Quinzena 3",
+          "texto": "Prezados alunos,\n\nDesta vez não postamos aqui o cronograma de lives com os supervisores da Quinzena 3 pois essa informação consta na aba Q3 - Lembrete de datas e live. Para quem não conseguiu acompanhar de forma síncrona, segue a gravação da live com o professor Cauê realizada na quarta-feira (19). Quem ainda está com dúvidas sobre o funcionamento da disciplina deve assistir.\n\nGravação Live Superv",
+          "links": [
+            "https://rec.elos.vc/playback/presentation/2.3/da74ba74559750400cab9db19d3afd347768aef4-1787176314855"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=154786",
+          "prazos": [
+            {
+              "rotulo": "Gravação Live Supervisor - Quinzena 3 (Prof Cauê, 19/08/2026)",
+              "quando": "2026-08-19T23:59:00-03:00",
+              "trecho": "19/08/2026",
+              "tipo": "compromisso",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  3
+                ],
+                "txt": "Gravação Live Supervisor - Quinzena 3 (Prof Cauê, 19/08/2026) : https://rec.elos.vc/playback/presentation/2.3/da74ba7455"
+              },
+              "confianca": "alta",
+              "frase": "Para quem não conseguiu acompanhar de forma síncrona, segue a gravação da live com o professor Cauê realizada na quarta-feira (19) Quem ainda está com dúvidas sobre o funcionamento da disciplina deve assistir Gravação...",
+              "titulo_evento": null
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
         },
         {
           "id": "637843",
@@ -4713,33 +4746,6 @@
           ],
           "autoridade": "institucional",
           "novo": false
-        },
-        {
-          "id": "470366",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-07-22T20:09:19-03:00",
-          "titulo": "Re: Q1 - Fórum de dúvidas",
-          "texto": "Prezados, peço que vejam minha resposta ao Otávio, alguns posts acima.\n\nAproveito também para reforçar o convite para que participem da live de abertura da disciplina amanhã (quinta-feira, 23 de julho), conforme mensagem postada no Fórum geral. A live também ficará gravada para quem não conseguir participar de forma síncrona.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=470366#mformforum",
-            "https://ava.univesp.br/mod/forum/post.php?reply=472854#mformforum"
-          ],
-          "forum": "Q1 - Fórum de dúvidas",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173826",
-          "prazos": [
-            {
-              "rotulo": "Prezados, peço que vejam minha resposta ao Otávio, alguns posts acima Aproveito também ...",
-              "quando": "2026-07-23T23:59:00-03:00",
-              "trecho": "23 de julho",
-              "tipo": "inicio",
-              "hora_certa": false,
-              "escopo": null,
-              "confianca": "baixa",
-              "frase": "Prezados, peço que vejam minha resposta ao Otávio, alguns posts acima Aproveito também para reforçar o convite para que participem da live de abertura da disciplina amanhã (quinta-feira, 23 de julho), conforme mensage..."
-            }
-          ],
-          "autoridade": "institucional",
-          "novo": false
         }
       ],
       "espacos_de_grupo": [
@@ -4928,6 +4934,25 @@
               },
               "confianca": "baixa",
               "frase": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do seu grupo são enviados em paralelo, e o dia 29 é o último dia de entrega De 30 de agosto a 1º de setembro, terça-feira, às 23h59"
+            },
+            {
+              "rotulo": "Q3 - Orientação de estudo arrow_forward Novo Portal do Aluno (25/08)",
+              "quando": "2026-08-25T23:59:00-03:00",
+              "trecho": "25/08",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "modulo",
+                "numeros": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "txt": "É a data em que os Módulos 1, 2, 3 e 4 precisam estar concluídos"
+              },
+              "confianca": "baixa",
+              "frase": "Q3 - Orientação de estudo arrow_forward Novo Portal do Aluno (25/08)"
             }
           ],
           "lives_anunciadas": 7,
@@ -5104,7 +5129,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=148170",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -6257,7 +6282,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -7047,18 +7072,6 @@
       "via": "api"
     },
     {
-      "nome": "Live 3",
-      "quando": "2026-08-21T19:00:00-03:00",
-      "curso_id": "18893",
-      "curso": null,
-      "atividade": "Live 3",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-      "acao": null,
-      "cmid": "165163",
-      "tipo": "course",
-      "via": "dom"
-    },
-    {
       "nome": "Término de S4 - Atividade Avaliativa",
       "quando": "2026-08-23T23:59:00-03:00",
       "curso_id": "18893",
@@ -7273,25 +7286,6 @@
   ],
   "mensagens": [],
   "acoes": [
-    {
-      "curso": "LET110",
-      "secao": "Calendário do AVA",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "ao vivo",
-      "o_que": "Live 3",
-      "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-      "conta_nota": true,
-      "prazo": "2026-08-21T19:00:00-03:00",
-      "prazo_txt": "acontece hoje às 19:00",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
     {
       "curso": "COM170",
       "secao": "Quinzena 3",
@@ -8073,6 +8067,17 @@
       "url": "https://ava.univesp.br/mod/forum/view.php?id=165165"
     },
     {
+      "curso": "COM170",
+      "quando": "2026-08-25T23:59:00-03:00",
+      "quando_txt": "vence 25/08 (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "Q3 - Orientação de estudo arrow_forward Novo Portal do Aluno (25/08)",
+      "frase": "Q3 - Orientação de estudo arrow_forward Novo Portal do Aluno (25/08)",
+      "autor": "Q3 - Lembrete de datas e live",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
+    },
+    {
       "curso": "COM100",
       "quando": "2026-08-26T23:59:00-03:00",
       "quando_txt": "vence 26/08 (horário não informado)",
@@ -8194,5 +8199,17 @@
       "em": "2026-08-19T14:35:44.258544+00:00"
     }
   ],
-  "prazos_novos": []
+  "prazos_novos": [
+    {
+      "curso": "LET110",
+      "label": "Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "cmid": "165163",
+      "prazo": "2026-08-25T20:00:00-03:00",
+      "de": "2026-08-21T19:00:00-03:00",
+      "fonte": "calendário do AVA",
+      "conta_nota": false,
+      "atividade_nova": false
+    }
+  ]
 }
