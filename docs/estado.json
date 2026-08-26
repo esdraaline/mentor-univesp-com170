@@ -2369,6 +2369,18 @@
         "via": "dom"
       },
       {
+        "nome": "S5 - Fórum de dúvidas gerais é devido",
+        "quando": "2026-08-30T23:59:00-03:00",
+        "curso_id": "18870",
+        "curso": null,
+        "atividade": "S5 - Fórum de dúvidas gerais é devido",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
+        "acao": null,
+        "cmid": "207959",
+        "tipo": "due",
+        "via": "dom"
+      },
+      {
         "nome": "Q3 M6 - Revisão entre pares (Portfólio Individual) - prazo limite para avaliação",
         "quando": "2026-09-01T23:59:00-03:00",
         "curso_id": "18922",
@@ -8258,7 +8270,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T01:52:44-03:00",
+    "ultimo": "2026-08-26T08:41:54-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -8626,7 +8638,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222535": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T04:50:05-03:00",
+    "ultimo": "2026-08-26T11:02:43-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8970,11 +8982,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165209": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T08:23:10-03:00",
+    "ultimo": "2026-08-26T11:14:42-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "763296",
+        "autor": "MARCOS ROBERTO HIDEAKI ARAKAKI",
+        "data": "2026-08-26T10:46:12-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "No filme Tempos Modernos apesar de todo filme ser \"mudo\", ou seja, sem dizer uma só palavra, prova ser um filme atemporal. Sua proposta naquela época se encaixa perfeitamente no mundo em que vivemos atualmente. Por isso ainda chama atenção do publico que o assiste. Isto acontece por que o ator comediante e também diretor sempre combinou de forma muito inteligente sua interpretação sempre divertida",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=763296#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "761314",
         "autor": "DANILO DE SANTANA ALCANTARA",
@@ -9109,27 +9136,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "752035",
-        "autor": "MILENA DA SILVA PACHECO",
-        "data": "2026-08-25T07:03:29-03:00",
-        "titulo": "S5 - Fórum temático",
-        "texto": "Eu penso quem uma análise do filme em uma coluna de jornal poderia atrair bastantes leitores, pensando que o filme já é conhecido por um público mais velho, que é justamente quem ainda tem o hábito de ler jornal.\n\nUtilizaria o filme para chamar atenção para uma crítica social, poderia fazer conexões até mesmo com as guerras atuais ou com a crise climática. Acredito que, nesse contexto de trazer o ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=752035#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=228103": {
     "schema_version": 5,
-    "ultimo": "2026-08-25T10:19:57-03:00",
+    "ultimo": "2026-08-26T09:35:23-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 8,
     "posts_institucionais_guardados": 8,
@@ -9157,7 +9169,8 @@
         "titulo": "Re: Q3 - Fórum geral",
         "texto": "Bom dia!\n\nOs templates (modelos) da atividade individual e em grupo estão na aba Q3 M5 - Templates. Você deve fazer o download do pdf \"template individual\" e escrever as respostas ali. Depois, deve enviar esse pdf preenchido na aba M6 - Revisão entre pares (Portfólio Individual). Esse é o mesmo local onde, posteriormente, você receberá o trabalho de outro colega para revisar. Está tudo descrito na",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=741472#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=741472#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=762732#mformforum"
         ],
         "forum": "Q3 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
@@ -9251,7 +9264,7 @@
       {
         "id": "674295",
         "autor": "Lucas Demeda Dos Santos",
-        "data": "2026-08-14T11:13-0300",
+        "data": "2026-08-14T14:13+0000",
         "titulo": "Q3 - Fórum geral",
         "texto": "flag\n\nFórum geral da Quinzena 3\n\nEste é o ponto de conversa de toda a turma nesta quinzena. Traga o que aparecer no seu caminho: uma competência do seu curso que você não sabe em qual categoria colocar, uma tarefa em que você não conseguiu decidir o modo, um número de consumo que você viu circulando e não sabe se confia.\n\nNão precisa ser pergunta pronta nem resposta certa. Ler o que um colega trou",
         "links": [
@@ -9567,7 +9580,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193376": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T07:22:49-03:00",
+    "ultimo": "2026-08-26T11:40:47-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -9618,6 +9631,22 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "762830",
+        "autor": "HUGO VIGATTI",
+        "data": "2026-08-26T09:49:41-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Link do projeto: https://scratch.mit.edu/projects/1375326736/\n\nMeu projeto apresenta um pássaro mágico que consegue se teletransportar para diferentes lugares e momentos. Ao iniciar, ele começa a se movimentar pela tela e chama a atenção com a mensagem “Toque em mim!”, também utilizando a extensão de texto para som.\n\nQuando o pássaro é clicado, ele reage com a fala “Lá vou eu!”, faz um pequeno mov",
+        "links": [
+          "https://scratch.mit.edu/projects/1375326736/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=762830#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -9717,28 +9746,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "751660",
-        "autor": "FABIO EBRAICO MENDES",
-        "data": "2026-08-24T23:56:43-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Projeto:\nhttps://scratch.mit.edu/projects/1374916588\n\nInstruções de uso:\nDurante a fala do pintor, na última frase, ele ira pedir para pressionar a letra \"B\", ou \"D\" e irá aguardar até que o pressione, para que a cena termine.\nJá vi que tenho como melhorar esse projeto, só me faltou tempo.\n\nO fato de sempre estar sempre assistindo as videoaulas do Scratch mostrando desenhos e animações, me fez ter",
-        "links": [
-          "https://scratch.mit.edu/projects/1374916588",
-          "https://ava.univesp.br/mod/forum/post.php?reply=751660#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207960": {
     "schema_version": 5,
-    "ultimo": "2026-08-25T21:58:43-03:00",
+    "ultimo": "2026-08-26T11:05:44-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -9794,20 +9807,19 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168846": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T08:23:54-03:00",
+    "ultimo": "2026-08-26T11:43:59-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
       {
-        "id": "761950",
-        "autor": "DOUGLAS DE AQUINO CARREGA",
-        "data": "2026-08-26T06:00:46-03:00",
+        "id": "763861",
+        "autor": "FABIANO DE SIMAS RODRIGUES",
+        "data": "2026-08-26T11:43:59-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "fico com as palavras do Pelé: https://www.youtube.com/watch?v=MEbl9CffkIo",
+        "texto": "A ciência moderna prova que não existe nenhuma comprovação de que um grupo de pessoas seja superior a outro, já que os seres humanos compartilham quase todo o seu DNA. Na biologia, a ideia de raça não tem base científica, mas ela continua muito forte como uma construção social usada historicamente para impor hierarquias e divisões. Para entender melhor, a raça está ligada a características físicas",
         "links": [
-          "https://www.youtube.com/watch?v=MEbl9CffkIo",
-          "https://ava.univesp.br/mod/forum/post.php?reply=761950#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=763861#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9816,13 +9828,13 @@
         "novo": true
       },
       {
-        "id": "761921",
-        "autor": "LUIS ANDRE SOARES BISPO",
-        "data": "2026-08-26T05:26:38-03:00",
+        "id": "763849",
+        "autor": "CARLOS EDUARDO PEREIRA",
+        "data": "2026-08-26T11:42:55-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Bom dia! Sobre o tema e a reflexão com base nos questionamento, cientificamente não existe superioridade humana, nossos DNAs de todos seres humanos modernos são 99,9% identicos. Raça é uma contrução social e histórica e não cientifica. Sobre a reflexão com certeza existe conflitos étnicos no brasil e isso a séculos desde o descobrimento do Brasil, sendo predominantemente esta ocorrencia com os ind",
+        "texto": "Sim. Existem conflitos étnicos no Brasil, principalmente na forma de racismo, discriminação, intolerância cultural e desigualdade de oportunidades. Esses conflitos atingem, entre outros, a população negra, povos indígenas e comunidades tradicionais.\n\nDo ponto de vista ético e dos direitos humanos, nenhum grupo é superior a outro por sua origem, características físicas ou cultura. Por isso, valoriz",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=761921#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=763849#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9831,13 +9843,13 @@
         "novo": true
       },
       {
-        "id": "761915",
-        "autor": "FABIO SALES NOGUEIRA",
-        "data": "2026-08-26T05:18:14-03:00",
+        "id": "763821",
+        "autor": "EDSON GOMES DE MAGALHAES",
+        "data": "2026-08-26T11:39:27-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Existem conflitos étnicos no Brasil, embora muitas vezes eles se manifestem de forma menos explícita do que em outros países. Esses conflitos estão relacionados principalmente ao racismo, à discriminação contra povos indígenas, comunidades quilombolas e outros grupos historicamente marginalizados. Apesar de a Constituição garantir igualdade de direitos, ainda há desigualdades no acesso à educação,",
+        "texto": "Na minha opinião, existem conflitos e tensões étnico-raciais no Brasil, ainda que nem sempre sejam conflitos abertos ou violentos. Eles podem ser percebidos por meio da discriminação, da desigualdade de oportunidades e da sub-representação de determinados grupos sociais.\n\n1º) Porque, em muitos processos seletivos, candidatos podem receber justificativas genéricas como \"você não tem o perfil\". Embo",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=761915#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=763821#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9846,13 +9858,13 @@
         "novo": true
       },
       {
-        "id": "761462",
-        "autor": "ROBERTO ALVES LEITE",
-        "data": "2026-08-25T23:05:45-03:00",
+        "id": "763718",
+        "autor": "BEATRIZ DOS ANJOS SILVA",
+        "data": "2026-08-26T11:27:49-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Não há hipótese que fundamente a comprovação cientifíca de superioridade racial, esse termo foi tratado erroneamente na história mundial.\nNão existe comprovação científica do conceito de raça. \"Raças humanas\" são construções sociais, não há categorias biológicas reais.\nRaça refere-se a características físicas e sociais historicamente construídas, enquanto etnia está ligada a fatores culturais, his",
+        "texto": "Sim, existem muitos conflitos étnicos e raciais no Brasil. Embora o país seja marcado por uma enorme diversidade cultural e étnica, essa diversidade também convive com muita desigualdade, preconceito e diferentes formas de discriminação.\n\nEsses conflitos podem ser notados em situações de racismo contra a população negra, preconceito e violência contra povos indígenas, além da discriminação sofrida",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=761462#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=763718#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9861,13 +9873,13 @@
         "novo": true
       },
       {
-        "id": "761216",
-        "autor": "RICARDO MANDU DA SILVA",
-        "data": "2026-08-25T22:36:05-03:00",
+        "id": "763532",
+        "autor": "HAROLDO RODRIGUES OLIVEIRA",
+        "data": "2026-08-26T11:12:24-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Gostei bastante do resumo da Gabriela:\n\n\"\nNão existe superioridade racial comprovada cientificamente. O conceito de raça humana é uma construção social e histórica, enquanto etnia está relacionada à cultura, história, costumes e identidade de um grupo. A Declaração Universal dos Direitos Humanos defende a igualdade de direitos entre todas as pessoas, independentemente de raça ou origem. O racismo ",
+        "texto": "Creio que sim, existem conflitos étnicos no Brasil. Eles aparecem principalmente em situações de racismo, preconceito e discriminação contra povos indígenas, população negra, quilombolas e outros grupos étnicos. Esses conflitos são resultado de desigualdades históricas e da falta de respeito à diversidade. Por isso, combater o racismo e garantir direitos iguais é fundamental para uma sociedade mai",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=761216#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=763532#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9876,13 +9888,13 @@
         "novo": true
       },
       {
-        "id": "761193",
-        "autor": "FERNANDO AUGUSTO BARBOSA",
-        "data": "2026-08-25T22:33:38-03:00",
+        "id": "763258",
+        "autor": "MANOEL BAZANI SIMOES JUNIOR",
+        "data": "2026-08-26T10:40:31-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "O racismo está enraizado, e cada vez mais difícil de ser tratado, não existe uma raça superior, mas os mais privilegiados de outrora mantém um apetite pelo sentimento de se sentir em uma classe superior, no Brasil o racismo existe, e até mesmo aqueles que dizem lutar por essa bandeira acabam por demonstrar o contrário, apesar do racismo ser grande, o vitimismo algumas vezes acaba por atrapalhar es",
+        "texto": "Sim, existem conflitos étnicos no Brasil. Eles podem ser percebidos principalmente por meio do racismo, do preconceito e da discriminação contra negros, indígenas e outros grupos. Mesmo não existindo superioridade racial entre os seres humanos, essas diferenças ainda são usadas para justificar desigualdades e preconceitos. Por isso, é importante respeitar a diversidade e garantir os mesmos direito",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=761193#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=763258#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9891,13 +9903,13 @@
         "novo": true
       },
       {
-        "id": "760250",
-        "autor": "CAMILA APARECIDA SETIN SANTOS",
-        "data": "2026-08-25T21:19:08-03:00",
+        "id": "762996",
+        "autor": "RAFAEL DE GODOI MACHADO",
+        "data": "2026-08-26T10:10:27-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Sim, existem conflitos étnicos no Brasil, principalmente relacionados ao racismo e à discriminação contra a população negra, os povos indígenas e outros grupos. Embora não exista base científica para a ideia de superioridade racial, as desigualdades e os preconceitos ainda estão presentes na sociedade. Por isso, é importante promover o respeito à diversidade e garantir os direitos humanos para tod",
+        "texto": "Sim, existem conflitos étnicos no Brasil. Embora o país seja frequentemente apresentado como multicultural e formado pela convivência entre diferentes povos, sua história revela desigualdades e tensões envolvendo indígenas, negros, quilombolas, imigrantes e outros grupos étnicos.\n\nEsses conflitos podem ser observados nas disputas por terras indígenas e quilombolas, na intolerância contra religiões",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=760250#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=762996#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9906,13 +9918,13 @@
         "novo": true
       },
       {
-        "id": "759864",
-        "autor": "EVERTON HENRIQUE COSTA",
-        "data": "2026-08-25T20:55:20-03:00",
+        "id": "762994",
+        "autor": "ROSEMEIRE MENDES",
+        "data": "2026-08-26T10:10:19-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Sim, existem conflitos étnicos no Brasil. Eles aparecem principalmente por meio do racismo, preconceito, intolerância e desigualdade enfrentados por diferentes grupos, como povos indígenas e comunidades tradicionais.\n\nEsses conflitos mostram que ainda existem diferenças no acesso a direitos e oportunidades. Por isso, é importante valorizar a diversidade, combater a discriminação e garantir que tod",
+        "texto": "Resposta alinhada à videoaula da semana, que relaciona as desigualdades atuais aos processos históricos de colonização e escravização e destaca a necessidade de inclusão dos grupos historicamente vulnerabilizados.\nSim, existem conflitos étnicos e raciais no Brasil. Apesar da grande diversidade cultural presente em nossa sociedade, ainda encontramos situações de racismo, preconceito e discriminação",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=759864#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=762994#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9921,13 +9933,14 @@
         "novo": true
       },
       {
-        "id": "759251",
-        "autor": "THIAGO ANTUNES PRADO",
-        "data": "2026-08-25T20:25:22-03:00",
+        "id": "762675",
+        "autor": "JANEIDE AGUIDA DA SILVA",
+        "data": "2026-08-26T09:28:32-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Sim, existem conflitos étnicos no Brasil. Eles estão relacionados principalmente ao racismo, preconceito e à desigualdade enfrentada por diferentes grupos, como negros, indígenas e quilombolas. Esses conflitos têm raízes históricas e mostram a importância de promover o respeito à diversidade, à igualdade e aos direitos humanos.",
+        "texto": "A raça refere-se como a sociedade categoriza as pessoas visualmente e historicamente. A etnia refere-se a bagagem cultural e social de um determinado povo. A Declaração dos Direitos humanos estabelece que haja igualdade e não discriminação, de todos os seres humanos. Todos são livres e iguais em dignidade de direito e desfrutar de todas as garantias previstas sem distinção. Quanto ao conceito de r",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=759251#mformforum"
+          "https://revistapesquisa.fapesp.br/sergio-pena-sob-a-pele/",
+          "https://ava.univesp.br/mod/forum/post.php?reply=762675#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9936,13 +9949,13 @@
         "novo": true
       },
       {
-        "id": "759060",
-        "autor": "FABRICIO MARCATTI ERCOLES",
-        "data": "2026-08-25T20:13:40-03:00",
+        "id": "762611",
+        "autor": "MANOEL JEFFERSON TAVARES MENDONCA",
+        "data": "2026-08-26T09:20:38-03:00",
         "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "​Base Científica: Biologicamente não existem raças nem superioridade racial — a espécie humana é única. \"Raça\" é uma construção social baseada na aparência, enquanto \"etnia\" define a identidade cultural e histórica de um grupo.\n​Direitos Humanos e Racismo: A Declaração Universal dos Direitos Humanos assegura igualdade e dignidade a todos. No Brasil, o racismo permanece estrutural, embora o endurec",
+        "texto": "Sim, existem conflitos étnicos no Brasil. Embora o país seja marcado por grande diversidade cultural, formada por povos indígenas, população negra, comunidades tradicionais, imigrantes e outros grupos, essa diversidade nem sempre é respeitada de maneira igualitária.\n\nOs conflitos étnicos podem ser observados em situações de racismo, discriminação, intolerância religiosa e desrespeito às culturas e",
         "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=759060#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=762611#mformforum"
         ],
         "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
@@ -9954,7 +9967,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182609": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T05:44:24-03:00",
+    "ultimo": "2026-08-26T11:46:56-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -10115,11 +10128,103 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165218": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T08:16:10-03:00",
+    "ultimo": "2026-08-26T11:50:15-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "763165",
+        "autor": "DANILO AUGUSTO PRESTA",
+        "data": "2026-08-26T10:31:12-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Para retirar o estigma e combater o preconceito linguístico no dia a dia, precisamos adotar atitudes que superem os limites tradicionais de apenas \"respeitar\", \"valorizar\" ou \"adequar\" as falas alheias. Com base no texto do professor Barzotto, proponho mudanças concretas em três esferas:\nNo trabalho: Devo parar de cobrar que colegas ou alunos se \"adequem\" à norma de prestígio como se suas falas or",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=763165#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "763097",
+        "autor": "MAYCON FELIPE CASCIONE SOUZA",
+        "data": "2026-08-26T10:22:11-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Em meu ambiente de trabalho, temos algo muito interessante, não se importar com coisas irrelevantes, desde pequeno aprendi que quando se da atenção a algo, aquilo se torna maior, quando sofria o famoso \"bullying\" na escola, a famosa \"zoeira\", ignorava e isso se extinguia em questão de horas, agora se desse atenção, quem praticava tal \"zoeira\" sabia que aquilo era algo que geraria atenção para ele.",
+        "links": [
+          "https://www.tre-rn.jus.br/comunicacao/noticias/2023/Setembro/por-que-evitar-termos-e-expressoes-racistas",
+          "https://www.youtube.com/watch?v=jzABV9U508M",
+          "https://ava.univesp.br/mod/forum/post.php?reply=763097#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "763004",
+        "autor": "TAMIRIS BEONI DE OLIVEIRA",
+        "data": "2026-08-26T10:11:16-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "A incorporação concreta das variedades linguísticas exige superar a mera tolerância e adotar práticas ativas de combate ao preconceito linguístico.\nNo ambiente de trabalho podemos compreender que a norma-padrão é uma exigência de situações formais e gêneros específicos, sem tratá-la como medida de inteligência ou competência, evitando correções constrangedoras de expressões regionais ou populares.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=763004#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "762948",
+        "autor": "GEANE PEREIRA IMBIRIBA LIRA",
+        "data": "2026-08-26T10:04:48-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Acredito que combater o preconceito linguístico começa pelas nossas próprias atitudes. No trabalho, em casa e com meus amigos, posso respeitar as diferentes formas de falar, sem julgar ou constranger alguém por seu jeito de se expressar. Entendo que a língua possui várias variedades e que cada uma está ligada à cultura e à realidade de seus falantes. Valorizar essas diferenças é uma forma de respe",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=762948#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "762646",
+        "autor": "MANOEL JEFFERSON TAVARES MENDONCA",
+        "data": "2026-08-26T09:23:44-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Para combater o preconceito linguístico, devemos respeitar as diferentes formas de falar o português brasileiro. No trabalho, em casa e com amigos, posso evitar piadas ou correções que constranjam as pessoas por causa de seus sotaques e expressões regionais. Também é importante compreender que a norma padrão é necessária em alguns contextos, mas não torna as outras variedades inferiores. Valorizar",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=762646#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "762552",
+        "autor": "THIAGO CARVALHO PINTO",
+        "data": "2026-08-26T09:13:49-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Para incorporar é preciso experienciar. É por meio do contato que a “estranheza” e resistências são diluídas. Importante seria ter a possibilidade de adotar tal estratégia de múltiplas experiências desde os primeiros anos de vida, mas por uma série de fatores sociais, econômicos, culturais, etc. esta não é a realidade da maioria. Ou seja, a conduta (o que inclui o modo de comunicação escrita e fal",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=762552#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "761361",
         "autor": "MICHELLE TALITA DE FRANCO NASCIMENTO BELON",
@@ -10179,96 +10284,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "758665",
-        "autor": "SIMAO BECKER JOAO SANTANA",
-        "data": "2026-08-25T19:51:09-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Incorporar as variedades linguísticas no dia a dia exige combater o preconceito, evitando correções desnecessárias no trabalho, na família e entre amigos. O foco deve ser a adequação ao contexto e a compreensão, reconhecendo que a diversidade da fala enriquece nossa cultura e identidade.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=758665#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "758000",
-        "autor": "CARLOS MATEUS BOARINI",
-        "data": "2026-08-25T19:04:20-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "A incorporação das variedades linguísticas e a luta contra o preconceito de linguagem exigem um compromisso ativo e diário em todas as esferas das nossas vidas. No ambiente profissional, o combate ao preconceito linguístico começa ao priorizar a clareza da comunicação e a empatia, garantindo que o conhecimento e as competências de um indivíduo não sejam reduzidos à sua adesão estrita à norma-padrã",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=758000#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "757697",
-        "autor": "LARA MAGALHAES NOGUEIRA",
-        "data": "2026-08-25T18:43:19-03:00",
-        "titulo": "S6 - Fórum temático",
-        "texto": "Acredito que combater o preconceito linguístico começa por respeitar as diferentes formas de falar e entender que elas fazem parte da diversidade cultural. No trabalho, em casa ou entre amigos, isso significa evitar julgamentos, correções desnecessárias e piadas com sotaques ou expressões regionais. A norma padrão continua importante em alguns contextos, mas não deve ser usada para desvalorizar ou",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=757697#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "757486",
-        "autor": "BIANCA GONCALVES DA CUNHA",
-        "data": "2026-08-25T18:25:23-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Acredito que, no meu dia a dia, posso contribuir para combater o preconceito linguístico evitando julgar ou corrigir a forma como outras pessoas falam apenas por ser diferente da minha. Em casa e com meus amigos, posso respeitar essas diferenças e evitar comentários que tratem uma maneira de falar como inferior. Também posso prestar mais atenção ao contexto, entendendo que existem diferentes forma",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=757486#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "757471",
-        "autor": "VALDIOMIR MEIRA DE CAMARGO",
-        "data": "2026-08-25T18:23:37-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Combater o preconceito linguístico começa principalmente pela forma como lidamos com as pessoas no dia a dia. Sotaques, expressões regionais e diferentes formas de construir frases fazem parte da história, da cultura e da realidade de cada grupo.\n\nO importante é ficar atento ao conteúdo do que está sendo comunicado, e não julgar este conteúdo pela maneira como está sendo falado. Existem situações ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=757471#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "757426",
-        "autor": "KAREN CRISTINA SAUGO",
-        "data": "2026-08-25T18:19:00-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Com base nas reflexões do professor Valdir Barzotto sobre a riqueza do português brasileiro e a urgência de combater o preconceito linguístico, a promoção das variedades linguísticas exige uma postura ética e atenta nos diferentes espaços de convivência. A desconstrução do estigma linguístico começa na conscientização de que não existe uma forma \"correta\" ou \"superior\" de falar, mas sim diferentes",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=757426#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -10312,6 +10327,30 @@
         ],
         "forum": "Avisos",
         "url": "https://ava.univesp.br/mod/forum/discuss.php?d=160768",
+        "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      }
+    ]
+  },
+  "https://ava.univesp.br/mod/forum/discuss.php?d=163028": {
+    "schema_version": 5,
+    "ultimo": "2026-08-26T13:38+0000",
+    "truncado": false,
+    "posts_institucionais_vistos": 1,
+    "posts_institucionais_guardados": 1,
+    "posts": [
+      {
+        "id": "763230",
+        "autor": "Joyce Mirella Dos Anjos Viana",
+        "data": "2026-08-26T10:38:08-03:00",
+        "titulo": "Confirmação da nossa Live de hoje - Quarta-feira às 20h!",
+        "texto": "Olá, pessoal! Tudo bem?\n\nPassando para confirmar que a nossa Live da Semana 6 será HOJE (quarta-feira), às 20h!\n\nNo encontro de hoje, vamos revisar o conteúdo da semana 6 (Aprendizagem criativa parte 2 ), hoje o foco é a criação de projetos autorais no Scratch com o tema \"superpoderes\".\n\nObjetivos de aprendizagem\n\n1 - Compreender como desenvolver projetos autorais no Scratch.\n2 - Compreender como ",
+        "links": [
+          "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external"
+        ],
+        "forum": "Avisos",
+        "url": "https://ava.univesp.br/mod/forum/discuss.php?d=163028",
         "prazos": [],
         "autoridade": "institucional",
         "novo": true
