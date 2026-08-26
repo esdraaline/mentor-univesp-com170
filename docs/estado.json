@@ -23,7 +23,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=160780": {
     "schema_version": 5,
-    "ultimo": "2026-08-25T22:45:31-03:00",
+    "ultimo": "2026-08-26T16:03:45-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 13,
     "posts_institucionais_guardados": 10,
@@ -839,7 +839,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165165": {
     "schema_version": 5,
-    "ultimo": "2026-08-25T15:19:21-03:00",
+    "ultimo": "2026-08-26T12:08:01-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 11,
     "posts_institucionais_guardados": 10,
@@ -6220,7 +6220,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165193": {
     "schema_version": 5,
-    "ultimo": "2026-08-24T20:26:57-03:00",
+    "ultimo": "2026-08-26T13:52:23-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -6353,7 +6353,7 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
+        "novo": false
       },
       {
         "id": "717530",
@@ -7131,7 +7131,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 5,
-    "ultimo": "2026-08-25T22:00:30-03:00",
+    "ultimo": "2026-08-26T14:03:56-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -7251,6 +7251,22 @@
         "novo": false
       },
       {
+        "id": "764804",
+        "autor": "TALITA DO NASCIMENTO RIBEIRO",
+        "data": "2026-08-26T14:03:56-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "Boa tarde!!\n\nSegue link do desafio proposto pela universidade:\nhttps://scratch.mit.edu/projects/1375170148. A animação foi programada para executar o seguinte padrão: Se o número que o usuário digital foi menor que 10, o personagem vai contar de 0 até o número escolhido. Se o número foi maior que 10, o personagem vai passar a mensagem \"Número muito grande''. Foram usados comandos condicionais se/e",
+        "links": [
+          "https://scratch.mit.edu/projects/1375170148",
+          "https://ava.univesp.br/mod/forum/post.php?reply=764804#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "746557",
         "autor": "ERIKSON FREITAS DE MORAIS",
         "data": "2026-08-24T17:25:04-03:00",
@@ -7291,22 +7307,6 @@
         "texto": "O maior desafio durante a programação foi alinhar o tempo das falas (diga por X segundos) com a leitura dos blocos de sensores e condicionais para evitar que o personagem atropelasse as respostas. A solução foi planejar bem a sequência lógica passo a passo e testar a execução com a bandeira verde diversas vezes até garantir uma experiência fluida.\nO ponto que exigiu mais atenção foi sincronizar a ",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=739150#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "739051",
-        "autor": "SHEILA REGINA SILVA DE MORAES",
-        "data": "2026-08-23T23:37:13-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "Link do Projeto \n\nNeste desafio, utilizei uma variável chamada numero para armazenar o valor digitado pelo usuário e uma variável contador para realizar a contagem. Com uma estrutura condicional, o programa verifica se o número informado é menor que 10. Quando a condição é atendida, o personagem exibe todos os números de 0 até o valor digitado utilizando uma estrutura de repetição. Caso o número s",
-        "links": [
-          "https://scratch.mit.edu/projects/1374635394",
-          "https://ava.univesp.br/mod/forum/post.php?reply=739051#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
@@ -7475,7 +7475,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 5,
-    "ultimo": "2026-08-25T19:05:59-03:00",
+    "ultimo": "2026-08-26T15:42:45-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -7775,7 +7775,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165201": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T01:39:58-03:00",
+    "ultimo": "2026-08-26T15:42:39-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -7875,6 +7875,21 @@
         "novo": false
       },
       {
+        "id": "765754",
+        "autor": "JULLY SIQUEIRA CAETANO",
+        "data": "2026-08-26T15:42:39-03:00",
+        "titulo": "Re: S4 - Fórum temático",
+        "texto": "A coesão e a coerência são fundamentais para que um texto seja compreendido com clareza. A **coerência** está relacionada ao sentido geral do texto, ou seja, as ideias precisam ter lógica e manter relação entre si. Já a **coesão** acontece por meio das palavras e estruturas que ligam essas ideias ao longo do texto.\n\nEntre as principais estratégias de coesão estão o uso de **conectivos**, como “por",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765754#mformforum"
+        ],
+        "forum": "S4 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
         "id": "755125",
         "autor": "MAYARA BRANDAO TEIXEIRA MODELLI",
         "data": "2026-08-25T14:50:19-03:00",
@@ -7942,21 +7957,6 @@
         "texto": "Garantir textos claros exige o uso estratégico de conectivos e recursos linguísticos.",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=739022#mformforum"
-        ],
-        "forum": "S4 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "738514",
-        "autor": "ANDERSON EDUARDO PEREIRA DA SILVA",
-        "data": "2026-08-23T22:57:23-03:00",
-        "titulo": "Re: S4 - Fórum temático",
-        "texto": "A coerência e a coesão funcionam na prática da escrita como as duas faces da mesma moeda. Enquanto a coerência atua no plano da estrutura profunda, dizendo respeito à organização de sentido global e ao conteúdo do texto, a coesão opera na estrutura superficial (microestrutura), tratando da organização linear e física dos elos e marcas gramaticais presentes na superfície textual.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=738514#mformforum"
         ],
         "forum": "S4 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
@@ -8270,7 +8270,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T08:41:54-03:00",
+    "ultimo": "2026-08-26T15:53:07-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -8453,7 +8453,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207959": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T01:53:31-03:00",
+    "ultimo": "2026-08-26T15:18:40-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -8638,7 +8638,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222535": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T11:02:43-03:00",
+    "ultimo": "2026-08-26T14:50:46-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8681,6 +8681,81 @@
         ],
         "autoridade": "colega",
         "novo": false
+      },
+      {
+        "id": "765253",
+        "autor": "JULIA MORET DA SILVEIRA",
+        "data": "2026-08-26T14:50:46-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "A história de Andrea mostra que a ética no trabalho vai além de cumprir regras: envolve garantir igualdade, respeito e justiça. A diferença salarial entre homens e mulheres que exercem a mesma função demonstra como fatores sociais e culturais ainda podem influenciar o ambiente profissional. Como professora, acredito que combater essas desigualdades exige transparência, critérios justos de remunera",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765253#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "765172",
+        "autor": "Danilo Moreira Pereira",
+        "data": "2026-08-26T14:44:56-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Concordo com sua reflexão, principalmente quando você destaca que a valorização profissional não acontece apenas com base em critérios técnicos, pois fatores históricos e culturais também podem influenciar as relações de trabalho.\n\nAchei importante também sua colocação sobre a necessidade de as empresas aproximarem o discurso institucional das práticas realizadas no cotidiano. Não basta promover c",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765172#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764826",
+        "autor": "CARLOS HENRIQUE VASCONCELOS DE SOUZA",
+        "data": "2026-08-26T14:06:37-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Concordo com a sua análise, colega; embora a diferença de 22% seja um sinal de alerta legítimo, uma amostra de apenas dez pessoas é estatisticamente pequena e insuficiente para comprovar uma discriminação sistêmica em toda a empresa. Uma verificação amostral mais ampla e criteriosa é indispensável porque o holerite isolado não revela variáveis como histórico de desempenho, disponibilidade e metas ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764826#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764620",
+        "autor": "IURI JOSE FREITAS SANTOS",
+        "data": "2026-08-26T13:42:24-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Aqui está uma versão mais leve, natural e de fácil leitura para publicar no fórum:\n\nA história da Andrea expõe direto ao ponto a diferença entre o que a empresa fala no marketing (\"ética declarada\") e o que ela faz na prática no dia a dia (\"ética praticada\").\n\nPensando nos pontos levantados:\n\nInfluência da sociedade nos salários: O valor de um salário não vem só de uma matemática perfeita ou de cu",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764620#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764341",
+        "autor": "ITALO AUGUSTO CAMARGOS PEREIRA",
+        "data": "2026-08-26T12:54:10-03:00",
+        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "texto": "Um detalhe da história de Andrea chama atenção: a empresa parece entender valorização da mulher como uma ação pontual numa data comemorativa, não conferindo profundida ao tema. Faz-se um evento comemorativo, distribui-se alguns mimos (ações legítimas, inclusive), contudo não passa disso; a própria reação dos colaboradores - considerando-a vitimista - demonstra a cultura da empresa. O desconforto e",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764341#mformforum"
+        ],
+        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "761816",
@@ -8741,91 +8816,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "759243",
-        "autor": "EDILSON NIEHUES RODRIGUES LIMA",
-        "data": "2026-08-25T20:24:35-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "A história de Andrea mostra muito bem que a estrutura social e cultural influencia nos salários. Mesmo com o mesmo estudo e fazendo o mesmo trabalho, as mulheres ganhavam 22% menos que os homens. Isso acontece porque nossa cultura ainda ensina que homem merece ganhar mais. Muitas vezes, nem percebemos, mas existem preconceitos escondidos na hora de dar aumentos ou promoções.\n\n\nOs fatos mostram que",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=759243#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "758308",
-        "autor": "MATEUS MARQUES SILVA",
-        "data": "2026-08-25T19:26:02-03:00",
-        "titulo": "Dois pesos, duas jornadas?",
-        "texto": "É inegável que, com o avanço da sociedade e o deixar de tergiversar sobre assuntos que antes eram considerados menos importantes, significativas contribuições foram feitas no que tange, nesse contexto, aos direitos das mulheres e à busca por salários equivalentes.\n\nAs mulheres passaram a ser mais independentes, passaram a ter mais apoio social e passaram a buscar, em um primeiro momento, um desenv",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=758308#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "757597",
-        "autor": "GENILDO SILVA MARCELO",
-        "data": "2026-08-25T18:35:48-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Casos como o de Andrea, são discutidos a anos na nossa sociedade. E particularmente, ainda não vejo uma perspectiva de mudança concreta.\n\nJá foram criadas leis para aumentar a ocupação de mulheres em conselhos e diretorias (Lei Nº 15.177/2025), que são facultativas em empresas privadas, e até recentemente uma lei de igualdade salarial (Lei nº 14.611/2023).\n\nMas a grande verdade é que as políticas ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=757597#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "756576",
-        "autor": "GIOVANA RODRIGUES DA SILVA ROBERTO",
-        "data": "2026-08-25T17:05:07-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "​A estrutura social e cultural influencia na atribuição dos salários?\nSim, de forma determinante. A diferença salarial raramente decorre de uma decisão explícita e consciente de \"pagar menos a uma mulher\". Ela é sustentada por viéses implícitos e divisões históricas:\n​Divisão sexual do trabalho: Socialmente, atribui-se à mulher a carga desproporcional do trabalho de cuidado (maternidade, idosos, t",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=756576#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "756370",
-        "autor": "ELEN MELISSA GERALDO",
-        "data": "2026-08-25T16:47:11-03:00",
-        "titulo": "Re: S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "texto": "Pesquisando em como e se a estrutura social e cultural influencia na atribuição dos salários, deparei-me com os chamados Fatores de Influência presentes em uma sociedade arraigada. Ser mulher ou ser negro apresenta a matemática do salário inferior a ser homem e branco; ter berço de ouro facilita ao networking afilado para melhores empresas x melhores cargos x melhores salários e, também facilita à",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=756370#mformforum"
-        ],
-        "forum": "S5 - Fórum temático: O Valor do Trabalho: Gênero e Ética no Ambiente Empresarial",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222536": {
     "schema_version": 5,
-    "ultimo": "2026-08-25T20:26:19-03:00",
+    "ultimo": "2026-08-26T14:51:17-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "764193",
+        "autor": "GLEDSON KATANIWA GONCALVES",
+        "data": "2026-08-26T12:34:09-03:00",
+        "titulo": "Re: S5 - Fórum de dúvidas gerais",
+        "texto": "Vale a reflexão para o seu dia a dia, pensar no seu ambiente de trabalho, se a ética esta sendo aplicada mesmo, se a igualdade esta acontecendo. Bons estudos pessoal.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764193#mformforum"
+        ],
+        "forum": "S5 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "757841",
         "autor": "MATEUS MARQUES SILVA",
@@ -8961,32 +8976,47 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
         "prazos": [],
         "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "728036",
-        "autor": "CRISTIANO NUNES LAUREANO",
-        "data": "2026-08-22T17:00:52-03:00",
-        "titulo": "Re: S5 - Fórum de dúvidas gerais",
-        "texto": "Excelente assunto e a questão da ética no trabalho sempre é assunto que gera bastante debate e nos faz sempre analisar nosso próprio ambiente de trabalho, fazendo-nos agir de maneira diferente, regulando nossas ações para que estejam alicerçadas nos valores dos nossos ambientes de trabalho.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=728036#mformforum"
-        ],
-        "forum": "S5 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
+        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165209": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T11:14:42-03:00",
+    "ultimo": "2026-08-26T15:47:30-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "765602",
+        "autor": "ARTHUR ESCOBAR MARINHO",
+        "data": "2026-08-26T15:29:48-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Usando o exemplo do enunciado, acredito que o público alvo para um texto sobre o filme Tempos Modernos é bem diversificado, podendo ser desde estudantes do ensino médio até profissionais de história e sociologia. Para um público mais acadêmico, principalmente superior, não faria o uso de muitas quebras de expectativa e outras características textuais \"informais\", provavelmente uma vez no texto int",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765602#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764739",
+        "autor": "IURI JOSE FREITAS SANTOS",
+        "data": "2026-08-26T13:56:41-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "Aqui está uma versão mais simples, direta e curta para postar no fórum:\n\nDefinir o público leitor antes de escrever é essencial para acertar na linguagem, no tom e na quantidade de informações do texto.\n\nSe eu fosse escrever sobre o filme Tempos Modernos, meu público-alvo seria de jovens estudantes e trabalhadores.\n\nPara prender a atenção desse leitor, eu usaria a seguinte estratégia:\n\nQuebrar exp",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764739#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "763296",
         "autor": "MARCOS ROBERTO HIDEAKI ARAKAKI",
@@ -9106,46 +9136,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "752548",
-        "autor": "GRAZIELLA CRISTINA GONCALVES OLIVEIRA",
-        "data": "2026-08-25T09:11:12-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "A definição prévia de um leitor presumido (ou público-alvo virtual) é um dos pilares da pragmática e da produção textual, pois a escrita não ocorre no vazio: ela é uma ação comunicativa que depende diretamente do horizonte de expectativas de quem a recebe.\n\nPensando no clássico Tempos Modernos (1936), de Charles Chaplin, podemos traçar a seguinte estratégia composicional:\n\nPerfil do público-alvo i",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=752548#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "752373",
-        "autor": "JANSER CARLOS DE SOUZA BUENO RIBEIRO",
-        "data": "2026-08-25T08:42:57-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "Pra mim, o segredo é imaginar um leitor bem específico, não um \"público\" vago. Penso em alguém que já ouviu falar de Tempos Modernos, talvez até já viu a cena do Chaplin nas engrenagens, mas nunca assistiu inteiro e acha que é só uma comédia física.\n\nCom esse leitor na cabeça, sim, eu começaria quebrando a expectativa dele. Em vez de explicar a trama, eu abriria dizendo que o filme não é sobre uma",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=752373#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=228103": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T09:35:23-03:00",
-    "truncado": false,
-    "posts_institucionais_vistos": 8,
-    "posts_institucionais_guardados": 8,
+    "ultimo": "2026-08-26T12:35:18-03:00",
+    "truncado": true,
+    "posts_institucionais_vistos": 9,
+    "posts_institucionais_guardados": 9,
     "posts": [
+      {
+        "id": "764201",
+        "autor": "Lucas Demeda Dos Santos",
+        "data": "2026-08-26T12:35:18-03:00",
+        "titulo": "Re: Q3 - Fórum geral",
+        "texto": "Nesse caso você pode tentar abrir o arquivo com outro software ou escrever as respostas em outro documento e salvar este arquivo como pdf para enviar a atividade. Só garanta que as respostas estejam bem sinalizadas, para que outro colega possa revisar seu trabalho sem problemas",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764201#mformforum"
+        ],
+        "forum": "Q3 - Fórum geral",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
+        "prazos": [],
+        "autoridade": "institucional",
+        "novo": true
+      },
       {
         "id": "753050",
         "autor": "Lucas Demeda Dos Santos",
@@ -9170,7 +9185,8 @@
         "texto": "Bom dia!\n\nOs templates (modelos) da atividade individual e em grupo estão na aba Q3 M5 - Templates. Você deve fazer o download do pdf \"template individual\" e escrever as respostas ali. Depois, deve enviar esse pdf preenchido na aba M6 - Revisão entre pares (Portfólio Individual). Esse é o mesmo local onde, posteriormente, você receberá o trabalho de outro colega para revisar. Está tudo descrito na",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=741472#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=762732#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=762732#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=764201#mformforum"
         ],
         "forum": "Q3 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
@@ -9290,26 +9306,6 @@
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=718896#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=719914#mformforum"
-        ],
-        "forum": "Q3 - Fórum geral",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
-      },
-      {
-        "id": "701330",
-        "autor": "RENATO ANTONIO VEIGA DOS SANTOS PEREIRA",
-        "data": "2026-08-18T19:54:41-03:00",
-        "titulo": "Re: Q3 - Fórum geral",
-        "texto": "Obrigado, infelizmente não enviei as atividades M6 e M7, mas agora é correr atrás do prejuízo, participar das lives que forem possíveis e se atentar com as datas que foi muito bem explicadas nos tópicos anteriores. Analisando o eixo da IA, após tudo o que foi abordado até o momento, eu percebo que uma competência no qual eu venho mudando é sobre o uso da IA no meu cotidiano, por incrível eu tenho ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=701330#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=704786#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=705454#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=718896#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=719914#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=706690#mformforum"
         ],
         "forum": "Q3 - Fórum geral",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=228103",
@@ -9580,7 +9576,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193376": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T11:40:47-03:00",
+    "ultimo": "2026-08-26T15:35:35-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -9631,6 +9627,22 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "764758",
+        "autor": "JUCELIA SANTOS SILVA",
+        "data": "2026-08-26T13:58:39-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Link do projeto\nhttps://scratch.mit.edu/projects/1375357584\n\nSuper Cão( aumenta de tamanho)\nFunção: Começar a história, crescer e ficar no Cenário 1.\nFluxo de Ação:\nInício: Ao clicar na bandeira verde, garante que estamos no Cenário 1, define o tamanho para 100% e se posiciona à esquerda.\nDemonstração: Fala uma frase, toca o som Dog1 e executa um loop que aumenta seu tamanho gradualmente até ficar",
+        "links": [
+          "https://scratch.mit.edu/projects/1375357584",
+          "https://ava.univesp.br/mod/forum/post.php?reply=764758#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -9729,29 +9741,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "752458",
-        "autor": "THIAGO STATELLA",
-        "data": "2026-08-25T08:59:13-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Achei que estava matriculado em Inteligência Artificial mas descobri que estou fazendo especialização em Scratch.\n\nPara atender ao desafio da semana, utilizei o mesmo projeto criado na semana anterior. Meu ator é um dinossauro com poderes de teletransporte entre lugares e épocas. Ao iniciar o programa, o dinossauro anda de um lado para outro da tela. Ele exibe uma mensagem de texto \"clique em mim\"",
-        "links": [
-          "https://scratch.mit.edu/projects/1375013341/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=752458#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=756230#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207960": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T11:05:44-03:00",
+    "ultimo": "2026-08-26T15:36:58-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -9807,11 +9802,122 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168846": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T11:43:59-03:00",
+    "ultimo": "2026-08-26T16:08:47-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "766028",
+        "autor": "TIAGO RODRIGUES",
+        "data": "2026-08-26T16:08:47-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Sim, existem conflitos étnicos no Brasil, embora eles raramente se apresentem na forma de guerras civis abertas ou confrontos armados entre grandes grupos étnicos regionais (como ocorre em algumas partes do mundo).\n\nNo contexto brasileiro, os conflitos étnicos manifestam-se principalmente como disputas de terra e território, pressão sobre recursos naturais, racismo estrutural e violência instituci",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=766028#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "765158",
+        "autor": "JOSE IVANIR ANDERSON JUNIOR",
+        "data": "2026-08-26T14:43:25-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "A ciência não sustenta a existência de superioridade racial entre seres humanos: geneticamente, há mais variação dentro de um mesmo grupo racial do que entre grupos distintos, o que torna \"raça\" um conceito social e histórico, não biológico. Etnia, por sua vez, refere-se a características culturais compartilhadas — língua, tradições, ancestralidade —, distinguindo-se de raça, noção sem respaldo ci",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765158#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "765129",
+        "autor": "JULIA MORET DA SILVEIRA",
+        "data": "2026-08-26T14:40:21-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Sim, existem conflitos étnicos no Brasil, principalmente relacionados ao racismo, à discriminação e à desigualdade entre diferentes grupos étnicos e raciais. Esses conflitos podem ser percebidos no acesso desigual à educação, ao trabalho, à renda e a outros direitos. Como professora, considero que a educação tem papel fundamental nesse processo, promovendo o respeito à diversidade, à dignidade hum",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765129#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=765935#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "765054",
+        "autor": "JOAO EUGENIO CONEGLIAN NOGUEIRA",
+        "data": "2026-08-26T14:32:30-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "1. Não. Não existe comprovação científica de que uma raça humana seja superior a outra. A raça é uma construção social, e o NHGRI informa que existe mais variação genética dentro dos grupos raciais autodeclarados do que entre eles.\n\nNATIONAL HUMAN GENOME RESEARCH INSTITUTE. Race. Bethesda: National Institutes of Health, 2026. Disponível em: https://www.genome.gov/genetics-glossary/Race. Acesso em:",
+        "links": [
+          "https://www.genome.gov/genetics-glossary/Race",
+          "https://www.genome.gov/about-genomics/policy-issues/population-descriptors-in-genomics",
+          "https://www.genome.gov/about-genomics/policy-issues/population-descriptors-in-genomics",
+          "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "https://www.gov.br/igualdaderacial/pt-br/assuntos/programas-e-projetos/hub-da-igualdade-racial/crime-e-violencia",
+          "https://ava.univesp.br/mod/forum/post.php?reply=765054#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764818",
+        "autor": "Danilo Moreira Pereira",
+        "data": "2026-08-26T14:05:49-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Concordo com sua reflexão, principalmente quando você destaca que nenhuma diferença física, cultural ou de origem pode justificar a ideia de superioridade entre as pessoas. Também considero importante sua colocação sobre o racismo estrutural, pois o preconceito nem sempre acontece de maneira explícita, podendo aparecer por meio das desigualdades presentes na sociedade.\n\nComo complemento, acredito ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764818#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764762",
+        "autor": "Danilo Moreira Pereira",
+        "data": "2026-08-26T13:59:09-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Sim, acredito que existem conflitos étnicos no Brasil, embora muitas vezes eles ocorram de maneira diferente de outros países. A diversidade da população brasileira é resultado da presença e da história de diferentes povos, como indígenas, africanos, europeus e diversos grupos de imigrantes. Porém, essa diversidade não significa que todos tenham recebido historicamente o mesmo tratamento e as mesm",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764762#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764566",
+        "autor": "REGIS BORGES",
+        "data": "2026-08-26T13:34:24-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Na minha opinião, não é possível comprovar cientificamente a existência de superioridade entre raças humanas. Embora existam diferenças físicas e genéticas entre as populações, isso não significa que um grupo seja superior a outro. Inclusive, o próprio conceito de raça, quando aplicado aos seres humanos, não possui uma base biológica que permita dividir a humanidade em grupos superiores ou inferio",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764566#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "763861",
         "autor": "FABIANO DE SIMAS RODRIGUES",
@@ -9856,118 +9962,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "763718",
-        "autor": "BEATRIZ DOS ANJOS SILVA",
-        "data": "2026-08-26T11:27:49-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Sim, existem muitos conflitos étnicos e raciais no Brasil. Embora o país seja marcado por uma enorme diversidade cultural e étnica, essa diversidade também convive com muita desigualdade, preconceito e diferentes formas de discriminação.\n\nEsses conflitos podem ser notados em situações de racismo contra a população negra, preconceito e violência contra povos indígenas, além da discriminação sofrida",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=763718#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "763532",
-        "autor": "HAROLDO RODRIGUES OLIVEIRA",
-        "data": "2026-08-26T11:12:24-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Creio que sim, existem conflitos étnicos no Brasil. Eles aparecem principalmente em situações de racismo, preconceito e discriminação contra povos indígenas, população negra, quilombolas e outros grupos étnicos. Esses conflitos são resultado de desigualdades históricas e da falta de respeito à diversidade. Por isso, combater o racismo e garantir direitos iguais é fundamental para uma sociedade mai",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=763532#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "763258",
-        "autor": "MANOEL BAZANI SIMOES JUNIOR",
-        "data": "2026-08-26T10:40:31-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Sim, existem conflitos étnicos no Brasil. Eles podem ser percebidos principalmente por meio do racismo, do preconceito e da discriminação contra negros, indígenas e outros grupos. Mesmo não existindo superioridade racial entre os seres humanos, essas diferenças ainda são usadas para justificar desigualdades e preconceitos. Por isso, é importante respeitar a diversidade e garantir os mesmos direito",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=763258#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "762996",
-        "autor": "RAFAEL DE GODOI MACHADO",
-        "data": "2026-08-26T10:10:27-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Sim, existem conflitos étnicos no Brasil. Embora o país seja frequentemente apresentado como multicultural e formado pela convivência entre diferentes povos, sua história revela desigualdades e tensões envolvendo indígenas, negros, quilombolas, imigrantes e outros grupos étnicos.\n\nEsses conflitos podem ser observados nas disputas por terras indígenas e quilombolas, na intolerância contra religiões",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=762996#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "762994",
-        "autor": "ROSEMEIRE MENDES",
-        "data": "2026-08-26T10:10:19-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Resposta alinhada à videoaula da semana, que relaciona as desigualdades atuais aos processos históricos de colonização e escravização e destaca a necessidade de inclusão dos grupos historicamente vulnerabilizados.\nSim, existem conflitos étnicos e raciais no Brasil. Apesar da grande diversidade cultural presente em nossa sociedade, ainda encontramos situações de racismo, preconceito e discriminação",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=762994#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "762675",
-        "autor": "JANEIDE AGUIDA DA SILVA",
-        "data": "2026-08-26T09:28:32-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "A raça refere-se como a sociedade categoriza as pessoas visualmente e historicamente. A etnia refere-se a bagagem cultural e social de um determinado povo. A Declaração dos Direitos humanos estabelece que haja igualdade e não discriminação, de todos os seres humanos. Todos são livres e iguais em dignidade de direito e desfrutar de todas as garantias previstas sem distinção. Quanto ao conceito de r",
-        "links": [
-          "https://revistapesquisa.fapesp.br/sergio-pena-sob-a-pele/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=762675#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "762611",
-        "autor": "MANOEL JEFFERSON TAVARES MENDONCA",
-        "data": "2026-08-26T09:20:38-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Sim, existem conflitos étnicos no Brasil. Embora o país seja marcado por grande diversidade cultural, formada por povos indígenas, população negra, comunidades tradicionais, imigrantes e outros grupos, essa diversidade nem sempre é respeitada de maneira igualitária.\n\nOs conflitos étnicos podem ser observados em situações de racismo, discriminação, intolerância religiosa e desrespeito às culturas e",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=762611#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182609": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T11:46:56-03:00",
+    "ultimo": "2026-08-26T15:54:27-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -10128,11 +10128,86 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165218": {
     "schema_version": 5,
-    "ultimo": "2026-08-26T11:50:15-03:00",
+    "ultimo": "2026-08-26T16:09:06-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "765361",
+        "autor": "MARCOS FERNANDO GIOTTO",
+        "data": "2026-08-26T15:01:27-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "De forma geral, que não difere muito de alguns comentários de colegas aqui desse forum, eu começaria por prestar mais atenção na minha reação quando deparar com situações mencionadas no texto do professor. A partir daí, reagir de forma a incorporar, como dito no texto, e não criar uma situação de desigualdade, mesmo que sem intenção.\nAprendi que, pior que \"pontos negativos\", são os \"pontos cegos\",",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765361#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "765289",
+        "autor": "JAMES ADRIANO TORRES VIEIRA",
+        "data": "2026-08-26T14:54:26-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Olá, colegas!\nPara responder ao nosso desafio sobre como combater o preconceito linguístico no dia a dia, parto da brilhante provocação do professor Valdir Barzotto\n. Ele nos convida a superar os verbos respeitar, valorizar e adequar, propondo que passemos a incorporar as variedades linguísticas\n.\nNa prática, isso significa entender que a nossa língua é um corpo vivo e heterogêneo formado por toda",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765289#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "765220",
+        "autor": "JULIA MORET DA SILVEIRA",
+        "data": "2026-08-26T14:47:59-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Como professora, posso contribuir valorizando as diferentes formas de falar português, evitando corrigir a fala dos alunos de maneira preconceituosa e mostrando que as variedades linguísticas fazem parte da nossa cultura e identidade. Em casa e com amigos, também posso evitar julgamentos sobre a forma como alguém fala, diferenciando “falar diferente” de “falar errado”. Acredito que combater o prec",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=765220#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764774",
+        "autor": "IURI JOSE FREITAS SANTOS",
+        "data": "2026-08-26T14:00:27-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Para combater o preconceito linguístico e valorizar as variedades da língua no dia a dia, podemos adotar atitudes bem simples:\n\nNo trabalho: Focar no conteúdo da conversa e na clareza da mensagem, sem julgar o conhecimento de um colega pelo sotaque ou modo de falar. A norma-padrão é importante em relatórios e documentos formais, mas não serve para medir a inteligência de ninguém.\n\nEm casa: Convers",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764774#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "764213",
+        "autor": "EDSON GOMES DE MAGALHAES",
+        "data": "2026-08-26T12:36:19-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "A incorporação das variedades linguísticas ao corpo da língua exige respeito às diferentes formas de expressão presentes na sociedade. No meu dia a dia profissional, como Escrevente Técnico Judiciário, posso contribuir utilizando uma comunicação clara, acessível e respeitosa com todas as pessoas que procuram atendimento. É importante evitar julgamentos sobre a forma de falar dos usuários e compree",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=764213#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "763165",
         "autor": "DANILO AUGUSTO PRESTA",
@@ -10203,81 +10278,6 @@
         "texto": "Para combater o preconceito linguístico, devemos respeitar as diferentes formas de falar o português brasileiro. No trabalho, em casa e com amigos, posso evitar piadas ou correções que constranjam as pessoas por causa de seus sotaques e expressões regionais. Também é importante compreender que a norma padrão é necessária em alguns contextos, mas não torna as outras variedades inferiores. Valorizar",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=762646#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "762552",
-        "autor": "THIAGO CARVALHO PINTO",
-        "data": "2026-08-26T09:13:49-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Para incorporar é preciso experienciar. É por meio do contato que a “estranheza” e resistências são diluídas. Importante seria ter a possibilidade de adotar tal estratégia de múltiplas experiências desde os primeiros anos de vida, mas por uma série de fatores sociais, econômicos, culturais, etc. esta não é a realidade da maioria. Ou seja, a conduta (o que inclui o modo de comunicação escrita e fal",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=762552#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "761361",
-        "autor": "MICHELLE TALITA DE FRANCO NASCIMENTO BELON",
-        "data": "2026-08-25T22:52:55-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "A tirinha que criei foi inspirada em uma situação real que ocorreu comigo e uma amiga.\n\nA fala das personagens geram emoções diferentes, uma com base no contexto imaginário de uma possibilidade concreta e outro momento de reflexão sobre o fato real. Para nós duas, essa lembrança ainda rende algumas muitas risadas.\n\nO que é interessante é a fala espontânea, que me fez refletir na criatividade de no",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=761361#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "761256",
-        "autor": "MICHELLE TALITA DE FRANCO NASCIMENTO BELON",
-        "data": "2026-08-25T22:41:27-03:00",
-        "titulo": "S6 - Fórum temático",
-        "texto": "Para criar a tirinha em anexo, me baseei em uma situação real, que aconteceu comigo ano passado. As falas retratam um contexto atual que infelizmente é realidade de muitas pessoas em várias partes do mundo. E o desfecho mostrou como ter senso de humor traz leveza para situações de insegurança.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=761256#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "759928",
-        "autor": "LUIZ FELIPE FORTUNATO",
-        "data": "2026-08-25T21:00:17-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "A leitura do texto do professor Valdir Barzotto mostra que combater o preconceito linguístico exige atitudes concretas no nosso dia a dia. Como a língua é viva e apresenta diferentes variedades, é importante respeitar as diferentes formas de falar e evitar julgamentos baseados apenas na maneira como uma pessoa se expressa.\n\nNo ambiente de trabalho, posso valorizar o conteúdo e a clareza da comunic",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=759928#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "759092",
-        "autor": "PAULO SERGIO PINHEIRO ROSA",
-        "data": "2026-08-25T20:15:15-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "A partir da reflexão proposta pelo professor Valdir Heitor Barzotto, compreende-se que, para combater o preconceito linguístico de forma efetiva, as atitudes tradicionais de \"respeitar\", \"valorizar\" ou \"adequar\" as variedades são insuficientes e, por vezes, reprodutoras de discriminação\n\nA verdadeira mudança ocorre ao incorporar as variedades linguísticas. Incorporar significa admitir e receber as",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=759092#mformforum"
         ],
         "forum": "S6 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
