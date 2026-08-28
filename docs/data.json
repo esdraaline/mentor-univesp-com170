@@ -148,11 +148,11 @@
     "provas_origem": "conferido à mão",
     "provas_conferido_em": "2026-08-15"
   },
-  "status": "ok",
+  "status": "coleta_incompleta",
   "checked_at": "2026-08-27T23:39:33.752363+00:00",
   "snapshot_at": "2026-08-27T23:39:33.752363+00:00",
-  "attempted_at": "2026-08-27T23:39:33.752363+00:00",
-  "publication_id": "2026-08-27T23:39:33.752363+00:00",
+  "attempted_at": "2026-08-28T21:20:56.864650+00:00",
+  "publication_id": "2026-08-28T21:20:56.864650+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 58,
@@ -164,7 +164,9 @@
     "cronograma": 3,
     "itens_com_prazo": 67
   },
-  "problemas": [],
+  "problemas": [
+    "fonte foruns não foi conferida por inteiro (degradado, 1 falha(s))"
+  ],
   "fontes_status": {
     "portal": {
       "status": "falhou",
@@ -9211,5 +9213,156 @@
       "em": "2026-08-25T11:33:36.266537+00:00"
     }
   ],
-  "prazos_novos": []
+  "prazos_novos": [],
+  "fontes_tentativa": {
+    "disciplinas": 4,
+    "secoes": 59,
+    "itens": 310,
+    "avisos": 60,
+    "eventos_calendario": 21,
+    "eventos_uteis": 21,
+    "notificacoes": 18,
+    "cronograma": 3,
+    "itens_com_prazo": 66
+  },
+  "fontes_status_tentativa": {
+    "portal": {
+      "status": "falhou",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-24T23:24:04.395254+00:00",
+      "idade_segundos": 338212,
+      "quantidade_atual": 6,
+      "from_cache": true,
+      "truncado": false,
+      "problemas": [
+        "a tela de login do portal mudou de formato"
+      ]
+    },
+    "disciplinas": {
+      "status": "live",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 4,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": []
+    },
+    "calendario": {
+      "status": "live",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 21,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "via": "api+dom",
+      "eventos": 21,
+      "api": 14,
+      "dom": 10
+    },
+    "cronograma": {
+      "status": "live",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 3,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [],
+      "falhas": 0,
+      "esperados": 3,
+      "live": 3
+    },
+    "foruns": {
+      "status": "degradado",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 60,
+      "from_cache": false,
+      "truncado": true,
+      "problemas": [
+        "1 falha(s) ao ler fóruns"
+      ],
+      "foruns": 51,
+      "listas_live": 50,
+      "falhas": 1,
+      "pulados_orcamento": 0,
+      "posts_institucionais_vistos": 234,
+      "posts_institucionais_guardados": 168
+    },
+    "itens": {
+      "status": "parcial",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 23,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": [
+        "1 item(ns) com abertura indefinida"
+      ],
+      "indefinidos": 1,
+      "entregas_nao_confirmadas": 0,
+      "nao_conferidos": 0
+    },
+    "boletim": {
+      "status": "degradado",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 40,
+      "from_cache": true,
+      "truncado": false,
+      "problemas": [
+        "boletim de 18880 veio sem linhas de atividade",
+        "boletim de 18922 não abriu (TimeoutError)"
+      ],
+      "falhas": 1,
+      "esperados": 4,
+      "live": 3
+    },
+    "participacao": {
+      "status": "falhou",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-27T23:39:33.754954+00:00",
+      "idade_segundos": 78083,
+      "quantidade_atual": 1,
+      "from_cache": true,
+      "truncado": false,
+      "problemas": [
+        "progresso de participação não abriu (TimeoutError)"
+      ],
+      "falhas": 1,
+      "esperados": 1,
+      "live": 0
+    },
+    "meus_posts": {
+      "status": "degradado",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 36,
+      "from_cache": true,
+      "truncado": false,
+      "problemas": [
+        "não consegui ler suas mensagens de fórum nesta disciplina"
+      ],
+      "falhas": 1,
+      "esperados": 4,
+      "live": 3
+    },
+    "notificacoes": {
+      "status": "live",
+      "checked_at": "2026-08-28T21:20:56.867693+00:00",
+      "last_live_at": "2026-08-28T21:20:56.867693+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 2,
+      "from_cache": false,
+      "truncado": false,
+      "problemas": []
+    }
+  }
 }
