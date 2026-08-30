@@ -105,7 +105,7 @@
         "situacao": "Cursando"
       }
     ],
-    "checked_at": "2026-08-30T17:58:55.874025+00:00",
+    "checked_at": "2026-08-30T18:08:55.726652+00:00",
     "_so_no_portal": [
       {
         "codigo": "MMB002",
@@ -145,10 +145,10 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-30T17:58:55.871009+00:00",
-  "snapshot_at": "2026-08-30T17:58:55.871009+00:00",
-  "attempted_at": "2026-08-30T17:58:55.871009+00:00",
-  "publication_id": "2026-08-30T17:58:55.871009+00:00",
+  "checked_at": "2026-08-30T18:08:55.723685+00:00",
+  "snapshot_at": "2026-08-30T18:08:55.723685+00:00",
+  "attempted_at": "2026-08-30T18:08:55.723685+00:00",
+  "publication_id": "2026-08-30T18:08:55.723685+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 59,
@@ -164,8 +164,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -179,20 +179,20 @@
     },
     "outlook": {
       "status": "falhou",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
       "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 60598,
+      "idade_segundos": 61198,
       "quantidade_atual": 0,
       "from_cache": false,
       "truncado": false,
       "problemas": [
-        "a lista de mensagens não montou"
+        "a leitura da caixa parou no meio (Page.evaluate: Execution context was destroyed, most likely because of a navigation)"
       ]
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -201,8 +201,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 20,
       "from_cache": false,
@@ -215,8 +215,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -228,8 +228,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -244,8 +244,8 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 23,
       "from_cache": false,
@@ -257,8 +257,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 40,
       "from_cache": false,
@@ -272,9 +272,9 @@
     },
     "participacao": {
       "status": "falhou",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
       "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 60598,
+      "idade_segundos": 61198,
       "quantidade_atual": 1,
       "from_cache": true,
       "truncado": false,
@@ -287,8 +287,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 36,
       "from_cache": false,
@@ -300,8 +300,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-30T17:58:55.874025+00:00",
-      "last_live_at": "2026-08-30T17:58:55.874025+00:00",
+      "checked_at": "2026-08-30T18:08:55.726652+00:00",
+      "last_live_at": "2026-08-30T18:08:55.726652+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -1504,7 +1504,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1518,7 +1518,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207960",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2724,7 +2724,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4125,7 +4125,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
