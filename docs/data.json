@@ -105,7 +105,7 @@
         "situacao": "Cursando"
       }
     ],
-    "checked_at": "2026-08-31T17:57:48.314169+00:00",
+    "checked_at": "2026-08-31T19:52:53.480900+00:00",
     "_so_no_portal": [
       {
         "codigo": "MMB002",
@@ -145,10 +145,10 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-31T17:57:48.310374+00:00",
-  "snapshot_at": "2026-08-31T17:57:48.310374+00:00",
-  "attempted_at": "2026-08-31T17:57:48.310374+00:00",
-  "publication_id": "2026-08-31T17:57:48.310374+00:00",
+  "checked_at": "2026-08-31T19:52:53.477720+00:00",
+  "snapshot_at": "2026-08-31T19:52:53.477720+00:00",
+  "attempted_at": "2026-08-31T19:52:53.477720+00:00",
+  "publication_id": "2026-08-31T19:52:53.477720+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 65,
@@ -164,8 +164,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -179,8 +179,8 @@
     },
     "outlook": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -189,8 +189,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -199,8 +199,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 21,
       "from_cache": false,
@@ -213,8 +213,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -225,25 +225,25 @@
       "live": 3
     },
     "foruns": {
-      "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "status": "parcial",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
       "foruns": 60,
-      "listas_live": 60,
+      "listas_live": 59,
       "falhas": 0,
-      "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 258,
-      "posts_institucionais_guardados": 187
+      "pulados_orcamento": 1,
+      "posts_institucionais_vistos": 259,
+      "posts_institucionais_guardados": 188
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 35,
       "from_cache": false,
@@ -255,8 +255,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 44,
       "from_cache": false,
@@ -270,9 +270,9 @@
     },
     "participacao": {
       "status": "falhou",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
       "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 146930,
+      "idade_segundos": 153835,
       "quantidade_atual": 1,
       "from_cache": true,
       "truncado": false,
@@ -285,8 +285,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 36,
       "from_cache": false,
@@ -298,8 +298,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-31T17:57:48.314169+00:00",
-      "last_live_at": "2026-08-31T17:57:48.314169+00:00",
+      "checked_at": "2026-08-31T19:52:53.480900+00:00",
+      "last_live_at": "2026-08-31T19:52:53.480900+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -869,7 +869,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1166,7 +1166,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160798",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1501,7 +1501,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "6",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1515,7 +1515,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207960",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1620,7 +1620,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1724,7 +1724,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2726,7 +2726,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2897,7 +2897,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "4",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3054,7 +3054,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3068,7 +3068,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-11T14:42:00-03:00",
@@ -3211,7 +3211,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "25",
+              "nao_lidas": "7",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3238,7 +3238,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "8",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-11T14:47:00-03:00",
@@ -3316,7 +3316,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "8",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3330,7 +3330,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "6",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4553,7 +4553,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4700,7 +4700,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4833,7 +4833,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "7",
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4967,6 +4967,42 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
+        },
+        {
+          "id": "806841",
+          "autor": "Andréia Maria de Lima Assunção",
+          "data": "2026-08-31T15:54:00-03:00",
+          "titulo": "📢 Reunião Univesp com Representantes e Suplentes",
+          "texto": "[COMUNICADO - SUPERVISÃO PEDAGÓGICA]\n\n \n\nOlá, pessoal\n\n \n\nA coordenação pedagógica da Univesp deliberou a realização de um encontro com as pessoas representantes e suplentes definidas pela votação ou posterior indicação, conforme acompanhado por vocês. \n\n \n\nUm formulário para a seleção de duas pessoas para a participação presencial na cidade de São Paulo foi ventilado e foi definidas a participaçã",
+          "links": [
+            "https://www.youtube.com/live/vy700nNr2kk"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=169481",
+          "prazos": [
+            {
+              "rotulo": "Data",
+              "quando": "2026-08-31T23:59:00-03:00",
+              "trecho": "31/08/2026",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Abaixo, envio os dados de acesso à reunião, ocorrerá no formato de transmissão, via YouTube A gravação ficará disponível pelo mesmo link Data: 31/08/2026, segunda-feira"
+            },
+            {
+              "rotulo": "Link do YouTube",
+              "quando": "2026-08-31T20:00:00-03:00",
+              "trecho": "31/08 às 20h",
+              "tipo": "fim",
+              "hora_certa": true,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Horário: 20h Duração: 1h Link do YouTube: Conversa com Representantes - 31/08 às 20h"
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
         },
         {
           "id": "723381",
@@ -5695,117 +5731,6 @@
           ],
           "autoridade": "institucional",
           "novo": false
-        },
-        {
-          "id": "476026",
-          "autor": "Lucas Demeda Dos Santos",
-          "data": "2026-07-23T15:39:18-03:00",
-          "titulo": "Re: Q1 - Fórum geral",
-          "texto": "Olá, pessoal! 👋\n\nPara quem ainda não me conhece, meu nome é Lucas, sou um dos facilitadores que está acompanhando a disciplina. \n\nBem-vindos(as) à nossa primeira quinzena! Alguns de vocês já se familiarizaram com a disciplina durante o período de ambientação e outros podem estar chegando agora, então vamos aos avisos importantes:  \n\nEleição de Representantes\n\nDurante o AIA, realizamos a escolha do",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=476026#mformforum"
-          ],
-          "forum": "Q1 - Fórum geral",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=173825",
-          "prazos": [
-            {
-              "rotulo": "Agradecemos a todos que participaram do processo e parabenizamos os alunos eleitos, que...",
-              "quando": "2026-07-23T23:59:00-03:00",
-              "trecho": "23/07",
-              "tipo": "compromisso",
-              "hora_certa": false,
-              "escopo": null,
-              "confianca": "alta",
-              "frase": "Agradecemos a todos que participaram do processo e parabenizamos os alunos eleitos, que assumem a missão de contribuir para a comunicação e o fortalecimento da turma 📡 Sobre as Lives 1️⃣ Hoje (23/07), teremos live com...",
-              "titulo_evento": "📡 Sobre as Lives"
-            },
-            {
-              "rotulo": "O mesmo vale para o 3 e o 4 O Módulo 4 é diferente A atividade final precisa ser entreg...",
-              "quando": "2026-07-26T23:59:00-03:00",
-              "trecho": "26/07 às 23h59",
-              "tipo": "fim",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "modulo",
-                "numeros": [
-                  4
-                ],
-                "txt": "O Módulo 4 é diferente"
-              },
-              "confianca": "alta",
-              "frase": "O mesmo vale para o 3 e o 4 O Módulo 4 é diferente A atividade final precisa ser entregue até o primeiro domingo da quinzena, dia 26/07 às 23h59"
-            },
-            {
-              "rotulo": "Abertura das submissões",
-              "quando": "2026-07-27T00:00:00-03:00",
-              "trecho": "27 jul. 2026, 00:00",
-              "tipo": "inicio",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "modulo",
-                "numeros": [
-                  6,
-                  7
-                ],
-                "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
-              },
-              "confianca": "alta",
-              "frase": "Módulo 5: atividade individual, com prazo a confirmar Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares: Abertura das submissões: segunda-feira, 27 jul. 2026, 00:00"
-            },
-            {
-              "rotulo": "Fechamento das submissões",
-              "quando": "2026-08-01T23:59:00-03:00",
-              "trecho": "01 ago. 2026, 23:59",
-              "tipo": "fim",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "modulo",
-                "numeros": [
-                  6,
-                  7
-                ],
-                "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
-              },
-              "confianca": "alta",
-              "frase": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares: Abertura das submissões: segunda-feira, 27 jul. 2026, 00:00 Fechamento das submissões: sábado, 01 ago. 2026, 23:59"
-            },
-            {
-              "rotulo": "Abertura das avaliações por pares",
-              "quando": "2026-08-02T00:00:00-03:00",
-              "trecho": "02 ago. 2026, 00:00",
-              "tipo": "inicio",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "modulo",
-                "numeros": [
-                  6,
-                  7
-                ],
-                "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
-              },
-              "confianca": "alta",
-              "frase": "Abertura das submissões: segunda-feira, 27 jul. 2026, 00:00 Fechamento das submissões: sábado, 01 ago. 2026, 23:59 Abertura das avaliações por pares: domingo, 02 ago. 2026, 00:00"
-            },
-            {
-              "rotulo": "Fechamento das avaliações por pares",
-              "quando": "2026-08-04T23:59:00-03:00",
-              "trecho": "04 ago. 2026, 23:59",
-              "tipo": "fim",
-              "hora_certa": true,
-              "escopo": {
-                "familia": "modulo",
-                "numeros": [
-                  6,
-                  7
-                ],
-                "txt": "Módulo 6 e 7: início da atividade em grupo com entrega da atividade e, na sequência, revisão entre pares:"
-              },
-              "confianca": "alta",
-              "frase": "Fechamento das submissões: sábado, 01 ago. 2026, 23:59 Abertura das avaliações por pares: domingo, 02 ago. 2026, 00:00 Fechamento das avaliações por pares: terça-feira, 04 ago. 2026, 23:59"
-            }
-          ],
-          "autoridade": "institucional",
-          "novo": false
         }
       ],
       "espacos_de_grupo": [
@@ -6273,7 +6198,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=148170",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -10935,6 +10860,17 @@
   ],
   "confirmar": [
     {
+      "curso": "COM170",
+      "quando": "2026-08-31T20:00:00-03:00",
+      "quando_txt": "vence hoje às 20:00",
+      "tipo_lido": "fim",
+      "rotulo": "Link do YouTube",
+      "frase": "Horário: 20h Duração: 1h Link do YouTube: Conversa com Representantes - 31/08 às 20h",
+      "autor": "Andréia Maria de Lima Assunção",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/discuss.php?d=169481"
+    },
+    {
       "curso": "COM100",
       "quando": "2026-08-31T23:59:00-03:00",
       "quando_txt": "vence hoje (horário não informado)",
@@ -10944,6 +10880,17 @@
       "autor": "Joyce Mirella Dos Anjos Viana",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=132970"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-08-31T23:59:00-03:00",
+      "quando_txt": "vence hoje (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "Data",
+      "frase": "Abaixo, envio os dados de acesso à reunião, ocorrerá no formato de transmissão, via YouTube A gravação ficará disponível pelo mesmo link Data: 31/08/2026, segunda-feira",
+      "autor": "Andréia Maria de Lima Assunção",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/discuss.php?d=169481"
     },
     {
       "curso": "COM170",
