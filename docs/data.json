@@ -105,7 +105,7 @@
         "situacao": "Cursando"
       }
     ],
-    "checked_at": "2026-08-31T01:09:32.328511+00:00",
+    "checked_at": "2026-08-31T11:35:53.618211+00:00",
     "_so_no_portal": [
       {
         "codigo": "MMB002",
@@ -145,27 +145,27 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-08-31T01:09:32.325541+00:00",
-  "snapshot_at": "2026-08-31T01:09:32.325541+00:00",
-  "attempted_at": "2026-08-31T01:09:32.325541+00:00",
-  "publication_id": "2026-08-31T01:09:32.325541+00:00",
+  "checked_at": "2026-08-31T11:35:53.615897+00:00",
+  "snapshot_at": "2026-08-31T11:35:53.615897+00:00",
+  "attempted_at": "2026-08-31T11:35:53.615897+00:00",
+  "publication_id": "2026-08-31T11:35:53.615897+00:00",
   "fontes": {
     "disciplinas": 4,
-    "secoes": 59,
-    "itens": 310,
+    "secoes": 65,
+    "itens": 362,
     "avisos": 60,
-    "eventos_calendario": 20,
-    "eventos_uteis": 20,
+    "eventos_calendario": 21,
+    "eventos_uteis": 21,
     "notificacoes": 21,
     "cronograma": 3,
-    "itens_com_prazo": 67
+    "itens_com_prazo": 75
   },
   "problemas": [],
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -178,21 +178,19 @@
       "recados_nao_lidos": 9
     },
     "outlook": {
-      "status": "falhou",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 86434,
-      "quantidade_atual": 0,
+      "status": "live",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 22,
       "from_cache": false,
       "truncado": false,
-      "problemas": [
-        "a lista de mensagens não montou"
-      ]
+      "problemas": []
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -201,22 +199,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 20,
+      "quantidade_atual": 21,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 20,
-      "api": 14,
+      "eventos": 21,
+      "api": 18,
       "dom": 10
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -228,15 +226,15 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
-      "foruns": 51,
-      "listas_live": 51,
+      "foruns": 60,
+      "listas_live": 60,
       "falhas": 0,
       "pulados_orcamento": 0,
       "posts_institucionais_vistos": 254,
@@ -244,10 +242,10 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 23,
+      "quantidade_atual": 38,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
@@ -257,10 +255,10 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 40,
+      "quantidade_atual": 44,
       "from_cache": false,
       "truncado": false,
       "problemas": [
@@ -272,9 +270,9 @@
     },
     "participacao": {
       "status": "falhou",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
       "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 86434,
+      "idade_segundos": 124016,
       "quantidade_atual": 1,
       "from_cache": true,
       "truncado": false,
@@ -287,8 +285,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 36,
       "from_cache": false,
@@ -300,8 +298,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-08-31T01:09:32.328511+00:00",
-      "last_live_at": "2026-08-31T01:09:32.328511+00:00",
+      "checked_at": "2026-08-31T11:35:53.618211+00:00",
+      "last_live_at": "2026-08-31T11:35:53.618211+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -748,9 +746,7 @@
           "data": "2026-08-24T21:33:39-03:00",
           "titulo": "Re: PROBLEMAS COM O SCRATCH",
           "texto": "Milton, você precisa:\n1- entrar no seu e-mail, verificar o e-mail que o scratch enviou, confirmar o e-mail.\n2 - ir nos seus projetos do scratch (nessa tela de visualização) clicar em PARTILHAR, confirmar e pronto, seu projeto vai estar com o link disponível para compartilhar com outros.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=750280#mformforum"
-          ],
+          "links": [],
           "forum": "S5 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
           "prazos": [],
@@ -793,9 +789,7 @@
           "data": "2026-08-18T09:34:52-03:00",
           "titulo": "Re: S5 - Fórum de dúvidas gerais",
           "texto": "Mario, eu verifiquei, agora tem só uma.\nObrigada por avisar da duplicação.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=695739#mformforum"
-          ],
+          "links": [],
           "forum": "S5 - Fórum de dúvidas gerais",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
           "prazos": [],
@@ -813,7 +807,7 @@
           "tipo": "nota calculada"
         },
         "totais": [],
-        "itens": 6
+        "itens": 7
       },
       "participacao": null,
       "sections": [
@@ -872,7 +866,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1061,7 +1055,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1277,7 +1271,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193364",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1385,7 +1379,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "33",
+              "nao_lidas": "34",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1399,12 +1393,12 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "9",
+              "nao_lidas": "24",
               "conta_nota": false,
               "postei": true,
-              "prazo": "2026-08-26T23:59:00-03:00",
-              "prazo_fonte": "cronograma oficial da Univesp",
-              "carencia": "2026-08-30T23:59:00-03:00"
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
             },
             {
               "cmid": "193371",
@@ -1504,7 +1498,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "17",
+              "nao_lidas": "22",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1518,7 +1512,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207960",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "7",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1559,9 +1553,131 @@
           "secao_id": "87192",
           "title": "Semana 7",
           "parent": null,
-          "locked": "Disponível a partir de 31 de agosto de 2026",
+          "locked": null,
           "theme": "Conteúdo digital e inteligência artificial",
-          "items": [],
+          "items": [
+            {
+              "cmid": "193379",
+              "label": "S7 - Início",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193379",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193380",
+              "label": "S7 - Avaliação",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193380",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193381",
+              "label": "S7 - Atividade Avaliativa",
+              "type": "quiz",
+              "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true,
+              "entrega_confirmada": false,
+              "quiz": {
+                "nota": null,
+                "nota_txt": null,
+                "maximo": null,
+                "tentativas_feitas": 0,
+                "tentativas_permitidas": 3,
+                "metodo": "nota mais alta"
+              },
+              "nota_fonte": null
+            },
+            {
+              "cmid": "193382",
+              "label": "S7 - Fórum temático",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "207961",
+              "label": "S7 - Fórum de dúvidas gerais",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193383",
+              "label": "S7 - Pesquisa",
+              "type": "feedback",
+              "url": "https://ava.univesp.br/mod/feedback/view.php?id=193383",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193384",
+              "label": "S7 - Live com facilitador",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=193384",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193385",
+              "label": "S7 - Em síntese",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193385",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -1569,9 +1685,63 @@
           "secao_id": "87193",
           "title": "Revisão e Orientações",
           "parent": null,
-          "locked": "Disponível a partir de 31 de agosto de 2026",
+          "locked": null,
           "theme": "Revisão da disciplina",
-          "items": [],
+          "items": [
+            {
+              "cmid": "193386",
+              "label": "Revisão",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193386",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193387",
+              "label": "Avaliação Institucional",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193387",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "207962",
+              "label": "S8 - Fórum de dúvidas gerais",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "193388",
+              "label": "Orientações para realização da prova e exame",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=193388",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         }
       ]
@@ -1660,7 +1830,7 @@
           "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
           "prazos": [],
           "autoridade": "institucional",
-          "novo": true
+          "novo": false
         },
         {
           "id": "750620",
@@ -1912,7 +2082,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2055,7 +2225,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168798",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2225,7 +2395,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168808",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2382,7 +2552,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2553,7 +2723,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2724,7 +2894,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "26",
+              "nao_lidas": "11",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2738,7 +2908,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222536",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2881,7 +3051,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "13",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2895,7 +3065,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-11T14:42:00-03:00",
@@ -2936,9 +3106,169 @@
           "secao_id": "81972",
           "title": "Semana 7",
           "parent": null,
-          "locked": "Disponível a partir de 31 de agosto de 2026",
+          "locked": null,
           "theme": "Ética, Educação e Sociedade",
-          "items": [],
+          "items": [
+            {
+              "cmid": "168849",
+              "label": "S7 - Início",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=168849",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "168850",
+              "label": "S7 - Texto-base - Metodologia científica (Leia o capítulo 15, “Ética na pesquisa”, p. 213-221) | Gisele Lozada e Karina da Silva Nunes",
+              "type": "url",
+              "url": "https://ava.univesp.br/mod/url/view.php?id=168850",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "168851",
+              "label": "S7 - Texto-base - Ética e cidadania: caminhos da filosofia (Leia a unidade 11, “Ética e cidadania na sociedade tecnológica”, p. 103-110) | Sílvio Gallo",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=168851",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "168852",
+              "label": "S7 - Videoaulas",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=168852",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "168853",
+              "label": "S7 - Aprofundando o tema",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=168853",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "168854",
+              "label": "S7 - Atividade Avaliativa",
+              "type": "quiz",
+              "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true,
+              "entrega_confirmada": false,
+              "quiz": {
+                "nota": null,
+                "nota_txt": null,
+                "maximo": null,
+                "tentativas_feitas": 0,
+                "tentativas_permitidas": 3,
+                "metodo": "nota mais alta"
+              },
+              "nota_fonte": null
+            },
+            {
+              "cmid": "168855",
+              "label": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": "5",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "168856",
+              "label": "S7 - Pesquisa",
+              "type": "feedback",
+              "url": "https://ava.univesp.br/mod/feedback/view.php?id=168856",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "182610",
+              "label": "S7 - Fórum de dúvidas gerais",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": "2",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": "2026-08-11T14:47:00-03:00",
+              "prazo_fonte": "calendário do AVA",
+              "carencia": null
+            },
+            {
+              "cmid": "168857",
+              "label": "S7 - Live com facilitador",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=168857",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "179237",
+              "label": "S7 - Em síntese",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=179237",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -2946,9 +3276,104 @@
           "secao_id": "81973",
           "title": "Revisão e Orientações",
           "parent": null,
-          "locked": "Disponível a partir de 31 de agosto de 2026",
+          "locked": null,
           "theme": null,
-          "items": [],
+          "items": [
+            {
+              "cmid": "240569",
+              "label": "Revisão",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=240569",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "240570",
+              "label": "S8 - Material-base: Revisão - Uma síntese da disciplina Ética, Cidadania e Sociedade | Prof. Eli Vagner Francisco Rodrigues",
+              "type": "url",
+              "url": "https://ava.univesp.br/mod/url/view.php?id=240570",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "240571",
+              "label": "S8 - Fórum temático",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "240572",
+              "label": "S8 - Fórum de dúvidas gerais",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "240573",
+              "label": "Avaliação Institucional",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=240573",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "240574",
+              "label": "Orientações para realização da prova e exame",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=240574",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "240575",
+              "label": "S8 - Em síntese",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=240575",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         }
       ]
@@ -3401,7 +3826,7 @@
           "tipo": "nota calculada"
         },
         "totais": [],
-        "itens": 6
+        "itens": 7
       },
       "participacao": null,
       "sections": [
@@ -3460,7 +3885,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3606,7 +4031,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165175",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4125,7 +4550,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "25",
+              "nao_lidas": "22",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4272,7 +4697,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "9",
+              "nao_lidas": "10",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4313,9 +4738,145 @@
           "secao_id": "81577",
           "title": "Semana 7",
           "parent": null,
-          "locked": "Disponível a partir de 31 de agosto de 2026",
+          "locked": null,
           "theme": "Táticas de revisão e reescrita",
-          "items": [],
+          "items": [
+            {
+              "cmid": "165221",
+              "label": "S7 - Início",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165221",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165222",
+              "label": "S7 - Videoaulas",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165222",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "165223",
+              "label": "S7 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165223",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true
+            },
+            {
+              "cmid": "165224",
+              "label": "S7 - Aprofundando o tema",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165224",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165225",
+              "label": "S7 - Atividade Avaliativa",
+              "type": "quiz",
+              "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": "2026-09-09T23:59:00-03:00",
+              "prazo_fonte": "cronograma oficial da Univesp",
+              "carencia": "2026-09-11T23:59:00-03:00",
+              "aberto": true,
+              "entrega_confirmada": false,
+              "quiz": {
+                "nota": null,
+                "nota_txt": null,
+                "maximo": null,
+                "tentativas_feitas": 0,
+                "tentativas_permitidas": 3,
+                "metodo": "nota mais alta"
+              },
+              "nota_fonte": null
+            },
+            {
+              "cmid": "165226",
+              "label": "S7 - Fórum temático",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165227",
+              "label": "S7 - Pesquisa",
+              "type": "feedback",
+              "url": "https://ava.univesp.br/mod/feedback/view.php?id=165227",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165228",
+              "label": "S7 - Live com facilitador",
+              "type": "lti",
+              "url": "https://ava.univesp.br/mod/lti/view.php?id=165228",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "179060",
+              "label": "S7 - Em síntese",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=179060",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -4323,9 +4884,49 @@
           "secao_id": "81578",
           "title": "Revisão",
           "parent": null,
-          "locked": "Disponível a partir de 31 de agosto de 2026",
+          "locked": null,
           "theme": "Revisão da disciplina",
-          "items": [],
+          "items": [
+            {
+              "cmid": "165230",
+              "label": "Revisão",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165230",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165231",
+              "label": "Avaliação Institucional",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165231",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "165232",
+              "label": "Orientações para realização da prova e exame",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=165232",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
           "fase": "regular"
         },
         {
@@ -5264,22 +5865,6 @@
               },
               "confianca": "baixa",
               "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concluir os quatro primeiros módulos e 29 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que ..."
-            },
-            {
-              "rotulo": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 d...",
-              "quando": "2026-08-30T23:59:00-03:00",
-              "trecho": "30 de agosto",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": {
-                "familia": "quinzena",
-                "numeros": [
-                  4
-                ],
-                "txt": "30 de agosto a 1º de setembro · leitura entre colegas, já na Quinzena 4"
-              },
-              "confianca": "baixa",
-              "frase": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 de agosto a 1º de setembro · leitura entre colegas, já na Quinzena 4"
             }
           ]
         },
@@ -5289,25 +5874,6 @@
           "url": "https://ava.univesp.br/mod/page/view.php?id=228101",
           "autoridade": "institucional",
           "prazos": [
-            {
-              "rotulo": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do se...",
-              "quando": "2026-08-30T23:59:00-03:00",
-              "trecho": "30 de agosto",
-              "tipo": "fim",
-              "hora_certa": false,
-              "escopo": {
-                "familia": "modulo",
-                "numeros": [
-                  1,
-                  2,
-                  3,
-                  4
-                ],
-                "txt": "É a data em que os Módulos 1, 2, 3 e 4 precisam estar concluídos"
-              },
-              "confianca": "baixa",
-              "frase": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do seu grupo são enviados em paralelo, e o dia 29 é o último dia de entrega De 30 de agosto a 1º de setembro, terça-feira, às 23h59"
-            },
             {
               "rotulo": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do se...",
               "quando": "2026-09-01T23:59:00-03:00",
@@ -5330,6 +5896,194 @@
           ],
           "lives_anunciadas": 7,
           "lives_lidas": 6
+        },
+        {
+          "autor": "Q4 - Instruções da Quinzena 4",
+          "titulo": "Q4 - Instruções da Quinzena 4",
+          "url": "https://ava.univesp.br/mod/page/view.php?id=238997",
+          "autoridade": "institucional",
+          "prazos": [
+            {
+              "rotulo": "Prazo módulos 1 a 4",
+              "quando": "2026-09-06T23:59:00-03:00",
+              "trecho": "6 PRAZO MÓDULOS 1 A 4",
+              "tipo": "fim",
+              "hora_certa": true,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  4
+                ],
+                "txt": "PRAZO MÓDULOS 1 A 4"
+              },
+              "confianca": "alta",
+              "frase": "Calendário da Quinzena 4, de 31 de agosto a 15 de setembro de 2026, com as etapas e os prazos. Célula: 6 PRAZO MÓDULOS 1 A 4",
+              "hora_fonte": "a página da unidade declara o horário",
+              "consequencia": "Se você concluir os módulos depois do dia 6 Se você concluir os quatro primeiros módulos depois de domingo, 6 de setembro, o seu percurso continua: na segunda-feira você recebe a etapa prática individual, lê a situação e escreve o seu trabalho dentro da mesma janela de entrega, e esse trabalho vale por inteiro. O trabalho em grupo desta quinzena acontece entre quem concluiu os módulos até domingo, porque a conversa funciona melhor quando todos chegam preparados ao mesmo tempo."
+            },
+            {
+              "rotulo": "Prazo entrega",
+              "quando": "2026-09-12T23:59:00-03:00",
+              "trecho": "12 PRAZO ENTREGA",
+              "tipo": "fim",
+              "hora_certa": true,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  4
+                ],
+                "txt": "PRAZO ENTREGA"
+              },
+              "confianca": "alta",
+              "frase": "Calendário da Quinzena 4, de 31 de agosto a 15 de setembro de 2026, com as etapas e os prazos. Célula: 12 PRAZO ENTREGA",
+              "hora_fonte": "a página da unidade declara o horário"
+            },
+            {
+              "rotulo": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13...",
+              "quando": "2026-08-31T23:59:00-03:00",
+              "trecho": "31 de agosto",
+              "tipo": "inicio",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  4
+                ],
+                "txt": "A Quinzena 4 começa no dia 31 de agosto e termina no dia 13 de setembro, quando a Quinzena 5 se inicia"
+              },
+              "confianca": "baixa",
+              "frase": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13 de setembro, quando a Quinzena 5 se inicia"
+            },
+            {
+              "rotulo": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13...",
+              "quando": "2026-09-13T23:59:00-03:00",
+              "trecho": "13 de setembro",
+              "tipo": "inicio",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  4
+                ],
+                "txt": "A Quinzena 4 começa no dia 31 de agosto e termina no dia 13 de setembro, quando a Quinzena 5 se inicia"
+              },
+              "confianca": "baixa",
+              "frase": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13 de setembro, quando a Quinzena 5 se inicia"
+            },
+            {
+              "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 6 de sete...",
+              "quando": "2026-09-15T23:59:00-03:00",
+              "trecho": "15 de setembro",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  5
+                ],
+                "txt": "Ela vai até 15 de setembro, portanto os seus dois últimos dias já correm junto com o começo da Quinzena 5"
+              },
+              "confianca": "baixa",
+              "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 6 de setembro para concluir os quatro primeiros módulos e 12 de setembro para enviar os trabalhos A leitura entre colegas é a única etapa q..."
+            },
+            {
+              "rotulo": "Ela vai até 15 de setembro, portanto os seus dois últimos dias já correm junto com o co...",
+              "quando": "2026-09-01T23:59:00-03:00",
+              "trecho": "1º de setembro",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  5
+                ],
+                "txt": "Ela vai até 15 de setembro, portanto os seus dois últimos dias já correm junto com o começo da Quinzena 5"
+              },
+              "confianca": "baixa",
+              "frase": "Ela vai até 15 de setembro, portanto os seus dois últimos dias já correm junto com o começo da Quinzena 5 Isso é normal e se repete a cada quinzena Pelo mesmo motivo, os primeiros dias desta quinzena ainda carregam a ..."
+            },
+            {
+              "rotulo": "ENCERRA Os dois quadros em vermelho são os prazos desta quinzena 31 de agosto a 5 de se...",
+              "quando": "2026-09-05T23:59:00-03:00",
+              "trecho": "5 de setembro",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  5
+                ],
+                "txt": "QUINZENA 5"
+              },
+              "confianca": "baixa",
+              "frase": "ENCERRA Os dois quadros em vermelho são os prazos desta quinzena 31 de agosto a 5 de setembro · estudo dos módulos individuais"
+            }
+          ]
+        },
+        {
+          "autor": "Q4 - Lembrete de datas e live",
+          "titulo": "Q4 - Lembrete de datas e live",
+          "url": "https://ava.univesp.br/mod/page/view.php?id=238999",
+          "autoridade": "institucional",
+          "prazos": [
+            {
+              "rotulo": "LEMBRETE DE DATAS E DA LIVE Guarde estas datas Domingo, 6 de setembro, às 23h59",
+              "quando": "2026-09-06T23:59:00-03:00",
+              "trecho": "6 de setembro, às 23h59",
+              "tipo": "compromisso",
+              "hora_certa": true,
+              "escopo": {
+                "familia": "quinzena",
+                "numeros": [
+                  4
+                ],
+                "txt": "Quinzena 4"
+              },
+              "confianca": "baixa",
+              "frase": "LEMBRETE DE DATAS E DA LIVE Guarde estas datas Domingo, 6 de setembro, às 23h59",
+              "titulo_evento": "Guarde estas datas"
+            },
+            {
+              "rotulo": "O ritmo dentro da quinzena é seu, e a data de chegada é comum a todos Quem concluir ant...",
+              "quando": "2026-09-12T23:59:00-03:00",
+              "trecho": "12 de setembro",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "modulo",
+                "numeros": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "txt": "É a data em que os Módulos 1, 2, 3 e 4 precisam estar concluídos"
+              },
+              "confianca": "baixa",
+              "frase": "O ritmo dentro da quinzena é seu, e a data de chegada é comum a todos Quem concluir antes já entra na parte prática, na hora De 7 a 12 de setembro, até sábado, às 23h59"
+            },
+            {
+              "rotulo": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Protocolo ...",
+              "quando": "2026-09-15T23:59:00-03:00",
+              "trecho": "15 de setembro",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "modulo",
+                "numeros": [
+                  1,
+                  2,
+                  3,
+                  4
+                ],
+                "txt": "É a data em que os Módulos 1, 2, 3 e 4 precisam estar concluídos"
+              },
+              "confianca": "baixa",
+              "frase": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Protocolo de Contexto do seu grupo são enviados em paralelo, e 12 de setembro é o último dia de entrega De 13 a 15 de setembro, terça-feira,..."
+            }
+          ],
+          "lives_anunciadas": 10,
+          "lives_lidas": 1
         }
       ],
       "boletim": {
@@ -5351,7 +6105,7 @@
             "tipo": "forma de agregacao das notas"
           }
         ],
-        "itens": 28
+        "itens": 30
       },
       "participacao": {
         "quinzenas": [
@@ -7193,6 +7947,223 @@
         },
         {
           "id": "section-4",
+          "secao_id": "94653",
+          "title": "Quinzena 4",
+          "parent": null,
+          "locked": null,
+          "theme": null,
+          "items": [
+            {
+              "cmid": "238997",
+              "label": "Q4 - Instruções da Quinzena 4",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=238997",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "238998",
+              "label": "Q4 - Introdução",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=238998",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "238999",
+              "label": "Q4 - Lembrete de datas e live",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=238999",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "239000",
+              "label": "Q4 - Orientação de estudo",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=239000",
+              "status": "Marcar como feito",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            },
+            {
+              "cmid": "239001",
+              "label": "Q4 - Fórum geral",
+              "type": "forum",
+              "url": "https://ava.univesp.br/mod/forum/view.php?id=239001",
+              "status": null,
+              "sem_rastreio": true,
+              "nao_lidas": "1",
+              "conta_nota": false,
+              "postei": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null
+            }
+          ],
+          "fase": "regular"
+        },
+        {
+          "id": "section-13",
+          "secao_id": "94654",
+          "title": "Q4 Módulo 1",
+          "parent": "section-4",
+          "locked": null,
+          "theme": null,
+          "items": [
+            {
+              "cmid": "239003",
+              "label": "Q4 M1 - O que a IA lê quando você aperta enviar",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=239003",
+              "status": "Pendente",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "239004",
+              "label": "Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=239004",
+              "status": "Pendente",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "239005",
+              "label": "Q4 M1 - Videoaula 1: O que é contexto e por que o prompt é só o fim",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=239005",
+              "status": "Pendente",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "239006",
+              "label": "Q4 M1 - Material-base",
+              "type": "page",
+              "url": "https://ava.univesp.br/mod/page/view.php?id=239006",
+              "status": "Pendente",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": false,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            },
+            {
+              "cmid": "239007",
+              "label": "Q4 M1 - Atividade: O primeiro dia do robô",
+              "type": "scorm",
+              "url": "https://ava.univesp.br/mod/scorm/view.php?id=239007",
+              "status": "Pendente",
+              "sem_rastreio": false,
+              "nao_lidas": null,
+              "conta_nota": true,
+              "nota": null,
+              "nota_txt": "-",
+              "tem_nota": false,
+              "feedback": null,
+              "prazo": null,
+              "prazo_fonte": null,
+              "carencia": null,
+              "aberto": true
+            }
+          ],
+          "fase": "regular"
+        },
+        {
+          "id": "section-12",
+          "secao_id": "94655",
+          "title": "Q4 Módulo 2",
+          "parent": "section-4",
+          "locked": "Disponível se: A atividade Q4 M1 - O que a IA lê quando você aperta enviar esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-11",
+          "secao_id": "94656",
+          "title": "Q4 Módulo 3",
+          "parent": "section-4",
+          "locked": "Disponível se: A atividade Q4 M2 - Uma frase, quatro perguntas esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-10",
+          "secao_id": "94658",
+          "title": "Q4 Módulo 4",
+          "parent": "section-4",
+          "locked": "Disponível se: A atividade Q4 M3 - A janela inteira, e os três limites que ela não resolve esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-9",
+          "secao_id": "94659",
+          "title": "Q4 Módulo 5",
+          "parent": "section-4",
+          "locked": "Disponível se: A atividade Q4 M4 - O que mudar quando o resultado volta errado esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-8",
+          "secao_id": "94660",
+          "title": "Q4 Módulo 6",
+          "parent": "section-4",
+          "locked": "Disponível se: A atividade Q4 M4 - O que mudar quando o resultado volta errado esteja marcada como concluída",
+          "theme": null,
+          "items": [],
+          "fase": "regular"
+        },
+        {
+          "id": "section-5",
           "secao_id": "85031",
           "title": "AIA - Ambientação e Integração Acadêmica",
           "parent": null,
@@ -7205,7 +8176,7 @@
           "id": "section-35",
           "secao_id": "85032",
           "title": "Semana 1",
-          "parent": "section-4",
+          "parent": "section-5",
           "locked": null,
           "theme": null,
           "items": [
@@ -7310,7 +8281,7 @@
           "id": "section-36",
           "secao_id": "85033",
           "title": "Semana 2",
-          "parent": "section-4",
+          "parent": "section-5",
           "locked": null,
           "theme": null,
           "items": [
@@ -7428,7 +8399,7 @@
           "id": "section-37",
           "secao_id": "85034",
           "title": "Semana 3",
-          "parent": "section-4",
+          "parent": "section-5",
           "locked": null,
           "theme": null,
           "items": [
@@ -7546,7 +8517,7 @@
           "id": "section-38",
           "secao_id": "85035",
           "title": "Semana 4",
-          "parent": "section-4",
+          "parent": "section-5",
           "locked": null,
           "theme": null,
           "items": [
@@ -7683,16 +8654,6 @@
             }
           ],
           "fase": "AIA"
-        },
-        {
-          "id": "section-6",
-          "secao_id": "94653",
-          "title": "Quinzena 4",
-          "parent": null,
-          "locked": "Disponível a partir de 31 de agosto de 2026",
-          "theme": null,
-          "items": [],
-          "fase": "regular"
         }
       ]
     }
@@ -7731,6 +8692,18 @@
       "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
       "acao": "Ver",
       "cmid": "182609",
+      "tipo": "due",
+      "via": "api"
+    },
+    {
+      "nome": "S7 - Fórum de dúvidas gerais é devido",
+      "quando": "2026-08-11T14:47:00-03:00",
+      "curso_id": "18880",
+      "curso": "SOC100-BIA-2026S2B1-T001",
+      "atividade": "S7 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
+      "acao": "Ver",
+      "cmid": "182610",
       "tipo": "due",
       "via": "api"
     },
@@ -7805,54 +8778,6 @@
       "cmid": "228142",
       "tipo": "closesubmission",
       "via": "api"
-    },
-    {
-      "nome": "Término de S5 - Atividade Avaliativa",
-      "quando": "2026-08-30T23:59:00-03:00",
-      "curso_id": "18893",
-      "curso": null,
-      "atividade": "Término de S5 - Atividade Avaliativa",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208",
-      "acao": null,
-      "cmid": "165208",
-      "tipo": "close",
-      "via": "dom"
-    },
-    {
-      "nome": "Término de S5 - Atividade Avaliativa",
-      "quando": "2026-08-30T23:59:00-03:00",
-      "curso_id": "18880",
-      "curso": null,
-      "atividade": "Término de S5 - Atividade Avaliativa",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836",
-      "acao": null,
-      "cmid": "168836",
-      "tipo": "close",
-      "via": "dom"
-    },
-    {
-      "nome": "Término de S5 - Atividade Avaliativa",
-      "quando": "2026-08-30T23:59:00-03:00",
-      "curso_id": "18870",
-      "curso": null,
-      "atividade": "Término de S5 - Atividade Avaliativa",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193369",
-      "acao": null,
-      "cmid": "193369",
-      "tipo": "close",
-      "via": "dom"
-    },
-    {
-      "nome": "S5 - Fórum de dúvidas gerais é devido",
-      "quando": "2026-08-30T23:59:00-03:00",
-      "curso_id": "18870",
-      "curso": null,
-      "atividade": "S5 - Fórum de dúvidas gerais é devido",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
-      "acao": null,
-      "cmid": "207959",
-      "tipo": "due",
-      "via": "dom"
     },
     {
       "nome": "Live 5",
@@ -7935,6 +8860,54 @@
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=193375",
       "acao": "Tentar responder o questionário agora",
       "cmid": "193375",
+      "tipo": "close",
+      "via": "api"
+    },
+    {
+      "nome": "Live 6",
+      "quando": "2026-09-08T20:00:00-03:00",
+      "curso_id": "18893",
+      "curso": null,
+      "atividade": "Live 6",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "acao": null,
+      "cmid": "165163",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
+      "nome": "Término de S7 - Atividade Avaliativa",
+      "quando": "2026-09-11T23:59:00-03:00",
+      "curso_id": "18893",
+      "curso": "LET110-BIA-2026S2B1-T001",
+      "atividade": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
+      "acao": "Tentar responder o questionário agora",
+      "cmid": "165225",
+      "tipo": "close",
+      "via": "api"
+    },
+    {
+      "nome": "Término de S7 - Atividade Avaliativa",
+      "quando": "2026-09-11T23:59:00-03:00",
+      "curso_id": "18880",
+      "curso": "SOC100-BIA-2026S2B1-T001",
+      "atividade": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
+      "acao": "Tentar responder o questionário agora",
+      "cmid": "168854",
+      "tipo": "close",
+      "via": "api"
+    },
+    {
+      "nome": "Término de S7 - Atividade Avaliativa",
+      "quando": "2026-09-11T23:59:00-03:00",
+      "curso_id": "18870",
+      "curso": "COM100-BIA-2026S2B1-T001",
+      "atividade": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
+      "acao": "Tentar responder o questionário agora",
+      "cmid": "193381",
       "tipo": "close",
       "via": "api"
     }
@@ -8068,7 +9041,89 @@
     }
   ],
   "mensagens": [],
-  "outlook": {},
+  "outlook": {
+    "inbox": {
+      "total": 22,
+      "nao_lidas": 21,
+      "ultima": {
+        "texto": "COMUNICAÇÃO EMAIL/SMS/WHATSAPP O seu Portal do Aluno (Sistema Acadêmico SEI) vai mudar!  Qui, 20/08 O seu Portal do Aluno (Sistema Acadêmico SEI) vai mudar! Olá, estudante! No dia 25 de agosto, entra no ar o seu Novo Portal do Aluno totalmente reformulado para tornar sua experiência UNIVESP mais prática, visual e rápida! O que muda para vocêna… Nenhuma conversa selecionada"
+      },
+      "mensagens": [
+        {
+          "texto": "COMUNICAÇÃO EMAIL/SMS/WHATSAPP O seu Portal do Aluno (Sistema Acadêmico SEI) vai mudar!  Qui, 20/08 O seu Portal do Aluno (Sistema Acadêmico SEI) vai mudar! Olá, estudante! No dia 25 de agosto, entra no ar o seu Novo Portal do Aluno totalmente reformulado para tornar sua experiência UNIVESP mais prática, visual e rápida! O que muda para vocêna… Nenhuma conversa selecionada"
+        },
+        {
+          "texto": "Não lidos ChatGPT Pergunte o que quiser. Sério. Seg, 17/08 Comece com qualquer pergunta ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌…"
+        },
+        {
+          "texto": "Não lidos COMUNICAÇÃO EMAIL/SMS/WHATSAPP Provas Regulares - 3º Bimestre de 2026 Sex, 14/08 • 3º BIMESTRE - PROVAS DE 14/09 A 25/09 • Olá, JOSEMAR DE PAULA! De 14 a 25 de setembro, das 18h às 22h, teremos nosso ciclo de provas Regulares de 3º Bimestre de 2026. Essas provas serão presencias. Verifique com antecedências suas data"
+        },
+        {
+          "texto": "Não lidos ChatGPT Escreva mais rápido com o ChatGPT Seg, 10/08 Gere, refine e exporte em minutos Toque em um chat para começar Experimente essas ideias para editar, gerar rascunhos e muito mais Meu chefe enviou uma longa lista de tarefas. Transforme o e-mail em uma lista de verificação. Meu colega de casa…"
+        },
+        {
+          "texto": "Não lidos carreiraunivesp@csm.symplicity.com Disciplina Paulista de Acessibilidade e Inclusão: informações   Sáb, 08/08 Prezado aluno da Univesp, Caso você tenha recebido o e-mail da equipe da Univesp com orientações para matrícula na Disciplina Paulista de Acessibilidade (DPA), fique atento(a) às seguintes informações: * A DPA é uma disciplina opcional para os a…"
+        },
+        {
+          "texto": "Não lidos ChatGPT Use o ChatGPT para facilitar a vida Ter, 04/08 Gere, refine e exporte em minutos Toque em um chat para começar Confira tudo o que o ChatGPT pode fazer por você. Meu amigo compartilhou uma foto da refeição dele. Transforme-a em uma receita que eu possa testar. Não posso mais ir à reunião. E…"
+        },
+        {
+          "texto": "Não lidos carreiraunivesp@csm.symplicity.com ⚠️ Lembrete: Disciplina Paulista de Acessibilidade e Inclusão   31/07/2026 Olá, JOSEMAR! Aproveite a nova oportunidade de cursar a Disciplina Paulista de Acessibilidade e Inclusão. As matrículas ocorrerão de 03/08 a 10/08/2026. Inscreva-se diretamente pelo Portal do Aluno e garanta sua vaga! Início das aulas: 17/08/202…"
+        },
+        {
+          "texto": "Não lidos Remetente externo OpenAI Atualizações à Política de Privacidade da OpenAI 28/07/2026 Atualizações à Política de Privacidade da OpenAI Olá, JOSEMAR DE PAULA, Estamos atualizando nossa Política de Privacidade para que constem informações sobre anúncios no ChatGPT, incluindo como eles funcionam e como você pode controlar sua experiên…"
+        },
+        {
+          "texto": "Não lidos Pedro Henrique dos Santos Malafaia (via UNIVESP) Nova mensagem de Pedro Henrique dos Santos Malafaia 27/07/2026 Olá, pessoal! Tudo bem? Meu nome é Pedro e sou o supervisor desta disciplina. Deixei uma mensagem na seção Avisos e peço que deem uma olhada assim que possível. Embora eu esteja enviando este recado por aqui, vamos manter nossa comunicação pelos fór…"
+        },
+        {
+          "texto": "Não lidos carreiraunivesp@csm.symplicity.com ✨ Cursos, oportunidades e recursos para o seu desenvolvimento   24/07/2026 IMPULSIONE SUA CARREIRA Selecionamos oportunidades, conteúdos e eventos que podem impulsionar sua trajetória profissional. Confira abaixo: Ter o currículo atualizado na plataforma é o primeiro passo para aproveitar todas as oportunidades disponíveis…"
+        },
+        {
+          "texto": "Não lidos no-reply@univesp.br Pesquisa Univesp 23/07/2026 Olá, estudante, Por favor, acesse este link e responda uma pesquisa com 15 perguntas. Leva 10 minutinhos. Suas respostas vão nos ajudar a tornar a Univesp ainda melhor. Agradecemos a sua participação! Diretoria Acadêmica da Univesp"
+        },
+        {
+          "texto": "Não lidos Remetente externo ChatGPT Visual de estúdio a partir de uma selfie 22/07/2026 Transforme uma selfie em uma foto de perfil profissional com qualidade de estúdio usando o ChatGPT Images. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌…"
+        },
+        {
+          "texto": "Não lidos Remetente externo ChatGPT Receba ajuda de verdade, não só respostas 15/07/2026 Estude, explore e evolua com o ChatGPT. Aprenda qualquer assunto, um chat de cada vez Estude, explore e evolua com o ChatGPT. Inicie o chat Ajuda de verdade, não apenas fatos rápidos Ative o modo Estudo para receber orientação passo a passo…"
+        },
+        {
+          "texto": "Não lidos Remetente externo ChatGPT Visual de estúdio a partir de uma selfie 11/07/2026 Transforme uma selfie em uma foto de perfil profissional com qualidade de estúdio usando o ChatGPT Images. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌…"
+        },
+        {
+          "texto": "Não lidos Remetente externo ChatGPT Ajuda na escrita sempre que precisar 04/07/2026 O ChatGPT pode ajudar em qualquer conteúdo que você esteja escrevendo. Uma forma mais fácil de encontrar as palavras certas O ChatGPT pode ajudar em qualquer conteúdo que você estiver escrevendo. Comece a escrever Solicitações cotidianas para o…"
+        },
+        {
+          "texto": "Não lidos carreiraunivesp@csm.symplicity.com ✨ Cursos, oportunidades e recursos para o seu desenvolvimento   03/07/2026 IMPULSIONE SUA CARREIRA Selecionamos oportunidades, conteúdos e eventos que podem impulsionar sua trajetória profissional. Confira abaixo: Já estão disponíveis os conteúdos de carreira do mês de Julho! O mercado de trabalho está em constante tran…"
+        },
+        {
+          "texto": "Não lidos Não responda a esta mensagem. (via UNIVESP) UNIVESP: Resumo de mensagens 02/07/2026 COM170-BIA-DRP12-2026S2-T001-G4 Inteligência Artificial na Prática Acadêmica e Profissional - COM170 - BIA - DRP12 - Turma 001 2 Mensagens não lidas WENDEL LUCAS 16:21 Boa tarde ROGERIO FOLLA MARCHIOLLI 17:45 boa tarde! estamos…"
+        },
+        {
+          "texto": "Não lidos carreiraunivesp@csm.symplicity.com Programa Oportunidade Já 2026   02/07/2026 Site Oportunidade Já disponibiliza mais de 25 mil vagas em cursos on-line gratuitos de capacitação Página eletrônica da Univesp oferece ainda workshops e processos seletivos em cooperação com empresas, órgãos públicos e organizações da sociedad"
+        },
+        {
+          "texto": "Não lidos Não responda a esta mensagem. (via UNIVESP) UNIVESP: Resumo de mensagens 30/06/2026 COM170-BIA-DRP12-2026S2-T001-G4 Inteligência Artificial na Prática Acadêmica e Profissional - COM170 - BIA - DRP12 - Turma 001 1 Mensagens não lidas ROGERIO FOLLA MARCHIOLLI 11:09 bom dia! Ver todas mensagens"
+        },
+        {
+          "texto": "Não lidos Não responda a esta mensagem. (via UNIVESP) UNIVESP: Resumo de mensagens 28/06/2026 COM170-BIA-DRP12-2026S2-T001-G4 Inteligência Artificial na Prática Acadêmica e Profissional - COM170 - BIA - DRP12 - Turma 001 1 Mensagens não lidas ROGERIO FOLLA MARCHIOLLI 13:56 Boa Tarde a todos! acredito que esse seja nosso grupo de estu…"
+        },
+        {
+          "texto": "Não lidos Remetente externo carreiraunivesp@csm.symplicity.com JOSEMAR, seja bem-vindo(a) à Univesp!   22/06/2026 Olá, JOSEMAR! Seja bem-vindo(a) à Univesp! Estamos muito felizes em tê-lo(a) conosco e em fazer parte da sua jornada acadêmica e profissional. E por falar em futuro profissional, queremos te apresentar o Carreira Univesp, ambiente que vai apoiar sua…"
+        },
+        {
+          "texto": "Não lidos Tem anexos Remetente externo COMUNICAÇÃO EMAIL/SMS/WHATSAPP Suas aulas vão começar! 20/06/2026 Olá, estudante! Suas aulas começam segunda-feira, 22/06/2026. Assista ao vídeo abaixo e siga as orientações para ficar antenado e não perder nada! Dúvidas? Acesse as Orientações de acesso do Guia de matrícula. Abraços, Equipe Univesp"
+        }
+      ]
+    },
+    "lixo_eletronico": {
+      "total": 0,
+      "nao_lidas": 0,
+      "ultima": null,
+      "mensagens": []
+    }
+  },
   "acoes": [
     {
       "curso": "LET110",
@@ -8081,13 +9136,13 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
       "conta_nota": true,
       "prazo": "2026-09-01T20:00:00-03:00",
-      "prazo_txt": "acontece 01/09 às 20:00",
+      "prazo_txt": "acontece amanhã, 01/09 às 20:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM170",
@@ -8101,12 +9156,12 @@
       "conta_nota": true,
       "sem_rastreio": true,
       "prazo": "2026-09-01T23:59:00-03:00",
-      "prazo_txt": "vence 01/09 às 23:59",
+      "prazo_txt": "vence amanhã, 01/09 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM170",
@@ -8119,13 +9174,13 @@
       "url": "https://ava.univesp.br/mod/workshop/view.php?id=228142",
       "conta_nota": true,
       "prazo": "2026-09-01T23:59:00-03:00",
-      "prazo_txt": "vence 01/09 às 23:59",
+      "prazo_txt": "vence amanhã, 01/09 às 23:59",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana",
+      "urgencia": "amanha",
       "resgatado": true,
       "explicacao": "O AVA diz que nenhum trabalho foi atribuído à sua conta nesta revisão. Em laboratório de grupo quem recebe é o representante, então confirme com ele se a revisão do grupo já foi feita. Se o representante for você, nada chegou, e aí vale perguntar ao facilitador antes do prazo."
     },
@@ -8314,6 +9369,278 @@
       "urgencia": "semana"
     },
     {
+      "curso": "COM170",
+      "secao": "Q4 - Lembrete de datas e live",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Guarde estas datas",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238999",
+      "conta_nota": true,
+      "prazo": "2026-09-06T23:59:00-03:00",
+      "prazo_txt": "acontece 06/09 às 23:59",
+      "prazo_fonte": "aviso de Q4 - Lembrete de datas e live",
+      "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=238999",
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana",
+      "lives_anunciadas": 10,
+      "lives_lidas": 1
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "fase": "regular",
+      "verbo": "Conclua",
+      "coisa": "",
+      "o_que": "Quinzena 4 · Prazo módulos 1 a 4",
+      "tipo": "obrigacao",
+      "url": null,
+      "conta_nota": true,
+      "prazo": "2026-09-06T23:59:00-03:00",
+      "prazo_txt": "vence 06/09 às 23:59",
+      "prazo_fonte": "aviso de Q4 - Instruções da Quinzena 4",
+      "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=238997",
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana",
+      "bloqueio": null,
+      "explicacao": "A página da unidade avisa: “Se você concluir os módulos depois do dia 6 Se você concluir os quatro primeiros módulos depois de domingo, 6 de setembro, o seu percurso continua: na segunda-feira você recebe a etapa prática individual, lê a situação e escreve o seu trabalho dentro da mesma janela de entrega, e esse trabalho vale por inteiro. O trabalho em grupo desta quinzena acontece entre quem concluiu os módulos até domingo, porque a conversa funciona melhor quando todos chegam preparados ao mesmo tempo.”",
+      "hora_fonte": "a página da unidade declara o horário"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "fase": "regular",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=239004",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana",
+      "prioridade_ate": "2026-09-06T23:59:00-03:00",
+      "cobrado_por": "Quinzena 4 · Prazo módulos 1 a 4",
+      "destrava_em": "2026-09-06T23:59:00-03:00"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "fase": "regular",
+      "verbo": "Faça",
+      "coisa": "quiz interativo",
+      "o_que": "Q4 M1 - Atividade: O primeiro dia do robô",
+      "tipo": "scorm",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=239007",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana",
+      "prioridade_ate": "2026-09-06T23:59:00-03:00",
+      "cobrado_por": "Quinzena 4 · Prazo módulos 1 a 4",
+      "destrava_em": "2026-09-06T23:59:00-03:00"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Calendário do AVA",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Live 6",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "conta_nota": true,
+      "prazo": "2026-09-08T20:00:00-03:00",
+      "prazo_txt": "acontece 08/09",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S7 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
+      "conta_nota": true,
+      "entrega_nao_confirmada": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "videoaula",
+      "o_que": "S7 - Videoaulas",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165222",
+      "conta_nota": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "S7 - Material-base",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165223",
+      "conta_nota": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S7 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
+      "conta_nota": true,
+      "entrega_nao_confirmada": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "S7 - Texto-base - Metodologia científica (Leia o capítulo 15, “Ética na pesquisa”, p. 213-221) | Gisele Lozada e Karina da Silva Nunes",
+      "tipo": "url",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=168850",
+      "conta_nota": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Acesse",
+      "coisa": "ferramenta",
+      "o_que": "S7 - Texto-base - Ética e cidadania: caminhos da filosofia (Leia a unidade 11, “Ética e cidadania na sociedade tecnológica”, p. 103-110) | Sílvio Gallo",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=168851",
+      "conta_nota": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "videoaula",
+      "o_que": "S7 - Videoaulas",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=168852",
+      "conta_nota": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S7 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
+      "conta_nota": true,
+      "entrega_nao_confirmada": true,
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "prazo_txt": "vence 09/09",
+      "prazo_fonte": "cronograma oficial da Univesp",
+      "fonte_url": null,
+      "carencia": "2026-09-11T23:59:00-03:00",
+      "hora_certa": true,
+      "urgencia": "depois"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "fase": "regular",
+      "verbo": "Entregue",
+      "coisa": "o trabalho",
+      "o_que": "Quinzena 4 · Prazo entrega",
+      "tipo": "obrigacao",
+      "url": null,
+      "conta_nota": true,
+      "prazo": "2026-09-12T23:59:00-03:00",
+      "prazo_txt": "vence 12/09",
+      "prazo_fonte": "aviso de Q4 - Instruções da Quinzena 4",
+      "fonte_url": "https://ava.univesp.br/mod/page/view.php?id=238997",
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "depois",
+      "bloqueio": null,
+      "hora_fonte": "a página da unidade declara o horário"
+    },
+    {
       "curso": "COM100",
       "secao": "Sistema de Provas",
       "fase": "regular",
@@ -8396,16 +9723,34 @@
       "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
     },
     {
-      "curso": "COM170",
-      "secao": "COM170 - IA na Prática Acadêmica e Profissional",
+      "curso": "COM100",
+      "secao": "Semana 7",
       "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "live",
-      "o_que": "Live com facilitador",
-      "tipo": "lti",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=146217",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S7 - Fórum temático",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
       "conta_nota": true,
-      "sem_rastreio": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo",
+      "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q4 - Lembrete de datas e live",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238999",
+      "conta_nota": true,
       "prazo": null,
       "prazo_txt": "",
       "prazo_fonte": null,
@@ -8434,6 +9779,25 @@
       "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
     },
     {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S7 - Fórum temático",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo",
+      "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
+    },
+    {
       "curso": "SOC100",
       "secao": "Semana 6",
       "fase": "regular",
@@ -8442,6 +9806,62 @@
       "o_que": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
       "tipo": "forum",
       "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo",
+      "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo",
+      "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "S8 - Material-base: Revisão - Uma síntese da disciplina Ética, Cidadania e Sociedade | Prof. Eli Vagner Francisco Rodrigues",
+      "tipo": "url",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=240570",
+      "conta_nota": true,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S8 - Fórum temático",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
       "conta_nota": true,
       "prazo": null,
       "prazo_txt": "",
@@ -8500,6 +9920,18 @@
       "o_que": "S6 - Fórum de dúvidas gerais",
       "tipo": "forum",
       "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
+      "conta_nota": false,
+      "motivo": "venceu em 11/08"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S7 - Fórum de dúvidas gerais",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
       "conta_nota": false,
       "motivo": "venceu em 11/08"
     },
@@ -8698,6 +10130,294 @@
       "urgencia": "sem_prazo"
     },
     {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Início",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193379",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Avaliação",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193380",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S7 - Fórum de dúvidas gerais",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "formulário",
+      "o_que": "S7 - Pesquisa",
+      "tipo": "feedback",
+      "url": "https://ava.univesp.br/mod/feedback/view.php?id=193383",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "live",
+      "o_que": "S7 - Live com facilitador",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=193384",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Em síntese",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193385",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Revisão",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193386",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Avaliação Institucional",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193387",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S8 - Fórum de dúvidas gerais",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Orientações para realização da prova e exame",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193388",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q4 - Instruções da Quinzena 4",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238997",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q4 - Introdução",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238998",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q4 - Orientação de estudo",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239000",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Q4 M1 - O que a IA lê quando você aperta enviar",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239003",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "videoaula",
+      "o_que": "Q4 M1 - Videoaula 1: O que é contexto e por que o prompt é só o fim",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239005",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "fase": "regular",
+      "verbo": "Leia",
+      "coisa": "material-base",
+      "o_que": "Q4 M1 - Material-base",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239006",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
       "curso": "LET110",
       "secao": "Semana 5",
       "fase": "regular",
@@ -8850,6 +10570,150 @@
       "o_que": "S6 - Em síntese",
       "tipo": "page",
       "url": "https://ava.univesp.br/mod/page/view.php?id=179058",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Início",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165221",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Aprofundando o tema",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165224",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "formulário",
+      "o_que": "S7 - Pesquisa",
+      "tipo": "feedback",
+      "url": "https://ava.univesp.br/mod/feedback/view.php?id=165227",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "live",
+      "o_que": "S7 - Live com facilitador",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165228",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Em síntese",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=179060",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Revisão",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Revisão",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165230",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Revisão",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Avaliação Institucional",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165231",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Revisão",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Orientações para realização da prova e exame",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165232",
       "conta_nota": false,
       "prazo": null,
       "prazo_txt": "",
@@ -9020,35 +10884,193 @@
       "carencia": null,
       "hora_certa": true,
       "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Início",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=168849",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Aprofundando o tema",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=168853",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "formulário",
+      "o_que": "S7 - Pesquisa",
+      "tipo": "feedback",
+      "url": "https://ava.univesp.br/mod/feedback/view.php?id=168856",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "live",
+      "o_que": "S7 - Live com facilitador",
+      "tipo": "lti",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=168857",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S7 - Em síntese",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=179237",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Revisão",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240569",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Participe",
+      "coisa": "do fórum",
+      "o_que": "S8 - Fórum de dúvidas gerais",
+      "tipo": "forum",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Avaliação Institucional",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240573",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "Orientações para realização da prova e exame",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240574",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "fase": "regular",
+      "verbo": "Abra e conclua",
+      "coisa": "página",
+      "o_que": "S8 - Em síntese",
+      "tipo": "page",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240575",
+      "conta_nota": false,
+      "prazo": null,
+      "prazo_txt": "",
+      "prazo_fonte": null,
+      "fonte_url": null,
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "sem_prazo"
     }
   ],
   "confirmar": [
     {
-      "curso": "COM170",
-      "quando": "2026-08-30T23:59:00-03:00",
-      "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 d...",
-      "frase": "16 a 22 · estudo dos módulos individuais 24 a 29 · janela de entrega dos trabalhos 30 de agosto a 1º de setembro · leitura entre colegas, já na Quinzena 4",
-      "autor": "Q3 - Instruções da Quinzena 3",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228099"
-    },
-    {
-      "curso": "COM170",
-      "quando": "2026-08-30T23:59:00-03:00",
-      "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do se...",
-      "frase": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do seu grupo são enviados em paralelo, e o dia 29 é o último dia de entrega De 30 de agosto a 1º de setembro, terça-feira, às 23h59",
-      "autor": "Q3 - Lembrete de datas e live",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
-    },
-    {
       "curso": "COM100",
       "quando": "2026-08-31T23:59:00-03:00",
-      "quando_txt": "vence amanhã, 31/08 (horário não informado)",
+      "quando_txt": "vence hoje (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
       "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external 31/08",
@@ -9058,8 +11080,19 @@
     },
     {
       "curso": "COM170",
+      "quando": "2026-08-31T23:59:00-03:00",
+      "quando_txt": "vence hoje (horário não informado)",
+      "tipo_lido": "inicio",
+      "rotulo": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13...",
+      "frase": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13 de setembro, quando a Quinzena 5 se inicia",
+      "autor": "Q4 - Instruções da Quinzena 4",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238997"
+    },
+    {
+      "curso": "COM170",
       "quando": "2026-09-01T23:59:00-03:00",
-      "quando_txt": "vence 01/09 (horário não informado)",
+      "quando_txt": "vence amanhã, 01/09 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de ago...",
       "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 23 de agosto para concluir os quatro primeiros módulos e 29 de agosto para enviar os trabalhos A leitura entre colegas é a única etapa que ...",
@@ -9070,13 +11103,24 @@
     {
       "curso": "COM170",
       "quando": "2026-09-01T23:59:00-03:00",
-      "quando_txt": "vence 01/09 (horário não informado)",
+      "quando_txt": "vence amanhã, 01/09 (horário não informado)",
       "tipo_lido": "fim",
       "rotulo": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do se...",
       "frase": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Mapa do seu grupo são enviados em paralelo, e o dia 29 é o último dia de entrega De 30 de agosto a 1º de setembro, terça-feira, às 23h59",
       "autor": "Q3 - Lembrete de datas e live",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/page/view.php?id=228101"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-09-01T23:59:00-03:00",
+      "quando_txt": "vence amanhã, 01/09 (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "Ela vai até 15 de setembro, portanto os seus dois últimos dias já correm junto com o co...",
+      "frase": "Ela vai até 15 de setembro, portanto os seus dois últimos dias já correm junto com o começo da Quinzena 5 Isso é normal e se repete a cada quinzena Pelo mesmo motivo, os primeiros dias desta quinzena ainda carregam a ...",
+      "autor": "Q4 - Instruções da Quinzena 4",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238997"
     },
     {
       "curso": "COM100",
@@ -9088,9 +11132,444 @@
       "autor": "Joyce Mirella Dos Anjos Viana",
       "autoridade": "institucional",
       "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-09-05T23:59:00-03:00",
+      "quando_txt": "vence 05/09 (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "ENCERRA Os dois quadros em vermelho são os prazos desta quinzena 31 de agosto a 5 de se...",
+      "frase": "ENCERRA Os dois quadros em vermelho são os prazos desta quinzena 31 de agosto a 5 de setembro · estudo dos módulos individuais",
+      "autor": "Q4 - Instruções da Quinzena 4",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238997"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-09-12T23:59:00-03:00",
+      "quando_txt": "vence 12/09",
+      "tipo_lido": "fim",
+      "rotulo": "O ritmo dentro da quinzena é seu, e a data de chegada é comum a todos Quem concluir ant...",
+      "frase": "O ritmo dentro da quinzena é seu, e a data de chegada é comum a todos Quem concluir antes já entra na parte prática, na hora De 7 a 12 de setembro, até sábado, às 23h59",
+      "autor": "Q4 - Lembrete de datas e live",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238999"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-09-13T23:59:00-03:00",
+      "quando_txt": "vence 13/09",
+      "tipo_lido": "inicio",
+      "rotulo": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13...",
+      "frase": "UM O calendário e os prazos A Quinzena 4 começa no dia 31 de agosto e termina no dia 13 de setembro, quando a Quinzena 5 se inicia",
+      "autor": "Q4 - Instruções da Quinzena 4",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238997"
+    },
+    {
+      "curso": "Secretaria",
+      "quando": "2026-09-14T23:59:00-03:00",
+      "quando_txt": "vence 14/09",
+      "tipo_lido": "fim",
+      "rotulo": "Não lidos COMUNICAÇÃO EMAIL/SMS/WHATSAPP Provas Regulares - 3º Bimestre de 2026   • 3º ...",
+      "frase": "Não lidos COMUNICAÇÃO EMAIL/SMS/WHATSAPP Provas Regulares - 3º Bimestre de 2026   • 3º BIMESTRE - PROVAS DE 14/09 A 25/09 • Olá, JOSEMAR DE PAULA! De 14 a 25 de setembro, das 18h às 22h, teremos nosso ciclo de provas ...",
+      "autor": null,
+      "autoridade": "institucional",
+      "url": null
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-09-15T23:59:00-03:00",
+      "quando_txt": "vence 15/09",
+      "tipo_lido": "fim",
+      "rotulo": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 6 de sete...",
+      "frase": "Dentro desse período existem dois prazos, marcados em destaque no calendário: 6 de setembro para concluir os quatro primeiros módulos e 12 de setembro para enviar os trabalhos A leitura entre colegas é a única etapa q...",
+      "autor": "Q4 - Instruções da Quinzena 4",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238997"
+    },
+    {
+      "curso": "COM170",
+      "quando": "2026-09-15T23:59:00-03:00",
+      "quando_txt": "vence 15/09",
+      "tipo_lido": "fim",
+      "rotulo": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Protocolo ...",
+      "frase": "É a janela de envio no Laboratório de Revisão O seu portfólio individual e o Protocolo de Contexto do seu grupo são enviados em paralelo, e 12 de setembro é o último dia de entrega De 13 a 15 de setembro, terça-feira,...",
+      "autor": "Q4 - Lembrete de datas e live",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238999"
+    },
+    {
+      "curso": "Secretaria",
+      "quando": "2026-09-25T23:59:00-03:00",
+      "quando_txt": "vence 25/09",
+      "tipo_lido": "fim",
+      "rotulo": "Não lidos COMUNICAÇÃO EMAIL/SMS/WHATSAPP Provas Regulares - 3º Bimestre de 2026   • 3º ...",
+      "frase": "Não lidos COMUNICAÇÃO EMAIL/SMS/WHATSAPP Provas Regulares - 3º Bimestre de 2026   • 3º BIMESTRE - PROVAS DE 14/09 A 25/09 • Olá, JOSEMAR DE PAULA! De 14 a 25 de setembro, das 18h às 22h, teremos nosso ciclo de provas ...",
+      "autor": null,
+      "autoridade": "institucional",
+      "url": null
     }
   ],
-  "novidades": [],
+  "novidades": [
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Início",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193379",
+      "cmid": "193379"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Avaliação",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193380",
+      "cmid": "193380"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
+      "cmid": "193381"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Fórum temático",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
+      "cmid": "193382"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
+      "cmid": "207961"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Pesquisa",
+      "url": "https://ava.univesp.br/mod/feedback/view.php?id=193383",
+      "cmid": "193383"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=193384",
+      "cmid": "193384"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Semana 7",
+      "label": "S7 - Em síntese",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193385",
+      "cmid": "193385"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "label": "Revisão",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193386",
+      "cmid": "193386"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "label": "Avaliação Institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193387",
+      "cmid": "193387"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "label": "S8 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
+      "cmid": "207962"
+    },
+    {
+      "curso": "COM100",
+      "secao": "Revisão e Orientações",
+      "label": "Orientações para realização da prova e exame",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=193388",
+      "cmid": "193388"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Início",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=168849",
+      "cmid": "168849"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Texto-base - Metodologia científica (Leia o capítulo 15, “Ética na pesquisa”, p. 213-221) | Gisele Lozada e Karina da Silva Nunes",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=168850",
+      "cmid": "168850"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Texto-base - Ética e cidadania: caminhos da filosofia (Leia a unidade 11, “Ética e cidadania na sociedade tecnológica”, p. 103-110) | Sílvio Gallo",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=168851",
+      "cmid": "168851"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=168852",
+      "cmid": "168852"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Aprofundando o tema",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=168853",
+      "cmid": "168853"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
+      "cmid": "168854"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+      "cmid": "168855"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Pesquisa",
+      "url": "https://ava.univesp.br/mod/feedback/view.php?id=168856",
+      "cmid": "168856"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
+      "cmid": "182610"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=168857",
+      "cmid": "168857"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 7",
+      "label": "S7 - Em síntese",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=179237",
+      "cmid": "179237"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "label": "Revisão",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240569",
+      "cmid": "240569"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "label": "S8 - Material-base: Revisão - Uma síntese da disciplina Ética, Cidadania e Sociedade | Prof. Eli Vagner Francisco Rodrigues",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=240570",
+      "cmid": "240570"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "label": "S8 - Fórum temático",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
+      "cmid": "240571"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "label": "S8 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
+      "cmid": "240572"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "label": "Avaliação Institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240573",
+      "cmid": "240573"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "label": "Orientações para realização da prova e exame",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240574",
+      "cmid": "240574"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Revisão e Orientações",
+      "label": "S8 - Em síntese",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=240575",
+      "cmid": "240575"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Início",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165221",
+      "cmid": "165221"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165222",
+      "cmid": "165222"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Material-base",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165223",
+      "cmid": "165223"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Aprofundando o tema",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165224",
+      "cmid": "165224"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
+      "cmid": "165225"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Fórum temático",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
+      "cmid": "165226"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Pesquisa",
+      "url": "https://ava.univesp.br/mod/feedback/view.php?id=165227",
+      "cmid": "165227"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165228",
+      "cmid": "165228"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 7",
+      "label": "S7 - Em síntese",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=179060",
+      "cmid": "179060"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Revisão",
+      "label": "Revisão",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165230",
+      "cmid": "165230"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Revisão",
+      "label": "Avaliação Institucional",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165231",
+      "cmid": "165231"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Revisão",
+      "label": "Orientações para realização da prova e exame",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165232",
+      "cmid": "165232"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "label": "Q4 - Instruções da Quinzena 4",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238997",
+      "cmid": "238997"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "label": "Q4 - Introdução",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238998",
+      "cmid": "238998"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "label": "Q4 - Lembrete de datas e live",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=238999",
+      "cmid": "238999"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Quinzena 4",
+      "label": "Q4 - Orientação de estudo",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239000",
+      "cmid": "239000"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "label": "Q4 M1 - O que a IA lê quando você aperta enviar",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239003",
+      "cmid": "239003"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "label": "Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=239004",
+      "cmid": "239004"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "label": "Q4 M1 - Videoaula 1: O que é contexto e por que o prompt é só o fim",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239005",
+      "cmid": "239005"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "label": "Q4 M1 - Material-base",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=239006",
+      "cmid": "239006"
+    },
+    {
+      "curso": "COM170",
+      "secao": "Q4 Módulo 1",
+      "label": "Q4 M1 - Atividade: O primeiro dia do robô",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=239007",
+      "cmid": "239007"
+    }
+  ],
   "notas_novas": [
     {
       "curso": "SOC100",
@@ -9113,5 +11592,105 @@
       "em": "2026-08-28T23:27:57.615203+00:00"
     }
   ],
-  "prazos_novos": []
+  "prazos_novos": [
+    {
+      "curso": "SOC100",
+      "label": "S7 - Fórum de dúvidas gerais",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
+      "cmid": "182610",
+      "prazo": "2026-08-11T14:47:00-03:00",
+      "de": null,
+      "fonte": "calendário do AVA",
+      "conta_nota": false,
+      "atividade_nova": true
+    },
+    {
+      "curso": "COM100",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
+      "cmid": "193381",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S7 - Texto-base - Metodologia científica (Leia o capítulo 15, “Ética na pesquisa”, p. 213-221) | Gisele Lozada e Karina da Silva Nunes",
+      "url": "https://ava.univesp.br/mod/url/view.php?id=168850",
+      "cmid": "168850",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S7 - Texto-base - Ética e cidadania: caminhos da filosofia (Leia a unidade 11, “Ética e cidadania na sociedade tecnológica”, p. 103-110) | Sílvio Gallo",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=168851",
+      "cmid": "168851",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S7 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=168852",
+      "cmid": "168852",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "SOC100",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
+      "cmid": "168854",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "LET110",
+      "label": "S7 - Videoaulas",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165222",
+      "cmid": "165222",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "LET110",
+      "label": "S7 - Material-base",
+      "url": "https://ava.univesp.br/mod/page/view.php?id=165223",
+      "cmid": "165223",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    },
+    {
+      "curso": "LET110",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
+      "cmid": "165225",
+      "prazo": "2026-09-09T23:59:00-03:00",
+      "de": null,
+      "fonte": "cronograma oficial da Univesp",
+      "conta_nota": true,
+      "atividade_nova": true
+    }
+  ]
 }
