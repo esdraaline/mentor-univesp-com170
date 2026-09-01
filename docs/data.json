@@ -105,7 +105,7 @@
         "situacao": "Cursando"
       }
     ],
-    "checked_at": "2026-09-01T17:40:46.476692+00:00",
+    "checked_at": "2026-09-01T22:27:16.775420+00:00",
     "_so_no_portal": [
       {
         "codigo": "MMB002",
@@ -145,10 +145,10 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-09-01T17:40:46.473542+00:00",
-  "snapshot_at": "2026-09-01T17:40:46.473542+00:00",
-  "attempted_at": "2026-09-01T17:40:46.473542+00:00",
-  "publication_id": "2026-09-01T17:40:46.473542+00:00",
+  "checked_at": "2026-09-01T22:27:16.771703+00:00",
+  "snapshot_at": "2026-09-01T22:27:16.771703+00:00",
+  "attempted_at": "2026-09-01T22:27:16.771703+00:00",
+  "publication_id": "2026-09-01T22:27:16.771703+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 65,
@@ -164,8 +164,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -179,9 +179,9 @@
     },
     "outlook": {
       "status": "falhou",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
       "last_live_at": "2026-08-31T19:52:53.480900+00:00",
-      "idade_segundos": 78472,
+      "idade_segundos": 95663,
       "quantidade_atual": 0,
       "from_cache": false,
       "truncado": false,
@@ -191,8 +191,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -201,8 +201,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 21,
       "from_cache": false,
@@ -215,8 +215,8 @@
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -227,25 +227,25 @@
       "live": 3
     },
     "foruns": {
-      "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "status": "parcial",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
       "foruns": 60,
-      "listas_live": 60,
+      "listas_live": 58,
       "falhas": 0,
-      "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 263,
-      "posts_institucionais_guardados": 192
+      "pulados_orcamento": 2,
+      "posts_institucionais_vistos": 269,
+      "posts_institucionais_guardados": 194
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 35,
       "from_cache": false,
@@ -257,8 +257,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 44,
       "from_cache": false,
@@ -272,9 +272,9 @@
     },
     "participacao": {
       "status": "falhou",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
       "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 232308,
+      "idade_segundos": 249499,
       "quantidade_atual": 1,
       "from_cache": true,
       "truncado": false,
@@ -287,8 +287,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 36,
       "from_cache": false,
@@ -300,8 +300,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-09-01T17:40:46.476692+00:00",
-      "last_live_at": "2026-09-01T17:40:46.476692+00:00",
+      "checked_at": "2026-09-01T22:27:16.775420+00:00",
+      "last_live_at": "2026-09-01T22:27:16.775420+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -952,7 +952,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160786",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1060,7 +1060,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160792",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1384,7 +1384,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193370",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1503,7 +1503,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1517,7 +1517,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207960",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1622,7 +1622,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "4",
+              "nao_lidas": "11",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1636,7 +1636,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "3",
+              "nao_lidas": "5",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1726,7 +1726,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3059,7 +3059,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3216,7 +3216,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "10",
+              "nao_lidas": "29",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3243,7 +3243,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-11T14:47:00-03:00",
@@ -3321,7 +3321,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3335,7 +3335,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "4",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3458,6 +3458,104 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
+        },
+        {
+          "id": "817609",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-09-01T16:55:11-03:00",
+          "titulo": "LIVE SEMANA 7",
+          "texto": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09.\n\nPor isso, nossa live dessa semana está remarcada para sexta-feira, 04/09, um pouco mais cedo, às 19h.\n\nAtenciosamente,\nBruno Barra - Facilitador UNIVESP!",
+          "links": [],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=170934",
+          "prazos": [
+            {
+              "rotulo": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09",
+              "quando": "2026-09-01T23:59:00-03:00",
+              "trecho": "01/09",
+              "tipo": "compromisso",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "semana",
+                "numeros": [
+                  7
+                ],
+                "txt": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09"
+              },
+              "confianca": "alta",
+              "frase": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09",
+              "titulo_evento": null
+            },
+            {
+              "rotulo": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09 Por isso,...",
+              "quando": "2026-09-04T23:59:00-03:00",
+              "trecho": "04/09",
+              "tipo": "compromisso",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "semana",
+                "numeros": [
+                  7
+                ],
+                "txt": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09"
+              },
+              "confianca": "alta",
+              "frase": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09 Por isso, nossa live dessa semana está remarcada para sexta-feira, 04/09, um pouco mais cedo, às 19h",
+              "titulo_evento": null
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "817588",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-09-01T16:53:19-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09.\n\nPor isso, nossa live dessa semana está remarcada para sexta-feira, 04/09, um pouco mais cedo, às 19h.\n\nAtenciosamente,\nBruno Barra - Facilitador UNIVESP!",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=817588#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [
+            {
+              "rotulo": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09",
+              "quando": "2026-09-01T23:59:00-03:00",
+              "trecho": "01/09",
+              "tipo": "compromisso",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "semana",
+                "numeros": [
+                  7
+                ],
+                "txt": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09"
+              },
+              "confianca": "alta",
+              "frase": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09",
+              "titulo_evento": null
+            },
+            {
+              "rotulo": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09 Por isso,...",
+              "quando": "2026-09-04T23:59:00-03:00",
+              "trecho": "04/09",
+              "tipo": "compromisso",
+              "hora_certa": false,
+              "escopo": {
+                "familia": "semana",
+                "numeros": [
+                  7
+                ],
+                "txt": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09"
+              },
+              "confianca": "alta",
+              "frase": "Pessoal, não conseguirei realizar a live da semana 7 hoje, terça-feira, 01/09 Por isso, nossa live dessa semana está remarcada para sexta-feira, 04/09, um pouco mais cedo, às 19h",
+              "titulo_evento": null
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
         },
         {
           "id": "717967",
@@ -3721,6 +3819,64 @@
           "novo": false
         },
         {
+          "id": "817738",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-09-01T17:08:57-03:00",
+          "titulo": "Informações gerais",
+          "texto": "Olá pessoal!\nSegue novo lote de respostas para dúvidas gerais que vocês tiveram durante as últimas lives, e também servem para questões discutidas nos fóruns! \n \n1. O papel dos facilitadores no processo de aprendizagem\nImportante lembrar que os facilitadores estão disponíveis para ajudar com técnicas de estudo, leitura e pesquisa que possam facilitar - daí o nome - a realização das tarefas. Esse a",
+          "links": [],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=170947",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "817726",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-09-01T17:07:42-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Olá pessoal!\n\nSegue novo lote de respostas para dúvidas gerais que vocês tiveram durante as últimas lives, e também servem para questões discutidas aqui no fórum! \n\n\n1. O papel dos facilitadores no processo de aprendizagem\nImportante lembrar que os facilitadores estão disponíveis para ajudar com técnicas de estudo, leitura e pesquisa que possam facilitar - daí o nome - a realização das tarefas. Es",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=817726#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "817562",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-09-01T16:50:32-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Oi, Viviane e demais estudantes,\n\nObrigado por avisar. Que bom que essas questões estão sendo otimizadas!\n\nSigo à disposição,\nBruno Barra.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=817562#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "817505",
+          "autor": "Bruno Barra da Silva",
+          "data": "2026-09-01T16:43:54-03:00",
+          "titulo": "Re: S5 - Fórum temático",
+          "texto": "Olá, pessoal!\n\nÉ sempre bom relembrar os clássicos, não é mesmo? Estou acompanhando as reflexões de vocês e achando muito interessante a maneira como estão pensando sobre a importância de levar em conta o público-alvo ao produzirmos um texto. É uma etapa fundamental do processo de escrita!\n\nBons estudos a todos.\nAtenciosamente,\nBruno Barra - Facilitador UNIVESP.",
+          "links": [
+            "https://ava.univesp.br/mod/forum/post.php?reply=817505#mformforum"
+          ],
+          "forum": "S5 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "692642",
           "autor": "Bruno Barra da Silva",
           "data": "2026-08-17T20:37:47-03:00",
@@ -3731,94 +3887,6 @@
           ],
           "forum": "S4 - Fórum temático",
           "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "691425",
-          "autor": "Bruno Barra da Silva",
-          "data": "2026-08-17T19:19:30-03:00",
-          "titulo": "Informações gerais 6",
-          "texto": "1. Acesso aos livros da Biblioteca Virtual\n Algumas pessoas estão relatando dificuldades para acessar os livros da Biblioteca Virtual. Nesses casos, orientamos que entrem pelo SEI → Biblioteca e procurem diretamente pelos títulos indicados. \n \n2. Carteirinha\nA Univesp não pode oferecer a Carteira de Identificação Estudantil. Para fins de comprovação da matrícula, é possível emitir a declaração de ",
-          "links": [],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=150839",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "689437",
-          "autor": "Bruno Barra da Silva",
-          "data": "2026-08-17T16:09:23-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Olá, pessoal! Seguem orientações gerais para todos/as. Desejo uma ótima semana de estudos a vocês!\n\n1. Acesso aos livros da Biblioteca Virtual\nAlgumas pessoas estão relatando dificuldades para acessar os livros da Biblioteca Virtual. Nesses casos, orientamos que entrem pelo SEI → Biblioteca e procurem diretamente pelos títulos indicados.\n\n2. Carteirinha\nA Univesp não pode oferecer a Carteira de Id",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=689437#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "689363",
-          "autor": "Bruno Barra da Silva",
-          "data": "2026-08-17T16:01:46-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Talvez seja alguma questão com o seu aparelho. Quando for assim, tente sair e entrar novamente.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=689363#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "689348",
-          "autor": "Bruno Barra da Silva",
-          "data": "2026-08-17T16:00:42-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "Na seção \"lives\"!",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=689348#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "689328",
-          "autor": "Bruno Barra da Silva",
-          "data": "2026-08-17T15:58:53-03:00",
-          "titulo": "Re: Fórum de dúvidas gerais",
-          "texto": "vamos alterar pra quinta, vou colocar nos avisos.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=689328#mformforum"
-          ],
-          "forum": "Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "635757",
-          "autor": "Bruno Barra da Silva",
-          "data": "2026-08-11T16:57:41-03:00",
-          "titulo": "Re: S3 - Fórum temático",
-          "texto": "Oi, pessoal!\n\nParabéns pela participação no fórum da semana 3. Como aprendemos, o discurso envolve diferentes e complexas relações de poder, de modo que a leitura e a escrita constituem-se como direitos que precisam ser assegurados.\nEstou acompanhando as discussões e comentários de vocês! Continuem interagindo aqui pelo fórum e ótimos estudos!\n\nAtenciosamente,\nBruno Barra - Facilitador Univesp.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=635757#mformforum"
-          ],
-          "forum": "S3 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
@@ -3853,7 +3921,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165162",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3869,7 +3937,7 @@
               "sem_rastreio": true,
               "nao_lidas": null,
               "conta_nota": false,
-              "prazo": "2026-09-01T20:00:00-03:00",
+              "prazo": "2026-09-04T19:00:00-03:00",
               "prazo_fonte": "calendário do AVA",
               "carencia": null
             },
@@ -3893,7 +3961,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4305,7 +4373,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165193",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4425,7 +4493,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165201",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4705,7 +4773,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "3",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4838,7 +4906,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "15",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -6755,7 +6823,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=215572",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -7930,7 +7998,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=239001",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -8694,18 +8762,6 @@
       "via": "api"
     },
     {
-      "nome": "Live 5",
-      "quando": "2026-09-01T20:00:00-03:00",
-      "curso_id": "18893",
-      "curso": null,
-      "atividade": "Live 5",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-      "acao": null,
-      "cmid": "165163",
-      "tipo": "course",
-      "via": "dom"
-    },
-    {
       "nome": "Q3 M6 - Revisão entre pares (Portfólio Individual) - prazo limite para avaliação",
       "quando": "2026-09-01T23:59:00-03:00",
       "curso_id": "18922",
@@ -8738,6 +8794,18 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
       "acao": null,
       "cmid": "160778",
+      "tipo": "course",
+      "via": "dom"
+    },
+    {
+      "nome": "Live 5",
+      "quando": "2026-09-04T19:00:00-03:00",
+      "curso_id": "18893",
+      "curso": null,
+      "atividade": "Live 5",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "acao": null,
+      "cmid": "165163",
       "tipo": "course",
       "via": "dom"
     },
@@ -8958,25 +9026,6 @@
   "outlook": {},
   "acoes": [
     {
-      "curso": "LET110",
-      "secao": "Calendário do AVA",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "ao vivo",
-      "o_que": "Live 5",
-      "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-      "conta_nota": true,
-      "prazo": "2026-09-01T20:00:00-03:00",
-      "prazo_txt": "acontece hoje às 20:00",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
-    {
       "curso": "COM170",
       "secao": "Calendário do AVA",
       "fase": "regular",
@@ -8996,6 +9045,37 @@
       "urgencia": "hoje",
       "resgatado": true,
       "explicacao": "O AVA diz que nenhum trabalho foi atribuído à sua conta nesta revisão. Em laboratório de grupo quem recebe é o representante, então confirme com ele se a revisão do grupo já foi feita. Se o representante for você, nada chegou, e aí vale perguntar ao facilitador antes do prazo."
+    },
+    {
+      "curso": "LET110",
+      "secao": "LIVE SEMANA 7",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "LIVE SEMANA 7",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/forum/discuss.php?d=170934",
+      "conta_nota": true,
+      "prazo": "2026-09-01T23:59:00-03:00",
+      "prazo_txt": "acontece hoje (horário não informado)",
+      "prazo_fonte": "aviso de Bruno Barra da Silva",
+      "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=170934",
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": false,
+      "urgencia": "hoje",
+      "opcoes": [
+        {
+          "quando": "2026-09-01T23:59:00-03:00",
+          "prazo_txt": "acontece hoje (horário não informado)",
+          "o_que": "LIVE SEMANA 7"
+        },
+        {
+          "quando": "2026-09-04T23:59:00-03:00",
+          "prazo_txt": "acontece 04/09 (horário não informado)",
+          "o_que": "LIVE SEMANA 7"
+        }
+      ]
     },
     {
       "curso": "COM100",
@@ -9180,6 +9260,25 @@
       "carencia": "2026-09-06T23:59:00-03:00",
       "hora_certa": true,
       "urgencia": "amanha"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Calendário do AVA",
+      "fase": "regular",
+      "verbo": "Assista",
+      "coisa": "ao vivo",
+      "o_que": "Live 5",
+      "tipo": "compromisso",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "conta_nota": true,
+      "prazo": "2026-09-04T19:00:00-03:00",
+      "prazo_txt": "acontece 04/09 às 19:00",
+      "prazo_fonte": "calendário do AVA",
+      "fonte_url": null,
+      "autoridade": "institucional",
+      "carencia": null,
+      "hora_certa": true,
+      "urgencia": "semana"
     },
     {
       "curso": "COM170",
@@ -10928,5 +11027,17 @@
   ],
   "novidades": [],
   "notas_novas": [],
-  "prazos_novos": []
+  "prazos_novos": [
+    {
+      "curso": "LET110",
+      "label": "Live com facilitador",
+      "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
+      "cmid": "165163",
+      "prazo": "2026-09-04T19:00:00-03:00",
+      "de": "2026-09-01T20:00:00-03:00",
+      "fonte": "calendário do AVA",
+      "conta_nota": false,
+      "atividade_nova": false
+    }
+  ]
 }
