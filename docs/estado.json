@@ -3050,6 +3050,64 @@
           "feedback": null,
           "url": "https://ava.univesp.br/mod/scorm/view.php?id=215586"
         }
+      },
+      "18880": {
+        "168797": {
+          "rotulo": "S1 - Atividade Avaliativa",
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/quiz/view.php?id=168797"
+        },
+        "168807": {
+          "rotulo": "S2 - Atividade Avaliativa",
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/quiz/view.php?id=168807"
+        },
+        "168816": {
+          "rotulo": "S3 - Atividade Avaliativa",
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/quiz/view.php?id=168816"
+        },
+        "221626": {
+          "rotulo": "S4 - Atividade Avaliativa",
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/quiz/view.php?id=221626"
+        },
+        "168836": {
+          "rotulo": "S5 - Atividade Avaliativa",
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836"
+        },
+        "168845": {
+          "rotulo": "S6 - Atividade Avaliativa",
+          "nota_txt": "-",
+          "nota": null,
+          "tem_nota": false,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/quiz/view.php?id=168845"
+        },
+        "168854": {
+          "rotulo": "S7 - Atividade Avaliativa",
+          "nota_txt": "-",
+          "nota": null,
+          "tem_nota": false,
+          "feedback": null,
+          "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854"
+        }
       }
     },
     "boletim_medias": {
@@ -3065,7 +3123,12 @@
       },
       "18922": {
         "rotulo": "Média AVA",
-        "nota": "0,51",
+        "nota": "0,57",
+        "tipo": "nota calculada"
+      },
+      "18880": {
+        "rotulo": "Média AVA",
+        "nota": "7,10",
         "tipo": "nota calculada"
       }
     },
@@ -3162,7 +3225,14 @@
         },
         {
           "rotulo": "Quinzena 2 total",
-          "nota": "1,60",
+          "nota": "2,00",
+          "tipo": "forma de agregacao das notas"
+        }
+      ],
+      "18880": [
+        {
+          "rotulo": "Total do curso",
+          "nota": "57,10",
           "tipo": "forma de agregacao das notas"
         }
       ]
@@ -3319,7 +3389,7 @@
           "situacao": "Cursando"
         }
       ],
-      "checked_at": "2026-09-02T17:41:12.174820+00:00"
+      "checked_at": "2026-09-02T22:26:33.108874+00:00"
     }
   },
   "_autores_institucionais": {
@@ -5890,7 +5960,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168817": {
     "schema_version": 6,
-    "ultimo": "2026-09-01T22:28:02-03:00",
+    "ultimo": "2026-09-02T14:49:00-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -5925,17 +5995,17 @@
       },
       {
         "id": "449486",
-        "autor": "PAULO ROBERTO GONCALVES DE JESUS",
+        "autor": "EUGENIA DOS SANTOS FANINI",
         "data": "2026-07-17T21:56+0000",
         "titulo": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "texto": "No Desafio desta semana, você leu a história de Renata, uma estudante de 15 anos que cursa o ensino médio em uma escola pública com intensa atividade do grêmio estudantil. \n\nEm maio de 1994, um dos itens da pauta do grêmio acadêmico foi o direito de voto aos 16 anos, que vigora desde 1988 no Brasil. Mobilizada pelo debate, Renata enviou uma carta ao TSE questionando a delimitação da maioridade ele",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=449486#mformforum",
+          "https://ava.univesp.br/mod/forum/post.php?reply=824797#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=821393#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=819848#mformforum",
           "https://ava.univesp.br/mod/forum/post.php?reply=814592#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=802237#mformforum",
-          "https://ava.univesp.br/mod/forum/post.php?reply=801345#mformforum"
+          "https://ava.univesp.br/mod/forum/post.php?reply=802237#mformforum"
         ],
         "forum": "S3 - Fórum temático: Cidadania na Adolescência: Os Desafios do Voto aos 16 Anos",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
@@ -7117,7 +7187,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193364": {
     "schema_version": 6,
-    "ultimo": "2026-09-01T20:16:03-03:00",
+    "ultimo": "2026-09-02T15:50:19-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 5,
     "posts_institucionais_guardados": 5,
@@ -7456,7 +7526,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=221627": {
     "schema_version": 6,
-    "ultimo": "2026-09-01T22:03:56-03:00",
+    "ultimo": "2026-09-02T15:07:19-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -8168,7 +8238,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T14:32:56-03:00",
+    "ultimo": "2026-09-02T15:24:51-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -8499,7 +8569,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=222535": {
     "schema_version": 6,
-    "ultimo": "2026-09-01T21:21:48-03:00",
+    "ultimo": "2026-09-02T17:46:06-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -9402,7 +9472,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193376": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T12:51:37-03:00",
+    "ultimo": "2026-09-02T18:54:14-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -9453,6 +9523,22 @@
         "prazos": [],
         "autoridade": "institucional",
         "novo": false
+      },
+      {
+        "id": "826125",
+        "autor": "SOFIA CLEMENTINO DOS SANTOS",
+        "data": "2026-09-02T17:37:34-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "https://scratch.mit.edu/projects/1377380886\n\nO superpoder escolhido no meu projeto foi a supervelocidade. O personagem precisa chegar até a cidade, e os comandos são dados através do teclado.\nUtilizei dois cenários diferentes, um de início e outro de destino, e as ferramentas de movimentação no Scratch, foi uma atividade bem interessante de elaborar.",
+        "links": [
+          "https://scratch.mit.edu/projects/1377380886",
+          "https://ava.univesp.br/mod/forum/post.php?reply=826125#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
       },
       {
         "id": "821695",
@@ -9549,28 +9635,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "798435",
-        "autor": "ARTHUR GODINHO GOMES",
-        "data": "2026-08-30T19:18:25-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "meu projeto: https://scratch.mit.edu/projects/1376423202/\n\n\"Na noite mais densa de Nekron, o Lanterna Verde do setor 3120 ficou preso em uma lua de um planeta de um universo distante, com os lanternas pretos vindo em sua direção ele deve proteger sua bateria enquanto espera.\"\n\nEsse projeto foi baseado em Lanterna Verde, personagem da DC Comics, eu criei ele em menos de um dia utilizando o que eu a",
-        "links": [
-          "https://scratch.mit.edu/projects/1376423202/",
-          "https://ava.univesp.br/mod/forum/post.php?reply=798435#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207960": {
     "schema_version": 6,
-    "ultimo": "2026-09-01T23:49:11-03:00",
+    "ultimo": "2026-09-02T19:06:48-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -9731,11 +9801,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168846": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T14:10:29-03:00",
+    "ultimo": "2026-09-02T19:22:19-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "826931",
+        "autor": "MATEUS MARQUES SILVA",
+        "data": "2026-09-02T19:22:19-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Na verdade, não é uma questão de ser possível ou não, mas de que essa questão não cabe no que tange aos seres humanos. Como seres autônomos e racionais, somos, conforme disse Kant, “um fim em nós mesmos”, de modo que não faz sentido buscar comprovar qualquer tipo de “superioridade” entre seres que não podem ser resumidos em números, características ou valores que tentem, de alguma forma, limitar o",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826931#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "824555",
         "autor": "BARBARA CRISTY SILVERIO",
@@ -9870,31 +9955,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "821455",
-        "autor": "DIOGENES MACIEL",
-        "data": "2026-09-01T22:34:14-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Boa noite.\nSim! Apesar de não ser possível comprovar cientificamente a existência de superioridade racial entre os seres humano, ainda existe racismo no Brasil, para nossa vergonha. Nesse país o racismo passou de velado, a cínico e debochado diante de uma legislação frouxa.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=821455#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182609": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T13:23:21-03:00",
+    "ultimo": "2026-09-02T19:26:17-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "826982",
+        "autor": "MATEUS MARQUES SILVA",
+        "data": "2026-09-02T19:26:17-03:00",
+        "titulo": "Re: S6 - Fórum de dúvidas gerais",
+        "texto": "Os temas dessa matéria são excelentes por nos levarem a pensar em conceitos que muitas vezes parece que sabemos, e que ao estudarmos, vemos se tratar da ponta de um imenso Iceberg de conceitos muitíssimo interessantes. São pensamentos que no íntimo até já tivemos e sabemos, mas as matérias nos ajudam a elaborar melhor, abstrair, meditar e chegar em conclusões, além de nos mostrar que sempre precis",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826982#mformforum"
+        ],
+        "forum": "S6 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "811754",
         "autor": "LEANDRO DA NOBREGA PINHEIRO",
@@ -10029,31 +10114,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": false
-      },
-      {
-        "id": "782296",
-        "autor": "ROBERTO DE OLIVEIRA LOPES",
-        "data": "2026-08-28T12:44:50-03:00",
-        "titulo": "Re: S6 - Fórum de dúvidas gerais",
-        "texto": "Oi Daniela,\n\nVi em algum lugar que após o prazo final da atividade, as respostas corretas aparecem na revisão. Mas não testei.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=782296#mformforum"
-        ],
-        "forum": "S6 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165218": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T10:58:36-03:00",
+    "ultimo": "2026-09-02T18:48:22-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "825837",
+        "autor": "ALINE LOPES BEZERRA",
+        "data": "2026-09-02T16:55:20-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Acredito que combater o preconceito linguístico começa com atitudes simples no nosso dia a dia. No trabalho, em casa e com meus amigos, posso evitar julgar ou fazer brincadeiras com a forma de falar das pessoas. Cada pessoa tem seu jeito de se comunicar, influenciado pela região, pela família e pelo lugar onde vive.\nTambém acho importante entender que falar de maneira diferente não significa falar",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=825837#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "820307",
         "autor": "ANTONIO PLINIO FERNANDES DA CRUZ",
@@ -10188,21 +10273,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "810633",
-        "autor": "GIULIANO HENRIQUES STEFANO",
-        "data": "2026-08-31T20:52:39-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "Acredito que uma forma de combater o preconceito linguístico é respeitar as diferentes maneiras de falar, sem considerar uma forma de falar como melhor ou pior que outra. No trabalho, em casa e com meus amigos, posso prestar mais atenção para não corrigir ou julgar alguém apenas pela maneira como se expressa.\nNa tirinha que fiz, usei uma linguagem mais informal e próxima do cotidiano, com frases s",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=810633#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -10294,7 +10364,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193382": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T14:22:06-03:00",
+    "ultimo": "2026-09-02T18:32:17-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -10313,6 +10383,22 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "825233",
+        "autor": "ADRIANA APARECIDA RAMOS MIRON FERREIRA",
+        "data": "2026-09-02T15:40:22-03:00",
+        "titulo": "Re: S7 - Fórum temático",
+        "texto": "Para realizar o desafio, escolhi utilizar o ChatGPT para criar um conteúdo educativo sobre uma pessoa relaxando. A ferramenta me ajudou principalmente a organizar as ideias, pensar em uma forma mais clara de apresentar o assunto e ajustar a linguagem ao público que eu queria alcançar. Durante o processo, fui modificando os comandos e revisando as respostas até chegar a um resultado que estivesse d",
+        "links": [
+          "https://chatgpt.com/share/6a986d69-bf20-83e9-af33-0735cc103f85",
+          "https://ava.univesp.br/mod/forum/post.php?reply=825233#mformforum"
+        ],
+        "forum": "S7 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -10439,31 +10525,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "811444",
-        "autor": "TIAGO CERQUEIRA VENCESLAU",
-        "data": "2026-08-31T21:42:26-03:00",
-        "titulo": "Teachy",
-        "texto": "Olá galera!\nComo professor de matemática, eu uso o Teachy para gerar slides e algum tipo de prova para passar em sala de aula.\nSegue modelo:",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=811444#mformforum"
-        ],
-        "forum": "S7 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207961": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T13:05:42-03:00",
+    "ultimo": "2026-09-02T19:02:55-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "826733",
+        "autor": "ROSEMEIRE MENDES",
+        "data": "2026-09-02T19:02:55-03:00",
+        "titulo": "Re: S7 - Fórum de dúvidas gerais",
+        "texto": "Nesta semana, achei muito interessante conhecer diferentes ferramentas digitais e de inteligência artificial e perceber como elas podem ser utilizadas na educação e na criação de conteúdos. Entre as ferramentas apresentadas, chamou minha atenção o Suno, principalmente porque pude experimentar na prática a criação de uma música com inteligência artificial.\nDurante a atividade, percebi que a IA nem ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826733#mformforum"
+        ],
+        "forum": "S7 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "824198",
         "autor": "THIAGO CARVALHO PINTO",
@@ -10507,7 +10593,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168855": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T14:41:13-03:00",
+    "ultimo": "2026-09-02T19:00:45-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -10536,6 +10622,81 @@
             "frase": "A sustentabilidade já entendido como essencial na opinião pública: a preocupação com as mudanças climáticas e desigualdade é bastante notória - vemos isso até em debates políticos, sabatinas, publicidade de empresas, ..."
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "826711",
+        "autor": "MARCELO ALVES DA SILVA",
+        "data": "2026-09-02T19:00:45-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "Acredito que as ações de responsabilidade social das empresas funcionam na prática, principalmente quando ajudam diretamente quem precisa. Um exemplo é o McDia Feliz, do McDonald’s, que arrecada recursos para ajudar crianças e adolescentes no combate ao câncer. Ao mesmo tempo em que a empresa contribui para uma causa importante, também divulga sua marca e melhora sua imagem perante os consumidores",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826711#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "826170",
+        "autor": "BRUNO APELLANIZ RODRIGUES FALASCHI",
+        "data": "2026-09-02T17:45:34-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "A ideia de que o lucro e a responsabilidade social podem conviver em harmonia ignora as contradições do próprio sistema capitalista: muitas corporações utilizam o \"marketing de causa\" apenas como uma maquiagem ética, o chamado social washing, para higienizar sua imagem pública e mitigar os danos que geram diariamente. Na prática, a ética não deveria ser tratada como moeda de troca ou estratégia pa",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826170#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "825934",
+        "autor": "FABIANO DE SIMAS RODRIGUES",
+        "data": "2026-09-02T17:09:24-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "As ações de responsabilidade social podem funcionar na prática quando representam um compromisso real da empresa com a sociedade, e não apenas uma estratégia de marketing. Embora essas iniciativas também fortaleçam a imagem da marca e possam contribuir para o lucro, isso não invalida seu impacto positivo. No caso de campanhas beneficentes, instituições e pessoas atendidas recebem recursos importan",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=825934#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "825509",
+        "autor": "VANESSA HERNANDES MARTINS GUION",
+        "data": "2026-09-02T16:14:20-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "Sim, as ações de responsabilidade social das empresas podem funcionar na prática, desde que sejam desenvolvidas de forma genuína, transparente e com compromisso real com a sociedade.\nA responsabilidade social não precisa ser vista apenas como uma obrigação legal ou como uma estratégia de marketing. Embora seja verdade que empresas podem obter benefícios para sua imagem e reputação, isso não invali",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=825509#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "824872",
+        "autor": "THIAGO STATELLA",
+        "data": "2026-09-02T14:58:47-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "Na minha opinião, ações de responsabilidade social das empresas podem funcionar na prática quando são desenvolvidas de forma que contribua com o bem-estar da sociedade. Embora muitas empresas também obtenham benefícios de imagem, marketing e até aumento de lucro com essas iniciativas, isso não significa que os resultados sociais sejam inválidos. Mas creio que a responsabilidade social não deve ser",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=824872#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -10598,87 +10759,12 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "822072",
-        "autor": "WALTER GABRIEL CABRERA LEIVAS",
-        "data": "2026-09-02T00:31:39-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "Entendo que existem empresas que já nasceram com essa preocupação social. Mas mesmo estas visam em primeiro lugar os lucros, pois sem lucros não podem subsistir, pagar seu funcionários e contas. Portanto creio que até podem existir as que pensam em fazer o bem, mas tudo isso passa por muita análise financeira e de marketing também. Aliás, este é o principal ponto: muita gente faz sim pra gerar lik",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=822072#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "821905",
-        "autor": "EMERSON GOMES DOS SANTOS",
-        "data": "2026-09-01T23:44:16-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "Concordo com a maioria das contribuições dos colegas que citam que as empresas que usam o conceito de responsabilidade social acabam por trazer beneficios para ela, além do objetivo de melhorar a sociedade. Porém, um risco que pode ocorrer é : Ações começarem com boas intenções e depois virar algo para beneficio somente para a empresa, perdendo o sentido inicial/social, virando uma rotina que só é",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=821905#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "821433",
-        "autor": "EDSON LUIZ FRANCISCO",
-        "data": "2026-09-01T22:31:25-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "A discussão trazida pelo caso do “Dia do Sorriso” nos convida a refletir profundamente sobre os limites e as motivações da responsabilidade social empresarial (RSE). O dilema entre o lucro corporativo e o verdadeiro altruísmo passa diretamente pelas três questões centrais levantadas na história, revelando que ética, mercado e sociedade estão muito mais conectados do que parecem à primeira vista.\n\n",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=821433#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "820467",
-        "autor": "JEAN DE SOUSA MOURA",
-        "data": "2026-09-01T21:05:54-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "Acredito que ações sociais promovidas por empresas podem sim gerar impactos positivos tanto para a sociedade quanto para o lucro da própria empresa, uma vez que esse tipo de atividade chama a atenção e tem capacidade de fidelizar novos clientes. Muito provavelmente boa parte das empresas realizam esse tipo de ação por imposição, e não porquê de fato estão preocupadas com suas responsabilidades soc",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=820467#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "820262",
-        "autor": "ANDRE VICTOR DEL FRANCO NASCIMENTO",
-        "data": "2026-09-01T20:51:03-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "Acredito que a adesão das empresas ao conceito de responsabilidade social não ocorre simplesmente por um \"despertar moral\" ou apenas pela rígida imposição das leis, mas sim como uma resposta a pressões de certos grupos culturais, ideológicos e de mercado. Atualmente, adotar cartilhas de responsabilidade corporativa pode funcionar como um mecanismo de proteção para evitar boicotes de ativistas, agr",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=820262#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182610": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T13:51:30-03:00",
+    "ultimo": "2026-09-02T19:19:33-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -10697,6 +10783,21 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "826908",
+        "autor": "LENNIN ABRAO",
+        "data": "2026-09-02T19:19:33-03:00",
+        "titulo": "Re: S7 - Fórum de dúvidas gerais",
+        "texto": "Estou com uma dúvida em uma questão (seria muito bom poder colar prints de tela no fórum nessas horas).\n\nA ética empresarial é um conceito central na promoção da sustentabilidade dentro de uma organização, e sua eficácia depende de um esforço conjunto entre ações individuais, governamentais e de instituições privadas. Para que uma empresa possa realmente promover a sustentabilidade, é necessário q",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826908#mformforum"
+        ],
+        "forum": "S7 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -10818,31 +10919,61 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "812680",
-        "autor": "ROBERTO ALVES LEITE",
-        "data": "2026-09-01T00:28:00-03:00",
-        "titulo": "Re: S7 - Fórum de dúvidas gerais",
-        "texto": "Material riquíssimo desta semana, sem dúvidas!",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=812680#mformforum"
-        ],
-        "forum": "S7 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=240571": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T14:08:27-03:00",
+    "ultimo": "2026-09-02T19:25:12-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "826969",
+        "autor": "DIEGO TENORIO DO NASCIMENTO",
+        "data": "2026-09-02T19:25:12-03:00",
+        "titulo": "Re: S8 - Fórum temático",
+        "texto": "O uso da ferramenta não é plágio dependendo da forma que for feito esse uso. E assim, como em trabalhos acadêmicos, todas as fontes devem ser checadas e referenciadas.\n\nResponder uma prova usando o ChatGPT com certeza não é ético, pois a pessoa está terceirizando o trabalho de pensar e de aplicar o conhecimento na avaliação.\n\nO ChatGPT não pode substituir o texto indicado numa disciplina, pois ao ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826969#mformforum"
+        ],
+        "forum": "S8 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "826957",
+        "autor": "GABRIELA DE OLIVEIRA",
+        "data": "2026-09-02T19:24:20-03:00",
+        "titulo": "Re: S8 - Fórum temático",
+        "texto": "As ferramentas de inteligência artificial como o ChatGPT são auxiliares para a elaboração de conteúdos e se forem usados de maneira inadequada podem ser uma forma de plágio acadêmico. É uma atitude antiética responder uma prova usando o ChatGPT, sendo adequada a utilização por exemplo para entender melhor o gabarito/explicações após resultado da prova (ou seja, após realização da prova com base em",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826957#mformforum"
+        ],
+        "forum": "S8 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "826274",
+        "autor": "BRUNO APELLANIZ RODRIGUES FALASCHI",
+        "data": "2026-09-02T18:00:15-03:00",
+        "titulo": "Re: S8 - Fórum temático",
+        "texto": "O uso indiscriminado de LLMs na prática acadêmica configura plágio e fraude ética quando o estudante apresenta ideias ou conteúdos gerados por algoritmos como se fossem de sua própria autoria intelectual, burlando o processo de aprendizagem e violando o princípio de honestidade científica. Por outro lado, o uso consciente dessas ferramentas, atuando como suporte na organização de ideias, revisão g",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=826274#mformforum"
+        ],
+        "forum": "S8 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "823281",
         "autor": "MARCELA CARPES",
@@ -10947,61 +11078,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "817576",
-        "autor": "RICARDO SATIO ARITA",
-        "data": "2026-09-01T16:52:18-03:00",
-        "titulo": "Re: S8 - Fórum temático",
-        "texto": "Usar o ChatGPT é uma forma de plágio acadêmico?\nDepende muito de como se usa, se for para ajudar nos estudos de uma forma de enviar matérias para ajudar não, mas se for para ser usado em uma atividade que vc precisava fazer sim.\n\nÉ uma atitude ética responder uma prova usando o ChatGPT?\nNão....isso vai te cobrar depois se vc não estudar.\n\nO ChatGPT pode substituir o texto indicado em uma disciplin",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=817576#mformforum"
-        ],
-        "forum": "S8 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "817474",
-        "autor": "FABIO FERNANDES LUIZ",
-        "data": "2026-09-01T16:40:22-03:00",
-        "titulo": "Re: S8 - Fórum temático",
-        "texto": "não é uma forma de plagio se a própria IA não utilizou termos académicos já publicado. de todo modo, assim como publicar um artigo utilizando chat GPT, fazer uma prova utilizado o chat GPT além de anti-ético é completamente ao contrario do real aprendizado. não há como substituir o texto indicado, a IA no caso só tentará explicar o que entendeu sobre o texto, mesmo que tenha entendido errado. as r",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=817474#mformforum"
-        ],
-        "forum": "S8 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "817243",
-        "autor": "ANDRE LUIZ SILVA DE FARIA",
-        "data": "2026-09-01T16:15:18-03:00",
-        "titulo": "Re: S8 - Fórum temático",
-        "texto": "Usar o ChatGPT é plágio?\nO plágio caracteriza-se pela cópia integral, parcial ou conceitual de uma obra sem a apresentação da fonte original. Apresentar conceitos ou textos gerados externamente como se fossem de autoria própria viola a exigência de referenciar os autores e fontes originais.\n\nResponder prova com ChatGPT é ético?\nA ética acadêmica exige honestidade intelectual, o cumprimento de norm",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=817243#mformforum"
-        ],
-        "forum": "S8 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=240572": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T11:52:19-03:00",
+    "ultimo": "2026-09-02T18:19:33-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "824785",
+        "autor": "ALEXANDRA CANUTO DA SILVA",
+        "data": "2026-09-02T14:48:12-03:00",
+        "titulo": "Re: S8 - Fórum de dúvidas gerais",
+        "texto": "Rumo às provas!",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=824785#mformforum"
+        ],
+        "forum": "S8 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "818580",
         "autor": "ROSEMEIRE MENDES",
@@ -11137,31 +11238,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "803877",
-        "autor": "ALESSANDRO NUNES DE JESUS",
-        "data": "2026-08-31T10:50:40-03:00",
-        "titulo": "Re: S8 - Fórum de dúvidas gerais",
-        "texto": "O link de avaliação institucional está quebrado.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=803877#mformforum"
-        ],
-        "forum": "S8 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165226": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T14:14:53-03:00",
+    "ultimo": "2026-09-02T19:07:49-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "825651",
+        "autor": "ESKEL CHRISTINE GOMES PAZOTTO",
+        "data": "2026-09-02T16:31:38-03:00",
+        "titulo": "Re: S7 - Fórum temático",
+        "texto": "Costumo revisar meus textos em etapas. Primeiro, verifico a clareza das ideias, a organização dos parágrafos e a coerência dos argumentos. Depois, elimino repetições e ajusto a linguagem. Nas versões finais, concentro a atenção na ortografia, gramática e pontuação garantindo um texto mais claro e adequado possível.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=825651#mformforum"
+        ],
+        "forum": "S7 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "824346",
         "autor": "THIAGO DA COSTA ALEIXO",
@@ -11290,21 +11391,6 @@
         "texto": "Meu roteiro de revisão é o seguinte:\nApós a elaboração do texto inicial, deixo ele \"descansar\" um dia pelo menos (a depender do prazo de entrega, senão deixo mais dias) e então retorno ao texto para uma nova leitura. Geralmente, nessa fase, consigo ver frases que não ficaram adequadas, sem clareza ou com pouca comunicabilidade, então, verifico a coesão entre os parágrafos; se os conectivos estão a",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=821710#mformforum"
-        ],
-        "forum": "S7 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "821416",
-        "autor": "LUIS GUSTAVO ALMEIDA SOUSA",
-        "data": "2026-09-01T22:30:08-03:00",
-        "titulo": "Re: S7 - Fórum temático",
-        "texto": "Que dicas legais, concordo demais com isso! Como estudante, eu sinto na pele exatamente esse fenômeno, depois de horas olhando para a mesma página, a minha mente simplesmente para de ler o que está realmente escrito e passa a ler o que eu acho que escrevi.\nDeixar o texto \"descansar\", para mim, é uma ótima estratégia de revisão daquilo que escrevi. Quando me me afasto da redação por algumas horas, ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=821416#mformforum"
         ],
         "forum": "S7 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
