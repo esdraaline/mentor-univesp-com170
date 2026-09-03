@@ -2385,37 +2385,37 @@
         "nome": "Término de S7 - Atividade Avaliativa",
         "quando": "2026-09-11T23:59:00-03:00",
         "curso_id": "18893",
-        "curso": "LET110-BIA-2026S2B1-T001",
-        "atividade": "S7 - Atividade Avaliativa",
+        "curso": null,
+        "atividade": "Término de S7 - Atividade Avaliativa",
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
-        "acao": "Tentar responder o questionário agora",
+        "acao": null,
         "cmid": "165225",
         "tipo": "close",
-        "via": "api"
+        "via": "dom"
       },
       {
         "nome": "Término de S7 - Atividade Avaliativa",
         "quando": "2026-09-11T23:59:00-03:00",
         "curso_id": "18880",
-        "curso": "SOC100-BIA-2026S2B1-T001",
-        "atividade": "S7 - Atividade Avaliativa",
+        "curso": null,
+        "atividade": "Término de S7 - Atividade Avaliativa",
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
-        "acao": "Tentar responder o questionário agora",
+        "acao": null,
         "cmid": "168854",
         "tipo": "close",
-        "via": "api"
+        "via": "dom"
       },
       {
         "nome": "Término de S7 - Atividade Avaliativa",
         "quando": "2026-09-11T23:59:00-03:00",
         "curso_id": "18870",
-        "curso": "COM100-BIA-2026S2B1-T001",
-        "atividade": "S7 - Atividade Avaliativa",
+        "curso": null,
+        "atividade": "Término de S7 - Atividade Avaliativa",
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
-        "acao": "Tentar responder o questionário agora",
+        "acao": null,
         "cmid": "193381",
         "tipo": "close",
-        "via": "api"
+        "via": "dom"
       }
     ],
     "notificacoes": {
@@ -2744,9 +2744,9 @@
         },
         "193381": {
           "rotulo": "S7 - Atividade Avaliativa",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381"
         }
@@ -2802,9 +2802,9 @@
         },
         "165225": {
           "rotulo": "S7 - Atividade Avaliativa",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225"
         }
@@ -2860,9 +2860,9 @@
         },
         "239004": {
           "rotulo": "Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "0,00",
+          "nota": 0.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/scorm/view.php?id=239004"
         },
@@ -3102,9 +3102,9 @@
         },
         "168854": {
           "rotulo": "S7 - Atividade Avaliativa",
-          "nota_txt": "-",
-          "nota": null,
-          "tem_nota": false,
+          "nota_txt": "10,00",
+          "nota": 10.0,
+          "tem_nota": true,
           "feedback": null,
           "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854"
         }
@@ -3113,12 +3113,12 @@
     "boletim_medias": {
       "18870": {
         "rotulo": "Média AVA",
-        "nota": "8,80",
+        "nota": "10,00",
         "tipo": "nota calculada"
       },
       "18893": {
         "rotulo": "Média AVA",
-        "nota": "8,50",
+        "nota": "9,70",
         "tipo": "nota calculada"
       },
       "18922": {
@@ -3128,7 +3128,7 @@
       },
       "18880": {
         "rotulo": "Média AVA",
-        "nota": "8,80",
+        "nota": "10,00",
         "tipo": "nota calculada"
       }
     },
@@ -3136,8 +3136,8 @@
       "18922": {
         "quinzenas": [
           {
-            "quinzena": "Q1",
-            "estado": "Final"
+            "quinzena": "Q4",
+            "estado": "Provisório"
           },
           {
             "quinzena": "Q2",
@@ -3145,10 +3145,6 @@
           },
           {
             "quinzena": "Q3",
-            "estado": "Ainda não iniciada"
-          },
-          {
-            "quinzena": "Q4",
             "estado": "Ainda não iniciada"
           },
           {
@@ -3164,53 +3160,14 @@
             "estado": "Ainda não iniciada"
           }
         ],
-        "criterios": [
-          {
-            "nome": "Módulo 1",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 2",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 3",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 4",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 5",
-            "situacao": "Critério ainda não identificado",
-            "atendido": false
-          },
-          {
-            "nome": "Cobertura de conteúdos",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Regularidade de acesso",
-            "situacao": "Critério atendido",
-            "atendido": true
-          }
-        ],
-        "atualizado_em": "24/08/2026 às 23:05",
+        "criterios": [],
+        "atualizado_em": "02/09/2026 às 17:21",
         "quinzena_atual": {
-          "rotulo": "Q1 - Resultado final",
-          "progresso": "Progresso muito avançado",
-          "detalhe": "Todos os critérios previstos para esta quinzena foram identificados."
+          "rotulo": "Q4 - Indicador provisório",
+          "progresso": "Progresso ainda não identificado",
+          "detalhe": "Esta quinzena ainda não foi iniciada."
         },
-        "perfil_temporal": "No prazo",
-        "criterios_pendentes": [
-          "Módulo 5"
-        ],
+        "criterios_pendentes": [],
         "fonte": "https://ativa.univesp.br/lti/progress"
       }
     },
@@ -3232,7 +3189,7 @@
       "18880": [
         {
           "rotulo": "Total do curso",
-          "nota": "68,80",
+          "nota": "80,00",
           "tipo": "forma de agregacao das notas"
         }
       ]
@@ -3389,32 +3346,32 @@
           "situacao": "Cursando"
         }
       ],
-      "checked_at": "2026-09-03T02:48:32.559744+00:00"
+      "checked_at": "2026-09-03T03:13:57.102301+00:00"
     }
   },
   "_autores_institucionais": {
     "18870": {
-      "Elva Karina Mayhua Quispe": "2026-09-02",
-      "Joyce Mirella Dos Anjos Viana": "2026-09-02",
-      "Loren Salles Souza Pereira": "2026-09-02",
-      "Wesley de Souza Lima": "2026-09-02"
+      "Elva Karina Mayhua Quispe": "2026-09-03",
+      "Joyce Mirella Dos Anjos Viana": "2026-09-03",
+      "Loren Salles Souza Pereira": "2026-09-03",
+      "Wesley de Souza Lima": "2026-09-03"
     },
     "18880": {
-      "Igor Alexandre Silva Cassemiro": "2026-09-02",
-      "Mirza Ferreira": "2026-09-02",
-      "Wesley de Souza Lima": "2026-09-02"
+      "Igor Alexandre Silva Cassemiro": "2026-09-03",
+      "Mirza Ferreira": "2026-09-03",
+      "Wesley de Souza Lima": "2026-09-03"
     },
     "18893": {
-      "Bruno Barra da Silva": "2026-09-02",
-      "Paulo Otavio da Silva Joaquim": "2026-09-02",
-      "Pedro Henrique dos Santos Malafaia": "2026-09-02"
+      "Bruno Barra da Silva": "2026-09-03",
+      "Paulo Otavio da Silva Joaquim": "2026-09-03",
+      "Pedro Henrique dos Santos Malafaia": "2026-09-03"
     },
     "18922": {
-      "Lucas Demeda Dos Santos": "2026-09-02",
-      "Neide Silvania Campos Sampaio": "2026-09-02",
-      "Usuário Integração SEI": "2026-09-02",
-      "no reply": "2026-09-02",
-      "Andréia Maria de Lima Assunção": "2026-09-02"
+      "Lucas Demeda Dos Santos": "2026-09-03",
+      "Neide Silvania Campos Sampaio": "2026-09-03",
+      "Usuário Integração SEI": "2026-09-03",
+      "no reply": "2026-09-03",
+      "Andréia Maria de Lima Assunção": "2026-09-03"
     }
   },
   "https://ava.univesp.br/mod/forum/discuss.php?d=125120": {
@@ -8065,6 +8022,26 @@
       "nota": "10,00",
       "de": null,
       "em": "2026-09-03T02:48:32.555987+00:00"
+    },
+    "COM100:193381": {
+      "nota": "10,00",
+      "de": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
+    },
+    "SOC100:168854": {
+      "nota": "10,00",
+      "de": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
+    },
+    "LET110:165225": {
+      "nota": "10,00",
+      "de": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
+    },
+    "COM170:239004": {
+      "nota": "0,00",
+      "de": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
     }
   },
   "_prazos_avisados": {
@@ -10383,7 +10360,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193382": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T23:35:49-03:00",
+    "ultimo": "2026-09-02T23:57:58-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -10418,6 +10395,22 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "829362",
+        "autor": "PAULO CESAR DOS SANTOS JUNIOR",
+        "data": "2026-09-02T23:57:58-03:00",
+        "titulo": "Re: S7 - Fórum temático",
+        "texto": "Para este desafio, escolhi utilizar o ACE-Step (modelo gratuito), uma ferramenta de inteligência artificial capaz de gerar músicas a partir de letras e descrições de estilo.\n\nCriei uma música de rock com voz feminina, inspirada no tema da graduação em Bacharelado em Inteligência Artificial na UNIVESP. Para desenvolver o conteúdo, utilizei o ChatGPT como apoio na criação e organização da letra e, p",
+        "links": [
+          "https://ava.univesp.br/pluginfile.php/380542/mod_forum/post/829362/UNIVESP%20-%20Vou%20continuar.mp3",
+          "https://ava.univesp.br/mod/forum/post.php?reply=829362#mformforum"
+        ],
+        "forum": "S7 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -10524,22 +10517,6 @@
         "links": [
           "https://create.kahoot.it/solo?quizId=40695611-2439-41d4-817f-5a502f8bf0f7&gameMode=normal",
           "https://ava.univesp.br/mod/forum/post.php?reply=822387#mformforum"
-        ],
-        "forum": "S7 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "817335",
-        "autor": "CARLOS ALBERTO CRUZ NETO",
-        "data": "2026-09-01T16:23:33-03:00",
-        "titulo": "Re: S7 - Fórum temático",
-        "texto": "https://www.youtube.com/@teologiamatematica\n\n\n\nvideos de histórias sobre matematica, criados com o chat gpt e lidos pelo clipchamp.",
-        "links": [
-          "https://www.youtube.com/@teologiamatematica",
-          "https://ava.univesp.br/mod/forum/post.php?reply=817335#mformforum"
         ],
         "forum": "S7 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
@@ -10677,7 +10654,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168855": {
     "schema_version": 6,
-    "ultimo": "2026-09-02T23:19:45-03:00",
+    "ultimo": "2026-09-02T23:57:58-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -10706,6 +10683,21 @@
             "frase": "A sustentabilidade já entendido como essencial na opinião pública: a preocupação com as mudanças climáticas e desigualdade é bastante notória - vemos isso até em debates políticos, sabatinas, publicidade de empresas, ..."
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "829361",
+        "autor": "RICARDO TANI",
+        "data": "2026-09-02T23:57:58-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "Sim, as ações de responsabilidade social podem funcionar na prática, principalmente quando geram benefícios reais para a sociedade. Além de ajudar causas importantes, essas ações também podem melhorar a imagem da empresa e fortalecer sua relação com os consumidores. Porém, é importante que não sejam apenas uma estratégia de marketing, mas que tenham um compromisso verdadeiro com a sociedade.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=829361#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -10822,21 +10814,6 @@
         "texto": "Sim, as ações de responsabilidade social das empresas podem funcionar na prática, desde que sejam desenvolvidas de forma genuína, transparente e com compromisso real com a sociedade.\nA responsabilidade social não precisa ser vista apenas como uma obrigação legal ou como uma estratégia de marketing. Embora seja verdade que empresas podem obter benefícios para sua imagem e reputação, isso não invali",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=825509#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "824872",
-        "autor": "THIAGO STATELLA",
-        "data": "2026-09-02T14:58:47-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "Na minha opinião, ações de responsabilidade social das empresas podem funcionar na prática quando são desenvolvidas de forma que contribua com o bem-estar da sociedade. Embora muitas empresas também obtenham benefícios de imagem, marketing e até aumento de lucro com essas iniciativas, isso não significa que os resultados sociais sejam inválidos. Mas creio que a responsabilidade social não deve ser",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=824872#mformforum"
         ],
         "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",

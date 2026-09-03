@@ -105,7 +105,7 @@
         "situacao": "Cursando"
       }
     ],
-    "checked_at": "2026-09-03T02:48:32.559744+00:00",
+    "checked_at": "2026-09-03T03:13:57.102301+00:00",
     "_so_no_portal": [
       {
         "codigo": "MMB002",
@@ -145,10 +145,10 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-09-03T02:48:32.555987+00:00",
-  "snapshot_at": "2026-09-03T02:48:32.555987+00:00",
-  "attempted_at": "2026-09-03T02:48:32.555987+00:00",
-  "publication_id": "2026-09-03T02:48:32.555987+00:00",
+  "checked_at": "2026-09-03T03:13:57.098631+00:00",
+  "snapshot_at": "2026-09-03T03:13:57.098631+00:00",
+  "attempted_at": "2026-09-03T03:13:57.098631+00:00",
+  "publication_id": "2026-09-03T03:13:57.098631+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 65,
@@ -164,8 +164,8 @@
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -179,9 +179,9 @@
     },
     "outlook": {
       "status": "falhou",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
       "last_live_at": "2026-08-31T19:52:53.480900+00:00",
-      "idade_segundos": 197739,
+      "idade_segundos": 199263,
       "quantidade_atual": 0,
       "from_cache": false,
       "truncado": false,
@@ -191,8 +191,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -201,8 +201,8 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 20,
       "from_cache": false,
@@ -210,13 +210,13 @@
       "problemas": [],
       "via": "api+dom",
       "eventos": 20,
-      "api": 15,
+      "api": 12,
       "dom": 8
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -228,8 +228,8 @@
     },
     "foruns": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
@@ -244,10 +244,10 @@
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 20,
+      "quantidade_atual": 18,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
@@ -257,8 +257,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 51,
       "from_cache": false,
@@ -269,24 +269,22 @@
       "live": 4
     },
     "participacao": {
-      "status": "falhou",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 351575,
-      "quantidade_atual": 1,
-      "from_cache": true,
+      "status": "live",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
+      "idade_segundos": 0,
+      "quantidade_atual": 6,
+      "from_cache": false,
       "truncado": false,
-      "problemas": [
-        "progresso de participação não abriu (TimeoutError)"
-      ],
-      "falhas": 1,
+      "problemas": [],
+      "falhas": 0,
       "esperados": 1,
-      "live": 0
+      "live": 1
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 36,
       "from_cache": false,
@@ -298,8 +296,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-09-03T02:48:32.559744+00:00",
-      "last_live_at": "2026-09-03T02:48:32.559744+00:00",
+      "checked_at": "2026-09-03T03:13:57.102301+00:00",
+      "last_live_at": "2026-09-03T03:13:57.102301+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -843,7 +841,7 @@
         "status": "live",
         "media": {
           "rotulo": "Média AVA",
-          "nota": "8,80",
+          "nota": "10,00",
           "tipo": "nota calculada"
         },
         "totais": [],
@@ -1538,7 +1536,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1552,7 +1550,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207960",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1631,9 +1629,9 @@
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": true,
-              "nota": null,
-              "nota_txt": "-",
-              "tem_nota": false,
+              "nota": 10.0,
+              "nota_txt": "10,00",
+              "tem_nota": true,
               "feedback": null,
               "prazo": "2026-09-09T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
@@ -1641,14 +1639,14 @@
               "aberto": true,
               "entrega_confirmada": true,
               "quiz": {
-                "nota": null,
-                "nota_txt": null,
-                "maximo": null,
+                "nota": 10.0,
+                "nota_txt": "10,00",
+                "maximo": 10.0,
                 "tentativas_feitas": 1,
                 "tentativas_permitidas": 3,
                 "metodo": "nota mais alta"
               },
-              "nota_fonte": null
+              "nota_fonte": "boletim"
             },
             {
               "cmid": "193382",
@@ -1657,7 +1655,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1671,7 +1669,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1773,7 +1771,7 @@
               "label": "Orientações para realização da prova e exame",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=193388",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": false,
@@ -2066,13 +2064,13 @@
         "status": "live",
         "media": {
           "rotulo": "Média AVA",
-          "nota": "8,80",
+          "nota": "10,00",
           "tipo": "nota calculada"
         },
         "totais": [
           {
             "rotulo": "Total do curso",
-            "nota": "68,80",
+            "nota": "80,00",
             "tipo": "forma de agregacao das notas"
           }
         ],
@@ -3065,7 +3063,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3079,7 +3077,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-11T14:42:00-03:00",
@@ -3197,24 +3195,24 @@
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": true,
-              "nota": null,
-              "nota_txt": "-",
-              "tem_nota": false,
+              "nota": 10.0,
+              "nota_txt": "10,00",
+              "tem_nota": true,
               "feedback": null,
               "prazo": "2026-09-09T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
               "carencia": "2026-09-11T23:59:00-03:00",
               "aberto": true,
-              "entrega_confirmada": false,
+              "entrega_confirmada": true,
               "quiz": {
-                "nota": null,
-                "nota_txt": null,
-                "maximo": null,
-                "tentativas_feitas": 0,
+                "nota": 10.0,
+                "nota_txt": "10,00",
+                "maximo": 10.0,
+                "tentativas_feitas": 3,
                 "tentativas_permitidas": 3,
                 "metodo": "nota mais alta"
               },
-              "nota_fonte": null
+              "nota_fonte": "boletim"
             },
             {
               "cmid": "168855",
@@ -3223,7 +3221,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "7",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3327,7 +3325,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3904,7 +3902,7 @@
         "status": "live",
         "media": {
           "rotulo": "Média AVA",
-          "nota": "8,50",
+          "nota": "9,70",
           "tipo": "nota calculada"
         },
         "totais": [],
@@ -4774,7 +4772,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "3",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4879,24 +4877,24 @@
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": true,
-              "nota": null,
-              "nota_txt": "-",
-              "tem_nota": false,
+              "nota": 10.0,
+              "nota_txt": "10,00",
+              "tem_nota": true,
               "feedback": null,
               "prazo": "2026-09-09T23:59:00-03:00",
               "prazo_fonte": "cronograma oficial da Univesp",
               "carencia": "2026-09-11T23:59:00-03:00",
               "aberto": true,
-              "entrega_confirmada": false,
+              "entrega_confirmada": true,
               "quiz": {
-                "nota": null,
-                "nota_txt": null,
-                "maximo": null,
-                "tentativas_feitas": 0,
+                "nota": 10.0,
+                "nota_txt": "10,00",
+                "maximo": 10.0,
+                "tentativas_feitas": 2,
                 "tentativas_permitidas": 3,
                 "metodo": "nota mais alta"
               },
-              "nota_fonte": null
+              "nota_fonte": "boletim"
             },
             {
               "cmid": "165226",
@@ -4905,7 +4903,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "6",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -6025,8 +6023,8 @@
       "participacao": {
         "quinzenas": [
           {
-            "quinzena": "Q1",
-            "estado": "Final"
+            "quinzena": "Q4",
+            "estado": "Provisório"
           },
           {
             "quinzena": "Q2",
@@ -6034,10 +6032,6 @@
           },
           {
             "quinzena": "Q3",
-            "estado": "Ainda não iniciada"
-          },
-          {
-            "quinzena": "Q4",
             "estado": "Ainda não iniciada"
           },
           {
@@ -6053,53 +6047,14 @@
             "estado": "Ainda não iniciada"
           }
         ],
-        "criterios": [
-          {
-            "nome": "Módulo 1",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 2",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 3",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 4",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Módulo 5",
-            "situacao": "Critério ainda não identificado",
-            "atendido": false
-          },
-          {
-            "nome": "Cobertura de conteúdos",
-            "situacao": "Critério atendido",
-            "atendido": true
-          },
-          {
-            "nome": "Regularidade de acesso",
-            "situacao": "Critério atendido",
-            "atendido": true
-          }
-        ],
-        "atualizado_em": "24/08/2026 às 23:05",
+        "criterios": [],
+        "atualizado_em": "02/09/2026 às 17:21",
         "quinzena_atual": {
-          "rotulo": "Q1 - Resultado final",
-          "progresso": "Progresso muito avançado",
-          "detalhe": "Todos os critérios previstos para esta quinzena foram identificados."
+          "rotulo": "Q4 - Indicador provisório",
+          "progresso": "Progresso ainda não identificado",
+          "detalhe": "Esta quinzena ainda não foi iniciada."
         },
-        "perfil_temporal": "No prazo",
-        "criterios_pendentes": [
-          "Módulo 5"
-        ],
+        "criterios_pendentes": [],
         "fonte": "https://ativa.univesp.br/lti/progress"
       },
       "sections": [
@@ -6109,7 +6064,7 @@
           "title": "COM170 - IA na Prática Acadêmica e Profissional",
           "parent": null,
           "locked": null,
-          "theme": "Bacharelado de Inteligência Artificial\nIA na Prática Acadêmica e Profissional\n\nPlano de Ensino\n\n\n\nschedule\n\nDuração da disciplina\n7 Quinzenas [Projeto Semestral]\n\n\ninterests\n\nRecursos\n Links úteis",
+          "theme": "BACHARELADO DE INTELIGÊNCIA ARTIFICIAL\n\nIA na Prática Acadêmica e Profissional\n\nPlano de Ensino\nschedule\n\nDuração da disciplina\n\n7 Quinzenas [Projeto Semestral]\n\ninterests\n\nRecursos\n\nLinks úteis",
           "items": [
             {
               "cmid": "173822",
@@ -7873,7 +7828,7 @@
               "label": "Q4 - Instruções da Quinzena 4",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=238997",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": false,
@@ -7886,7 +7841,7 @@
               "label": "Q4 - Introdução",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=238998",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": false,
@@ -7899,21 +7854,20 @@
               "label": "Q4 - Lembrete de datas e live",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=238999",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": true,
               "prazo": null,
               "prazo_fonte": null,
-              "carencia": null,
-              "aberto": true
+              "carencia": null
             },
             {
               "cmid": "239000",
               "label": "Q4 - Orientação de estudo",
               "type": "page",
               "url": "https://ava.univesp.br/mod/page/view.php?id=239000",
-              "status": "Marcar como feito",
+              "status": "Concluído",
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": false,
@@ -7964,18 +7918,17 @@
               "label": "Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem",
               "type": "scorm",
               "url": "https://ava.univesp.br/mod/scorm/view.php?id=239004",
-              "status": "Pendente",
+              "status": "Concluído",
               "sem_rastreio": false,
               "nao_lidas": null,
               "conta_nota": true,
-              "nota": null,
-              "nota_txt": "-",
-              "tem_nota": false,
+              "nota": 0.0,
+              "nota_txt": "0,00",
+              "tem_nota": true,
               "feedback": null,
               "prazo": null,
               "prazo_fonte": null,
-              "carencia": null,
-              "aberto": true
+              "carencia": null
             },
             {
               "cmid": "239005",
@@ -8029,7 +7982,7 @@
           "secao_id": "94655",
           "title": "Q4 Módulo 2",
           "parent": "section-4",
-          "locked": "Disponível se: A atividade Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem esteja marcada como concluída",
+          "locked": "Disponível se: A atividade Q4 M1 - Atividade: O primeiro dia do robô esteja marcada como concluída",
           "theme": null,
           "items": [],
           "fase": "regular"
@@ -8779,37 +8732,37 @@
       "nome": "Término de S7 - Atividade Avaliativa",
       "quando": "2026-09-11T23:59:00-03:00",
       "curso_id": "18893",
-      "curso": "LET110-BIA-2026S2B1-T001",
-      "atividade": "S7 - Atividade Avaliativa",
+      "curso": null,
+      "atividade": "Término de S7 - Atividade Avaliativa",
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
-      "acao": "Tentar responder o questionário agora",
+      "acao": null,
       "cmid": "165225",
       "tipo": "close",
-      "via": "api"
+      "via": "dom"
     },
     {
       "nome": "Término de S7 - Atividade Avaliativa",
       "quando": "2026-09-11T23:59:00-03:00",
       "curso_id": "18880",
-      "curso": "SOC100-BIA-2026S2B1-T001",
-      "atividade": "S7 - Atividade Avaliativa",
+      "curso": null,
+      "atividade": "Término de S7 - Atividade Avaliativa",
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
-      "acao": "Tentar responder o questionário agora",
+      "acao": null,
       "cmid": "168854",
       "tipo": "close",
-      "via": "api"
+      "via": "dom"
     },
     {
       "nome": "Término de S7 - Atividade Avaliativa",
       "quando": "2026-09-11T23:59:00-03:00",
       "curso_id": "18870",
-      "curso": "COM100-BIA-2026S2B1-T001",
-      "atividade": "S7 - Atividade Avaliativa",
+      "curso": null,
+      "atividade": "Término de S7 - Atividade Avaliativa",
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
-      "acao": "Tentar responder o questionário agora",
+      "acao": null,
       "cmid": "193381",
       "tipo": "close",
-      "via": "api"
+      "via": "dom"
     }
   ],
   "notificacoes": [
@@ -8944,60 +8897,6 @@
   "outlook": {},
   "acoes": [
     {
-      "curso": "COM100",
-      "secao": "Semana 6",
-      "fase": "regular",
-      "verbo": "Responda",
-      "coisa": "questionário",
-      "o_que": "S6 - Atividade Avaliativa",
-      "tipo": "quiz",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193375",
-      "conta_nota": true,
-      "prazo": "2026-09-02T23:59:00-03:00",
-      "prazo_txt": "vence hoje às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-09-06T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
-    {
-      "curso": "LET110",
-      "secao": "Semana 6",
-      "fase": "regular",
-      "verbo": "Responda",
-      "coisa": "questionário",
-      "o_que": "S6 - Atividade Avaliativa",
-      "tipo": "quiz",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165217",
-      "conta_nota": true,
-      "prazo": "2026-09-02T23:59:00-03:00",
-      "prazo_txt": "vence hoje às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-09-06T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
-    {
-      "curso": "SOC100",
-      "secao": "Semana 6",
-      "fase": "regular",
-      "verbo": "Responda",
-      "coisa": "questionário",
-      "o_que": "S6 - Atividade Avaliativa",
-      "tipo": "quiz",
-      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168845",
-      "conta_nota": true,
-      "prazo": "2026-09-02T23:59:00-03:00",
-      "prazo_txt": "vence hoje às 23:59",
-      "prazo_fonte": "cronograma oficial da Univesp",
-      "fonte_url": null,
-      "carencia": "2026-09-06T23:59:00-03:00",
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
-    {
       "curso": "LET110",
       "secao": "Calendário do AVA",
       "fase": "regular",
@@ -9008,13 +8907,13 @@
       "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
       "conta_nota": true,
       "prazo": "2026-09-04T19:00:00-03:00",
-      "prazo_txt": "acontece 04/09 às 19:00",
+      "prazo_txt": "acontece amanhã, 04/09 às 19:00",
       "prazo_fonte": "calendário do AVA",
       "fonte_url": null,
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": true,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "LET110",
@@ -9027,13 +8926,13 @@
       "url": "https://ava.univesp.br/mod/forum/discuss.php?d=170934",
       "conta_nota": true,
       "prazo": "2026-09-04T23:59:00-03:00",
-      "prazo_txt": "acontece 04/09 (horário não informado)",
+      "prazo_txt": "acontece amanhã, 04/09 (horário não informado)",
       "prazo_fonte": "aviso de Bruno Barra da Silva",
       "fonte_url": "https://ava.univesp.br/mod/forum/discuss.php?d=170934",
       "autoridade": "institucional",
       "carencia": null,
       "hora_certa": false,
-      "urgencia": "semana"
+      "urgencia": "amanha"
     },
     {
       "curso": "COM170",
@@ -9084,27 +8983,6 @@
       "fase": "regular",
       "verbo": "Faça",
       "coisa": "quiz interativo",
-      "o_que": "Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem",
-      "tipo": "scorm",
-      "url": "https://ava.univesp.br/mod/scorm/view.php?id=239004",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "semana",
-      "prioridade_ate": "2026-09-06T23:59:00-03:00",
-      "destrava": "Q4 Módulo 2",
-      "destrava_em": "2026-09-06T23:59:00-03:00"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Q4 Módulo 1",
-      "fase": "regular",
-      "verbo": "Faça",
-      "coisa": "quiz interativo",
       "o_que": "Q4 M1 - Atividade: O primeiro dia do robô",
       "tipo": "scorm",
       "url": "https://ava.univesp.br/mod/scorm/view.php?id=239007",
@@ -9117,7 +8995,7 @@
       "hora_certa": true,
       "urgencia": "semana",
       "prioridade_ate": "2026-09-06T23:59:00-03:00",
-      "cobrado_por": "Quinzena 4 · Prazo módulos 1 a 4",
+      "destrava": "Q4 Módulo 2",
       "destrava_em": "2026-09-06T23:59:00-03:00"
     },
     {
@@ -9167,7 +9045,6 @@
       "tipo": "quiz",
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
       "conta_nota": true,
-      "entrega_nao_confirmada": true,
       "prazo": "2026-09-09T23:59:00-03:00",
       "prazo_txt": "vence 09/09 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
@@ -9186,7 +9063,6 @@
       "tipo": "quiz",
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
       "conta_nota": true,
-      "entrega_nao_confirmada": true,
       "prazo": "2026-09-09T23:59:00-03:00",
       "prazo_txt": "vence 09/09 às 23:59",
       "prazo_fonte": "cronograma oficial da Univesp",
@@ -9318,24 +9194,6 @@
       "explicacao": "Você ainda não escreveu neste fórum. Nas disciplinas regulares a participação nos fóruns temáticos compõe a nota, e o AVA não publica prazo para isso."
     },
     {
-      "curso": "COM170",
-      "secao": "Quinzena 4",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "Q4 - Lembrete de datas e live",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=238999",
-      "conta_nota": true,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
       "curso": "LET110",
       "secao": "Semana 6",
       "fase": "regular",
@@ -9433,6 +9291,18 @@
   ],
   "encerrados": [
     {
+      "curso": "COM100",
+      "secao": "Semana 6",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S6 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193375",
+      "conta_nota": true,
+      "motivo": "venceu em 02/09"
+    },
+    {
       "curso": "SOC100",
       "secao": "Semana 4",
       "fase": "regular",
@@ -9456,6 +9326,18 @@
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=168836",
       "conta_nota": true,
       "motivo": "venceu em 26/08"
+    },
+    {
+      "curso": "SOC100",
+      "secao": "Semana 6",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S6 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168845",
+      "conta_nota": true,
+      "motivo": "venceu em 02/09"
     },
     {
       "curso": "SOC100",
@@ -9492,6 +9374,18 @@
       "url": "https://ava.univesp.br/mod/quiz/view.php?id=165208",
       "conta_nota": true,
       "motivo": "venceu em 26/08"
+    },
+    {
+      "curso": "LET110",
+      "secao": "Semana 6",
+      "fase": "regular",
+      "verbo": "Responda",
+      "coisa": "questionário",
+      "o_que": "S6 - Atividade Avaliativa",
+      "tipo": "quiz",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165217",
+      "conta_nota": true,
+      "motivo": "venceu em 02/09"
     },
     {
       "curso": "COM170",
@@ -9642,78 +9536,6 @@
       "o_que": "S8 - Fórum de dúvidas gerais",
       "tipo": "forum",
       "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM100",
-      "secao": "Revisão e Orientações",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "Orientações para realização da prova e exame",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=193388",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Quinzena 4",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "Q4 - Instruções da Quinzena 4",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=238997",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Quinzena 4",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "Q4 - Introdução",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=238998",
-      "conta_nota": false,
-      "prazo": null,
-      "prazo_txt": "",
-      "prazo_fonte": null,
-      "fonte_url": null,
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "sem_prazo"
-    },
-    {
-      "curso": "COM170",
-      "secao": "Quinzena 4",
-      "fase": "regular",
-      "verbo": "Abra e conclua",
-      "coisa": "página",
-      "o_que": "Q4 - Orientação de estudo",
-      "tipo": "page",
-      "url": "https://ava.univesp.br/mod/page/view.php?id=239000",
       "conta_nota": false,
       "prazo": null,
       "prazo_txt": "",
@@ -10032,28 +9854,6 @@
   ],
   "confirmar": [
     {
-      "curso": "COM100",
-      "quando": "2026-09-02T23:59:00-03:00",
-      "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "Serão transmitidas informações sobre como acessar o calendário individual de provas, so...",
-      "frase": "Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas Trata-se, também, de um espaço e momento para que ...",
-      "autor": "Joyce Mirella Dos Anjos Viana",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=207961"
-    },
-    {
-      "curso": "COM100",
-      "quando": "2026-09-02T23:59:00-03:00",
-      "quando_txt": "vence hoje (horário não informado)",
-      "tipo_lido": "fim",
-      "rotulo": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a961...",
-      "frase": "Joyce Viana e Elva Karina https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external 02/09",
-      "autor": "Joyce Mirella Dos Anjos Viana",
-      "autoridade": "institucional",
-      "url": "https://ava.univesp.br/mod/forum/view.php?id=160780"
-    },
-    {
       "curso": "COM170",
       "quando": "2026-09-05T23:59:00-03:00",
       "quando_txt": "vence 05/09 (horário não informado)",
@@ -10111,6 +9911,46 @@
   ],
   "novidades": [],
   "notas_novas": [
+    {
+      "curso": "SOC100",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
+      "cmid": "168854",
+      "nota": "10,00",
+      "de": null,
+      "feedback": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
+    },
+    {
+      "curso": "LET110",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=165225",
+      "cmid": "165225",
+      "nota": "10,00",
+      "de": null,
+      "feedback": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
+    },
+    {
+      "curso": "COM170",
+      "label": "Q4 M1 - Atividade: O que entra na janela junto com a sua mensagem",
+      "url": "https://ava.univesp.br/mod/scorm/view.php?id=239004",
+      "cmid": "239004",
+      "nota": "0,00",
+      "de": null,
+      "feedback": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
+    },
+    {
+      "curso": "COM100",
+      "label": "S7 - Atividade Avaliativa",
+      "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
+      "cmid": "193381",
+      "nota": "10,00",
+      "de": null,
+      "feedback": null,
+      "em": "2026-09-03T03:13:57.098631+00:00"
+    },
     {
       "curso": "SOC100",
       "label": "S6 - Atividade Avaliativa",
