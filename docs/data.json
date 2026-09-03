@@ -105,7 +105,7 @@
         "situacao": "Cursando"
       }
     ],
-    "checked_at": "2026-09-02T22:26:33.108874+00:00",
+    "checked_at": "2026-09-03T00:59:50.962333+00:00",
     "_so_no_portal": [
       {
         "codigo": "MMB002",
@@ -145,27 +145,27 @@
     "provas_conferido_em": "2026-08-15"
   },
   "status": "ok",
-  "checked_at": "2026-09-02T22:26:33.105319+00:00",
-  "snapshot_at": "2026-09-02T22:26:33.105319+00:00",
-  "attempted_at": "2026-09-02T22:26:33.105319+00:00",
-  "publication_id": "2026-09-02T22:26:33.105319+00:00",
+  "checked_at": "2026-09-03T00:59:50.958879+00:00",
+  "snapshot_at": "2026-09-03T00:59:50.958879+00:00",
+  "attempted_at": "2026-09-03T00:59:50.958879+00:00",
+  "publication_id": "2026-09-03T00:59:50.958879+00:00",
   "fontes": {
     "disciplinas": 4,
     "secoes": 65,
     "itens": 362,
     "avisos": 60,
-    "eventos_calendario": 21,
-    "eventos_uteis": 21,
+    "eventos_calendario": 20,
+    "eventos_uteis": 20,
     "notificacoes": 21,
     "cronograma": 3,
-    "itens_com_prazo": 75
+    "itens_com_prazo": 74
   },
   "problemas": [],
   "fontes_status": {
     "portal": {
       "status": "parcial",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 0,
       "from_cache": false,
@@ -179,9 +179,9 @@
     },
     "outlook": {
       "status": "falhou",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
       "last_live_at": "2026-08-31T19:52:53.480900+00:00",
-      "idade_segundos": 182019,
+      "idade_segundos": 191217,
       "quantidade_atual": 0,
       "from_cache": false,
       "truncado": false,
@@ -191,8 +191,8 @@
     },
     "disciplinas": {
       "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 4,
       "from_cache": false,
@@ -201,22 +201,22 @@
     },
     "calendario": {
       "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
-      "quantidade_atual": 21,
+      "quantidade_atual": 20,
       "from_cache": false,
       "truncado": false,
       "problemas": [],
       "via": "api+dom",
-      "eventos": 21,
+      "eventos": 20,
       "api": 18,
-      "dom": 9
+      "dom": 8
     },
     "cronograma": {
       "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 3,
       "from_cache": false,
@@ -227,25 +227,25 @@
       "live": 3
     },
     "foruns": {
-      "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "status": "parcial",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 60,
       "from_cache": false,
       "truncado": true,
       "problemas": [],
       "foruns": 60,
-      "listas_live": 60,
+      "listas_live": 59,
       "falhas": 0,
-      "pulados_orcamento": 0,
-      "posts_institucionais_vistos": 269,
-      "posts_institucionais_guardados": 196
+      "pulados_orcamento": 1,
+      "posts_institucionais_vistos": 276,
+      "posts_institucionais_guardados": 201
     },
     "itens": {
       "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 35,
       "from_cache": false,
@@ -257,8 +257,8 @@
     },
     "boletim": {
       "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 51,
       "from_cache": false,
@@ -270,9 +270,9 @@
     },
     "participacao": {
       "status": "falhou",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
       "last_live_at": "2026-08-30T01:08:57.546723+00:00",
-      "idade_segundos": 335855,
+      "idade_segundos": 345053,
       "quantidade_atual": 1,
       "from_cache": true,
       "truncado": false,
@@ -285,8 +285,8 @@
     },
     "meus_posts": {
       "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 36,
       "from_cache": false,
@@ -298,8 +298,8 @@
     },
     "notificacoes": {
       "status": "live",
-      "checked_at": "2026-09-02T22:26:33.108874+00:00",
-      "last_live_at": "2026-09-02T22:26:33.108874+00:00",
+      "checked_at": "2026-09-03T00:59:50.962333+00:00",
+      "last_live_at": "2026-09-03T00:59:50.962333+00:00",
       "idade_segundos": 0,
       "quantidade_atual": 2,
       "from_cache": false,
@@ -390,6 +390,86 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": false
+        },
+        {
+          "id": "828555",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-09-02T21:49:22-03:00",
+          "titulo": "Re: S7 - Fórum de dúvidas gerais",
+          "texto": "Live | Provas Univesp 2026\n\nEsta live busca fornecer orientações e dicas de como os estudantes (calouros e veteranos) devem se preparar para o período de provas da Univesp. Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas.\n\nTrata-se, também, de um espaço e momento para que os estud",
+          "links": [
+            "https://www.youtube.com/live/U18BxZ49Kzk",
+            "https://ava.univesp.br/mod/forum/post.php?reply=828555#mformforum"
+          ],
+          "forum": "S7 - Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
+          "prazos": [
+            {
+              "rotulo": "Serão transmitidas informações sobre como acessar o calendário individual de provas, so...",
+              "quando": "2026-09-02T23:59:00-03:00",
+              "trecho": "02/09",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas Trata-se, também, de um espaço e momento para que ..."
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "828542",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-09-02T21:48:39-03:00",
+          "titulo": "Re: Fórum de dúvidas gerais",
+          "texto": "Live | Provas Univesp 2026\n\nEsta live busca fornecer orientações e dicas de como os estudantes (calouros e veteranos) devem se preparar para o período de provas da Univesp. Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas.\n\nTrata-se, também, de um espaço e momento para que os estud",
+          "links": [
+            "https://www.youtube.com/live/U18BxZ49Kzk",
+            "https://ava.univesp.br/mod/forum/post.php?reply=828542#mformforum"
+          ],
+          "forum": "Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
+          "prazos": [
+            {
+              "rotulo": "Serão transmitidas informações sobre como acessar o calendário individual de provas, so...",
+              "quando": "2026-09-02T23:59:00-03:00",
+              "trecho": "02/09",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas Trata-se, também, de um espaço e momento para que ..."
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "828531",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-09-02T21:47:48-03:00",
+          "titulo": "Live | Provas Univesp 2026",
+          "texto": "Live | Provas Univesp 2026\n\nEsta live busca fornecer orientações e dicas de como os estudantes (calouros e veteranos) devem se preparar para o período de provas da Univesp. Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas.\n\nTrata-se, também, de um espaço e momento para que os estud",
+          "links": [
+            "https://www.youtube.com/live/U18BxZ49Kzk"
+          ],
+          "forum": "Avisos",
+          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=171959",
+          "prazos": [
+            {
+              "rotulo": "Serão transmitidas informações sobre como acessar o calendário individual de provas, so...",
+              "quando": "2026-09-02T23:59:00-03:00",
+              "trecho": "02/09",
+              "tipo": "fim",
+              "hora_certa": false,
+              "escopo": null,
+              "confianca": "baixa",
+              "frase": "Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas Trata-se, também, de um espaço e momento para que ..."
+            }
+          ],
+          "autoridade": "institucional",
+          "novo": true
         },
         {
           "id": "615850",
@@ -679,6 +759,38 @@
           "novo": false
         },
         {
+          "id": "828416",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-09-02T21:38:50-03:00",
+          "titulo": "Re: S7 - Fórum temático",
+          "texto": "Para quem não conseguiu jogar hoje no Kahoot, \n\ncompartilho esse link para outros 10 jogarem.\n\nPeço que quem jogou hoje ao vivo, deixe a oportunidade do jogo deste link para os demais (gratidão).\n\nÉ um jogo de revisão do conteúdo.\n\nhttps://kahoot.it/challenge/08709844?challenge-id=45647429-db47-481d-a22f-fc6ebe3010ab_1788395607225\n\nEste é o Pin do jogo (caso peça)\n\nPIN: 08709844",
+          "links": [
+            "https://kahoot.it/challenge/08709844?challenge-id=45647429-db47-481d-a22f-fc6ebe3010ab_1788395607225",
+            "https://ava.univesp.br/mod/forum/post.php?reply=828416#mformforum"
+          ],
+          "forum": "S7 - Fórum temático",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=193382",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
+          "id": "828269",
+          "autor": "Joyce Mirella Dos Anjos Viana",
+          "data": "2026-09-02T21:23:31-03:00",
+          "titulo": "Re: S7 - Fórum de dúvidas gerais",
+          "texto": "Olá turma, para quem quer imprimir páginas da \"Minha Biblioteca\" (biblioteca digital) disponível aos alunos da UNIVESP.\n\nSegue um pdf explicando como fazer.\n\nQualquer dúvidas, estamos a disposição.",
+          "links": [
+            "https://ava.univesp.br/pluginfile.php/395193/mod_forum/attachment/828269/COMO%20IMPRIMIR%20ALGUMAS%20P%C3%81GINAS%20DE%20UM%20LIVRO%20DA%20BIBLIOTECA%20ONLINE-compactado.pdf?forcedownload=1",
+            "https://ava.univesp.br/mod/forum/post.php?reply=828269#mformforum"
+          ],
+          "forum": "S7 - Fórum de dúvidas gerais",
+          "url": "https://ava.univesp.br/mod/forum/view.php?id=207961",
+          "prazos": [],
+          "autoridade": "institucional",
+          "novo": true
+        },
+        {
           "id": "804113",
           "autor": "Joyce Mirella Dos Anjos Viana",
           "data": "2026-08-31T11:11:50-03:00",
@@ -723,81 +835,6 @@
           "prazos": [],
           "autoridade": "institucional",
           "novo": true
-        },
-        {
-          "id": "763230",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-26T10:38:08-03:00",
-          "titulo": "Confirmação da nossa Live de hoje - Quarta-feira às 20h!",
-          "texto": "Olá, pessoal! Tudo bem?\n\nPassando para confirmar que a nossa Live da Semana 6 será HOJE (quarta-feira), às 20h!\n\nNo encontro de hoje, vamos revisar o conteúdo da semana 6 (Aprendizagem criativa parte 2 ), hoje o foco é a criação de projetos autorais no Scratch com o tema \"superpoderes\".\n\nObjetivos de aprendizagem\n\n1 - Compreender como desenvolver projetos autorais no Scratch.\n2 - Compreender como ",
-          "links": [
-            "https://lti.elos.vc/rooms/944dd3e0f085d4ea99d56a515eae6e0a96196fb3/scheduled_meetings/yJwDkYPBxlwK/external"
-          ],
-          "forum": "Avisos",
-          "url": "https://ava.univesp.br/mod/forum/discuss.php?d=163028",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "752993",
-          "autor": "Elva Karina Mayhua Quispe",
-          "data": "2026-08-25T10:11:40-03:00",
-          "titulo": "Re: S6 - Fórum temático",
-          "texto": "Olá, pessoal! Bem-vindos à Semana 6! \n\nDepois do \"mico\" da nossa live onde o Scratch resolveu travar total 🙈, voltei para provar que a ferramenta funciona (prometo!) e dar aquele empurrãozinho na atividade desta semana!\n\nO desafio da vez é criar um projeto com o tema \"Superpoderes\" \n\nComo exemplo, fiz um projeto SUPER simples (não criem altas expectativas, hein? 😂): Meu Projeto: https://scratch.mi",
-          "links": [
-            "https://www.google.com/search?q=https://scratch.mit.edu/projects/1375030896/",
-            "https://ava.univesp.br/mod/forum/post.php?reply=752993#mformforum"
-          ],
-          "forum": "S6 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "751594",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-24T23:41:15-03:00",
-          "titulo": "Re: S6 - Fórum temático",
-          "texto": "Compartilhando aqui o meu projeto\n\nhttps://scratch.mit.edu/projects/1374916777\n\nadicionei uma extensão de fala.\n\n1 - O superpoder é a velocidade.\n2 - a personagem é a JOy\n3 - a Joy era muito pobre e sempre teve o sonho de viajar e conhecer vários países e bibliotecas pelo mundo todo. Mas as condições financeiras não permitiam. Então um dia ela acordou e ao comprar pão, percebeu que tinha super vel",
-          "links": [
-            "https://scratch.mit.edu/projects/1374916777",
-            "https://ava.univesp.br/mod/forum/post.php?reply=751594#mformforum"
-          ],
-          "forum": "S6 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "751581",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-24T23:38:24-03:00",
-          "titulo": "Re: S6 - Fórum temático",
-          "texto": "que legal, amei.",
-          "links": [
-            "https://ava.univesp.br/mod/forum/post.php?reply=751581#mformforum"
-          ],
-          "forum": "S6 - Fórum temático",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
-        },
-        {
-          "id": "750280",
-          "autor": "Joyce Mirella Dos Anjos Viana",
-          "data": "2026-08-24T21:33:39-03:00",
-          "titulo": "Re: PROBLEMAS COM O SCRATCH",
-          "texto": "Milton, você precisa:\n1- entrar no seu e-mail, verificar o e-mail que o scratch enviou, confirmar o e-mail.\n2 - ir nos seus projetos do scratch (nessa tela de visualização) clicar em PARTILHAR, confirmar e pronto, seu projeto vai estar com o link disponível para compartilhar com outros.",
-          "links": [],
-          "forum": "S5 - Fórum de dúvidas gerais",
-          "url": "https://ava.univesp.br/mod/forum/view.php?id=207959",
-          "prazos": [],
-          "autoridade": "institucional",
-          "novo": false
         }
       ],
       "espacos_de_grupo": [],
@@ -829,7 +866,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160777",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -845,8 +882,8 @@
               "sem_rastreio": true,
               "nao_lidas": null,
               "conta_nota": false,
-              "prazo": "2026-09-02T20:00:00-03:00",
-              "prazo_fonte": "calendário do AVA",
+              "prazo": null,
+              "prazo_fonte": null,
               "carencia": null
             },
             {
@@ -869,7 +906,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=160780",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -1501,7 +1538,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=193376",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "7",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1515,7 +1552,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207960",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": "5",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -1724,7 +1761,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -2098,7 +2135,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168788",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2538,7 +2575,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168817",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2699,7 +2736,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=221627",
               "status": "Concluído",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -2871,7 +2908,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=222535",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": null,
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -3032,7 +3069,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3046,7 +3083,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "1",
+              "nao_lidas": "6",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-11T14:42:00-03:00",
@@ -3193,7 +3230,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "11",
+              "nao_lidas": "15",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3220,7 +3257,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=182610",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "7",
               "conta_nota": false,
               "postei": false,
               "prazo": "2026-08-11T14:47:00-03:00",
@@ -3298,7 +3335,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "5",
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3312,7 +3349,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=240572",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "2",
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -3938,7 +3975,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165165",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "2",
               "conta_nota": false,
               "postei": true,
               "prazo": null,
@@ -4750,7 +4787,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "7",
+              "nao_lidas": "8",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -4883,7 +4920,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
               "status": "Marcar como feito",
               "sem_rastreio": false,
-              "nao_lidas": "14",
+              "nao_lidas": "9",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -7906,7 +7943,7 @@
               "url": "https://ava.univesp.br/mod/forum/view.php?id=239001",
               "status": null,
               "sem_rastreio": true,
-              "nao_lidas": null,
+              "nao_lidas": "1",
               "conta_nota": false,
               "postei": false,
               "prazo": null,
@@ -8694,18 +8731,6 @@
       "via": "api"
     },
     {
-      "nome": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
-      "quando": "2026-09-02T20:00:00-03:00",
-      "curso_id": "18870",
-      "curso": null,
-      "atividade": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
-      "acao": null,
-      "cmid": "160778",
-      "tipo": "course",
-      "via": "dom"
-    },
-    {
       "nome": "Live 5",
       "quando": "2026-09-04T19:00:00-03:00",
       "curso_id": "18893",
@@ -8933,25 +8958,6 @@
   "mensagens": [],
   "outlook": {},
   "acoes": [
-    {
-      "curso": "COM100",
-      "secao": "Calendário do AVA",
-      "fase": "regular",
-      "verbo": "Assista",
-      "coisa": "ao vivo",
-      "o_que": "Plantão de Dúvidas - Facil. Joyce Viana e Elva Karina",
-      "tipo": "compromisso",
-      "url": "https://ava.univesp.br/mod/lti/view.php?id=160778",
-      "conta_nota": true,
-      "prazo": "2026-09-02T20:00:00-03:00",
-      "prazo_txt": "acontece hoje às 20:00",
-      "prazo_fonte": "calendário do AVA",
-      "fonte_url": null,
-      "autoridade": "institucional",
-      "carencia": null,
-      "hora_certa": true,
-      "urgencia": "hoje"
-    },
     {
       "curso": "COM100",
       "secao": "Semana 6",
@@ -10800,6 +10806,17 @@
     }
   ],
   "confirmar": [
+    {
+      "curso": "COM100",
+      "quando": "2026-09-02T23:59:00-03:00",
+      "quando_txt": "vence hoje (horário não informado)",
+      "tipo_lido": "fim",
+      "rotulo": "Serão transmitidas informações sobre como acessar o calendário individual de provas, so...",
+      "frase": "Serão transmitidas informações sobre como acessar o calendário individual de provas, sobre como acessar e como utilizar todas as funcionalidades do ambiente de provas Trata-se, também, de um espaço e momento para que ...",
+      "autor": "Joyce Mirella Dos Anjos Viana",
+      "autoridade": "institucional",
+      "url": "https://ava.univesp.br/mod/forum/view.php?id=207961"
+    },
     {
       "curso": "COM100",
       "quando": "2026-09-02T23:59:00-03:00",
