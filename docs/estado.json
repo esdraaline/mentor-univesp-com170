@@ -2322,18 +2322,6 @@
         "via": "api"
       },
       {
-        "nome": "Live 5",
-        "quando": "2026-09-04T19:00:00-03:00",
-        "curso_id": "18893",
-        "curso": null,
-        "atividade": "Live 5",
-        "url": "https://ava.univesp.br/mod/lti/view.php?id=165163",
-        "acao": null,
-        "cmid": "165163",
-        "tipo": "course",
-        "via": "dom"
-      },
-      {
         "nome": "Término de S6 - Atividade Avaliativa",
         "quando": "2026-09-06T23:59:00-03:00",
         "curso_id": "18893",
@@ -2438,6 +2426,18 @@
         "url": "https://ava.univesp.br/mod/quiz/view.php?id=168854",
         "acao": null,
         "cmid": "168854",
+        "tipo": "close",
+        "via": "dom"
+      },
+      {
+        "nome": "Término de S7 - Atividade Avaliativa",
+        "quando": "2026-09-11T23:59:00-03:00",
+        "curso_id": "18870",
+        "curso": null,
+        "atividade": "Término de S7 - Atividade Avaliativa",
+        "url": "https://ava.univesp.br/mod/quiz/view.php?id=193381",
+        "acao": null,
+        "cmid": "193381",
         "tipo": "close",
         "via": "dom"
       },
@@ -3493,7 +3493,7 @@
           "situacao": "Cursando"
         }
       ],
-      "checked_at": "2026-09-04T22:11:53.968610+00:00"
+      "checked_at": "2026-09-05T00:40:44.324813+00:00"
     }
   },
   "_autores_institucionais": {
@@ -8425,7 +8425,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193370": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T11:46:46-03:00",
+    "ultimo": "2026-09-04T20:24:02-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -9077,7 +9077,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165209": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T14:24:01-03:00",
+    "ultimo": "2026-09-04T20:28:56-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 1,
     "posts_institucionais_guardados": 1,
@@ -9095,6 +9095,21 @@
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
         "prazos": [],
         "autoridade": "institucional",
+        "novo": true
+      },
+      {
+        "id": "839755",
+        "autor": "ALESSANDRO DE PAULA BATISTA",
+        "data": "2026-09-04T20:28:56-03:00",
+        "titulo": "Re: S5 - Fórum temático",
+        "texto": "É impressionante como o filme do Chaplin continua atual. Ver o bonequinho preso na engrenagem gigante parece muito com a nossa rotina corrida de hoje em dia, sempre grudados em telas e prazos. Mesmo sendo mudo e antigo, ele consegue fazer a gente rir e pensar ao mesmo tempo sobre o quanto a tecnologia às vezes nos controla, em vez de ajudar.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839755#mformforum"
+        ],
+        "forum": "S5 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
+        "prazos": [],
+        "autoridade": "colega",
         "novo": true
       },
       {
@@ -9210,21 +9225,6 @@
         "texto": "Eu imaginaria como público leitor pessoas da minha idade, principalmente estudantes e jovens que gostam de textos que tragam assuntos do dia a dia de uma forma mais leve e interessante. Para chamar a atenção desse público, começaria o texto de uma maneira diferente do esperado, talvez com uma pergunta ou uma situação comum, para despertar a curiosidade. Acho importante pensar no leitor antes de es",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=801461#mformforum"
-        ],
-        "forum": "S5 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
-      },
-      {
-        "id": "801100",
-        "autor": "CRISTIAN ANDRADE TAVARES",
-        "data": "2026-08-30T22:53:01-03:00",
-        "titulo": "Re: S5 - Fórum temático",
-        "texto": "O filme Tempos Modernos é um clássico e permanece atual até hoje. Acho que qualquer público poderia se interessar por esse texto, dependendo do assunto que quiser falar sobre o filme: se quiser falar sobre o impacto do filme na época pode ser um determinado público, se quiser falar sobre as técnicas utilizadas na gravação seria outro e por aí vai. Eu acho que um texto mostrando o quão atual um fil",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=801100#mformforum"
         ],
         "forum": "S5 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165209",
@@ -9658,7 +9658,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193376": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T17:41:11-03:00",
+    "ultimo": "2026-09-04T19:42:36-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 3,
     "posts_institucionais_guardados": 3,
@@ -9989,11 +9989,56 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168846": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T18:31:33-03:00",
+    "ultimo": "2026-09-04T21:31:27-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "840111",
+        "autor": "CARLOS VINICIUS NEGRINI PERDIGAO",
+        "data": "2026-09-04T21:31:27-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Sim, o Brasil enfrenta conflitos étnicos marcados pelo racismo estrutural, que se manifesta na desigualdade socioeconômica e na violência desproporcional contra a população negra. Diferente de confrontos abertos promovidos por grupos extremistas explicitados, o conflito brasileiro opera de forma velada e institucionalizada, negando oportunidades e direitos fundamentais de forma contínua.\nParalelam",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=840111#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "839964",
+        "autor": "RICARDO DE SOUZA LUCENA",
+        "data": "2026-09-04T21:01:14-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Da forma como apresentada no exemplo, ainda não. Ainda... E temos nos esforçado muito pra que esse tipo de conflito, emerja em nosso país.\n\nNão faltam interessados, que em troca de influência em grupos extremistas, propalam todo tipo de preconceitos e atitudes condenáveis. O espalhamento e alcance dessas pessoas, é imensurável e conseguem capturar corações e mentes desprovidas de senso ético e mor",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839964#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "839479",
+        "autor": "ALVARO HENRIQUE THOMAZ FRANCISCO",
+        "data": "2026-09-04T19:45:55-03:00",
+        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "texto": "Tema polêmico... Precisamos lembrar que por exemplo, racismo ocorre por diversos motivos e não somente e unicamente à população negra. Nós latinos somos frequentemente discriminados nos EUA por exemplo. Na Grécia antiga haviam escravos brancos (os prisioneiros de guerra e tals)...\n\nEu já fui discriminado por ser pobre em determinada época da minha vida...\n\nO problema que eu tenho com tal narrativa",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839479#mformforum"
+        ],
+        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "838970",
         "autor": "MARCOS DA SILVA ROLIM",
@@ -10098,61 +10143,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "835440",
-        "autor": "ANDERSON MATOS DE SOUSA",
-        "data": "2026-09-04T00:53:25-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Podemos dizer que sim, existem. Embora o país não enfrente guerras civis étno-religiosas como ocorre em outras partes do mundo, ainda assim ocorrem disputas contínuas e violentas envolvendo a posse de terras, a preservação cultural e a garantia dos direitos das minorias étnicas.\nPodemos citar como exemplos as disputas e invasões em terras indígenas, a intolerância religiosa e o racismo estrutural ",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=835440#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "835283",
-        "autor": "MARCOS ROBERTO DE SOUZA ALEXANDRE",
-        "data": "2026-09-03T23:31:11-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "A resposta curta e direta para a pergunta do fórum é sim, com certeza. A grande diferença é a forma como esses conflitos acontecem.\n\nEnquanto nos Estados Unidos episódios como o de Charlottesville mostram manifestações explícitas e marchas organizadas, no Brasil o conflito é mais dissimulado e cotidiano. Historicamente, nós nos apegamos ao mito da \"democracia racial\" — a crença confortável de que,",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=835283#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "834923",
-        "autor": "MARIA REGINA NICOLAU DE ALMEIDA E SILVA",
-        "data": "2026-09-03T22:23:02-03:00",
-        "titulo": "Re: S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "texto": "Não existe qualquer comprovação científica de superioridade entre seres humanos, uma vez que a ciência já provou que o conceito de raça não possui base biológica — do ponto de vista genético, todos pertencemos à mesma espécie (Homo sapiens). Enquanto a raça é uma construção social e histórica usada para classificar pessoas por traços físicos visíveis, a etnia refere-se ao pertencimento socioafetiv",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=834923#mformforum"
-        ],
-        "forum": "S6 - Fórum temático: Diferenças Étnicas e Direitos Humanos: Existe Racismo no Brasil?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168846",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=182609": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T18:31:30-03:00",
+    "ultimo": "2026-09-04T19:47:37-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "839486",
+        "autor": "FABIO NAKASHIMA",
+        "data": "2026-09-04T19:47:14-03:00",
+        "titulo": "Re: S6 - Fórum de dúvidas gerais",
+        "texto": "Eu também não entendo como querem que aprendamos sem nos dar um retorno quanto as explicações das respostas corretas ou incorretas das avaliações. É muito provável que erraremos também nas avaliações presenciais.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839486#mformforum"
+        ],
+        "forum": "S6 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "832410",
         "autor": "SABRINA SOARES DE BRITO",
@@ -10287,31 +10302,31 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": false
-      },
-      {
-        "id": "783704",
-        "autor": "MARINA CAMARGO",
-        "data": "2026-08-28T16:04:27-03:00",
-        "titulo": "Re: S6 - Fórum de dúvidas gerais",
-        "texto": "Durante os estudos desta semana, fiquei com uma dúvida em relação à diversidade e à inclusão. Sabemos que os direitos humanos defendem a igualdade e a dignidade de todas as pessoas, mas, na prática, ainda existem muitas situações de preconceito e desigualdade.\n\nNesse sentido, gostaria de saber: até que ponto as políticas de inclusão conseguem realmente diminuir essas desigualdades e quais seriam a",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=783704#mformforum"
-        ],
-        "forum": "S6 - Fórum de dúvidas gerais",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=182609",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": false
       }
     ]
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165218": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T19:11:52-03:00",
+    "ultimo": "2026-09-04T21:42:02-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "840122",
+        "autor": "ALVARO HENRIQUE THOMAZ FRANCISCO",
+        "data": "2026-09-04T21:34:04-03:00",
+        "titulo": "Re: S6 - Fórum temático",
+        "texto": "Olá, professor(a) e colegas,\n\nA reflexão proposta a partir do texto do professor Valdir Barzotto nos coloca diante de um desafio muito concreto: combater o preconceito linguístico sem perder de vista as exigências reais da sociedade em que vivemos.\n\nPara mim, a chave para incorporar as variedades linguísticas no dia a dia não é o julgamento moral, mas o conceito de adequação linguística. A língua ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=840122#mformforum"
+        ],
+        "forum": "S6 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "838931",
         "autor": "MARCOS DA SILVA ROLIM",
@@ -10446,21 +10461,6 @@
         "prazos": [],
         "autoridade": "colega",
         "novo": true
-      },
-      {
-        "id": "830639",
-        "autor": "GISELE LUIZA DA SILVA MELO",
-        "data": "2026-09-03T11:03:26-03:00",
-        "titulo": "Re: S6 - Fórum temático",
-        "texto": "No meu cotidiano, percebo que uma das melhores formas de valorizar a diversidade da nossa língua é praticar a escuta atenta, sem colocar rótulos de \"certo\" ou \"errado\" nas formas regionais e populares de se expressar.\n\nNo ambiente profissional, entendo que a eficácia da comunicação está na clareza e na adequação à situação, e não em vigiar a gramática alheia. Posso acolher a bagagem linguística de",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=830639#mformforum"
-        ],
-        "forum": "S6 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165218",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
       }
     ]
   },
@@ -10552,7 +10552,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=193382": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T19:11:35-03:00",
+    "ultimo": "2026-09-04T21:40:39-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -10719,7 +10719,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207961": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T16:40:23-03:00",
+    "ultimo": "2026-09-04T19:37:32-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 2,
     "posts_institucionais_guardados": 2,
@@ -10832,11 +10832,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=207962": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T16:02:58-03:00",
+    "ultimo": "2026-09-04T20:45:59-03:00",
     "truncado": false,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "839875",
+        "autor": "MARCOS ROBERTO DE BARROS DOS REIS",
+        "data": "2026-09-04T20:45:59-03:00",
+        "titulo": "Re: S8 - Fórum de dúvidas gerais",
+        "texto": "Bons Estudos a todos, ótima matéria",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839875#mformforum"
+        ],
+        "forum": "S8 - Fórum de dúvidas gerais",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=207962",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "831310",
         "autor": "JOSE RENATO SALIA",
@@ -10886,7 +10901,7 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=168855": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T18:31:35-03:00",
+    "ultimo": "2026-09-04T21:44:07-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
@@ -10915,6 +10930,36 @@
             "frase": "A sustentabilidade já entendido como essencial na opinião pública: a preocupação com as mudanças climáticas e desigualdade é bastante notória - vemos isso até em debates políticos, sabatinas, publicidade de empresas, ..."
           }
         ],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "840179",
+        "autor": "GABRIEL FORTUNATO COUTINHO GUIMARAES",
+        "data": "2026-09-04T21:44:07-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "Talvez eu pense diferente de muitos aqui, mas na minha visão, o \"Dia do Sorriso\" ilustra como a \"responsabilidade social corporativa\" transfere a ação social do lugar público, político e critico para transformar causas nobres em estratégias de marketing. A ética, nessa lógica, só é praticada porque gera lucro e valoriza a imagem da marca.\n\nAo condicionar a doação à compra de lanches, o apoio à saú",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=840179#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "839768",
+        "autor": "BRUNA ARAUJO DA SILVA FRANCO",
+        "data": "2026-09-04T20:31:20-03:00",
+        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "texto": "Eu acredito que as ações de responsabilidade social funcionam na prática, principalmente quando a empresa realmente contribui para uma causa importante. Ao mesmo tempo em que ajuda a sociedade, a empresa também pode melhorar sua imagem e conquistar a confiança dos consumidores. Porém, é importante que essas ações sejam feitas de forma verdadeira e transparente, e não apenas como uma estratégia de ",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839768#mformforum"
+        ],
+        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
+        "prazos": [],
         "autoridade": "colega",
         "novo": true
       },
@@ -11016,36 +11061,6 @@
         "texto": "As ações de responsabilidade social podem funcionar na prática, desde que sejam realizadas de forma genuína e não apenas como estratégia de marketing. Quando uma empresa apoia causas sociais, ambientais ou de saúde, ela pode contribuir para a melhoria da sociedade e, ao mesmo tempo, fortalecer sua imagem perante consumidores e investidores.\nAlém disso, as empresas não adotam ações sociais somente ",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=837024#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "836960",
-        "autor": "LUIS ISMAEL ASMAT LOPEZ",
-        "data": "2026-09-04T12:49:42-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "Eu penso que as ações de responsabilidade social das empresas podem funcionar na prática quando são realizadas com compromisso genuíno com a sociedade e não apenas como estratégia de marketing. Ou seja, todos tem que sair ganhando para a ação ser efetiva. Embora há questionamentos sobre as intenções das empresas, o qual é valido porque estamos falando de uma entidade feita para lucear, é important",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=836960#mformforum"
-        ],
-        "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "836686",
-        "autor": "RONNILTON ARAUJO SILVA",
-        "data": "2026-09-04T11:44:38-03:00",
-        "titulo": "Re: S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
-        "texto": "As ações de responsabilidade social corporativa funcionam na prática, mas seus resultados dependem diretamente da transparência e do compromisso real da empresa com a causa.\nEmbora muitas campanhas sejam impulsionadas por estratégias de marketing ou fortalecimento da imagem da marca, o impacto positivo na sociedade é concreto. No caso de campanhas voltadas à saúde infantil, os recursos arrecadados",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=836686#mformforum"
         ],
         "forum": "S7 - Fórum temático: A Ética nas Ações Sociais: Benefício Real ou Publicidade para Empresas?",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=168855",
@@ -11218,11 +11233,26 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=240571": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T18:34:59-03:00",
+    "ultimo": "2026-09-04T21:08:13-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "840006",
+        "autor": "ELIO COSTA RAMALHO",
+        "data": "2026-09-04T21:08:13-03:00",
+        "titulo": "Re: S8 - Fórum temático",
+        "texto": "Depende de como o utilizo. Se eu simplesmente copiar e colar o texto gerado como se fosse meu, sim, configura plágio. Se for usado apenas para buscar ideias e eu escrever com minhas próprias palavras, não. Não é ético o uso 100% da IA, pois o objetivo de uma avaliação é medir o meu aprendizado e esforço individual, e usar a IA desvirtua esse propósito, porém agrega informação.\nOs livros e textos i",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=840006#mformforum"
+        ],
+        "forum": "S8 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "838992",
         "autor": "FABRICIO MARCATTI ERCOLES",
@@ -11351,21 +11381,6 @@
         "texto": "O uso do ChatGPT não configura plágio por si só, mas sim a entrega de textos gerados como se fossem de autoria intelectual própria. Responder a avaliações utilizando a ferramenta sem autorização é antiético, pois mascara o aprendizado real, e ela jamais deve substituir as leituras originais da disciplina, essenciais para o senso crítico.\nPara evitar o plágio acadêmico, é fundamental seguir o rigor",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=836131#mformforum"
-        ],
-        "forum": "S8 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "835896",
-        "autor": "ALEXANDRE DOMINGUES CHAGAS DE LIMA",
-        "data": "2026-09-04T09:18:56-03:00",
-        "titulo": "Re: S8 - Fórum temático",
-        "texto": "É errado fazer uma prova usando ChatGPT, mas revisar a resposta, não vejo problemas.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=835896#mformforum"
         ],
         "forum": "S8 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=240571",
@@ -11536,11 +11551,41 @@
   },
   "https://ava.univesp.br/mod/forum/view.php?id=165226": {
     "schema_version": 6,
-    "ultimo": "2026-09-04T19:10:01-03:00",
+    "ultimo": "2026-09-04T21:38:06-03:00",
     "truncado": true,
     "posts_institucionais_vistos": 0,
     "posts_institucionais_guardados": 0,
     "posts": [
+      {
+        "id": "839969",
+        "autor": "PAULO CESAR DOS SANTOS JUNIOR",
+        "data": "2026-09-04T21:01:34-03:00",
+        "titulo": "Re: S7 - Fórum temático",
+        "texto": "No meu processo o maior desafio que tenho é sempre no inicio. Eu sinto bastante dificuldade para começar o texto e costumo demorar para achar a melhor forma de fazer a introdução. Mas, depois que encontro as palavras certas para iniciar, o restante flui muito bem.\n\nEu sigo uma ordem direta: escrevo a introdução, apresento a minha ideia principal (a tese) e faço um fechamento. Dependendo do tema, e",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839969#mformforum"
+        ],
+        "forum": "S7 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
+      {
+        "id": "839300",
+        "autor": "ADOLFO ESPOSITO JUNIOR",
+        "data": "2026-09-04T19:24:01-03:00",
+        "titulo": "Re: S7 - Fórum temático",
+        "texto": "Prezados.\nPara revisar meus próprios testos, sigo os seguintes paços:\n- releitura em voz altas algumas vezes, procurando partes incoerentes e corrigindo;\n-reescrita e nova leitura em voz alta, repetindo esses dois paços até atingir uma boa clareza;\n-Busca de erros ortográficos e gramaticais;\n-nova releitura e revisão final.",
+        "links": [
+          "https://ava.univesp.br/mod/forum/post.php?reply=839300#mformforum"
+        ],
+        "forum": "S7 - Fórum temático",
+        "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
+        "prazos": [],
+        "autoridade": "colega",
+        "novo": true
+      },
       {
         "id": "839209",
         "autor": "LUIS MIGUEL MORAIS FERREIRA GONCALVES",
@@ -11654,36 +11699,6 @@
         "texto": "Meu roteiro de revisão começa com uma pausa após a primeira versão, para que eu consiga reler o texto com mais atenção e distanciamento. Em seguida, verifico se respondi ao tema proposto, se o objetivo está claro e se as ideias são compreensíveis para o leitor.\n\nNa segunda etapa, observo a organização do texto: introdução, desenvolvimento e conclusão. Analiso se os parágrafos estão em uma sequênci",
         "links": [
           "https://ava.univesp.br/mod/forum/post.php?reply=837498#mformforum"
-        ],
-        "forum": "S7 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "837385",
-        "autor": "GISELE LUIZA DA SILVA MELO",
-        "data": "2026-09-04T14:14:15-03:00",
-        "titulo": "S7 - Fórum temático",
-        "texto": "A etapa inicial do trabalho consiste na leitura completa para avaliar a fluidez do discurso. Sequencialmente, examina-se a coerência lógica empregada na apresentação do conceito, a organização estrutural do conteúdo e, finalmente, a correção gramatical e ortográfica.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=837385#mformforum"
-        ],
-        "forum": "S7 - Fórum temático",
-        "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
-        "prazos": [],
-        "autoridade": "colega",
-        "novo": true
-      },
-      {
-        "id": "837313",
-        "autor": "GLEYSON MANOEL DA SILVA",
-        "data": "2026-09-04T14:00:28-03:00",
-        "titulo": "Re: S7 - Fórum temático",
-        "texto": "Eu normalmente vou revisando meus textos por parágrafos. A cada parágrafo escrito eu retomo o texto desde o inicio e vou ajustando a coesão, a clareza e a ortografia. Algumas vezes reescrevo o parágrafo que em um primeiro momento parecia ótimo e assim por diante até realizar a entrega propriamente.",
-        "links": [
-          "https://ava.univesp.br/mod/forum/post.php?reply=837313#mformforum"
         ],
         "forum": "S7 - Fórum temático",
         "url": "https://ava.univesp.br/mod/forum/view.php?id=165226",
